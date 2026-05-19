@@ -1,0 +1,615 @@
+{
+  "info": {
+    "_postman_id": "nexorah-ai-backend-collection",
+    "name": "Nexorah AI Backend",
+    "description": "Complete API collection for the Nexorah AI backend. Base URL: http://127.0.0.1:8000/api\n\n**Authentication:** JWT Bearer tokens.\n1. Register or Login to get tokens.\n2. Copy the `access` token into the collection variable `access_token`.\n3. All authenticated requests use `Authorization: Bearer {{access_token}}`.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "base_url", "value": "http://127.0.0.1:8000/api", "type": "string" },
+    { "key": "access_token", "value": "", "type": "string" },
+    { "key": "refresh_token", "value": "", "type": "string" }
+  ],
+  "auth": {
+    "type": "bearer",
+    "bearer": [{ "key": "token", "value": "{{access_token}}", "type": "string" }]
+  },
+  "item": [
+    {
+      "name": "Accounts",
+      "item": [
+        {
+          "name": "Register",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"user@example.com\",\n  \"first_name\": \"John\",\n  \"last_name\": \"Doe\",\n  \"country\": \"USA\",\n  \"password\": \"securepassword123\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/register/", "host": ["{{base_url}}"], "path": ["accounts", "register", ""] }
+          }
+        },
+        {
+          "name": "Verify Email",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"user@example.com\",\n  \"code\": \"123456\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/verify-email/", "host": ["{{base_url}}"], "path": ["accounts", "verify-email", ""] }
+          }
+        },
+        {
+          "name": "Resend Verification",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"user@example.com\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/resend-verification/", "host": ["{{base_url}}"], "path": ["accounts", "resend-verification", ""] }
+          }
+        },
+        {
+          "name": "Login",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "const json = pm.response.json();",
+                  "if (json.access) pm.collectionVariables.set('access_token', json.access);",
+                  "if (json.refresh) pm.collectionVariables.set('refresh_token', json.refresh);"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"user@example.com\",\n  \"password\": \"securepassword123\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/login/", "host": ["{{base_url}}"], "path": ["accounts", "login", ""] }
+          }
+        },
+        {
+          "name": "Logout",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"refresh\": \"{{refresh_token}}\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/logout/", "host": ["{{base_url}}"], "path": ["accounts", "logout", ""] }
+          }
+        },
+        {
+          "name": "Forgot Password",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"user@example.com\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/forgot-password/", "host": ["{{base_url}}"], "path": ["accounts", "forgot-password", ""] }
+          }
+        },
+        {
+          "name": "Reset Password",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"password\": \"newpassword123\",\n  \"token\": \"<reset-token-from-email>\",\n  \"uidb64\": \"<uid-from-email>\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/reset-password/", "host": ["{{base_url}}"], "path": ["accounts", "reset-password", ""] }
+          }
+        },
+        {
+          "name": "Get Profile",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/accounts/profile/", "host": ["{{base_url}}"], "path": ["accounts", "profile", ""] }
+          }
+        },
+        {
+          "name": "Update Profile",
+          "request": {
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"first_name\": \"John\",\n  \"last_name\": \"Doe\",\n  \"phone\": \"+1234567890\",\n  \"country\": \"USA\",\n  \"weekly_study_hours\": \"8-15 hours/week\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/profile/", "host": ["{{base_url}}"], "path": ["accounts", "profile", ""] }
+          }
+        },
+        {
+          "name": "Change Password",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"new_password\": \"newpassword123\",\n  \"confirm_password\": \"newpassword123\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/accounts/change-password/", "host": ["{{base_url}}"], "path": ["accounts", "change-password", ""] }
+          }
+        },
+        {
+          "name": "Onboarding",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"weekly_study_hours\": \"4-7 hours/week\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json",
+                  "_comment": "Choices: '1-3 hours/week', '4-7 hours/week', '8-15 hours/week', '15+ hours/week'"
+                }
+              }
+            },
+            "url": { "raw": "{{base_url}}/accounts/onboarding/", "host": ["{{base_url}}"], "path": ["accounts", "onboarding", ""] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Courses",
+      "item": [
+        {
+          "name": "List All Courses",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/courses/", "host": ["{{base_url}}"], "path": ["courses", ""] }
+          }
+        },
+        {
+          "name": "My Enrolled Courses",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/courses/my-courses/", "host": ["{{base_url}}"], "path": ["courses", "my-courses", ""] }
+          }
+        },
+        {
+          "name": "Get Course Details",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/courses/:slug/",
+              "host": ["{{base_url}}"],
+              "path": ["courses", ":slug", ""],
+              "variable": [{ "key": "slug", "value": "introduction-to-ai", "description": "Course slug from the list endpoint" }]
+            }
+          }
+        },
+        {
+          "name": "Mark Chapter Progress",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"completed\": true\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/courses/chapters/:chapter_id/progress/",
+              "host": ["{{base_url}}"],
+              "path": ["courses", "chapters", ":chapter_id", "progress", ""],
+              "variable": [{ "key": "chapter_id", "value": "1", "description": "Chapter ID" }]
+            }
+          }
+        },
+        {
+          "name": "Get Course Chat History",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/courses/:course_id/chat/",
+              "host": ["{{base_url}}"],
+              "path": ["courses", ":course_id", "chat", ""],
+              "variable": [{ "key": "course_id", "value": "1", "description": "Course ID" }]
+            }
+          }
+        },
+        {
+          "name": "Send Message to AI Tutor",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"message\": \"Can you explain the key concepts in this chapter?\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/courses/:course_id/chat/",
+              "host": ["{{base_url}}"],
+              "path": ["courses", ":course_id", "chat", ""],
+              "variable": [{ "key": "course_id", "value": "1", "description": "Course ID" }]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Quiz",
+      "item": [
+        {
+          "name": "List Quiz Topics",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/quiz/topics/", "host": ["{{base_url}}"], "path": ["quiz", "topics", ""] }
+          }
+        },
+        {
+          "name": "Start Quiz Session",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "const json = pm.response.json();",
+                  "if (json.id) pm.collectionVariables.set('quiz_session_id', json.id);"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_type\": \"quiz\",\n  \"num_questions\": 10,\n  \"topic_id\": 1\n}",
+              "options": {
+                "raw": {
+                  "language": "json",
+                  "_comment": "session_type: 'quiz' or 'mock'. topic_id is optional for mock exams. num_questions: 1-50."
+                }
+              }
+            },
+            "url": { "raw": "{{base_url}}/quiz/start/", "host": ["{{base_url}}"], "path": ["quiz", "start", ""] }
+          }
+        },
+        {
+          "name": "Start Mock Exam Session",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_type\": \"mock\",\n  \"num_questions\": 50\n}"
+            },
+            "url": { "raw": "{{base_url}}/quiz/start/", "host": ["{{base_url}}"], "path": ["quiz", "start", ""] }
+          }
+        },
+        {
+          "name": "Get Quiz History",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/quiz/history/", "host": ["{{base_url}}"], "path": ["quiz", "history", ""] }
+          }
+        },
+        {
+          "name": "Get Session Result",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/quiz/:session_id/result/",
+              "host": ["{{base_url}}"],
+              "path": ["quiz", ":session_id", "result", ""],
+              "variable": [{ "key": "session_id", "value": "{{quiz_session_id}}", "description": "Quiz session ID" }]
+            }
+          }
+        },
+        {
+          "name": "Get Question",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/quiz/:session_id/question/:question_number/",
+              "host": ["{{base_url}}"],
+              "path": ["quiz", ":session_id", "question", ":question_number", ""],
+              "variable": [
+                { "key": "session_id", "value": "{{quiz_session_id}}", "description": "Quiz session ID" },
+                { "key": "question_number", "value": "1", "description": "Question number (1-indexed)" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Submit Answer",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"selected_option\": \"a\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json",
+                  "_comment": "selected_option choices: 'a', 'b', 'c', 'd'"
+                }
+              }
+            },
+            "url": {
+              "raw": "{{base_url}}/quiz/:session_id/question/:question_number/answer/",
+              "host": ["{{base_url}}"],
+              "path": ["quiz", ":session_id", "question", ":question_number", "answer", ""],
+              "variable": [
+                { "key": "session_id", "value": "{{quiz_session_id}}", "description": "Quiz session ID" },
+                { "key": "question_number", "value": "1", "description": "Question number (1-indexed)" }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Study Planner",
+      "item": [
+        {
+          "name": "Get Study Plan",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/study-planner/plan/", "host": ["{{base_url}}"], "path": ["study-planner", "plan", ""] }
+          }
+        },
+        {
+          "name": "Create Study Plan",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"start_date\": \"2026-05-13\",\n  \"end_date\": \"2026-12-31\",\n  \"daily_goal_minutes\": 60,\n  \"weekly_goal_hours\": 7\n}"
+            },
+            "url": { "raw": "{{base_url}}/study-planner/plan/", "host": ["{{base_url}}"], "path": ["study-planner", "plan", ""] }
+          }
+        },
+        {
+          "name": "Update Study Plan",
+          "request": {
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"daily_goal_minutes\": 90,\n  \"weekly_goal_hours\": 10\n}"
+            },
+            "url": { "raw": "{{base_url}}/study-planner/plan/", "host": ["{{base_url}}"], "path": ["study-planner", "plan", ""] }
+          }
+        },
+        {
+          "name": "List Study Sessions",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/study-planner/sessions/", "host": ["{{base_url}}"], "path": ["study-planner", "sessions", ""] }
+          }
+        },
+        {
+          "name": "Create Study Session",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"date\": \"2026-05-13\",\n  \"duration_minutes\": 90,\n  \"notes\": \"Reviewed chapters 1 to 3\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/study-planner/sessions/", "host": ["{{base_url}}"], "path": ["study-planner", "sessions", ""] }
+          }
+        },
+        {
+          "name": "Get Planner Stats",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/study-planner/stats/", "host": ["{{base_url}}"], "path": ["study-planner", "stats", ""] }
+          }
+        },
+        {
+          "name": "List Calendar Events",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/study-planner/calendar/", "host": ["{{base_url}}"], "path": ["study-planner", "calendar", ""] }
+          }
+        },
+        {
+          "name": "Create Calendar Event",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"title\": \"Math Review Session\",\n  \"date\": \"2026-05-20\",\n  \"color\": \"blue\",\n  \"reminder_minutes_before\": 15,\n  \"recurrence\": \"weekly\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json",
+                  "_comment": "color choices: 'green', 'red', 'blue', 'orange'. recurrence is optional."
+                }
+              }
+            },
+            "url": { "raw": "{{base_url}}/study-planner/calendar/", "host": ["{{base_url}}"], "path": ["study-planner", "calendar", ""] }
+          }
+        },
+        {
+          "name": "Update Calendar Event",
+          "request": {
+            "method": "PATCH",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"title\": \"Updated Event Title\",\n  \"color\": \"green\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/study-planner/calendar/:event_id/",
+              "host": ["{{base_url}}"],
+              "path": ["study-planner", "calendar", ":event_id", ""],
+              "variable": [{ "key": "event_id", "value": "1", "description": "Calendar event ID" }]
+            }
+          }
+        },
+        {
+          "name": "Delete Calendar Event",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "{{base_url}}/study-planner/calendar/:event_id/",
+              "host": ["{{base_url}}"],
+              "path": ["study-planner", "calendar", ":event_id", ""],
+              "variable": [{ "key": "event_id", "value": "1", "description": "Calendar event ID" }]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Study Vault",
+      "item": [
+        {
+          "name": "List Flashcards",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/study-vault/flashcards/",
+              "host": ["{{base_url}}"],
+              "path": ["study-vault", "flashcards", ""],
+              "query": [{ "key": "topic", "value": "mathematics", "disabled": true, "description": "Optional topic filter" }]
+            }
+          }
+        },
+        {
+          "name": "List Flashcards (Filtered by Topic)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/study-vault/flashcards/?topic=mathematics",
+              "host": ["{{base_url}}"],
+              "path": ["study-vault", "flashcards", ""],
+              "query": [{ "key": "topic", "value": "mathematics" }]
+            }
+          }
+        },
+        {
+          "name": "List Keywords",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/study-vault/keywords/",
+              "host": ["{{base_url}}"],
+              "path": ["study-vault", "keywords", ""],
+              "query": [{ "key": "topic", "value": "mathematics", "disabled": true }]
+            }
+          }
+        },
+        {
+          "name": "List Case Studies",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/study-vault/case-studies/",
+              "host": ["{{base_url}}"],
+              "path": ["study-vault", "case-studies", ""],
+              "query": [{ "key": "topic", "value": "mathematics", "disabled": true }]
+            }
+          }
+        },
+        {
+          "name": "Get Case Study Detail",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/study-vault/case-studies/:pk/",
+              "host": ["{{base_url}}"],
+              "path": ["study-vault", "case-studies", ":pk", ""],
+              "variable": [{ "key": "pk", "value": "1", "description": "Case study ID" }]
+            }
+          }
+        },
+        {
+          "name": "List Articles",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/study-vault/articles/",
+              "host": ["{{base_url}}"],
+              "path": ["study-vault", "articles", ""],
+              "query": [{ "key": "topic", "value": "mathematics", "disabled": true }]
+            }
+          }
+        },
+        {
+          "name": "Get Article Detail",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/study-vault/articles/:pk/",
+              "host": ["{{base_url}}"],
+              "path": ["study-vault", "articles", ":pk", ""],
+              "variable": [{ "key": "pk", "value": "1", "description": "Article ID" }]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dashboard",
+      "item": [
+        {
+          "name": "Get Dashboard Stats",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/dashboard/stats/", "host": ["{{base_url}}"], "path": ["dashboard", "stats", ""] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Token",
+      "item": [
+        {
+          "name": "Refresh Access Token",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "const json = pm.response.json();",
+                  "if (json.access) pm.collectionVariables.set('access_token', json.access);",
+                  "if (json.refresh) pm.collectionVariables.set('refresh_token', json.refresh);"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"refresh\": \"{{refresh_token}}\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/token/refresh/", "host": ["{{base_url}}"], "path": ["token", "refresh", ""] }
+          }
+        }
+      ]
+    }
+  ]
+}
