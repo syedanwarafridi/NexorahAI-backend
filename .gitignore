@@ -30,3 +30,9 @@ db.sqlite3
 # OS
 .DS_Store
 Thumbs.db
+
+# Course content (videos, docs - store in media/ or cloud storage, not in git)
+CPHQ Course/
+Videos and Mcq/
+media/
+*.docx
