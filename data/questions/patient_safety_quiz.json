@@ -1,0 +1,486 @@
+{
+  "topic": "Patient Safety",
+  "type": "quiz",
+  "questions": [
+    {
+      "text": "A hospital's Decision Support System is generating inconsistent quality reports. Upon investigation, the quality director discovers that the clinical and administrative datasets are not integrated. Which of the following BEST describes the root cause of this problem?",
+      "options": {
+        "a": "The DSS software requires an upgrade",
+        "b": "The clinical staff are not entering data correctly",
+        "c": "The DSS is functioning without integrated clinical and administrative data inputs",
+        "d": "The administrative system is using outdated hardware"
+      },
+      "correct_option": "c",
+      "explanation": "DSS cannot function independently — it depends on integrated clinical and administrative datasets. Without this integration, the outputs are unreliable regardless of software quality or hardware.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality analyst needs to categorise patient diagnosis data for a compliance report. Which data type BEST describes \"diagnosis category\" (e.g., DM, HTN, COPD)?",
+      "options": {
+        "a": "Ordinal",
+        "b": "Continuous",
+        "c": "Nominal",
+        "d": "Discrete"
+      },
+      "correct_option": "c",
+      "explanation": "Diagnosis category is nominal data — categorical with no natural rank order. Conditions like DM, HTN, and COPD cannot be ranked against each other meaningfully.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality manager wants to track patient satisfaction scores using a scale of: Poor → Fair → Good → Excellent. Which data type does this represent?",
+      "options": {
+        "a": "Ratio",
+        "b": "Nominal",
+        "c": "Interval",
+        "d": "Ordinal"
+      },
+      "correct_option": "d",
+      "explanation": "Satisfaction scales have a logical rank order but the gaps between categories are unknown — this defines ordinal data. The mean should not be calculated for ordinal data.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team is collecting data on patient wait times in the emergency department. They want to use parametric statistical tests for analysis. Which data type requirement must be met?",
+      "options": {
+        "a": "The data must be nominal",
+        "b": "The data must be continuous",
+        "c": "The data must be discrete",
+        "d": "The data must be ordinal"
+      },
+      "correct_option": "b",
+      "explanation": "Parametric statistical tests require continuous data. Wait time is a continuous ratio variable — measurable on a scale with a true zero — making it appropriate for t-tests, regression, and control charts.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital administrator states that their infection rate of 0 last month proves the complete absence of infection risk. Which measurement scale concept supports this interpretation?",
+      "options": {
+        "a": "Interval scale — zero is arbitrary and does not mean absence",
+        "b": "Ratio scale — zero means complete absence of the attribute",
+        "c": "Ordinal scale — zero cannot be interpreted meaningfully",
+        "d": "Nominal scale — zero has no mathematical meaning"
+      },
+      "correct_option": "b",
+      "explanation": "Infection rate is ratio data — it has a true zero meaning complete absence. Zero infections genuinely means no infections occurred. A director's challenge would apply if the measure were on an interval scale (e.g., temperature) where zero is arbitrary. SUBTOPIC 2: From Data to Decision",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team is reviewing monthly fall rate data. They notice a single data point dramatically higher than all others. Before taking corrective action, what should the team do FIRST?",
+      "options": {
+        "a": "Immediately implement a fall prevention protocol",
+        "b": "Report the finding to the board of directors",
+        "c": "Determine whether the variation is common cause or special cause",
+        "d": "Recalculate the mean excluding the outlier"
+      },
+      "correct_option": "c",
+      "explanation": "Identifying whether variation is common cause (random, system-wide) or special cause (unusual, specific event) is the critical first step. Reacting to common cause variation as if it were special cause causes tampering and worsens performance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team identifies a persistent pattern of delays in surgical start times across ALL operating rooms equally over 12 months, with no assignable cause. This variation is BEST described as:",
+      "options": {
+        "a": "Special cause variation requiring immediate investigation",
+        "b": "Common cause variation requiring system redesign",
+        "c": "An outlier requiring exclusion from analysis",
+        "d": "A sentinel event requiring root cause analysis"
+      },
+      "correct_option": "b",
+      "explanation": "Consistent, widespread variation across all units with no specific assignable cause is classic common cause variation — it is built into the system. The appropriate response is to redesign the system, not to investigate a specific event.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the primary purpose of data validation before analysis?",
+      "options": {
+        "a": "To ensure data is displayed in an appropriate graph format",
+        "b": "To confirm the statistical method matches the data type",
+        "c": "To verify that data is complete, accurate, reliable, and timely before use",
+        "d": "To identify which stakeholders should receive the final report"
+      },
+      "correct_option": "c",
+      "explanation": "Data validation is the quality gate that ensures data meets four pillars — Completeness, Accuracy, Reliability, and Timeliness — before being used for analysis. Invalid data produces invalid conclusions regardless of the analytical method used.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director is preparing a performance report for hospital leadership. According to best practice for data presentation, which element is MOST essential to include alongside the organisation's metrics?",
+      "options": {
+        "a": "A full list of data sources used",
+        "b": "Benchmarks or baselines for contextual comparison",
+        "c": "The statistical method used to calculate results",
+        "d": "The names of staff responsible for data collection"
+      },
+      "correct_option": "b",
+      "explanation": "Data without context cannot be meaningfully interpreted. Benchmarks and baselines allow leadership to determine whether performance is improving, declining, or comparing favourably to peers — context transforms numbers into actionable insights.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's internal quality department produces a monthly report in 2 days, while the same data from an external benchmarking agency takes 6 weeks. Which data source characteristic explains this difference?",
+      "options": {
+        "a": "Accuracy — internal data is more accurate",
+        "b": "Timeliness — internal data is available faster",
+        "c": "Reliability — external agencies verify data more rigorously",
+        "d": "Completeness — internal data contains fewer missing values"
+      },
+      "correct_option": "b",
+      "explanation": "Internal data is fastest because it is generated within the organisation and accessible on demand. External data requires collection, aggregation, and processing across multiple organisations, causing significant delays. This is a core principle of data source timeliness. SUBTOPIC 3: Sampling Designs",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A state health department wants to estimate diabetes management compliance across all hospitals in the region. Results must be generalisable. Which sampling method is MOST appropriate?",
+      "options": {
+        "a": "Convenience sampling",
+        "b": "Probability sampling",
+        "c": "Purposive sampling",
+        "d": "Quota sampling"
+      },
+      "correct_option": "b",
+      "explanation": "When results must be generalisable to a broader population — especially for regulatory reporting — probability sampling is required. Every element must have a known, non-zero chance of selection to permit valid statistical inference.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality coordinator selects every 10th patient from the admission register to assess discharge planning quality. Which sampling method is being used?",
+      "options": {
+        "a": "Stratified random sampling",
+        "b": "Systematic sampling",
+        "c": "Simple random sampling",
+        "d": "Cluster sampling"
+      },
+      "correct_option": "b",
+      "explanation": "Systematic sampling selects every nth element from a list after a random start point. This is efficient, practical, and widely used in healthcare audits — it provides reasonable representativeness without requiring a full randomised draw.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital wants to ensure both high-volume and low-volume surgical departments are proportionally represented in a quality audit sample. Which sampling method should be used?",
+      "options": {
+        "a": "Simple random sampling",
+        "b": "Cluster sampling",
+        "c": "Convenience sampling",
+        "d": "Stratified random sampling"
+      },
+      "correct_option": "d",
+      "explanation": "Stratified random sampling divides the population into subgroups (strata) and samples proportionally from each. This ensures all subgroups — high-volume and low-volume — are adequately represented, preventing underrepresentation of smaller groups.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team collects data from patients who happen to be available in the waiting room during an audit. A colleague raises concerns. The PRIMARY limitation being identified is:",
+      "options": {
+        "a": "The data collection tool is not validated",
+        "b": "The sample may not represent the full patient population — results cannot be generalised",
+        "c": "The sample size is too small to detect differences",
+        "d": "The data is collected by an internal rather than external reviewer"
+      },
+      "correct_option": "b",
+      "explanation": "Convenience sampling selects whoever is most accessible — not by a probability method. This creates selection bias: the sample may systematically differ from the total population, making generalisation invalid. This is the defining limitation of non-probability sampling.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "As sample size increases, what happens to the distribution of sample means around the true population mean?",
+      "options": {
+        "a": "The distribution widens — results become less precise",
+        "b": "The distribution narrows — estimates become more precise",
+        "c": "The distribution remains unchanged — sample size does not affect precision",
+        "d": "The distribution becomes skewed — the mean shifts away from the true value"
+      },
+      "correct_option": "b",
+      "explanation": "Larger samples reduce sampling error and produce a narrower sampling distribution around the true population mean — increasing precision. This is the basis of the Central Limit Theorem and explains why larger samples are required for regulatory reporting and generalisable conclusions. SUBTOPIC 4: SPO Measurement",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital measures the number of licensed nurses per occupied bed as an indicator of care quality. Which domain of Donabedian's framework does this measure belong to?",
+      "options": {
+        "a": "Structure",
+        "b": "Process",
+        "c": "Outcome",
+        "d": "Input"
+      },
+      "correct_option": "a",
+      "explanation": "Staffing ratios measure the capacity and resources available to deliver care — this is a Structure measure. Structure measures assess what the system has (facilities, equipment, human resources) rather than what it does or what results it achieves.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team tracks the percentage of diabetic patients who received an annual HbA1c test. According to Donabedian's framework, this is BEST classified as a:",
+      "options": {
+        "a": "Structure measure — it reflects available resources",
+        "b": "Process measure — it reflects how evidence-based care is delivered",
+        "c": "Outcome measure — it reflects the effect of care on patients",
+        "d": "Balancing measure — it reflects unintended consequences"
+      },
+      "correct_option": "b",
+      "explanation": "Process measures track whether specific evidence-based care steps are performed. Process measures are the most actionable because they are directly under organisational control.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A report shows the hospital-acquired infection rate increased by 3% following a staffing reorganisation. Which domain of Donabedian's framework does this measure represent?",
+      "options": {
+        "a": "Structure — it reflects staffing capacity",
+        "b": "Process — it reflects whether infection control procedures were followed",
+        "c": "Outcome — it reflects the actual effect of care on patients",
+        "d": "Balancing — it reflects unintended consequences of a change"
+      },
+      "correct_option": "c",
+      "explanation": "Hospital-acquired infection rate measures what actually happened to patients — a direct result of care delivery. Outcome measures reflect the actual impact on patient health status, including complications and adverse events.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director states: \"We cannot improve outcomes without understanding our processes, and we cannot understand our processes without examining our structure.\" This BEST reflects which quality concept?",
+      "options": {
+        "a": "The Donabedian causal chain: structure supports process, which drives outcomes",
+        "b": "The Plan-Do-Study-Act cycle for continuous improvement",
+        "c": "The balanced scorecard framework for strategic alignment",
+        "d": "The IHI Triple Aim of healthcare quality improvement"
+      },
+      "correct_option": "a",
+      "explanation": "This directly describes Donabedian's integrated quality framework — the causal chain in which structure defines capacity, process determines how care is delivered, and outcomes reflect the combined effect. Understanding this chain is essential for targeting the right level of intervention. SUBTOPIC 5: Finding the Right Data",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality analyst creates a document defining each variable — its name, definition, data type, source, and collection method — before data collection begins. This document is BEST described as a:",
+      "options": {
+        "a": "Data validation checklist",
+        "b": "Data dictionary",
+        "c": "Balanced scorecard",
+        "d": "Measurement framework"
+      },
+      "correct_option": "b",
+      "explanation": "A data dictionary is a structured reference document that defines every variable in a dataset — including its name, definition, data type, source, and collection method. It ensures consistent interpretation and use of data across the organisation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital compares its 30-day readmission rate against the national average published by CMS. This process is BEST described as:",
+      "options": {
+        "a": "Internal benchmarking — comparing one department against another",
+        "b": "External benchmarking — comparing performance against an external reference standard",
+        "c": "Process mapping — identifying steps in the readmission process",
+        "d": "Gap analysis — identifying discrepancies between goals and results"
+      },
+      "correct_option": "b",
+      "explanation": "Comparing an organisation's performance against a national standard or external reference group is external benchmarking. It positions the organisation's results relative to peers or national norms, enabling meaningful performance evaluation beyond internal trends.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital balanced scorecard includes financial performance, patient outcomes, internal process efficiency, and staff learning and growth. Which framework do these four domains represent?",
+      "options": {
+        "a": "Donabedian's SPO framework",
+        "b": "The IHI Triple Aim",
+        "c": "The Kaplan-Norton Balanced Scorecard",
+        "d": "The PDSA quality improvement cycle"
+      },
+      "correct_option": "c",
+      "explanation": "The Kaplan-Norton Balanced Scorecard organises organisational performance across four domains: Financial, Customer/Patient, Internal Processes, and Learning & Growth. It aligns strategic goals with measurable indicators across all four perspectives simultaneously.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "After completing a quality improvement project, the team shares findings through a published report, a leadership presentation, and a regional conference poster. This activity is BEST described as:",
+      "options": {
+        "a": "Data dissemination",
+        "b": "Benchmarking",
+        "c": "Gap analysis",
+        "d": "Data validation"
+      },
+      "correct_option": "a",
+      "explanation": "Data dissemination is the deliberate process of sharing findings with relevant stakeholders through appropriate channels. Effective dissemination ensures that evidence from quality improvement work reaches decision-makers and contributes to broader learning. SUBTOPIC 6: Central Tendency & Dispersion",
+      "difficulty": "medium"
+    },
+    {
+      "text": "ICU length of stay data has a mean of 7.2 days. However, three patients had stays of 45, 52, and 60 days. Which measure of central tendency would BEST represent the typical ICU stay for most patients?",
+      "options": {
+        "a": "Mean — it uses all data points and is the most accurate",
+        "b": "Median — it is less affected by extreme outliers",
+        "c": "Mode — it represents the most frequently occurring value",
+        "d": "Range — it captures the full spread of the data"
+      },
+      "correct_option": "b",
+      "explanation": "The median is preferred when data contains extreme outliers (skewed distribution) because it represents the middle value regardless of how extreme the outliers are. The mean is pulled toward outliers and misrepresents the typical experience.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's door-to-balloon time data shows a mean of 72 minutes and a standard deviation of 8 minutes. Assuming a normal distribution, what percentage of patients would have a door-to-balloon time between 64 and 80 minutes?",
+      "options": {
+        "a": "99.7%",
+        "b": "95%",
+        "c": "68%",
+        "d": "50%"
+      },
+      "correct_option": "c",
+      "explanation": "According to the Empirical Rule (68-95-99.7 rule): approximately 68% of values fall within ±1 standard deviation of the mean. 64 to 80 minutes = 72 ± 8 = mean ± 1 SD. Therefore approximately 68% of patients fall in this range.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Two hospitals report the same mean surgical time of 90 minutes. Hospital A has SD = 5 minutes; Hospital B has SD = 25 minutes. What does this difference indicate?",
+      "options": {
+        "a": "Hospital A has higher surgical volume than Hospital B",
+        "b": "Hospital A has more consistent surgical times — less process variation",
+        "c": "Hospital B serves more complex patients than Hospital A",
+        "d": "Hospital B has more experienced surgeons than Hospital A"
+      },
+      "correct_option": "b",
+      "explanation": "Standard deviation measures the spread of data around the mean. A smaller SD (5 mins) indicates that Hospital A's surgical times cluster closely around 90 minutes — highly consistent, low variation. Hospital B's larger SD (25 mins) indicates wide, inconsistent process performance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A dataset of medication administration times contains values: 8, 10, 10, 12, 14, 45. Which statement BEST describes the appropriate statistical summary?",
+      "options": {
+        "a": "Report the mean as it uses all available data points",
+        "b": "Report both the mean and mode as they are equal",
+        "c": "Report the median and note the outlier of 45 minutes separately",
+        "d": "Report the range as the primary measure of central tendency"
+      },
+      "correct_option": "c",
+      "explanation": "With an extreme outlier (45 minutes), the median provides a better representation of typical performance. Best practice is to report the median as the central tendency measure and note the outlier separately for investigation as potential special cause variation. SUBTOPIC 7: Data Presentation & SPC",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team wants to display the frequency distribution of patient wait times to assess whether times are normally distributed. Which chart type is MOST appropriate?",
+      "options": {
+        "a": "Bar chart — compares categories across groups",
+        "b": "Histogram — shows frequency distribution of continuous data",
+        "c": "Pie chart — shows proportional breakdown of categories",
+        "d": "Scatter plot — shows relationship between two variables"
+      },
+      "correct_option": "b",
+      "explanation": "A histogram displays the frequency distribution of continuous data — showing how values are distributed across ranges (bins). It is the appropriate tool for assessing distribution shape (normal, skewed, bimodal) for continuous variables like wait times.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team tracking sepsis bundle compliance weekly observes 7 consecutive data points all above the median on a run chart. What does this represent?",
+      "options": {
+        "a": "An astronomical point requiring immediate investigation",
+        "b": "A trend — 7 consecutively rising data points",
+        "c": "A run — 7 consecutive points on one side of the median indicating a shift",
+        "d": "Normal common cause variation within expected limits"
+      },
+      "correct_option": "c",
+      "explanation": "In run chart analysis, 7 or more consecutive data points on the same side of the median indicates a \"run\" — a non-random signal of a shift in the process. This is one of the four standard run chart rules for detecting meaningful change.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director wants to determine whether a hospital's medication error rate is in statistical control and to detect special cause variation. Which tool is MOST appropriate?",
+      "options": {
+        "a": "Pareto chart — to prioritise the highest-frequency error types",
+        "b": "Run chart — to track performance over time against a median",
+        "c": "Control chart — to monitor process stability using UCL and LCL",
+        "d": "Histogram — to show the distribution of error frequencies"
+      },
+      "correct_option": "c",
+      "explanation": "A control chart uses Upper Control Limits (UCL) and Lower Control Limits (LCL) calculated from process data — typically ±3 standard deviations from the mean. It is the definitive tool for detecting special cause variation and assessing process stability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A Pareto chart analysis reveals that 3 of 15 identified causes account for 78% of all patient falls. What principle does this demonstrate, and what is the recommended action?",
+      "options": {
+        "a": "The normal distribution principle — focus on the mean performance",
+        "b": "The 80/20 principle — focus improvement efforts on the vital few causes",
+        "c": "The common cause principle — redesign the entire system uniformly",
+        "d": "The control chart principle — apply UCL and LCL to the fall data"
+      },
+      "correct_option": "b",
+      "explanation": "A Pareto chart demonstrates the 80/20 principle (Pareto Principle): approximately 80% of effects come from 20% of causes. By identifying the vital few causes, the team can prioritise improvement efforts for maximum impact rather than addressing all 15 causes equally. SUBTOPIC 8: Reliability & Validity",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality department administers the same patient satisfaction survey to the same group of patients two weeks apart. The results are highly correlated. What type of reliability has been demonstrated?",
+      "options": {
+        "a": "Split-half reliability",
+        "b": "Inter-rater reliability",
+        "c": "Test-retest reliability",
+        "d": "Reliability by equivalence"
+      },
+      "correct_option": "c",
+      "explanation": "Same tool · Same group · Two time points · High correlation = Test-Retest reliability. This measures temporal stability — the instrument gives consistent results over time. The CPHQ keyword pair is \"same tool, two time points.\"",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Two independent nurses assess the same patient wound using a standardised tool. Their scores are found to be highly consistent. What type of reliability does this demonstrate?",
+      "options": {
+        "a": "Test-retest reliability",
+        "b": "Split-half reliability",
+        "c": "Inter-rater reliability",
+        "d": "Content validity"
+      },
+      "correct_option": "c",
+      "explanation": "Two or more independent observers assessing the same subject = Inter-Rater reliability. The keyword is \"independent raters\" or \"independent observers.\" Low inter-rater agreement signals training gaps or unclear operational definitions in the assessment tool.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A new hand hygiene checklist shows consistent scores between independent reviewers. However, analysis reveals the tool measures staff presence near sinks rather than actual technique. What is the measurement problem?",
+      "options": {
+        "a": "The tool is unreliable — scores vary between observers",
+        "b": "The tool is reliable but not valid — it consistently measures the wrong construct",
+        "c": "The tool is valid but not reliable — it measures the right construct inconsistently",
+        "d": "The tool has both reliability and validity problems"
+      },
+      "correct_option": "b",
+      "explanation": "Consistent scores between observers = reliable. Measuring the wrong construct (presence near sinks rather than actual technique) = not valid. A tool CAN be reliable without being valid — like consistently hitting the same wrong spot on a target. This is the most tested reliability-validity distinction in the CPHQ exam.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality researcher develops a new tool to measure \"patient safety culture.\" She asks five subject matter experts to independently review each item and rate whether it measures what it claims. This process is assessing:",
+      "options": {
+        "a": "Inter-rater reliability — consistency between independent reviewers",
+        "b": "Content validity — whether the tool adequately covers the construct's domain",
+        "c": "Test-retest reliability — consistency of the tool over time",
+        "d": "Construct validity — whether the tool correlates with related measures"
+      },
+      "correct_option": "b",
+      "explanation": "Asking subject matter experts to evaluate whether each item covers the relevant domain of the construct being measured is content validity assessment. It ensures the tool is comprehensive and representative of all aspects of the concept it claims to measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team reports an inter-rater reliability coefficient of 0.65 for their new audit tool. Based on standard reliability thresholds, what action is MOST appropriate?",
+      "options": {
+        "a": "Accept the tool — 0.65 exceeds the minimum acceptable threshold of 0.50",
+        "b": "Revise and re-pilot the tool — 0.65 falls below the minimum acceptable threshold of 0.70",
+        "c": "Accept the tool for regulatory submission — 0.65 meets CMS requirements",
+        "d": "No action needed — any positive coefficient indicates acceptable reliability"
+      },
+      "correct_option": "b",
+      "explanation": "Standard reliability thresholds: ≥0.70 = minimally acceptable; ≥0.80 = preferred for high-stakes decisions. A coefficient of 0.65 falls below the minimum threshold of 0.70 — the tool requires revision of unclear items or rater training before use. SUBTOPIC 9: Parametric vs Non-Parametric Tests",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality manager evaluates whether a new hand hygiene training improved compliance scores. The SAME 25 nurses were tested before and after the training. Which statistical test is MOST appropriate?",
+      "options": {
+        "a": "Independent samples t-test",
+        "b": "Chi-square test",
+        "c": "Paired samples t-test",
+        "d": "Mann-Whitney U test"
+      },
+      "correct_option": "c",
+      "explanation": "The same individuals measured at two time points (pre and post) = Paired samples t-test. Each participant serves as their own control. Independent t-test is incorrect because these are the same people twice — not two separate groups.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital randomly assigns 30 physicians into two groups. Group A receives quality improvement coaching; Group B receives no intervention. Documentation scores are compared after 90 days. Which test design applies?",
+      "options": {
+        "a": "Paired samples t-test",
+        "b": "Independent samples t-test",
+        "c": "Regression analysis",
+        "d": "Correlation analysis"
+      },
+      "correct_option": "b",
+      "explanation": "Two distinct groups with no crossover, each physician in one group only = Independent samples t-test design. Paired design requires the same individuals measured at two points. Group A and Group B are different people — they are independent of each other.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team finds that the correlation between nurse staffing levels and patient satisfaction scores is r = 0.82. How should this finding be interpreted?",
+      "options": {
+        "a": "There is a weak positive relationship between staffing and satisfaction",
+        "b": "There is a strong positive relationship — higher staffing is associated with higher satisfaction",
+        "c": "There is a perfect positive relationship — staffing fully determines satisfaction",
+        "d": "There is a moderate negative relationship — staffing inversely affects satisfaction"
+      },
+      "correct_option": "b",
+      "explanation": "Pearson's r = 0.82 indicates a strong positive correlation (r values: 0.0–0.3 = weak, 0.3–0.7 = moderate, 0.7–1.0 = strong). As staffing increases, satisfaction tends to increase. Note: correlation does not establish causation, and r = 1.0 would indicate a perfect relationship.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team compares patient fall counts (discrete, non-normally distributed) between two hospital units before and after a fall prevention protocol. The data violates normality assumptions. Which test is MOST appropriate?",
+      "options": {
+        "a": "Paired t-test — comparing before and after means",
+        "b": "Chi-square test — for categorical association",
+        "c": "Mann-Whitney U test — comparing two non-normally distributed groups",
+        "d": "Pearson correlation — measuring relationship between two continuous variables"
+      },
+      "correct_option": "c",
+      "explanation": "When normality assumptions are violated, non-parametric alternatives must be used. The Mann-Whitney U test is the non-parametric equivalent of the independent samples t-test — appropriate for comparing two groups when data is non-normally distributed, discrete, or ordinal.",
+      "difficulty": "medium"
+    }
+  ]
+}

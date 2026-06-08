@@ -1,0 +1,1686 @@
+{
+  "topic": null,
+  "type": "mock",
+  "questions": [
+    {
+      "text": "A hospital's quality department is developing a strategic quality plan. Which of the following BEST reflects the appropriate first step?",
+      "options": {
+        "a": "Conduct staff satisfaction surveys",
+        "b": "Align quality goals with the organization's mission and strategic priorities",
+        "c": "Benchmark against national quality databases",
+        "d": "Hire additional quality improvement specialists"
+      },
+      "correct_option": "b",
+      "explanation": "Quality plans must be grounded in and aligned with the organization's overarching mission, vision, and strategic goals. Without this alignment, quality efforts may be fragmented or unsustained.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which leadership model is MOST associated with inspiring staff to achieve quality goals beyond self-interest by articulating a shared vision?",
+      "options": {
+        "a": "Transactional leadership",
+        "b": "Laissez-faire leadership",
+        "c": "Transformational leadership",
+        "d": "Autocratic leadership"
+      },
+      "correct_option": "c",
+      "explanation": "Transformational leaders motivate and inspire followers by appealing to higher ideals and shared vision, which is critical for sustaining a quality culture in healthcare organizations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is presenting quality data to the Board of Directors. Which of the following is the MOST important consideration?",
+      "options": {
+        "a": "Present all raw data without filtering",
+        "b": "Use clinical jargon for precision",
+        "c": "Translate data into meaningful, actionable information relevant to governance responsibilities",
+        "d": "Limit the presentation to financial metrics"
+      },
+      "correct_option": "c",
+      "explanation": "Boards govern at a high level. Quality professionals must translate complex clinical data into clear, meaningful summaries that support informed governance decision-making.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the role of the governing board in healthcare quality?",
+      "options": {
+        "a": "Day-to-day operational management of clinical staff",
+        "b": "Setting specific clinical protocols and pathways",
+        "c": "Ultimate accountability for quality, safety, and organizational performance",
+        "d": "Conducting peer review of physician performance"
+      },
+      "correct_option": "c",
+      "explanation": "The governing board holds ultimate accountability for the quality and safety of care delivered. They delegate operational duties but retain fiduciary and ethical responsibility for performance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director wants to build a culture of quality. Which of the following strategies is MOST effective?",
+      "options": {
+        "a": "Disciplining staff who report errors",
+        "b": "Implementing mandatory overtime to meet performance targets",
+        "c": "Fostering psychological safety so staff feel comfortable reporting concerns",
+        "d": "Centralizing all quality decisions with senior leadership"
+      },
+      "correct_option": "c",
+      "explanation": "Psychological safety — where staff can speak up without fear of punishment — is foundational to a just culture and enables effective error reporting and quality improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the PRIMARY purpose of a quality management committee at the organizational level?",
+      "options": {
+        "a": "Reviewing individual physician performance for credentialing",
+        "b": "Overseeing and coordinating quality improvement activities across departments",
+        "c": "Managing patient billing and coding accuracy",
+        "d": "Setting staff compensation benchmarks"
+      },
+      "correct_option": "b",
+      "explanation": "A quality management committee provides oversight and coordination of quality and patient safety activities across the organization, ensuring alignment with strategic goals.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization wants to improve quality culture. According to the IHI Framework, which of the following is a key element of leadership for improvement?",
+      "options": {
+        "a": "Delegating all quality responsibilities to front-line staff",
+        "b": "Setting aims, building will, generating ideas, and executing change",
+        "c": "Focusing exclusively on cost reduction",
+        "d": "Relying on external consultants for improvement initiatives"
+      },
+      "correct_option": "b",
+      "explanation": "The IHI's leadership framework for improvement involves setting clear aims, building the organizational will to change, generating and testing ideas, and executing sustainable improvements.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When developing a quality improvement infrastructure, which of the following organizational structures is MOST effective?",
+      "options": {
+        "a": "Siloed departments with independent quality programs",
+        "b": "A centralized, integrated quality structure linked to governance",
+        "c": "Quality embedded only within the finance department",
+        "d": "Informal ad-hoc quality teams formed as needed"
+      },
+      "correct_option": "b",
+      "explanation": "An integrated quality structure with direct links to governance ensures accountability, resource allocation, and strategic alignment across the organization.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital CEO asks the quality director to demonstrate the return on investment (ROI) of the quality program. Which of the following is the BEST approach?",
+      "options": {
+        "a": "Report only patient satisfaction scores",
+        "b": "Calculate cost savings from reduced adverse events, readmissions, and penalties avoided",
+        "c": "Provide staff-to-patient ratios only",
+        "d": "Report the number of quality meetings held per quarter"
+      },
+      "correct_option": "b",
+      "explanation": "Demonstrating ROI requires quantifying financial benefits from improved outcomes, including reduced adverse events, decreased readmissions, and avoided regulatory penalties, alongside improvement costs.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes a \"just culture\" in healthcare?",
+      "options": {
+        "a": "A culture where all errors lead to disciplinary action",
+        "b": "A culture that balances individual accountability with system-level analysis",
+        "c": "A culture where leadership takes sole responsibility for errors",
+        "d": "A culture focused only on physician performance"
+      },
+      "correct_option": "b",
+      "explanation": "Just culture recognizes that most errors arise from system factors while maintaining individual accountability for reckless behavior. It avoids both blame-free and punitive extremes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team is experiencing conflict between departments. Which leadership skill is MOST important for the quality professional to demonstrate?",
+      "options": {
+        "a": "Authoritative decision-making",
+        "b": "Conflict resolution and facilitation",
+        "c": "Avoidance of contentious issues",
+        "d": "Escalation to senior leadership immediately"
+      },
+      "correct_option": "b",
+      "explanation": "Quality professionals frequently facilitate multidisciplinary teams. Conflict resolution and facilitation skills are essential to maintain collaboration and forward progress on improvement initiatives.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is MOST consistent with the Malcolm Baldrige National Quality Award criteria in healthcare?",
+      "options": {
+        "a": "Focus solely on clinical outcomes",
+        "b": "A systems perspective integrating leadership, strategy, customers, workforce, and results",
+        "c": "Emphasis on accreditation compliance only",
+        "d": "Financial performance as the primary criterion"
+      },
+      "correct_option": "b",
+      "explanation": "The Baldrige framework uses a systems perspective covering seven categories: leadership, strategy, customers, measurement/analysis, workforce, operations, and results — all interconnected.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the BEST example of strategic quality planning?",
+      "options": {
+        "a": "Responding to a sentinel event report",
+        "b": "Establishing 3-year quality improvement targets linked to organizational goals",
+        "c": "Training new nurses on hand hygiene protocols",
+        "d": "Conducting a single patient satisfaction survey"
+      },
+      "correct_option": "b",
+      "explanation": "Strategic quality planning involves establishing multi-year improvement targets that are directly tied to the organization's mission and strategic priorities, not just reactive event management.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality department is developing a communication strategy for quality results. Which of the following approaches is MOST appropriate for front-line staff?",
+      "options": {
+        "a": "Monthly board reports distributed to all staff",
+        "b": "Visual management tools such as unit-level dashboards and huddle boards",
+        "c": "Annual quality presentations to department heads only",
+        "d": "Peer-reviewed journal articles summarizing findings"
+      },
+      "correct_option": "b",
+      "explanation": "Front-line staff benefit most from real-time, visual, unit-specific data displayed at the point of care. Huddle boards and dashboards support daily improvement discussions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The concept of \"high reliability organizations\" (HROs) in healthcare is MOST closely associated with which of the following?",
+      "options": {
+        "a": "Organizations that rarely perform quality audits",
+        "b": "Organizations that achieve consistently excellent outcomes despite operating in complex, high-risk environments",
+        "c": "Organizations that outsource their quality programs",
+        "d": "Organizations focused primarily on financial high performance"
+      },
+      "correct_option": "b",
+      "explanation": "HROs consistently minimize failures despite operating in complex, high-hazard environments. They share principles including preoccupation with failure, reluctance to simplify, and deference to expertise.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the quality professional's role in strategic planning?",
+      "options": {
+        "a": "Approving all clinical protocols",
+        "b": "Contributing quality data and performance insights to inform organizational strategy",
+        "c": "Managing human resource decisions",
+        "d": "Setting the organization's financial goals"
+      },
+      "correct_option": "b",
+      "explanation": "Quality professionals play an advisory and informational role in strategic planning, contributing performance data, trend analysis, and improvement insights to support leadership decision-making.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST effective method to sustain quality improvements over time?",
+      "options": {
+        "a": "Rely on initial project enthusiasm",
+        "b": "Embed changes into policies, processes, and standard workflows",
+        "c": "Complete a PDSA cycle once and monitor",
+        "d": "Assign a single champion responsible for all improvement maintenance"
+      },
+      "correct_option": "b",
+      "explanation": "Sustainability of improvements requires hardwiring changes into standard processes, policies, and workflows so they are not dependent on individual champions or temporary motivation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is integrating quality improvement with patient safety initiatives. Which framework BEST supports this integration?",
+      "options": {
+        "a": "Six Sigma DMAIC",
+        "b": "The IHI Triple Aim / Quadruple Aim framework",
+        "c": "The Magnet Recognition Program",
+        "d": "OSHA workplace safety standards"
+      },
+      "correct_option": "b",
+      "explanation": "The IHI Triple Aim (better care, better health, lower cost) and its extension to the Quadruple Aim (adding workforce well-being) provides a comprehensive framework integrating quality, safety, and sustainability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes span of control in quality management?",
+      "options": {
+        "a": "The number of quality indicators monitored",
+        "b": "The number of employees a quality manager directly supervises",
+        "c": "The geographic coverage of a quality program",
+        "d": "The financial budget of the quality department"
+      },
+      "correct_option": "b",
+      "explanation": "Span of control refers to the number of direct reports a manager supervises. In quality management, an appropriate span of control ensures effective oversight without overburdening managers.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a leading quality indicator, as opposed to a lagging indicator?",
+      "options": {
+        "a": "Mortality rate",
+        "b": "Hospital-acquired infection rate",
+        "c": "Hand hygiene compliance rate",
+        "d": "Readmission rate"
+      },
+      "correct_option": "c",
+      "explanation": "Leading indicators measure processes that drive outcomes (e.g., hand hygiene compliance predicts infection rates). Lagging indicators measure outcomes that have already occurred (mortality, infection rates, readmissions).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes a \"near miss\" in patient safety terminology?",
+      "options": {
+        "a": "An event that reaches the patient and causes harm",
+        "b": "An unsafe condition identified during a routine audit",
+        "c": "An event that could have caused harm but did not reach the patient",
+        "d": "A patient complaint about care quality"
+      },
+      "correct_option": "c",
+      "explanation": "A near miss (also called a close call) is an unplanned event that did not cause harm but had the potential to do so. Near miss reporting is critical for identifying system vulnerabilities before harm occurs.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A root cause analysis (RCA) is being conducted following a sentinel event. Which of the following is the PRIMARY purpose of an RCA?",
+      "options": {
+        "a": "To identify the staff member responsible for the error",
+        "b": "To determine the underlying system and process factors that contributed to the event",
+        "c": "To document the event for legal purposes",
+        "d": "To calculate the cost of the adverse event"
+      },
+      "correct_option": "b",
+      "explanation": "RCA is a systematic process to identify root causes of adverse events — focusing on system and process failures rather than individual blame — in order to prevent recurrence.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST appropriate first action after a patient safety event occurs?",
+      "options": {
+        "a": "Conduct a formal investigation",
+        "b": "Notify the hospital attorney",
+        "c": "Ensure patient safety and stabilize the patient",
+        "d": "Complete an incident report"
+      },
+      "correct_option": "c",
+      "explanation": "The immediate priority following any patient safety event is to ensure the patient's safety and provide any necessary stabilization or treatment. Documentation and investigation follow thereafter.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Swiss Cheese Model of accident causation is MOST useful in patient safety for:",
+      "options": {
+        "a": "Demonstrating individual negligence",
+        "b": "Illustrating how multiple system failures align to allow errors to reach patients",
+        "c": "Calculating error rates across departments",
+        "d": "Identifying the single point of failure in a process"
+      },
+      "correct_option": "b",
+      "explanation": "James Reason's Swiss Cheese Model shows that safety systems have \"holes\" (vulnerabilities), and accidents occur when the holes in multiple layers align, allowing a hazard to pass through all defenses.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following categories of harm is represented by a National Coordinating Council for Medication Error Reporting (NCC MERP) Category E?",
+      "options": {
+        "a": "Error that did not reach the patient",
+        "b": "Error requiring no treatment",
+        "c": "Error that reached the patient and required intervention to preclude harm",
+        "d": "Error that caused permanent harm"
+      },
+      "correct_option": "c",
+      "explanation": "NCC MERP Category E = error reached patient and required intervention to preclude harm. This scale ranges from A (no error) to I (error contributing to patient death).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST effective strategy to prevent wrong-site surgery?",
+      "options": {
+        "a": "Relying on surgeon memory",
+        "b": "Implementing a standardized surgical safety checklist including a \"time-out\"",
+        "c": "Posting surgical schedules in the operating room",
+        "d": "Requiring patients to verbally confirm the site"
+      },
+      "correct_option": "b",
+      "explanation": "The WHO Surgical Safety Checklist, including a pre-incision \"time-out\" with the full team, is the evidence-based gold standard for preventing wrong-site, wrong-procedure, and wrong-patient surgical errors.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Failure Mode and Effects Analysis (FMEA) is BEST used for which of the following?",
+      "options": {
+        "a": "Analyzing errors after they have occurred",
+        "b": "Proactively identifying potential failure points in a process before harm occurs",
+        "c": "Evaluating staff performance after an incident",
+        "d": "Documenting patient complaints"
+      },
+      "correct_option": "b",
+      "explanation": "FMEA is a prospective (proactive) risk assessment tool used to identify potential failure modes in a process, assess their likelihood and impact, and implement preventive measures before an event occurs.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the concept of \"failure to rescue\"?",
+      "options": {
+        "a": "A patient who refuses treatment",
+        "b": "Delay in recognizing and responding to a patient's clinical deterioration",
+        "c": "Inadequate staffing on night shifts",
+        "d": "Failure to complete discharge paperwork"
+      },
+      "correct_option": "b",
+      "explanation": "Failure to rescue refers to a healthcare provider's inability to recognize and respond in time to a patient's deterioration (e.g., complications after surgery), leading to preventable death or serious harm.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital implements a Rapid Response Team (RRT). The PRIMARY goal of an RRT is to:",
+      "options": {
+        "a": "Reduce ICU costs",
+        "b": "Provide intensive care services in the ICU",
+        "c": "Identify and respond to early signs of clinical deterioration before cardiac arrest",
+        "d": "Manage high-risk surgical patients postoperatively"
+      },
+      "correct_option": "c",
+      "explanation": "Rapid Response Teams are deployed to the bedside when early warning signs of deterioration are identified, intervening before the patient progresses to a cardiac arrest or life-threatening crisis.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is a characteristic of a \"sentinel event\" as defined by The Joint Commission?",
+      "options": {
+        "a": "Any patient complaint submitted to the hospital",
+        "b": "An unexpected occurrence involving death or serious physical or psychological injury",
+        "c": "A minor medication error that did not reach the patient",
+        "d": "A staff injury in the workplace"
+      },
+      "correct_option": "b",
+      "explanation": "TJC defines a sentinel event as an unexpected occurrence involving death, serious physical or psychological injury, or the risk thereof — signaling the need for immediate investigation and response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a \"high-alert medication\"?",
+      "options": {
+        "a": "Acetaminophen (standard dose)",
+        "b": "Multivitamins",
+        "c": "Concentrated electrolytes (e.g., potassium chloride)",
+        "d": "Antacids"
+      },
+      "correct_option": "c",
+      "explanation": "The Institute for Safe Medication Practices (ISMP) designates high-alert medications as those that bear a heightened risk of causing significant patient harm when used in error. Concentrated electrolytes are a classic example.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is implementing the \"5 Rights\" of medication administration as a safety strategy. Which of the following is NOT one of the 5 Rights?",
+      "options": {
+        "a": "Right patient",
+        "b": "Right dose",
+        "c": "Right route",
+        "d": "Right diagnosis"
+      },
+      "correct_option": "d",
+      "explanation": "The 5 Rights of medication administration are: Right Patient, Right Drug, Right Dose, Right Route, and Right Time. Diagnosis verification is not part of this specific safety standard.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following tools is MOST appropriate for structured handoff communication to reduce patient safety risks?",
+      "options": {
+        "a": "Informal verbal handoff",
+        "b": "SBAR (Situation, Background, Assessment, Recommendation)",
+        "c": "Patient satisfaction surveys",
+        "d": "Incident report forms"
+      },
+      "correct_option": "b",
+      "explanation": "SBAR provides a standardized, structured framework for clinical communication during handoffs and escalations, reducing information gaps and ambiguity that contribute to adverse events.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "According to the Agency for Healthcare Research and Quality (AHRQ), a \"culture of safety\" is BEST measured by which of the following?",
+      "options": {
+        "a": "Number of incident reports filed per month",
+        "b": "Staff perception surveys such as the AHRQ Hospital Survey on Patient Safety Culture (HSOPS)",
+        "c": "Patient satisfaction scores",
+        "d": "Number of sentinel events per year"
+      },
+      "correct_option": "b",
+      "explanation": "AHRQ's HSOPS (Hospital Survey on Patient Safety Culture) measures staff perceptions of safety culture dimensions such as teamwork, communication openness, and non-punitive response to error.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the difference between an \"error of commission\" and an \"error of omission\"?",
+      "options": {
+        "a": "Error of commission = not doing something; error of omission = doing something incorrectly",
+        "b": "Error of commission = doing the wrong thing; error of omission = failing to do the right thing",
+        "c": "Both terms describe the same type of error",
+        "d": "Error of omission = documentation error only"
+      },
+      "correct_option": "b",
+      "explanation": "Errors of commission involve actively doing the wrong thing (e.g., giving the wrong medication). Errors of omission involve failing to do what should have been done (e.g., failing to administer a prescribed medication).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which patient safety initiative MOST directly addresses the prevention of healthcare-associated infections (HAIs)?",
+      "options": {
+        "a": "Universal Protocol for preventing wrong-site surgery",
+        "b": "Central Line Bundle (CLABSI prevention bundle)",
+        "c": "SBAR communication tool",
+        "d": "Surgical safety checklist"
+      },
+      "correct_option": "b",
+      "explanation": "The Central Line Bundle is an evidence-based set of practices (hand hygiene, maximal barrier precautions, chlorhexidine skin antisepsis, optimal site selection, daily review) that reduce CLABSI rates when implemented together.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST represents the concept of \"defense in depth\" in patient safety?",
+      "options": {
+        "a": "Assigning a single expert to monitor all patient safety risks",
+        "b": "Using multiple, overlapping safety barriers to prevent errors from reaching patients",
+        "c": "Focusing error prevention efforts on high-volume procedures only",
+        "d": "Delegating safety monitoring to front-line staff only"
+      },
+      "correct_option": "b",
+      "explanation": "\"Defense in depth\" (derived from Reason's work) means creating multiple redundant safety barriers so that even if one fails, others prevent harm — a core principle of systems-based safety design.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital notices an increase in patient falls. The MOST appropriate initial action is to:",
+      "options": {
+        "a": "Purchase new bed alarm systems immediately",
+        "b": "Discipline the nursing staff responsible for the falls",
+        "c": "Conduct a structured analysis of the falls to identify common contributing factors",
+        "d": "Increase observation staffing for all patients"
+      },
+      "correct_option": "c",
+      "explanation": "Before implementing solutions, a structured analysis (e.g., common cause analysis, trigger review) of the falls data is needed to understand contributing factors and design targeted, evidence-based interventions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the PRIMARY goal of medication reconciliation?",
+      "options": {
+        "a": "Reviewing physician prescribing patterns for cost efficiency",
+        "b": "Ensuring complete and accurate medication lists are communicated at every transition of care",
+        "c": "Preventing drug interactions within the ICU only",
+        "d": "Training nurses on high-alert medications"
+      },
+      "correct_option": "b",
+      "explanation": "Medication reconciliation is the process of comparing a patient's medication orders to all medications the patient has been taking to avoid errors such as omissions, duplications, and interactions — especially during care transitions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The concept of \"crew resource management\" (CRM) in healthcare was originally adapted from which industry?",
+      "options": {
+        "a": "Nuclear energy",
+        "b": "Military combat operations",
+        "c": "Aviation",
+        "d": "Manufacturing"
+      },
+      "correct_option": "c",
+      "explanation": "CRM was originally developed in aviation after crash investigations revealed that communication failures and hierarchy issues — not technical errors — caused most accidents. Healthcare adopted CRM to improve teamwork and communication.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the PDSA cycle?",
+      "options": {
+        "a": "Plan, Define, Study, Act",
+        "b": "Plan, Do, Study, Act",
+        "c": "Prepare, Deploy, Sustain, Assess",
+        "d": "Problem, Diagnosis, Solution, Assessment"
+      },
+      "correct_option": "b",
+      "explanation": "The PDSA (Plan-Do-Study-Act) cycle, developed by W. Edwards Deming, is the foundational model for small-scale testing of changes in healthcare improvement. It is iterative and rapid in nature.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In Six Sigma methodology, \"DMAIC\" stands for:",
+      "options": {
+        "a": "Design, Measure, Analyze, Improve, Control",
+        "b": "Define, Measure, Analyze, Improve, Control",
+        "c": "Define, Monitor, Assess, Implement, Check",
+        "d": "Detect, Measure, Analyze, Implement, Confirm"
+      },
+      "correct_option": "b",
+      "explanation": "DMAIC is the Six Sigma improvement framework: Define the problem, Measure current performance, Analyze root causes, Improve the process, and Control to sustain gains.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital wants to reduce patient wait times in the emergency department. Which of the following tools would BEST help visualize the flow of patients through the process?",
+      "options": {
+        "a": "Pareto chart",
+        "b": "Control chart",
+        "c": "Value stream map",
+        "d": "Histogram"
+      },
+      "correct_option": "c",
+      "explanation": "Value stream mapping (a Lean tool) visually maps all steps in a process flow — including value-added and non-value-added steps, wait times, and handoffs — making it ideal for identifying waste and delays in patient flow.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A Pareto chart is MOST useful for:",
+      "options": {
+        "a": "Displaying variation over time in a process",
+        "b": "Identifying the vital few causes that account for the majority of problems",
+        "c": "Mapping the steps in a new process",
+        "d": "Showing correlation between two variables"
+      },
+      "correct_option": "b",
+      "explanation": "A Pareto chart combines a bar chart and line graph to display causes in descending frequency, illustrating the 80/20 rule — typically 80% of problems stem from 20% of causes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following control chart rules indicates a process is out of statistical control?",
+      "options": {
+        "a": "One data point falling within one standard deviation of the mean",
+        "b": "Eight consecutive data points on one side of the mean",
+        "c": "Three data points alternating above and below the mean",
+        "d": "Data points randomly scattered around the mean"
+      },
+      "correct_option": "b",
+      "explanation": "Eight (or more) consecutive points on one side of the centerline is a classic signal of a non-random shift (special cause variation) in statistical process control, indicating the process is out of control.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In Lean methodology, \"muda\" refers to:",
+      "options": {
+        "a": "A type of process flowchart",
+        "b": "Waste — activities that consume resources without adding value",
+        "c": "A metric for process efficiency",
+        "d": "A root cause analysis technique"
+      },
+      "correct_option": "b",
+      "explanation": "In Lean (derived from Toyota Production System), \"muda\" is the Japanese word for waste. The 8 types of waste in healthcare include defects, overproduction, waiting, non-utilized talent, transportation, inventory, motion, and extra processing (DOWNTIME).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the BEST definition of a \"process indicator\"?",
+      "options": {
+        "a": "A measure of patient health outcomes following treatment",
+        "b": "A measure of whether a specific step in the care process was performed",
+        "c": "A measure of the financial performance of a department",
+        "d": "A measure of patient satisfaction scores"
+      },
+      "correct_option": "b",
+      "explanation": "Process indicators measure whether specific steps in a clinical or administrative process are performed correctly (e.g., percentage of patients who received discharge instructions). They are distinct from outcome indicators.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team identifies a problem using a fishbone (Ishikawa) diagram. What is the PRIMARY purpose of this tool?",
+      "options": {
+        "a": "To display data trends over time",
+        "b": "To identify and categorize potential causes of a problem",
+        "c": "To measure process variation",
+        "d": "To compare performance across departments"
+      },
+      "correct_option": "b",
+      "explanation": "The fishbone (cause-and-effect or Ishikawa) diagram is used to brainstorm and categorize potential causes of a problem into categories such as People, Process, Equipment, Environment, Management, and Materials.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes \"common cause variation\" in a process?",
+      "options": {
+        "a": "Variation caused by a specific, identifiable event",
+        "b": "Random variation inherent to the process that is predictable over time",
+        "c": "Variation requiring immediate corrective action",
+        "d": "Variation resulting from staff non-compliance"
+      },
+      "correct_option": "b",
+      "explanation": "Common cause (or random/natural) variation is the inherent variability in a stable process. It is predictable and requires system-level redesign — not reaction to individual data points — to reduce it.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Model for Improvement developed by Associates in Process Improvement (API) begins with three fundamental questions. Which of the following is one of those questions?",
+      "options": {
+        "a": "\"Who is responsible for the failure?\"",
+        "b": "\"What are we trying to accomplish?\"",
+        "c": "\"How much will the improvement cost?\"",
+        "d": "\"Which regulatory standard applies?\""
+      },
+      "correct_option": "b",
+      "explanation": "The Model for Improvement's three questions are: (1) What are we trying to accomplish? (2) How will we know that a change is an improvement? (3) What changes can we make that will result in improvement? These precede PDSA testing.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is implementing Lean principles. Which of the following is an example of \"5S\" in a clinical setting?",
+      "options": {
+        "a": "Conducting five daily safety huddles",
+        "b": "Organizing and standardizing the supply room to reduce time wasted searching for items",
+        "c": "Training five staff on quality improvement methodology",
+        "d": "Setting five patient safety goals for the year"
+      },
+      "correct_option": "b",
+      "explanation": "5S (Sort, Set in Order, Shine, Standardize, Sustain) is a Lean workplace organization method. In healthcare, it is used to organize supply areas, reduce wasted motion, and create standardized, efficient environments.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST distinguishes a \"quality improvement project\" from a \"research project\"?",
+      "options": {
+        "a": "QI projects require IRB approval; research does not",
+        "b": "QI projects aim to improve local care processes; research aims to generate generalizable knowledge",
+        "c": "Research uses PDSA cycles; QI uses clinical trials",
+        "d": "There is no meaningful distinction between the two"
+      },
+      "correct_option": "b",
+      "explanation": "Quality improvement projects aim to improve care delivery in a specific local setting and typically do not require IRB approval. Research generates new generalizable knowledge and requires IRB oversight and informed consent.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following improvement strategies is MOST consistent with \"kaizen\"?",
+      "options": {
+        "a": "A major organizational restructuring effort",
+        "b": "Small, continuous, incremental improvements made by all staff",
+        "c": "Large-scale process redesign by senior leadership",
+        "d": "Rapid implementation of technology solutions"
+      },
+      "correct_option": "b",
+      "explanation": "Kaizen (Japanese for \"change for better\") is a Lean philosophy of continuous, incremental improvement involving everyone at all levels of the organization — from front-line staff to leadership.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A run chart shows an upward trend in a quality metric for 6 consecutive data points. This MOST likely indicates:",
+      "options": {
+        "a": "Common cause variation only",
+        "b": "A special cause signal suggesting a non-random shift in the process",
+        "c": "Random variation around the mean",
+        "d": "No meaningful change in the process"
+      },
+      "correct_option": "b",
+      "explanation": "In run chart analysis, six or more consecutive points trending in one direction (all ascending or descending) is a non-random pattern indicating a special cause — the process has likely shifted.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST defines \"benchmarking\" in healthcare quality improvement?",
+      "options": {
+        "a": "Setting internal performance targets based on historical data",
+        "b": "Comparing performance against external best-practice peers or industry standards",
+        "c": "Reviewing process adherence through audits",
+        "d": "Establishing baseline measurements before an improvement project"
+      },
+      "correct_option": "b",
+      "explanation": "Benchmarking involves comparing an organization's performance metrics to those of high-performing peers or national/international standards to identify gaps and opportunities for improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare team is using the \"5 Whys\" technique. What is the PRIMARY goal?",
+      "options": {
+        "a": "Rank the five most common causes of a problem",
+        "b": "Drill down to the root cause of a problem by repeatedly asking \"why\"",
+        "c": "Identify five improvement strategies for a process",
+        "d": "Survey five staff members about a quality issue"
+      },
+      "correct_option": "b",
+      "explanation": "The 5 Whys technique involves iteratively asking \"why\" (typically 5 times) to move beyond surface symptoms to the underlying root cause of a problem. It is simple but powerful for RCA.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes \"special cause variation\"?",
+      "options": {
+        "a": "Variation that is predictable and inherent to a stable process",
+        "b": "Variation resulting from a specific, identifiable, non-random event or factor",
+        "c": "Variation that cannot be reduced by process improvement",
+        "d": "Variation that is always caused by individual staff performance"
+      },
+      "correct_option": "b",
+      "explanation": "Special cause variation is non-random variation arising from a specific, identifiable cause (e.g., a new policy, equipment failure, or staff change). It requires investigation and removal of the specific cause.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In Six Sigma, \"sigma level\" refers to:",
+      "options": {
+        "a": "The number of improvement cycles completed",
+        "b": "A measure of process performance related to the number of defects per million opportunities",
+        "c": "The standard deviation of patient satisfaction scores",
+        "d": "The number of staff trained in the methodology"
+      },
+      "correct_option": "b",
+      "explanation": "Sigma level measures process capability. Six Sigma performance = 3.4 defects per million opportunities (DPMO), representing near-perfect quality. Lower sigma levels indicate more defects and lower process capability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST important consideration when selecting a quality improvement project?",
+      "options": {
+        "a": "Selecting a project that is easy to complete quickly",
+        "b": "Selecting a project with strategic importance, measurable impact, and feasibility",
+        "c": "Selecting a project suggested by the most senior physician",
+        "d": "Selecting a project based on recent accreditation findings only"
+      },
+      "correct_option": "b",
+      "explanation": "Project selection should be driven by strategic alignment, potential for measurable impact on patient outcomes or operational performance, and practical feasibility — not convenience or hierarchy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is redesigning its discharge process to reduce readmissions. Which of the following Lean concepts would MOST directly help identify delays in the current process?",
+      "options": {
+        "a": "5S",
+        "b": "Kanban",
+        "c": "Value stream mapping",
+        "d": "Kaizen events"
+      },
+      "correct_option": "c",
+      "explanation": "Value stream mapping visually depicts every step, decision point, and wait time in a patient's care journey. It reveals non-value-added steps and delays — critical for redesigning the discharge process.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes \"population health management\" in the context of healthcare quality?",
+      "options": {
+        "a": "Managing the health needs of individual high-risk patients only",
+        "b": "Improving health outcomes and addressing the health needs of a defined group of individuals",
+        "c": "Reducing hospital staffing costs for specific patient groups",
+        "d": "Providing specialty care to underserved communities"
+      },
+      "correct_option": "b",
+      "explanation": "Population health management involves aggregating data across individuals, identifying health disparities, and designing targeted interventions to improve outcomes across a defined population — not just individuals.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the BEST example of a \"care transition intervention\" designed to reduce readmissions?",
+      "options": {
+        "a": "Assigning a physician to monitor inpatient lab values",
+        "b": "Conducting a post-discharge phone call within 48–72 hours to review medications and follow-up appointments",
+        "c": "Reducing ICU length of stay by 10%",
+        "d": "Implementing an electronic health records system"
+      },
+      "correct_option": "b",
+      "explanation": "Post-discharge follow-up calls (a component of the Care Transitions Intervention by Dr. Eric Coleman) verify medication understanding, address red flags, and confirm follow-up — directly reducing preventable readmissions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The BOOST (Better Outcomes for Older Adults through Safe Transitions) program is PRIMARILY focused on:",
+      "options": {
+        "a": "Reducing surgical site infections in elderly patients",
+        "b": "Improving care transitions and reducing readmissions for older adult patients",
+        "c": "Enhancing palliative care delivery in nursing homes",
+        "d": "Training physicians in geriatric assessment techniques"
+      },
+      "correct_option": "b",
+      "explanation": "The SHM's BOOST program provides tools and mentoring to help hospitals improve discharge processes and care transitions for elderly patients, with the goal of reducing preventable readmissions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is a key component of the Care Transitions Intervention (CTI) developed by Dr. Eric Coleman?",
+      "options": {
+        "a": "Assigning a hospital social worker to all discharged patients",
+        "b": "Using a \"transition coach\" to support patients across settings over a 4-week period",
+        "c": "Mandatory 30-day outpatient follow-up for all diagnoses",
+        "d": "Electronic notification to primary care physicians at discharge"
+      },
+      "correct_option": "b",
+      "explanation": "Coleman's CTI model centers on a \"transition coach\" who supports patients across care settings over 4 weeks, coaching them to become active participants in their care using the Personal Health Record.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Social determinants of health (SDOH) are BEST described as:",
+      "options": {
+        "a": "Genetic factors that predispose patients to disease",
+        "b": "The conditions in which people are born, grow, live, work, and age that influence health outcomes",
+        "c": "Patient behaviors related to diet and exercise",
+        "d": "The availability of specialty medications in a community"
+      },
+      "correct_option": "b",
+      "explanation": "SDOH are non-medical factors (economic stability, education, neighborhood, social context, healthcare access) that profoundly influence health outcomes and disparities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following measures is MOST directly used to evaluate the effectiveness of care transitions?",
+      "options": {
+        "a": "Patient satisfaction scores",
+        "b": "30-day all-cause readmission rates",
+        "c": "Average length of stay",
+        "d": "Emergency department wait times"
+      },
+      "correct_option": "b",
+      "explanation": "The 30-day all-cause readmission rate is the primary national metric for care transitions quality, used by CMS for reimbursement adjustments under the Hospital Readmissions Reduction Program (HRRP).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The \"teach-back\" method is MOST useful for:",
+      "options": {
+        "a": "Training clinical staff on new procedures",
+        "b": "Confirming patient understanding of discharge instructions",
+        "c": "Conducting patient satisfaction surveys",
+        "d": "Evaluating physician competency"
+      },
+      "correct_option": "b",
+      "explanation": "Teach-back (also called the \"show-me\" method) asks patients to repeat instructions in their own words, verifying understanding and identifying gaps — a key evidence-based tool for patient education and safe transitions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes health equity in the context of population health quality?",
+      "options": {
+        "a": "Providing the same treatment to all patients regardless of need",
+        "b": "Achieving the highest level of health for all people by addressing avoidable disparities",
+        "c": "Ensuring all patients receive the same length of hospital stay",
+        "d": "Equalizing financial costs across all patient populations"
+      },
+      "correct_option": "b",
+      "explanation": "Health equity means that every person has a fair and just opportunity to be as healthy as possible. It requires removing obstacles — including social and environmental disadvantages — that disproportionately affect certain groups.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital wants to reduce disparities in diabetes outcomes among its patient population. Which of the following is the MOST appropriate first step?",
+      "options": {
+        "a": "Implement a uniform diabetes education program for all patients",
+        "b": "Stratify outcome data by race, ethnicity, language, and insurance status to identify disparity patterns",
+        "c": "Increase the number of endocrinologists on staff",
+        "d": "Reduce the length of diabetes-related hospital stays"
+      },
+      "correct_option": "b",
+      "explanation": "Identifying disparities requires stratifying quality data by demographic variables to reveal which subpopulations are underperforming. Without this analysis, targeted interventions cannot be designed.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a \"community health needs assessment\" (CHNA)?",
+      "options": {
+        "a": "A survey of hospital employee wellness needs",
+        "b": "A systematic process to identify priority health needs of the community served by a hospital",
+        "c": "A regulatory audit of community clinics",
+        "d": "A performance review of the hospital's community outreach programs"
+      },
+      "correct_option": "b",
+      "explanation": "The CHNA (required every 3 years for nonprofit hospitals under the ACA) is a systematic assessment of the community's health needs, used to prioritize and plan community benefit activities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Patient activation refers to:",
+      "options": {
+        "a": "A patient's ability to pay for healthcare services",
+        "b": "A patient's knowledge, skill, and confidence to manage their own health",
+        "c": "A hospital's capacity to activate emergency protocols",
+        "d": "A measure of patient satisfaction with their care team"
+      },
+      "correct_option": "b",
+      "explanation": "Patient Activation Measure (PAM), developed by Hibbard, assesses patients' knowledge, skills, and confidence in self-managing their health. Higher activation correlates with better health outcomes and care transitions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following transitions of care setting combinations carries the HIGHEST risk of medication errors?",
+      "options": {
+        "a": "Outpatient clinic to specialist office",
+        "b": "Hospital to skilled nursing facility",
+        "c": "Emergency department to outpatient pharmacy",
+        "d": "Physician office to home"
+      },
+      "correct_option": "b",
+      "explanation": "Hospital-to-SNF transitions are among the highest-risk handoffs due to complex medication reconciliation, communication gaps between care teams, and elderly patient vulnerability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The INTERACT (Interventions to Reduce Acute Care Transfers) program is designed to:",
+      "options": {
+        "a": "Improve ICU-to-floor transitions",
+        "b": "Reduce potentially avoidable hospitalizations from long-term care settings",
+        "c": "Standardize surgical handoffs",
+        "d": "Train emergency physicians in geriatric care"
+      },
+      "correct_option": "b",
+      "explanation": "INTERACT is a quality improvement program for skilled nursing and long-term care facilities aimed at identifying early signs of deterioration and managing conditions in place — reducing unnecessary and avoidable hospitalizations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the PRIMARY goal of Accountable Care Organizations (ACOs) from a population health perspective?",
+      "options": {
+        "a": "To reduce hospital competition by consolidating health systems",
+        "b": "To improve quality and reduce costs for a defined patient population through coordinated care",
+        "c": "To standardize physician fee schedules across specialties",
+        "d": "To manage Medicare billing compliance"
+      },
+      "correct_option": "b",
+      "explanation": "ACOs are provider groups that accept joint responsibility for the quality and cost of care for a defined patient population. They are rewarded for meeting quality benchmarks and reducing cost growth.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a \"preventable readmission\"?",
+      "options": {
+        "a": "A patient readmitted for a new acute stroke",
+        "b": "A patient readmitted for heart failure exacerbation due to not taking prescribed diuretics",
+        "c": "A patient readmitted for a traumatic injury sustained at home",
+        "d": "A patient readmitted for elective surgery scheduled during the prior admission"
+      },
+      "correct_option": "b",
+      "explanation": "A readmission related to medication non-adherence (e.g., not taking diuretics) is considered potentially preventable, as proper education, follow-up, and medication reconciliation at discharge may have prevented it.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Triple Aim, as defined by the IHI, includes which of the following three goals?",
+      "options": {
+        "a": "Reducing costs, improving staff satisfaction, and expanding access",
+        "b": "Improving population health, enhancing patient experience, and reducing per-capita costs",
+        "c": "Increasing revenue, improving patient safety, and reducing length of stay",
+        "d": "Improving access, standardizing clinical protocols, and training clinicians"
+      },
+      "correct_option": "b",
+      "explanation": "The IHI Triple Aim simultaneously pursues: (1) improving the health of populations, (2) improving the experience of individual care, and (3) reducing the per-capita cost of healthcare.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the role of the quality professional in population health?",
+      "options": {
+        "a": "Direct management of chronic disease clinics",
+        "b": "Supporting data collection, analysis, and improvement initiatives targeting population-level outcomes",
+        "c": "Setting health insurance premium rates for specific populations",
+        "d": "Prescribing evidence-based medications for at-risk populations"
+      },
+      "correct_option": "b",
+      "explanation": "Quality professionals support population health by analyzing stratified data, identifying disparities, coordinating improvement teams, and measuring the effectiveness of population-level interventions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following interventions is MOST effective in managing patients with multiple chronic conditions (complex patients)?",
+      "options": {
+        "a": "Annual wellness visits only",
+        "b": "Episodic urgent care for acute exacerbations",
+        "c": "Care coordination by a dedicated care manager who monitors and supports the patient across settings",
+        "d": "Restricting specialty referrals to reduce cost"
+      },
+      "correct_option": "c",
+      "explanation": "Patients with multiple chronic conditions benefit most from proactive, coordinated care management. A dedicated care manager provides continuity, monitors status, connects resources, and prevents crisis-driven hospitalizations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the purpose of health literacy screening in population health programs?",
+      "options": {
+        "a": "Assessing whether patients can read the hospital's printed policies",
+        "b": "Identifying patients who may have difficulty understanding health information so communication can be tailored",
+        "c": "Evaluating physician communication skills",
+        "d": "Meeting Joint Commission literacy standards"
+      },
+      "correct_option": "b",
+      "explanation": "Health literacy screening identifies patients who struggle to understand health information, enabling care teams to use plain language, teach-back, and visual aids — reducing care transition failures linked to low literacy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is designing a program to reduce 30-day readmissions for heart failure patients. Which of the following evidence-based interventions should be included FIRST?",
+      "options": {
+        "a": "Daily weight monitoring instructions and follow-up appointment before discharge",
+        "b": "Discharge against medical advice policy review",
+        "c": "Pharmacy benefit expansion",
+        "d": "Extended inpatient stay for all heart failure patients"
+      },
+      "correct_option": "a",
+      "explanation": "Evidence-based heart failure discharge protocols include patient education on daily weights, symptom recognition, and ensuring a follow-up appointment within 7 days of discharge — core elements of effective transitions for this population.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes \"risk adjustment\" in the context of quality measurement?",
+      "options": {
+        "a": "Adjusting staff salaries based on performance metrics",
+        "b": "Statistically accounting for patient case mix differences when comparing outcomes across providers",
+        "c": "Reducing financial risk by limiting high-cost procedures",
+        "d": "Adjusting quality targets based on hospital size"
+      },
+      "correct_option": "b",
+      "explanation": "Risk adjustment (or case-mix adjustment) controls for differences in patient populations (age, severity, comorbidities) when comparing outcomes across hospitals or providers, ensuring fair and valid comparisons.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital quality team calculates a 90% confidence interval for a quality measure. This MOST likely means:",
+      "options": {
+        "a": "90% of patients received the intervention",
+        "b": "The team is 90% confident the true population value falls within the calculated range",
+        "c": "The measure has a 10% error rate",
+        "d": "The sample included 90% of eligible patients"
+      },
+      "correct_option": "b",
+      "explanation": "A 90% confidence interval means that if the sampling process were repeated many times, 90% of the resulting intervals would contain the true population parameter. It reflects statistical uncertainty, not accuracy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following data types is MOST appropriate for measuring patient satisfaction?",
+      "options": {
+        "a": "Continuous data",
+        "b": "Nominal data",
+        "c": "Ordinal data",
+        "d": "Ratio data"
+      },
+      "correct_option": "c",
+      "explanation": "Patient satisfaction scores (e.g., Likert scales: \"Always/Usually/Sometimes/Never\") are ordinal — they have a meaningful order but the intervals between values are not necessarily equal.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the purpose of a dashboard in healthcare quality?",
+      "options": {
+        "a": "To replace electronic health records",
+        "b": "To display a concise set of key performance indicators at a glance for monitoring performance",
+        "c": "To document individual patient encounters",
+        "d": "To generate billing reports"
+      },
+      "correct_option": "b",
+      "explanation": "Quality dashboards provide at-a-glance visual displays of key performance metrics (KPIs), enabling leadership and frontline teams to quickly assess performance status and trends.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST distinguishes \"prevalence\" from \"incidence\" in epidemiology?",
+      "options": {
+        "a": "Prevalence measures new cases; incidence measures existing cases",
+        "b": "Prevalence measures all existing cases in a population at a point in time; incidence measures new cases over a period",
+        "c": "They are interchangeable terms",
+        "d": "Incidence is used for chronic diseases; prevalence for acute diseases"
+      },
+      "correct_option": "b",
+      "explanation": "Prevalence = proportion of the population with a condition at a given point in time (existing cases). Incidence = rate of new cases developing in a defined period. Both are critical for population health monitoring.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's infection rate per 1,000 patient days is an example of which type of measure?",
+      "options": {
+        "a": "A ratio",
+        "b": "A rate",
+        "c": "A proportion",
+        "d": "A mean"
+      },
+      "correct_option": "b",
+      "explanation": "A rate expresses frequency of events relative to a unit of person-time (e.g., per 1,000 patient days). Rates account for varying exposure periods, making them more valid for comparing infection risk across units.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes \"validity\" in the context of quality measurement?",
+      "options": {
+        "a": "The degree to which a measure produces consistent results across repeated tests",
+        "b": "The degree to which a measure accurately captures what it is intended to measure",
+        "c": "The completeness of data in a registry",
+        "d": "The ability to compare a measure across different institutions"
+      },
+      "correct_option": "b",
+      "explanation": "Validity refers to whether a measure truly captures the concept it is intended to measure (e.g., does a patient satisfaction survey actually measure satisfaction, or just response tendencies?). Reliability is consistency across repeated measurement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality analyst wants to determine whether there is a statistically significant difference in readmission rates between two hospitals. Which statistical test is MOST appropriate?",
+      "options": {
+        "a": "Pearson correlation coefficient",
+        "b": "Chi-square test",
+        "c": "Linear regression",
+        "d": "Standard deviation calculation"
+      },
+      "correct_option": "b",
+      "explanation": "The chi-square test is used to determine whether there is a statistically significant difference between categorical variables (such as readmitted/not readmitted) across two or more groups.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following data sources is MOST appropriate for identifying trends in hospital-acquired conditions (HACs) over time?",
+      "options": {
+        "a": "Patient satisfaction surveys",
+        "b": "Administrative claims data",
+        "c": "Staff feedback forms",
+        "d": "Physician performance reports"
+      },
+      "correct_option": "b",
+      "explanation": "Administrative claims data (billing/coding data) are widely used for HAC surveillance because they are readily available, cover large populations, and include diagnosis and procedure codes that can flag HAC events.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST defines \"reliability\" in quality measurement?",
+      "options": {
+        "a": "The measure captures what it intends to measure",
+        "b": "The measure produces consistent results when applied repeatedly under the same conditions",
+        "c": "The data are complete and free of missing values",
+        "d": "The measure has been approved by a regulatory body"
+      },
+      "correct_option": "b",
+      "explanation": "Reliability (or reproducibility) means the measure yields the same results when applied under the same conditions — essential for tracking trends and comparing performance over time.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the PRIMARY advantage of using electronic health record (EHR) data for quality measurement?",
+      "options": {
+        "a": "EHR data eliminate the need for chart abstraction",
+        "b": "EHR data are completely standardized across all hospitals",
+        "c": "EHR data capture real-time clinical information at the point of care, enabling more timely quality monitoring",
+        "d": "EHR data are not subject to documentation errors"
+      },
+      "correct_option": "c",
+      "explanation": "EHR data enable near-real-time monitoring of clinical processes and outcomes, supporting timely quality improvement. However, EHR data are not always standardized and are subject to documentation variability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team notices that the hospital's fall rate appears to spike every January. This is MOST likely an example of:",
+      "options": {
+        "a": "Special cause variation requiring investigation",
+        "b": "Random variation in a stable process",
+        "c": "Seasonal common cause variation related to environmental or staffing patterns",
+        "d": "A data collection error"
+      },
+      "correct_option": "c",
+      "explanation": "Recurring seasonal patterns can reflect common cause variation driven by predictable factors (e.g., winter staffing changes, patient acuity shifts). If the pattern is consistent, it reflects system-level seasonality rather than a special event.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is a key principle of data integrity in quality measurement?",
+      "options": {
+        "a": "Data should only be collected by physicians",
+        "b": "Data should be accurate, complete, timely, and consistent",
+        "c": "Data should be collected annually to avoid burden",
+        "d": "Data should be stored only in paper format for security"
+      },
+      "correct_option": "b",
+      "explanation": "Data integrity requires that information is accurate (correct), complete (no missing values), timely (collected and available when needed), and consistent (same definitions applied uniformly).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the purpose of stratifying quality data?",
+      "options": {
+        "a": "To reduce the total volume of data analyzed",
+        "b": "To identify differences in performance or outcomes across subgroups (e.g., age, race, payer)",
+        "c": "To exclude outlier data points from analysis",
+        "d": "To simplify reporting for the governing board"
+      },
+      "correct_option": "b",
+      "explanation": "Data stratification breaks aggregate data into subgroups to reveal disparities and differences in outcomes. Without stratification, disparities may be hidden within overall averages.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital measures its HCAHPS score for \"communication with nurses\" as 72%. This is an example of:",
+      "options": {
+        "a": "A rate measure",
+        "b": "A proportion measure (percentage) reflecting a process/experience indicator",
+        "c": "A continuous data measure",
+        "d": "A ratio measure"
+      },
+      "correct_option": "b",
+      "explanation": "HCAHPS scores expressed as percentages (e.g., \"top-box\" scores) are proportions — the number of patients with a particular response divided by the total number of respondents.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes predictive analytics in healthcare quality?",
+      "options": {
+        "a": "Analyzing historical data to understand what happened",
+        "b": "Using statistical models and algorithms to forecast future events or patient outcomes",
+        "c": "Benchmarking current performance against national standards",
+        "d": "Reporting quality metrics to CMS"
+      },
+      "correct_option": "b",
+      "explanation": "Predictive analytics uses historical data and algorithms (including machine learning) to forecast future outcomes — for example, predicting which patients are at high risk for readmission, sepsis, or fall.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The HCAHPS survey is MOST directly used to measure:",
+      "options": {
+        "a": "Clinical outcomes of hospitalized patients",
+        "b": "Patient experience of care from the patient's perspective",
+        "c": "Nurse staffing ratios",
+        "d": "Hospital-acquired infection rates"
+      },
+      "correct_option": "b",
+      "explanation": "HCAHPS (Hospital Consumer Assessment of Healthcare Providers and Systems) is a standardized, publicly reported survey measuring patient experience across domains including communication, responsiveness, and discharge information.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes a \"sentinel event\" indicator?",
+      "options": {
+        "a": "A measure tracked over time in a control chart",
+        "b": "A rate-based measure derived from large samples",
+        "c": "A measure where every single occurrence triggers review (zero tolerance)",
+        "d": "A measure used only for accreditation purposes"
+      },
+      "correct_option": "c",
+      "explanation": "Sentinel event indicators are serious, rare events (e.g., wrong-site surgery, infant abduction) where any single occurrence warrants immediate investigation — they are not rate-based.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A p-value of 0.03 in a quality study means:",
+      "options": {
+        "a": "There is a 3% chance the intervention caused the observed effect",
+        "b": "There is a 3% probability of obtaining the observed results if the null hypothesis is true",
+        "c": "The effect size is 3% of the baseline value",
+        "d": "Three percent of patients improved with the intervention"
+      },
+      "correct_option": "b",
+      "explanation": "A p-value represents the probability of observing results at least as extreme as those observed, assuming the null hypothesis is true. A p-value of 0.03 (< 0.05 threshold) suggests statistically significant results.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is MOST important when interpreting quality benchmark data?",
+      "options": {
+        "a": "Ensuring the benchmark source is the most prestigious",
+        "b": "Verifying that the benchmark population and measure definitions are comparable to your own",
+        "c": "Using only national benchmarks rather than regional ones",
+        "d": "Selecting benchmarks that show your hospital in the best light"
+      },
+      "correct_option": "b",
+      "explanation": "Benchmark comparisons are only valid when populations, definitions, and data collection methods are comparable. Comparing unlike populations or differently defined measures leads to misleading and inaccurate conclusions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the role of The Joint Commission (TJC) in U.S. healthcare quality?",
+      "options": {
+        "a": "It sets Medicare reimbursement rates",
+        "b": "It accredits healthcare organizations and certifies programs to promote quality and safety",
+        "c": "It conducts criminal investigations of healthcare fraud",
+        "d": "It manages physician licensing and credentialing"
+      },
+      "correct_option": "b",
+      "explanation": "The Joint Commission is an independent accrediting body that evaluates healthcare organizations against evidence-based performance standards, granting accreditation as recognition of quality and safety compliance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Centers for Medicare & Medicaid Services (CMS) Conditions of Participation (CoPs) are BEST described as:",
+      "options": {
+        "a": "Optional guidelines for improving care quality",
+        "b": "Mandatory federal standards that healthcare facilities must meet to participate in Medicare and Medicaid",
+        "c": "State-specific regulations for hospital licensing",
+        "d": "Financial benchmarks for Medicare reimbursement rates"
+      },
+      "correct_option": "b",
+      "explanation": "CMS Conditions of Participation are federal requirements that healthcare organizations must satisfy to receive Medicare and Medicaid reimbursement. Non-compliance can result in termination from the programs.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following accreditation programs is specifically designed for ambulatory care organizations?",
+      "options": {
+        "a": "The Joint Commission Hospital Accreditation",
+        "b": "DNV GL Healthcare Accreditation",
+        "c": "Accreditation Association for Ambulatory Health Care (AAAHC)",
+        "d": "Magnet Recognition Program"
+      },
+      "correct_option": "c",
+      "explanation": "The AAAHC specifically accredits ambulatory health care organizations (outpatient surgery centers, medical groups, clinics) against standards tailored for non-inpatient settings.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The National Patient Safety Goals (NPSGs) published by The Joint Commission are BEST described as:",
+      "options": {
+        "a": "Voluntary guidelines for hospital quality improvement",
+        "b": "Required standards addressing the most critical patient safety issues for accredited organizations",
+        "c": "Metrics used only for public reporting purposes",
+        "d": "Clinical practice guidelines developed by medical specialty societies"
+      },
+      "correct_option": "b",
+      "explanation": "TJC's NPSGs identify and address specific patient safety concerns (e.g., correct patient identification, improving staff communication) and are mandatory standards for TJC-accredited organizations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital receives a \"Requirement for Improvement\" (RFI) during a Joint Commission survey. This means:",
+      "options": {
+        "a": "The hospital has passed accreditation with no further action required",
+        "b": "The hospital has failed accreditation and must close immediately",
+        "c": "The hospital did not meet a standard and must submit an Evidence of Standards Compliance within a specified timeframe",
+        "d": "The hospital must undergo a second unannounced survey within 30 days"
+      },
+      "correct_option": "c",
+      "explanation": "An RFI (now called \"Requirements for Improvement\") indicates a standards deficiency found during a survey. The organization must submit an Evidence of Standards Compliance (ESC) plan within the required timeframe, typically 60 days.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of \"deemed status\" in U.S. healthcare accreditation?",
+      "options": {
+        "a": "A hospital receiving emergency funding from the federal government",
+        "b": "An accrediting body's approval allowing accredited organizations to be deemed as meeting CMS CoPs without separate government inspection",
+        "c": "A physician being recognized as a subject matter expert by CMS",
+        "d": "A state government designating a hospital as a trauma center"
+      },
+      "correct_option": "b",
+      "explanation": "\"Deemed status\" means an accrediting organization (e.g., TJC, DNV) has been approved by CMS to certify that accredited organizations meet Medicare CoPs, eliminating the need for a separate CMS survey.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The purpose of The Joint Commission's tracer methodology during surveys is to:",
+      "options": {
+        "a": "Review financial records for billing compliance",
+        "b": "Follow an individual patient's care experience across the organization to evaluate systems and processes",
+        "c": "Audit credentialing files for all medical staff",
+        "d": "Test fire safety equipment throughout the facility"
+      },
+      "correct_option": "b",
+      "explanation": "TJC's tracer methodology follows the care journey of an actual patient (individual tracer) or a system/process (system tracer) across the organization to evaluate how standards are applied in real care delivery.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "CMS's Hospital Inpatient Quality Reporting (IQR) Program requires hospitals to:",
+      "options": {
+        "a": "Submit quality measure data to CMS in exchange for avoiding a payment reduction",
+        "b": "Participate in monthly unannounced surveys",
+        "c": "Reduce Medicare costs by 10% annually",
+        "d": "Join a regional health information exchange"
+      },
+      "correct_option": "a",
+      "explanation": "The Hospital IQR Program is a pay-for-reporting program — hospitals that fail to submit required quality data to CMS receive a 25% reduction in their Annual Payment Update (APU) for Medicare.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Under the Hospital Value-Based Purchasing (VBP) Program, hospital payments are tied to:",
+      "options": {
+        "a": "The volume of Medicare patients served",
+        "b": "Performance on clinical quality, patient experience, safety, and efficiency measures",
+        "c": "The number of quality staff employed",
+        "d": "Compliance with TJC accreditation standards only"
+      },
+      "correct_option": "b",
+      "explanation": "Hospital VBP adjusts Medicare inpatient payments based on hospitals' performance on quality measures across four domains: clinical outcomes, safety, patient experience (HCAHPS), and efficiency.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The purpose of the Magnet Recognition Program (American Nurses Credentialing Center) is to:",
+      "options": {
+        "a": "Certify individual nurses as quality experts",
+        "b": "Recognize healthcare organizations that demonstrate excellence in nursing practice and outcomes",
+        "c": "Accredit nursing schools for curriculum quality",
+        "d": "Regulate nurse-to-patient staffing ratios nationally"
+      },
+      "correct_option": "b",
+      "explanation": "The ANCC Magnet Recognition Program recognizes healthcare organizations that achieve sustained excellence in nursing practice, nursing-sensitive outcomes, and professional development, based on the \"Forces of Magnetism.\"",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the purpose of public reporting of quality data (e.g., Hospital Compare)?",
+      "options": {
+        "a": "To embarrass poorly performing hospitals",
+        "b": "To support consumer choice, drive accountability, and motivate quality improvement",
+        "c": "To comply with HIPAA requirements",
+        "d": "To determine Medicare payment rates directly"
+      },
+      "correct_option": "b",
+      "explanation": "Public quality reporting (e.g., CMS's Care Compare) serves multiple purposes: empowering consumers with information, holding providers accountable, and creating competitive incentives for improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the PRIMARY purpose of a healthcare organization's credentialing process?",
+      "options": {
+        "a": "Assigning patients to appropriate physicians based on specialty",
+        "b": "Verifying that licensed practitioners meet established standards to provide safe, competent care",
+        "c": "Setting physician compensation based on productivity",
+        "d": "Reviewing insurance plans accepted by medical staff"
+      },
+      "correct_option": "b",
+      "explanation": "Credentialing involves verifying practitioners' education, training, licensure, competence, and conduct to ensure they are qualified to provide care safely. It is a fundamental governance and quality function.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The National Committee for Quality Assurance (NCQA) is MOST associated with accrediting which type of organization?",
+      "options": {
+        "a": "Acute care hospitals",
+        "b": "Managed care organizations and health plans",
+        "c": "Long-term care facilities",
+        "d": "Ambulatory surgery centers"
+      },
+      "correct_option": "b",
+      "explanation": "NCQA primarily accredits health plans and managed care organizations, and its HEDIS measures are widely used for evaluating health plan quality performance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "HEDIS (Healthcare Effectiveness Data and Information Set) is a set of measures used primarily by:",
+      "options": {
+        "a": "Acute care hospitals to track inpatient outcomes",
+        "b": "Health plans to measure performance on key dimensions of care and service",
+        "c": "Nursing homes to assess long-term care quality",
+        "d": "Emergency departments to benchmark patient throughput"
+      },
+      "correct_option": "b",
+      "explanation": "HEDIS measures (developed by NCQA) are used by more than 90% of U.S. health plans to measure performance across domains including effectiveness of care, access, and patient experience.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST accurate description of an \"unannounced survey\" by The Joint Commission?",
+      "options": {
+        "a": "A survey triggered only by a specific complaint",
+        "b": "A standard accreditation survey conducted without advance notice during the accreditation cycle",
+        "c": "A survey conducted exclusively for new hospital applicants",
+        "d": "A virtual survey conducted via video conference"
+      },
+      "correct_option": "b",
+      "explanation": "TJC conducts unannounced accreditation surveys — the timing within the accreditation cycle is not disclosed to organizations, ensuring that survey conditions reflect day-to-day operations rather than a prepared state.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following regulatory bodies is PRIMARILY responsible for investigating workplace safety for healthcare workers?",
+      "options": {
+        "a": "Centers for Disease Control and Prevention (CDC)",
+        "b": "The Joint Commission",
+        "c": "Occupational Safety and Health Administration (OSHA)",
+        "d": "Agency for Healthcare Research and Quality (AHRQ)"
+      },
+      "correct_option": "c",
+      "explanation": "OSHA is the federal agency responsible for setting and enforcing workplace safety standards, including bloodborne pathogen exposure, needlestick prevention, and workplace violence prevention in healthcare settings.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following describes the PRIMARY purpose of the peer review process in hospitals?",
+      "options": {
+        "a": "Setting physician compensation",
+        "b": "Evaluating the clinical competence and performance of practitioners to maintain quality care standards",
+        "c": "Reviewing billing practices for accuracy",
+        "d": "Assessing patient satisfaction with physicians"
+      },
+      "correct_option": "b",
+      "explanation": "Peer review is a confidential, protected process in which qualified practitioners evaluate the clinical care provided by their peers — a cornerstone of medical staff quality oversight and credentialing.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST appropriate response by a quality professional when an external regulatory agency survey identifies a deficiency?",
+      "options": {
+        "a": "Dispute the finding with the surveyors",
+        "b": "Immediately notify all staff via email",
+        "c": "Develop a corrective action plan addressing the root cause and implementing sustainable change",
+        "d": "Defer action until the next accreditation cycle"
+      },
+      "correct_option": "c",
+      "explanation": "The appropriate response to a regulatory deficiency is a structured corrective action plan that addresses root causes and implements measurable, sustainable improvements — then monitored for effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The CMS Hospital-Acquired Condition (HAC) Reduction Program penalizes hospitals that:",
+      "options": {
+        "a": "Have above-average nurse staffing ratios",
+        "b": "Fall in the worst-performing quartile for hospital-acquired conditions compared to national peers",
+        "c": "Fail to submit HCAHPS data on time",
+        "d": "Have below-average financial performance"
+      },
+      "correct_option": "b",
+      "explanation": "The HAC Reduction Program reduces Medicare payments by 1% for hospitals in the worst-performing quartile on HAC measures (e.g., CLABSI, CAUTI, SSIs, falls with trauma) — creating a financial incentive for patient safety.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the purpose of the National Quality Forum (NQF)?",
+      "options": {
+        "a": "Setting insurance reimbursement rates for quality measures",
+        "b": "A nonprofit organization that endorses standardized quality measures for use in reporting and improvement",
+        "c": "A government agency that accredits healthcare facilities",
+        "d": "An international body that regulates pharmaceutical quality"
+      },
+      "correct_option": "b",
+      "explanation": "The NQF is a nonprofit that convenes stakeholders to endorse evidence-based quality measures for healthcare. NQF-endorsed measures have undergone rigorous review for scientific validity and are widely used in public reporting and payment programs.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the purpose of ongoing professional practice evaluation (OPPE)?",
+      "options": {
+        "a": "An annual performance review of nursing staff conducted by HR",
+        "b": "A continuous review of a practitioner's clinical performance to ensure sustained competence",
+        "c": "A one-time assessment for initial credentialing",
+        "d": "A financial review of physician billing practices"
+      },
+      "correct_option": "b",
+      "explanation": "OPPE is a continuous, data-driven process required by TJC that monitors practitioners' clinical performance between credentialing cycles to identify performance concerns early.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's quality department is reviewing cases using occurrence screening criteria. This is MOST consistent with which type of quality review?",
+      "options": {
+        "a": "Prospective review",
+        "b": "Concurrent review",
+        "c": "Retrospective review",
+        "d": "Utilization review"
+      },
+      "correct_option": "c",
+      "explanation": "Occurrence screening using predetermined criteria to identify cases for further review in medical records is a retrospective quality review method — analyzing data after care has been provided.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the concept of \"accountability measures\" in quality reporting?",
+      "options": {
+        "a": "Measures used only for internal quality improvement without public disclosure",
+        "b": "Measures with strong evidence linking them to patient outcomes, significant variation among providers, and low risk of harm",
+        "c": "Measures that track only financial performance",
+        "d": "Measures developed exclusively by hospital leadership"
+      },
+      "correct_option": "b",
+      "explanation": "Accountability measures (as distinguished from internal improvement measures by TJC and others) meet criteria including strong evidence linking the process to outcomes, provider variation, and minimal risk of unintended harm.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is conducting a focused professional practice evaluation (FPPE). This is MOST likely triggered by:",
+      "options": {
+        "a": "Annual reappointment of all medical staff",
+        "b": "A specific concern about a practitioner's competence or conduct",
+        "c": "Routine new staff orientation",
+        "d": "A request from the hospital's finance department"
+      },
+      "correct_option": "b",
+      "explanation": "FPPE is a time-limited, focused review of a practitioner's specific performance concern — triggered by a specific event, complaint, or identified pattern. It is distinct from the ongoing monitoring of OPPE.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST appropriate use of retrospective medical record review?",
+      "options": {
+        "a": "Intercepting and correcting errors before they reach the patient",
+        "b": "Analyzing cases after care delivery to identify trends, compliance, and opportunities for improvement",
+        "c": "Monitoring patients in real-time during their hospital stay",
+        "d": "Reviewing prior authorization requests from payers"
+      },
+      "correct_option": "b",
+      "explanation": "Retrospective review analyzes records after care is delivered to evaluate adherence to standards, identify trends, and reveal opportunities for improvement — a core quality review method.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of an \"intensity of service\" criterion used in utilization review?",
+      "options": {
+        "a": "Patient's insurance plan type",
+        "b": "The level of care required (e.g., continuous monitoring, IV medications, frequent vital signs)",
+        "c": "Patient's primary language",
+        "d": "Distance from the hospital to the patient's home"
+      },
+      "correct_option": "b",
+      "explanation": "Intensity of service (IS) criteria measure the level of clinical intervention and monitoring required — used in utilization review (along with severity of illness criteria) to determine whether inpatient admission is medically necessary.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST defines \"utilization management\" in healthcare quality?",
+      "options": {
+        "a": "Managing the supply of medical equipment in a hospital",
+        "b": "Evaluating and managing the appropriateness, efficiency, and effectiveness of healthcare services provided",
+        "c": "Reviewing staff scheduling and deployment",
+        "d": "Managing the hospital's financial accounts receivable"
+      },
+      "correct_option": "b",
+      "explanation": "Utilization management involves systematic review of services to ensure they are medically necessary, appropriate, and delivered efficiently — supporting quality, cost control, and regulatory compliance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality committee is conducting a mortality review. The PRIMARY purpose of this review is to:",
+      "options": {
+        "a": "Determine liability for patient deaths",
+        "b": "Identify whether deaths were preventable and discover opportunities to improve care",
+        "c": "Compare the hospital's mortality rate to national averages only",
+        "d": "Document deaths for state regulatory reporting"
+      },
+      "correct_option": "b",
+      "explanation": "Mortality reviews examine whether deaths were potentially preventable and identify contributing factors and system issues — with the goal of improving care and reducing future preventable mortality, not assigning blame.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following statements BEST describes protected peer review information in most U.S. states?",
+      "options": {
+        "a": "Peer review findings must be submitted to CMS annually",
+        "b": "Peer review records are generally protected from discovery in legal proceedings to encourage candid review",
+        "c": "Peer review information is public record and must be disclosed upon request",
+        "d": "Peer review findings must be shared with all medical staff members"
+      },
+      "correct_option": "b",
+      "explanation": "Most states have peer review protection laws that shield peer review proceedings, records, and findings from use in malpractice litigation — encouraging honest, thorough quality review without fear of legal liability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the PRIMARY purpose of the Health Plan Employer Data and Information Set (HEDIS) quality review?",
+      "options": {
+        "a": "Reviewing individual physician performance for hospital credentialing",
+        "b": "Measuring health plan performance on standardized measures to compare and improve quality",
+        "c": "Evaluating hospital-level infection rates",
+        "d": "Assessing CMS regulatory compliance in managed care plans"
+      },
+      "correct_option": "b",
+      "explanation": "HEDIS is used by health plans to measure performance across standardized quality domains, supporting benchmarking, plan comparison by employers and consumers, and internal quality improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is MOST consistent with a \"concurrent review\" process?",
+      "options": {
+        "a": "Reviewing a patient's records 30 days after discharge",
+        "b": "Reviewing a patient's status and care plan while they are actively hospitalized to ensure appropriateness of continued stay",
+        "c": "Reviewing credentialing files before granting hospital privileges",
+        "d": "Auditing discharged cases for coding accuracy"
+      },
+      "correct_option": "b",
+      "explanation": "Concurrent review occurs during an active hospital stay to evaluate the appropriateness of continued inpatient care and to plan for discharge — distinct from retrospective (post-discharge) review.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team is developing key performance indicators (KPIs) for a quality dashboard. Which of the following criteria is MOST important in selecting KPIs?",
+      "options": {
+        "a": "KPIs should be easy to collect without changing current workflows",
+        "b": "KPIs should align with strategic goals, be measurable, and reflect important quality dimensions",
+        "c": "KPIs should be selected by the IT department based on data availability",
+        "d": "KPIs should be identical to those used by competing hospitals"
+      },
+      "correct_option": "b",
+      "explanation": "Effective KPIs must be strategically aligned, measurable, clinically meaningful, and reflect dimensions important to patients, payers, and regulators — not merely convenient or imitative of competitors.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST appropriate action when a quality audit reveals persistent non-compliance with hand hygiene protocols despite previous education?",
+      "options": {
+        "a": "Repeat the same educational intervention",
+        "b": "Perform a root cause analysis to identify barriers and redesign the intervention accordingly",
+        "c": "Document the non-compliance and close the audit",
+        "d": "Report all non-compliant staff to human resources"
+      },
+      "correct_option": "b",
+      "explanation": "When repeated education fails to change behavior, the approach must shift to understanding why compliance is not occurring — conducting an RCA to identify system-level barriers and designing targeted structural interventions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the concept of \"accountability\" in quality management?",
+      "options": {
+        "a": "The ability to shift responsibility for quality to frontline staff only",
+        "b": "The clear assignment of responsibility for quality outcomes with mechanisms for follow-through and reporting",
+        "c": "The process of reporting errors to external regulatory agencies only",
+        "d": "A punitive system for identifying underperforming departments"
+      },
+      "correct_option": "b",
+      "explanation": "Accountability in quality means clearly defining who is responsible for what quality outcomes and ensuring mechanisms are in place to track performance, report results, and follow through on improvements.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization is preparing for an accreditation survey and conducts a mock survey. The PRIMARY purpose of a mock survey is to:",
+      "options": {
+        "a": "Train staff to give scripted responses to surveyors",
+        "b": "Identify gaps in standards compliance and correct them before the actual survey",
+        "c": "Reduce survey anxiety without changing practices",
+        "d": "Produce a compliance report for the Board of Directors"
+      },
+      "correct_option": "b",
+      "explanation": "Mock surveys simulate actual accreditation surveys to proactively identify compliance gaps, enabling corrective action before the formal survey — improving performance and reducing the risk of deficiency citations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the relationship between quality improvement and performance management?",
+      "options": {
+        "a": "They are entirely separate functions with no overlap",
+        "b": "Performance management uses data to assess outcomes; QI uses that data to drive systematic improvements",
+        "c": "Performance management is a clinical function; QI is an administrative function",
+        "d": "QI replaces performance management in modern healthcare organizations"
+      },
+      "correct_option": "b",
+      "explanation": "Performance management and quality improvement are closely linked — performance management tracks and evaluates outcomes, while QI uses those insights to design and test systematic improvements. They are complementary, not separate.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a \"structure\" measure in Donabedian's framework?",
+      "options": {
+        "a": "Percentage of patients who received discharge instructions",
+        "b": "30-day readmission rate",
+        "c": "The availability of a dedicated quality improvement team",
+        "d": "Patient satisfaction with communication"
+      },
+      "correct_option": "c",
+      "explanation": "Donabedian's framework includes Structure (resources, facilities, staff), Process (actions taken in providing care), and Outcomes (results of care). A dedicated QI team is a structural resource — it is in place to support quality work.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's quality team is reviewing adverse drug event (ADE) trends. Which of the following is the BEST approach to detect ADEs in medical records?",
+      "options": {
+        "a": "Reviewing all physician progress notes for medication references",
+        "b": "Using IHI Global Trigger Tool methodology to screen records for \"triggers\" that may indicate an ADE",
+        "c": "Relying solely on voluntary incident reporting data",
+        "d": "Auditing pharmacy billing records for high-cost medications"
+      },
+      "correct_option": "b",
+      "explanation": "The IHI Global Trigger Tool uses standardized triggers (e.g., naloxone use, abnormal lab values) to screen records efficiently and identify potential adverse events. Voluntary reporting significantly underestimates ADE rates.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST important element of an effective corrective action plan following a quality deficiency?",
+      "options": {
+        "a": "A detailed list of all staff members involved in the deficiency",
+        "b": "Clear identification of root causes, specific actions to address them, ownership, and measurable outcome targets",
+        "c": "A legal review of liability exposure",
+        "d": "A financial impact analysis of the deficiency"
+      },
+      "correct_option": "b",
+      "explanation": "An effective CAP addresses root causes (not symptoms), assigns clear ownership for each action, specifies measurable targets, and sets timelines for completion and monitoring — ensuring sustainable improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director is asked to demonstrate compliance with TJC Standard LD.03.06.01 related to analyzing quality improvement data. Which of the following BEST fulfills this requirement?",
+      "options": {
+        "a": "Submitting patient satisfaction surveys to the Board quarterly",
+        "b": "Establishing a systematic process to compile, analyze, and act on quality and patient safety data across the organization",
+        "c": "Ensuring all staff complete annual quality training",
+        "d": "Conducting patient focus groups twice per year"
+      },
+      "correct_option": "b",
+      "explanation": "TJC LD.03.06.01 requires leaders to use data and information to guide decisions and to systematically analyze and act on quality and patient safety data — requiring an integrated, organization-wide data management and action process.",
+      "difficulty": "medium"
+    }
+  ]
+}

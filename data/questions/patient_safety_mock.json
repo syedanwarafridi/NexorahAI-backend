@@ -1,0 +1,66 @@
+{
+  "topic": "Patient Safety",
+  "type": "mock",
+  "questions": [
+    {
+      "text": "A nurse administers the wrong medication because the drug label looked identical to another medication stored nearby. According to the Swiss Cheese Model, this event BEST represents:",
+      "options": {
+        "a": "Individual negligence requiring disciplinary action",
+        "b": "Alignment of multiple system defense failures allowing harm to reach the patient",
+        "c": "A reckless behavior requiring coaching under Just Culture",
+        "d": "A contributing factor only, not a root cause"
+      },
+      "correct_option": "b",
+      "explanation": "The Swiss Cheese Model holds that harm occurs only when holes across multiple defensive layers align simultaneously. The similar labeling, storage proximity, and lack of a verification checkpoint are all system failures — not individual blame. No single failure alone caused the harm.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital installs automated drug dispensing cabinets that physically prevent incorrect medication selection through biometric locks and hard stops. This BEST exemplifies which patient safety concept:",
+      "options": {
+        "a": "Standardization of care delivery",
+        "b": "Human Factors Engineering — forcing function",
+        "c": "HRO principle of sensitivity to operations",
+        "d": "Just Culture system redesign"
+      },
+      "correct_option": "b",
+      "explanation": "A forcing function makes unsafe actions physically impossible — the highest-strength error prevention tool. It does not rely on human memory or compliance, which is the defining characteristic of HFE forcing functions. Standardization reduces variability but still relies on human compliance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which statement BEST distinguishes Human Factors Engineering (HFE) from general human factors awareness:",
+      "options": {
+        "a": "HFE addresses individual behavior; human factors addresses team dynamics",
+        "b": "HFE applies knowledge of human capabilities and limitations to the design of systems and devices",
+        "c": "HFE is reactive while general human factors is proactive",
+        "d": "HFE applies only to electronic health record design"
+      },
+      "correct_option": "b",
+      "explanation": "HFE is an applied science that uses knowledge of human limitations — attention, memory, cognition — to design systems that work as humans actually perform, not as policy imagines they should. The \"Work as Done vs. Work as Imagined\" gap is the defining HFE concept.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "After a patient safety success, a hospital unit holds a celebration and senior leadership announces that safety is \"under control.\" Which HRO principle is being VIOLATED:",
+      "options": {
+        "a": "Deference to expertise",
+        "b": "Reluctance to simplify",
+        "c": "Preoccupation with failure",
+        "d": "Commitment to resilience"
+      },
+      "correct_option": "c",
+      "explanation": "Preoccupation with failure means NEVER becoming complacent after success. HROs treat success as a signal to remain vigilant, not relax. Near misses and small signals continue to be treated as serious warnings even after positive outcomes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization implements all three pillars simultaneously — learning from errors, redesigning to prevent them, and building rapid response capacity. This approach BEST reflects:",
+      "options": {
+        "a": "Swiss Cheese Model — strengthening individual layers",
+        "b": "Three Pillars framework — managing, preventing, and reducing harm together",
+        "c": "HRO — preoccupation with failure",
+        "d": "HFE — work as imagined design"
+      },
+      "correct_option": "b",
+      "explanation": "The Three Pillars framework holds that no single pillar is sufficient. Managing alone repeats errors; preventing alone is insufficient when prevention fails; reducing alone does not address root causes. All three must operate simultaneously for comprehensive patient safety.",
+      "difficulty": "medium"
+    }
+  ]
+}

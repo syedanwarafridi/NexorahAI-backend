@@ -1,29 +1,46 @@
 """
 Management command: load_cphq_data
 
-Reads the CPHQ Course folder, parses all Word documents for quiz/mock-exam
-questions, copies video files into the Django media directory, and seeds the
-database with:
+Reads JSON files from data/questions/ and seeds the database with:
 
   Category  : Healthcare Quality
   Course    : CPHQ Exam Preparation
-  Chapters  : one per Domain (video attached)
-  Topics    : one per Domain (Patient Safety, Quality Review & Accountability)
-  Questions : parsed from per-domain quiz & mock-exam .docx files, plus the
-              global 140-question mock exam
+  Chapters  : one per Domain (video attached if available in media/)
+  Topics    : one per Domain
+  Questions : loaded from JSON files
 
-Run with:
+JSON file layout expected in <BASE_DIR>/data/questions/:
+  patient_safety_quiz.json
+  patient_safety_mock.json
+  quality_review_quiz.json
+  quality_review_mock.json
+  cphq_global_mock.json
+
+Each file has the schema:
+  {
+    "topic": "<topic name or null>",
+    "type":  "quiz" | "mock",
+    "questions": [
+      {
+        "text": "...",
+        "options": {"a": "...", "b": "...", "c": "...", "d": "..."},
+        "correct_option": "a" | "b" | "c" | "d",
+        "explanation": "...",
+        "difficulty": "easy" | "medium" | "hard"   // optional
+      }
+    ]
+  }
+
+Usage:
     python manage.py load_cphq_data
-    python manage.py load_cphq_data --flush   # drop existing data first
+    python manage.py load_cphq_data --flush      # wipe existing data first
+    python manage.py load_cphq_data --data-dir path/to/questions/
 """
 
-import os
-import re
-import shutil
+import json
 from pathlib import Path
 
 from django.conf import settings
-from django.core.files import File
 from django.core.management.base import BaseCommand, CommandError
 
 from courses.models import Category, Chapter, Course
@@ -31,204 +48,32 @@ from quiz.models import Question, Topic
 
 
 # ---------------------------------------------------------------------------
-# Docx parsing helpers
+# Question files: (filename, topic_name_or_None, question_type)
 # ---------------------------------------------------------------------------
+QUESTION_FILES = [
+    ("patient_safety_quiz.json",     "Patient Safety",                  "quiz"),
+    ("patient_safety_mock.json",     "Patient Safety",                  "mock"),
+    ("quality_review_quiz.json",     "Quality Review & Accountability",  "quiz"),
+    ("quality_review_mock.json",     "Quality Review & Accountability",  "mock"),
+    ("cphq_global_mock.json",        None,                               "mock"),
+]
 
-def _extract_text_from_docx(docx_path: Path) -> str:
-    """Return all paragraph + table-cell text from a .docx file."""
-    try:
-        from docx import Document
-    except ImportError:
-        raise CommandError("python-docx not installed. Run: pip install python-docx")
+DOMAIN_CHAPTERS = [
+    {
+        "order": 1,
+        "title": "Domain 1: Patient Safety",
+        "video_filename": "Patient Safety.mp4",
+    },
+    {
+        "order": 2,
+        "title": "Domain 2: Quality Review & Accountability",
+        "video_filename": "Quality Review and Accountability.mp4",
+    },
+]
 
-    doc = Document(str(docx_path))
-    lines = []
-
-    # Paragraphs
-    for para in doc.paragraphs:
-        text = para.text.strip()
-        if text:
-            lines.append(text)
-
-    # Tables (some docs put Q&A in tables)
-    for table in doc.tables:
-        for row in table.rows:
-            for cell in row.cells:
-                text = cell.text.strip()
-                if text:
-                    lines.append(text)
-
-    return "\n".join(lines)
-
-
-def _parse_questions(text: str) -> list[dict]:
-    """
-    Parse MCQ questions from raw text. Handles four formats found in CPHQ docs:
-
-    Format A  — question number on its own line, then text on next line:
-        Question 1
-        Question text?
-        A. Option  ...  ✅ Correct Answer: C  Rationale: ...
-
-    Format B  — question number + text on the SAME line (mock exam docs):
-        Question 1 Question text that starts right here...
-        A. Option  ...  Correct Answer: B Rationale: ...
-
-    Format C  — Q-prefixed with answer as "✅ B — explanation":
-        Q1. Question text?
-        A) Option  ...  ✅ B — explanation text
-
-    Format D  — numbered with separator:
-        1. Question text?
-        A. Option  ...  Answer: A  Explanation: ...
-    """
-    questions = []
-    lines = text.splitlines()
-
-    # Patterns that mark the START of a new question
-    q_start_re = re.compile(
-        r'^\s*(?:Question\s+(\d+)|Q(\d+)[.)\-:\s]|(\d+)[.):\-]\s)',
-        re.IGNORECASE,
-    )
-
-    # Collect raw blocks, each starting at a question-start line
-    blocks: list[list[str]] = []
-    current: list[str] = []
-
-    for line in lines:
-        stripped = line.strip()
-        if not stripped:
-            continue
-        m = q_start_re.match(stripped)
-        if m:
-            if current:
-                blocks.append(current)
-            # For "Question N text..." keep the text after the number;
-            # for "Question N" alone keep an empty first line (text comes next).
-            num_group = m.group(1) or m.group(2) or m.group(3)
-            remainder = stripped[m.end():].strip()
-            current = [remainder] if remainder else []
-        else:
-            current.append(stripped)
-
-    if current:
-        blocks.append(current)
-
-    for block_lines in blocks:
-        q = _parse_block(block_lines)
-        if q:
-            questions.append(q)
-
-    return questions
-
-
-def _parse_block(lines: list[str]) -> dict | None:
-    """
-    Parse a list of lines (one question block) into a dict.
-    Returns None if the block cannot be parsed into a valid MCQ.
-    """
-    # Option: "A. text"  "A) text"  "A - text"  "(A) text"
-    option_re = re.compile(
-        r'^\s*[(\[]?\s*([A-Da-d])\s*[.):\-]\s*(.+)', re.IGNORECASE
-    )
-    # Answer: "✅ Correct Answer: C"  "Correct Answer: C"  "Answer: C"
-    #         also inline: "Correct Answer: B Rationale: ..."
-    answer_re = re.compile(
-        r'^[^\w]*(?:Correct\s+)?Answer\s*[:\-]\s*([A-Da-d])',
-        re.IGNORECASE,
-    )
-    # Short answer: "✅ B — explanation"  "✅ B explanation"
-    short_answer_re = re.compile(
-        r'^[^\w]*([A-Da-d])\s*(?:—|-|–|:)?\s*(.+)', re.IGNORECASE
-    )
-    # Rationale / Explanation  (may appear inline after answer on same line)
-    rationale_inline_re = re.compile(
-        r'(?:Rationale|Explanation|Discussion)\s*[:\-]\s*(.*)',
-        re.IGNORECASE,
-    )
-    rationale_start_re = re.compile(
-        r'^\s*(?:Rationale|Explanation|Discussion)\s*[:\-]\s*(.*)',
-        re.IGNORECASE,
-    )
-
-    question_lines: list[str] = []
-    options: dict[str, str] = {}
-    correct: str | None = None
-    explanation_lines: list[str] = []
-    mode = "question"
-
-    for line in lines:
-        if not line:
-            continue
-
-        opt_m = option_re.match(line)
-        ans_m = answer_re.match(line)
-        rat_m = rationale_start_re.match(line)
-
-        # ── Answer line ──────────────────────────────────────────────────────
-        if ans_m and mode in ("options", "answer", "explanation"):
-            correct = ans_m.group(1).lower()
-            # check for inline rationale on the same line: "Correct Answer: B Rationale: ..."
-            inline = rationale_inline_re.search(line)
-            if inline:
-                explanation_lines.append(inline.group(1))
-            mode = "answer"
-
-        # ── Rationale / Explanation line ─────────────────────────────────────
-        elif rat_m:
-            explanation_lines.append(rat_m.group(1))
-            mode = "explanation"
-
-        elif mode == "explanation":
-            explanation_lines.append(line)
-
-        # ── Option line ──────────────────────────────────────────────────────
-        elif opt_m and (mode in ("question", "options") or not options):
-            letter = opt_m.group(1).lower()
-            options[letter] = opt_m.group(2).strip()
-            mode = "options"
-
-        # ── Post-options line that looks like "✅ B — explanation" ────────────
-        elif mode == "options" and len(options) == 4:
-            # Could be the short-answer format: ✅ B — explanation
-            sa_m = short_answer_re.match(line)
-            if sa_m and sa_m.group(1).lower() in "abcd":
-                correct = sa_m.group(1).lower()
-                explanation_lines.append(sa_m.group(2).strip())
-                mode = "answer"
-            else:
-                # continuation of last option
-                last_key = list(options.keys())[-1]
-                options[last_key] += " " + line
-
-        # ── Question text ─────────────────────────────────────────────────────
-        elif mode == "question":
-            question_lines.append(line)
-
-        elif mode == "options" and options:
-            last_key = list(options.keys())[-1]
-            options[last_key] += " " + line
-
-    if not question_lines or len(options) < 4 or correct is None or correct not in "abcd":
-        return None
-
-    return {
-        "text": " ".join(question_lines),
-        "option_a": options.get("a", ""),
-        "option_b": options.get("b", ""),
-        "option_c": options.get("c", ""),
-        "option_d": options.get("d", ""),
-        "correct_option": correct,
-        "explanation": " ".join(explanation_lines),
-    }
-
-
-# ---------------------------------------------------------------------------
-# Command
-# ---------------------------------------------------------------------------
 
 class Command(BaseCommand):
-    help = "Seed the database with the CPHQ course, chapters, topics, and questions."
+    help = "Seed the database with the CPHQ course, chapters, topics, and questions from JSON files."
 
     def add_arguments(self, parser):
         parser.add_argument(
@@ -237,28 +82,31 @@ class Command(BaseCommand):
             help="Delete existing CPHQ course data before loading.",
         )
         parser.add_argument(
-            "--course-dir",
+            "--data-dir",
             default=None,
-            help="Path to the 'CPHQ Course' folder (default: <BASE_DIR>/CPHQ Course).",
+            help="Path to the questions JSON folder (default: <BASE_DIR>/data/questions).",
         )
 
     def handle(self, *args, **options):
-        base_dir: Path = Path(settings.BASE_DIR)
-        course_dir: Path = Path(options["course_dir"]) if options["course_dir"] else base_dir / "CPHQ Course"
+        data_dir = Path(options["data_dir"]) if options["data_dir"] else Path(settings.BASE_DIR) / "data" / "questions"
 
-        if not course_dir.exists():
-            raise CommandError(f"Course folder not found: {course_dir}")
+        if not data_dir.exists():
+            raise CommandError(f"Data directory not found: {data_dir}")
 
         if options["flush"]:
             self._flush()
 
-        self.stdout.write(self.style.MIGRATE_HEADING("=== Loading CPHQ data ==="))
+        self.stdout.write(self.style.MIGRATE_HEADING("=== Loading CPHQ data from JSON ===\n"))
 
         # ── Category & Course ──────────────────────────────────────────────
-        category, _ = Category.objects.get_or_create(
+        category, created = Category.objects.get_or_create(
             slug="healthcare-quality",
-            defaults={"name": "Healthcare Quality", "description": "CPHQ exam preparation materials."},
+            defaults={
+                "name": "Healthcare Quality",
+                "description": "CPHQ exam preparation materials.",
+            },
         )
+        self._log("created" if created else "exists", "Category", category.name)
 
         course, created = Course.objects.get_or_create(
             slug="cphq-exam-preparation",
@@ -278,165 +126,128 @@ class Command(BaseCommand):
                 "order": 1,
             },
         )
-        self._log("created" if created else "already exists", "Course", course.title)
+        self._log("created" if created else "exists", "Course", course.title)
 
-        # ── Domains → Chapters + Topics ────────────────────────────────────
-        domains = [
-            {
-                "order": 1,
-                "folder": course_dir / "Domain 1",
-                "title": "Domain 1: Patient Safety",
-                "topic_name": "Patient Safety",
-                "video_glob": "Domain 1/Chapter 1/videos",
-                "quiz_doc": course_dir / "Domain 1" / "Chapter 1" / "quizes" / "Quiz.docx",
-                "mock_doc": course_dir / "Domain 1" / "Domain 1 mock exam" / "domain 1 - Mock exam.docx",
-            },
-            {
-                "order": 2,
-                "folder": course_dir / "Domain 2",
-                "title": "Domain 2: Quality Review & Accountability",
-                "topic_name": "Quality Review & Accountability",
-                "video_glob": "Domain 2/Chapter 1/videos",
-                "quiz_doc": course_dir / "Domain 2" / "Chapter 1" / "quizes" / "quiz.docx",
-                "mock_doc": course_dir / "Domain 2" / "Moc exam question" / "Domain 2 - Mock exam.docx",
-            },
-        ]
-
+        # ── Chapters ───────────────────────────────────────────────────────
         media_video_dir = Path(settings.MEDIA_ROOT) / "courses" / "videos"
-        media_video_dir.mkdir(parents=True, exist_ok=True)
-
-        for domain in domains:
-            chapter, topic = self._load_domain(course, domain, course_dir, media_video_dir)
-
-        # ── Global 140-question mock exam ──────────────────────────────────
-        global_mock = course_dir / "CPHQ Mock Exam - 140 Questions.docx"
-        if global_mock.exists():
-            self._load_questions(
-                global_mock,
-                topic=None,           # no specific topic → general
-                question_type="mock",
-                label="Global mock exam (140 Qs)",
+        for domain in DOMAIN_CHAPTERS:
+            chapter, created = Chapter.objects.get_or_create(
+                course=course,
+                order=domain["order"],
+                defaults={
+                    "title": domain["title"],
+                    "is_published": True,
+                    "duration_minutes": 0,
+                },
             )
-        else:
-            self.stdout.write(self.style.WARNING(f"  Not found: {global_mock.name}"))
+            if not created:
+                chapter.title = domain["title"]
+                chapter.save()
+            self._log("created" if created else "exists", "Chapter", chapter.title)
 
-        self.stdout.write(self.style.SUCCESS("\n=== Done! CPHQ data loaded successfully. ==="))
-
-    # ── Domain loader ──────────────────────────────────────────────────────
-
-    def _load_domain(self, course: Course, domain: dict, course_dir: Path, media_video_dir: Path):
-        # Topic
-        topic, created = Topic.objects.get_or_create(
-            name=domain["topic_name"],
-            defaults={"description": f"Questions covering the {domain['topic_name']} domain of the CPHQ exam."},
-        )
-        self._log("created" if created else "already exists", "Topic", topic.name)
-
-        # Chapter
-        chapter, created = Chapter.objects.get_or_create(
-            course=course,
-            order=domain["order"],
-            defaults={
-                "title": domain["title"],
-                "is_published": True,
-                "duration_minutes": 0,
-            },
-        )
-        if not created:
-            chapter.title = domain["title"]
-            chapter.is_published = True
-            chapter.save()
-        self._log("created" if created else "updated", "Chapter", chapter.title)
-
-        # Video
-        video_dir = course_dir / domain["video_glob"]
-        if video_dir.exists():
-            mp4_files = list(video_dir.glob("*.mp4"))
-            if mp4_files:
-                src = mp4_files[0]
-                dest = media_video_dir / src.name
-                if not dest.exists():
-                    self.stdout.write(f"  Copying video: {src.name} (~{src.stat().st_size // (1024*1024)} MB) ...")
-                    shutil.copy2(src, dest)
-                    self.stdout.write(self.style.SUCCESS("  Video copied."))
-                else:
-                    self.stdout.write(f"  Video already in media: {src.name}")
-
-                rel_path = f"courses/videos/{dest.name}"
-                if chapter.video_file.name != rel_path:
-                    chapter.video_file.name = rel_path
-                    # Estimate duration from filename or leave as 0
+            # Link video if it exists in media/
+            video_path = media_video_dir / domain["video_filename"]
+            if video_path.exists():
+                rel = f"courses/videos/{domain['video_filename']}"
+                if chapter.video_file.name != rel:
+                    chapter.video_file.name = rel
                     chapter.save()
+                    self.stdout.write(f"    Video linked: {domain['video_filename']}")
             else:
-                self.stdout.write(self.style.WARNING(f"  No .mp4 found in {video_dir}"))
-        else:
-            self.stdout.write(self.style.WARNING(f"  Video folder not found: {video_dir}"))
+                self.stdout.write(
+                    self.style.WARNING(f"    Video not found in media/: {domain['video_filename']}")
+                )
 
-        # Quiz questions
-        if domain["quiz_doc"].exists():
-            self._load_questions(domain["quiz_doc"], topic, "quiz", f"{domain['topic_name']} quiz")
-        else:
-            self.stdout.write(self.style.WARNING(f"  Quiz doc not found: {domain['quiz_doc'].name}"))
+        # ── Topics & Questions ─────────────────────────────────────────────
+        self.stdout.write("")
+        total_created = 0
+        total_skipped = 0
 
-        # Mock exam questions
-        if domain["mock_doc"].exists():
-            self._load_questions(domain["mock_doc"], topic, "mock", f"{domain['topic_name']} mock exam")
-        else:
-            self.stdout.write(self.style.WARNING(f"  Mock doc not found: {domain['mock_doc'].name}"))
-
-        return chapter, topic
-
-    # ── Question loader ────────────────────────────────────────────────────
-
-    def _load_questions(self, docx_path: Path, topic, question_type: str, label: str):
-        self.stdout.write(f"\n  Parsing: {docx_path.name}")
-        try:
-            text = _extract_text_from_docx(docx_path)
-        except Exception as exc:
-            self.stdout.write(self.style.ERROR(f"  Failed to read {docx_path.name}: {exc}"))
-            return
-
-        parsed = _parse_questions(text)
-        self.stdout.write(f"  Parsed {len(parsed)} questions from {label}")
-
-        created_count = 0
-        skipped_count = 0
-        for q in parsed:
-            if not q["text"] or not q["option_a"]:
-                skipped_count += 1
+        for filename, topic_name, q_type in QUESTION_FILES:
+            filepath = data_dir / filename
+            if not filepath.exists():
+                self.stdout.write(self.style.WARNING(f"  Skipping (not found): {filename}"))
                 continue
-            # Avoid duplicates by matching question text
-            if Question.objects.filter(text=q["text"]).exists():
-                skipped_count += 1
+
+            topic = None
+            if topic_name:
+                topic, t_created = Topic.objects.get_or_create(
+                    name=topic_name,
+                    defaults={
+                        "description": f"Questions covering the {topic_name} domain of the CPHQ exam."
+                    },
+                )
+                if t_created:
+                    self._log("created", "Topic", topic.name)
+
+            created_count, skipped_count = self._load_json(filepath, topic, q_type)
+            total_created += created_count
+            total_skipped += skipped_count
+
+        self.stdout.write("")
+        self.stdout.write(
+            self.style.SUCCESS(
+                f"=== Done! {total_created} questions created, {total_skipped} skipped (duplicates). ==="
+            )
+        )
+
+    # ── JSON loader ────────────────────────────────────────────────────────
+
+    def _load_json(self, filepath: Path, topic, q_type: str) -> tuple[int, int]:
+        with open(filepath, encoding="utf-8") as f:
+            data = json.load(f)
+
+        questions = data.get("questions", [])
+        self.stdout.write(f"  Loading {filepath.name}  ({len(questions)} questions, type={q_type})")
+
+        created = 0
+        skipped = 0
+
+        for q in questions:
+            text = q.get("text", "").strip()
+            options = q.get("options", {})
+            correct = q.get("correct_option", "").lower().strip()
+            explanation = q.get("explanation", "").strip()
+            difficulty = q.get("difficulty", "medium")
+
+            # Basic validation
+            if not text or not options or correct not in "abcd" or len(options) < 4:
+                skipped += 1
                 continue
+
+            # Deduplicate by question text
+            if Question.objects.filter(text=text).exists():
+                skipped += 1
+                continue
+
             Question.objects.create(
                 topic=topic,
-                question_type=question_type,
-                difficulty="medium",
-                text=q["text"],
-                option_a=q["option_a"],
-                option_b=q["option_b"],
-                option_c=q["option_c"],
-                option_d=q["option_d"],
-                correct_option=q["correct_option"],
-                explanation=q["explanation"],
+                question_type=q_type,
+                difficulty=difficulty,
+                text=text,
+                option_a=options.get("a", ""),
+                option_b=options.get("b", ""),
+                option_c=options.get("c", ""),
+                option_d=options.get("d", ""),
+                correct_option=correct,
+                explanation=explanation,
                 is_active=True,
             )
-            created_count += 1
+            created += 1
 
-        self.stdout.write(
-            self.style.SUCCESS(f"  Created {created_count} questions") +
-            (f" (skipped {skipped_count})" if skipped_count else "")
-        )
+        label = self.style.SUCCESS(f"    Created: {created}") if created else f"    Created: {created}"
+        self.stdout.write(label + (f"  Skipped: {skipped}" if skipped else ""))
+        return created, skipped
 
-    # ── Flush helper ───────────────────────────────────────────────────────
+    # ── Flush ──────────────────────────────────────────────────────────────
 
     def _flush(self):
         self.stdout.write(self.style.WARNING("Flushing existing CPHQ data..."))
         Course.objects.filter(slug="cphq-exam-preparation").delete()
+        Category.objects.filter(slug="healthcare-quality").delete()
         Topic.objects.filter(name__in=["Patient Safety", "Quality Review & Accountability"]).delete()
         Question.objects.all().delete()
-        self.stdout.write(self.style.WARNING("Existing data removed.\n"))
+        self.stdout.write(self.style.WARNING("Done.\n"))
 
     def _log(self, action: str, model: str, name: str):
         colour = self.style.SUCCESS if action == "created" else self.style.HTTP_INFO

@@ -1,0 +1,66 @@
+{
+  "topic": "Quality Review & Accountability",
+  "type": "quiz",
+  "questions": [
+    {
+      "text": "A quality director tells her board: \"Our quality scores directly affect our Medicare reimbursement, our Leapfrog grade, and our ability to attract physicians.\" This statement BEST reflects which concept?",
+      "options": {
+        "a": "Quality as a clinical monitoring function",
+        "b": "Quality as a business, regulatory, and reputational necessity",
+        "c": "Quality as a compliance obligation only",
+        "d": "Quality as an accreditation requirement"
+      },
+      "correct_option": "b",
+      "explanation": "Quality is no longer just clinical — it is simultaneously a business driver, regulatory requirement, and reputational factor.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization has full executive support for quality improvement but no accountability structures linking performance data to consequences. Over 12 months, performance does not improve. Which principle BEST explains this outcome?",
+      "options": {
+        "a": "Accountability without support creates fear",
+        "b": "Support without accountability creates drift",
+        "c": "Quality data is insufficient without benchmarking",
+        "d": "Executive support replaces formal accountability"
+      },
+      "correct_option": "b",
+      "explanation": "Support without accountability creates drift. Both elements must coexist for sustainable improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A CPHQ is asked to explain the difference between QRA and traditional quality assurance. Which response is MOST accurate?",
+      "options": {
+        "a": "QRA focuses on retrospective chart audits; QA focuses on real-time data",
+        "b": "QRA integrates data analytics, human factors, and outcome transparency; QA focuses on retrospective compliance monitoring",
+        "c": "QRA and QA are interchangeable terms in modern healthcare",
+        "d": "QRA applies only to physician performance; QA applies to nursing"
+      },
+      "correct_option": "b",
+      "explanation": "QRA is multi-dimensional: data analytics + human/organizational factors + outcomes. QA was traditionally retrospective and compliance-focused.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality professional translates infection control data into projected cost savings and presents it to the CFO to secure funding. This activity BEST represents which HQP competency?",
+      "options": {
+        "a": "Clinical documentation improvement",
+        "b": "Accreditation preparation",
+        "c": "Translating clinical outcomes into financial value",
+        "d": "Regulatory compliance monitoring"
+      },
+      "correct_option": "c",
+      "explanation": "A core HQP strategic competency is translating clinical data into financial value — helping leadership make quality-informed decisions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization implements real-time dashboards to identify rising sepsis rates before they become reportable. This BEST represents which evolution in quality management?",
+      "options": {
+        "a": "Retrospective peer review",
+        "b": "Prospective credentialing evaluation",
+        "c": "Shift from retrospective audits to proactive predictive improvement",
+        "d": "Compliance monitoring for accreditation purposes"
+      },
+      "correct_option": "c",
+      "explanation": "QRA shifts from looking backward to predicting and preventing future failures — real-time monitoring and learning systems.",
+      "difficulty": "medium"
+    }
+  ]
+}
