@@ -43,7 +43,7 @@ from pathlib import Path
 from django.conf import settings
 from django.core.management.base import BaseCommand, CommandError
 
-from courses.models import Category, Chapter, Course
+from courses.models import Category, Chapter, Course, Domain
 from quiz.models import Question, Topic
 
 
@@ -58,16 +58,34 @@ QUESTION_FILES = [
     ("cphq_global_mock.json",        None,                               "mock"),
 ]
 
-DOMAIN_CHAPTERS = [
+# Course structure: Course → Domains → Chapters
+# Each domain can have one or more chapters.
+COURSE_STRUCTURE = [
     {
         "order": 1,
         "title": "Domain 1: Patient Safety",
-        "video_filename": "Patient Safety.mp4",
+        "description": "Covers patient safety principles, risk reduction, and safety culture in healthcare.",
+        "topic_name": "Patient Safety",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Introduction to Patient Safety",
+                "video_filename": "Patient Safety.mp4",
+            },
+        ],
     },
     {
         "order": 2,
         "title": "Domain 2: Quality Review & Accountability",
-        "video_filename": "Quality Review and Accountability.mp4",
+        "description": "Covers quality review processes, accountability structures, and performance improvement.",
+        "topic_name": "Quality Review & Accountability",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Quality Review & Accountability",
+                "video_filename": "Quality Review and Accountability.mp4",
+            },
+        ],
     },
 ]
 
@@ -128,35 +146,53 @@ class Command(BaseCommand):
         )
         self._log("created" if created else "exists", "Course", course.title)
 
-        # ── Chapters ───────────────────────────────────────────────────────
+        # ── Domains & Chapters ─────────────────────────────────────────────
         media_video_dir = Path(settings.MEDIA_ROOT) / "courses" / "videos"
-        for domain in DOMAIN_CHAPTERS:
-            chapter, created = Chapter.objects.get_or_create(
+        for domain_cfg in COURSE_STRUCTURE:
+            domain, created = Domain.objects.get_or_create(
                 course=course,
-                order=domain["order"],
+                order=domain_cfg["order"],
                 defaults={
-                    "title": domain["title"],
+                    "title": domain_cfg["title"],
+                    "description": domain_cfg.get("description", ""),
                     "is_published": True,
-                    "duration_minutes": 0,
                 },
             )
             if not created:
-                chapter.title = domain["title"]
-                chapter.save()
-            self._log("created" if created else "exists", "Chapter", chapter.title)
+                domain.title = domain_cfg["title"]
+                domain.description = domain_cfg.get("description", "")
+                domain.save()
+            self._log("created" if created else "exists", "Domain", domain.title)
 
-            # Link video if it exists in media/
-            video_path = media_video_dir / domain["video_filename"]
-            if video_path.exists():
-                rel = f"courses/videos/{domain['video_filename']}"
-                if chapter.video_file.name != rel:
-                    chapter.video_file.name = rel
-                    chapter.save()
-                    self.stdout.write(f"    Video linked: {domain['video_filename']}")
-            else:
-                self.stdout.write(
-                    self.style.WARNING(f"    Video not found in media/: {domain['video_filename']}")
+            for ch_cfg in domain_cfg["chapters"]:
+                chapter, created = Chapter.objects.get_or_create(
+                    domain=domain,
+                    order=ch_cfg["order"],
+                    defaults={
+                        "title": ch_cfg["title"],
+                        "is_published": True,
+                        "duration_minutes": 0,
+                    },
                 )
+                if not created:
+                    chapter.title = ch_cfg["title"]
+                    chapter.save()
+                self._log("created" if created else "exists", "Chapter", chapter.title)
+
+                # Link video if it exists in media/
+                video_filename = ch_cfg.get("video_filename", "")
+                if video_filename:
+                    video_path = media_video_dir / video_filename
+                    if video_path.exists():
+                        rel = f"courses/videos/{video_filename}"
+                        if chapter.video_file.name != rel:
+                            chapter.video_file.name = rel
+                            chapter.save()
+                            self.stdout.write(f"      Video linked: {video_filename}")
+                    else:
+                        self.stdout.write(
+                            self.style.WARNING(f"      Video not found in media/: {video_filename}")
+                        )
 
         # ── Topics & Questions ─────────────────────────────────────────────
         self.stdout.write("")
@@ -243,7 +279,7 @@ class Command(BaseCommand):
 
     def _flush(self):
         self.stdout.write(self.style.WARNING("Flushing existing CPHQ data..."))
-        Course.objects.filter(slug="cphq-exam-preparation").delete()
+        Course.objects.filter(slug="cphq-exam-preparation").delete()  # cascades → Domain → Chapter
         Category.objects.filter(slug="healthcare-quality").delete()
         Topic.objects.filter(name__in=["Patient Safety", "Quality Review & Accountability"]).delete()
         Question.objects.all().delete()

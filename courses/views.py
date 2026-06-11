@@ -5,7 +5,7 @@ from rest_framework.permissions import IsAuthenticated, AllowAny
 from django.utils import timezone
 from django.shortcuts import get_object_or_404
 
-from .models import Course, Chapter, UserCourseProgress, UserChapterProgress, ChatMessage
+from .models import Course, Chapter, Domain, UserCourseProgress, UserChapterProgress, ChatMessage
 from .serializers import (
     CourseListSerializer, CourseDetailSerializer,
     ChapterProgressSerializer, ChatMessageSerializer, ChatInputSerializer,
@@ -50,7 +50,7 @@ def mark_chapter_progress(request, chapter_id):
         progress.save()
 
         # Ensure course enrollment exists
-        UserCourseProgress.objects.get_or_create(user=request.user, course=chapter.course)
+        UserCourseProgress.objects.get_or_create(user=request.user, course=chapter.domain.course)
 
         return Response({'message': 'Progress updated.', 'completed': progress.completed})
     return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

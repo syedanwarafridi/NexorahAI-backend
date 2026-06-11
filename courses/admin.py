@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Category, Course, Chapter, Document, UserCourseProgress, UserChapterProgress, ChatMessage
+from .models import Category, Course, Domain, Chapter, Document, UserCourseProgress, UserChapterProgress, ChatMessage
 
 
 @admin.register(Category)
@@ -9,34 +9,54 @@ class CategoryAdmin(admin.ModelAdmin):
     search_fields = ('name',)
 
 
+class DocumentInline(admin.TabularInline):
+    model = Document
+    extra = 1
+
+
 class ChapterInline(admin.TabularInline):
     model = Chapter
     extra = 1
     fields = ('title', 'order', 'duration_minutes', 'video_url', 'video_file', 'is_published')
 
 
-class DocumentInline(admin.TabularInline):
-    model = Document
+class DomainInline(admin.TabularInline):
+    model = Domain
     extra = 1
+    fields = ('title', 'order', 'description', 'is_published')
+    show_change_link = True
 
 
 @admin.register(Course)
 class CourseAdmin(admin.ModelAdmin):
-    list_display = ('title', 'category', 'total_chapters', 'is_published', 'order', 'created_at')
+    list_display = ('title', 'category', 'total_domains', 'total_chapters', 'is_published', 'order', 'created_at')
     list_filter = ('is_published', 'category')
     search_fields = ('title', 'about', 'description')
     prepopulated_fields = {'slug': ('title',)}
     list_editable = ('is_published', 'order')
+    inlines = [DomainInline]
+
+
+@admin.register(Domain)
+class DomainAdmin(admin.ModelAdmin):
+    list_display = ('title', 'course', 'order', 'total_chapters', 'is_published')
+    list_filter = ('course', 'is_published')
+    search_fields = ('title', 'course__title')
+    list_editable = ('order', 'is_published')
     inlines = [ChapterInline]
 
 
 @admin.register(Chapter)
 class ChapterAdmin(admin.ModelAdmin):
-    list_display = ('title', 'course', 'order', 'duration_minutes', 'is_published')
-    list_filter = ('course', 'is_published')
-    search_fields = ('title', 'course__title')
+    list_display = ('title', 'domain', 'get_course', 'order', 'duration_minutes', 'is_published')
+    list_filter = ('domain__course', 'is_published')
+    search_fields = ('title', 'domain__title', 'domain__course__title')
     list_editable = ('order', 'is_published')
     inlines = [DocumentInline]
+
+    @admin.display(description='Course', ordering='domain__course__title')
+    def get_course(self, obj):
+        return obj.domain.course if obj.domain else '-'
 
 
 @admin.register(Document)

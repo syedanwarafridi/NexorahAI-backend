@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Category, Course, Chapter, Document, UserCourseProgress, UserChapterProgress, ChatMessage
+from .models import Category, Course, Domain, Chapter, Document, UserCourseProgress, UserChapterProgress, ChatMessage
 
 
 class CategorySerializer(serializers.ModelSerializer):
@@ -20,7 +20,10 @@ class ChapterSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Chapter
-        fields = ('id', 'title', 'order', 'duration_minutes', 'video_url', 'video_file', 'documents', 'is_completed')
+        fields = (
+            'id', 'title', 'order', 'duration_minutes',
+            'video_url', 'video_file', 'documents', 'is_completed',
+        )
 
     def get_is_completed(self, obj):
         request = self.context.get('request')
@@ -31,16 +34,51 @@ class ChapterSerializer(serializers.ModelSerializer):
         return False
 
 
+class DomainSerializer(serializers.ModelSerializer):
+    chapters = ChapterSerializer(many=True, read_only=True)
+    total_chapters = serializers.IntegerField(read_only=True)
+    total_duration_minutes = serializers.FloatField(read_only=True)
+    completed_chapters = serializers.SerializerMethodField()
+    progress_percent = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Domain
+        fields = (
+            'id', 'title', 'description', 'order',
+            'total_chapters', 'total_duration_minutes',
+            'completed_chapters', 'progress_percent',
+            'chapters',
+        )
+
+    def get_completed_chapters(self, obj):
+        request = self.context.get('request')
+        if request and request.user.is_authenticated:
+            return UserChapterProgress.objects.filter(
+                user=request.user, chapter__domain=obj, completed=True
+            ).count()
+        return 0
+
+    def get_progress_percent(self, obj):
+        total = obj.total_chapters
+        if total == 0:
+            return 0
+        return round((self.get_completed_chapters(obj) / total) * 100)
+
+
 class CourseListSerializer(serializers.ModelSerializer):
     category = CategorySerializer(read_only=True)
+    total_domains = serializers.IntegerField(read_only=True)
     total_chapters = serializers.IntegerField(read_only=True)
     total_duration_minutes = serializers.FloatField(read_only=True)
     progress_percent = serializers.SerializerMethodField()
 
     class Meta:
         model = Course
-        fields = ('id', 'title', 'slug', 'category', 'about', 'thumbnail',
-                  'total_chapters', 'total_duration_minutes', 'progress_percent')
+        fields = (
+            'id', 'title', 'slug', 'category', 'about', 'thumbnail',
+            'total_domains', 'total_chapters', 'total_duration_minutes',
+            'progress_percent',
+        )
 
     def get_progress_percent(self, obj):
         request = self.context.get('request')
@@ -53,16 +91,19 @@ class CourseListSerializer(serializers.ModelSerializer):
 
 class CourseDetailSerializer(serializers.ModelSerializer):
     category = CategorySerializer(read_only=True)
-    chapters = ChapterSerializer(many=True, read_only=True)
+    domains = DomainSerializer(many=True, read_only=True)
+    total_domains = serializers.IntegerField(read_only=True)
     total_chapters = serializers.IntegerField(read_only=True)
     total_duration_minutes = serializers.FloatField(read_only=True)
     progress_percent = serializers.SerializerMethodField()
 
     class Meta:
         model = Course
-        fields = ('id', 'title', 'slug', 'category', 'about', 'description',
-                  'thumbnail', 'total_chapters', 'total_duration_minutes',
-                  'progress_percent', 'chapters')
+        fields = (
+            'id', 'title', 'slug', 'category', 'about', 'description',
+            'thumbnail', 'total_domains', 'total_chapters',
+            'total_duration_minutes', 'progress_percent', 'domains',
+        )
 
     def get_progress_percent(self, obj):
         request = self.context.get('request')

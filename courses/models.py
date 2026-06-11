@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models import Sum
 from django.conf import settings
 
 
@@ -35,15 +36,48 @@ class Course(models.Model):
 
     @property
     def total_chapters(self):
+        return Chapter.objects.filter(domain__course=self, is_published=True).count()
+
+    @property
+    def total_duration_minutes(self):
+        result = Chapter.objects.filter(domain__course=self, is_published=True).aggregate(
+            total=Sum('duration_minutes')
+        )['total']
+        return float(result or 0)
+
+    @property
+    def total_domains(self):
+        return self.domains.filter(is_published=True).count()
+
+
+class Domain(models.Model):
+    course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='domains')
+    title = models.CharField(max_length=255)
+    description = models.TextField(blank=True)
+    order = models.PositiveIntegerField(default=0)
+    is_published = models.BooleanField(default=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        ordering = ['order']
+
+    def __str__(self):
+        return f"{self.course.title} — {self.title}"
+
+    @property
+    def total_chapters(self):
         return self.chapters.filter(is_published=True).count()
 
     @property
     def total_duration_minutes(self):
-        return sum(float(c.duration_minutes) for c in self.chapters.filter(is_published=True))
+        result = self.chapters.filter(is_published=True).aggregate(
+            total=Sum('duration_minutes')
+        )['total']
+        return float(result or 0)
 
 
 class Chapter(models.Model):
-    course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='chapters')
+    domain = models.ForeignKey(Domain, on_delete=models.CASCADE, related_name='chapters', null=True, blank=True)
     title = models.CharField(max_length=255)
     order = models.PositiveIntegerField(default=0)
     duration_minutes = models.DecimalField(max_digits=5, decimal_places=1, default=0)
@@ -56,7 +90,11 @@ class Chapter(models.Model):
         ordering = ['order']
 
     def __str__(self):
-        return f"{self.course.title} — {self.title}"
+        return f"{self.domain.title} — {self.title}" if self.domain else self.title
+
+    @property
+    def course(self):
+        return self.domain.course if self.domain else None
 
 
 class Document(models.Model):
@@ -84,7 +122,9 @@ class UserCourseProgress(models.Model):
     @property
     def completed_chapters_count(self):
         return UserChapterProgress.objects.filter(
-            user=self.user, chapter__course=self.course, completed=True
+            user=self.user,
+            chapter__domain__course=self.course,
+            completed=True,
         ).count()
 
     @property
