@@ -1,0 +1,126 @@
+{
+  "topic": "Quality Leadership and Integration",
+  "type": "mock",
+  "questions": [
+    {
+      "text": "A new quality director joins a hospital and finds that quality improvement projects are fragmented across departments with no shared goals. What is the FIRST step to address this?",
+      "options": {
+        "a": "Eliminate all existing quality projects and start fresh",
+        "b": "Conduct a comprehensive assessment and align quality priorities with the strategic plan",
+        "c": "Hire additional quality staff to manage the existing projects",
+        "d": "Mandate that all departments use the same improvement methodology"
+      },
+      "correct_option": "b",
+      "explanation": "Strategic alignment begins with understanding the current state and connecting quality work to organizational priorities, creating coherence across departments.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A physician champion is MOST valuable in a quality improvement initiative because they:",
+      "options": {
+        "a": "Can override clinical staff decisions that conflict with the initiative",
+        "b": "Lend clinical credibility and peer influence that quality professionals alone cannot provide",
+        "c": "Handle all administrative aspects of the project",
+        "d": "Ensure the initiative is financially viable"
+      },
+      "correct_option": "b",
+      "explanation": "Physician champions bring clinical credibility and peer influence that significantly increases adoption of quality initiatives among medical staff.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When a quality improvement project fails to sustain its gains after initial success, the MOST likely cause is:",
+      "options": {
+        "a": "The original improvement methodology was incorrect",
+        "b": "Lack of hardwiring — insufficient standardization, monitoring, and accountability to maintain the change",
+        "c": "Staff did not receive enough training initially",
+        "d": "The improvement goal was set too high"
+      },
+      "correct_option": "b",
+      "explanation": "Improvements fail to sustain when they are not hardwired through standard processes, ongoing monitoring, and accountability systems.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which of the following BEST supports the spread of a successful quality improvement practice across an organization?",
+      "options": {
+        "a": "Immediately requiring all units to implement the practice simultaneously",
+        "b": "Piloting in one area, documenting results, and using early adopters to share learnings",
+        "c": "Publishing the results in a medical journal before spreading internally",
+        "d": "Waiting for external accreditation to require the practice"
+      },
+      "correct_option": "b",
+      "explanation": "A pilot-then-spread approach allows learning, refinement, and use of early adopters as change champions to facilitate broader adoption.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is presenting a business case to leadership for a new patient safety technology. Which element is MOST important to include?",
+      "options": {
+        "a": "A detailed technical specification of the technology",
+        "b": "The expected clinical impact, cost-benefit analysis, and alignment with strategic priorities",
+        "c": "A survey of other hospitals that have adopted the technology",
+        "d": "Staff preferences for or against the technology"
+      },
+      "correct_option": "b",
+      "explanation": "A compelling business case for leadership must demonstrate clinical value, financial viability, and strategic fit — not just technical details.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which characteristic BEST distinguishes a high-reliability organization from a typical healthcare organization?",
+      "options": {
+        "a": "HROs have higher budgets for quality improvement activities",
+        "b": "HROs have achieved zero patient harm events",
+        "c": "HROs have a preoccupation with failure and learn from near misses as well as actual events",
+        "d": "HROs use exclusively evidence-based clinical protocols"
+      },
+      "correct_option": "c",
+      "explanation": "HROs are preoccupied with failure — they actively seek out near misses and weak signals to learn and prevent harm before it occurs.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "A quality director wants to reduce waste in the quality reporting process. Which approach is MOST consistent with Lean principles?",
+      "options": {
+        "a": "Hiring additional staff to produce more reports",
+        "b": "Eliminating reports that do not drive action and streamlining data collection processes",
+        "c": "Outsourcing quality reporting to an external vendor",
+        "d": "Increasing the frequency of reports to improve oversight"
+      },
+      "correct_option": "b",
+      "explanation": "Lean principles target waste — eliminating reports that no one acts on and streamlining data collection removes non-value-added work.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes effective quality communication to frontline staff?",
+      "options": {
+        "a": "Sharing detailed statistical reports at monthly all-staff meetings",
+        "b": "Providing regular, timely, unit-specific feedback in accessible formats tied to action",
+        "c": "Sending quarterly emails summarizing hospital-wide metrics",
+        "d": "Posting annual quality report cards in break rooms"
+      },
+      "correct_option": "b",
+      "explanation": "Effective quality communication is frequent, unit-specific, easy to understand, and linked to clear actions — this connects staff to quality in their daily work.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes 'accountability' in a quality leadership framework?",
+      "options": {
+        "a": "Holding individuals responsible only for events they personally caused",
+        "b": "Clearly defining expectations, measuring performance, and following through with consequences and support",
+        "c": "Using punitive measures to enforce compliance with quality standards",
+        "d": "Assigning quality responsibility only to quality professionals"
+      },
+      "correct_option": "b",
+      "explanation": "Effective accountability involves setting clear expectations, measuring performance against them, and following through — with both support and appropriate consequences.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's board asks the quality director to establish a quality reporting structure. Which BEST practice should guide this?",
+      "options": {
+        "a": "Report all available quality metrics quarterly in a comprehensive document",
+        "b": "Use a tiered reporting structure with a focused set of key indicators aligned to strategic goals",
+        "c": "Report only metrics where the hospital performs above average",
+        "d": "Limit quality reporting to metrics required by external agencies"
+      },
+      "correct_option": "b",
+      "explanation": "A tiered reporting structure with focused key performance indicators aligned to strategy enables meaningful board oversight without information overload.",
+      "difficulty": "medium"
+    }
+  ]
+}

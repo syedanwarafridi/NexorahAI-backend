@@ -149,6 +149,62 @@ class UserChapterProgress(models.Model):
         return f"{self.user.email} — {self.chapter.title}"
 
 
+class ChapterQuizResult(models.Model):
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='chapter_quiz_results')
+    chapter = models.ForeignKey(Chapter, on_delete=models.CASCADE, related_name='quiz_results')
+    score = models.PositiveIntegerField()
+    total_questions = models.PositiveIntegerField()
+    completed_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        ordering = ['-completed_at']
+
+    def __str__(self):
+        return f"{self.user.email} — {self.chapter.title} — {self.score}/{self.total_questions}"
+
+    @property
+    def score_percent(self):
+        if self.total_questions == 0:
+            return 0
+        return round((self.score / self.total_questions) * 100)
+
+    @property
+    def passed(self):
+        return self.score_percent >= 80
+
+    @property
+    def status_label(self):
+        return 'Passed' if self.passed else 'Needs Improvement'
+
+
+class ModuleAssessmentResult(models.Model):
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='module_assessment_results')
+    domain = models.ForeignKey(Domain, on_delete=models.CASCADE, related_name='assessment_results')
+    score = models.PositiveIntegerField()
+    total_questions = models.PositiveIntegerField()
+    completed_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        ordering = ['-completed_at']
+
+    def __str__(self):
+        return f"{self.user.email} — {self.domain.title} — {self.score}/{self.total_questions}"
+
+    @property
+    def score_percent(self):
+        if self.total_questions == 0:
+            return 0
+        return round((self.score / self.total_questions) * 100)
+
+    @property
+    def passed(self):
+        return self.score_percent >= 80
+
+    @property
+    def status_label(self):
+        return 'Passed' if self.passed else 'Needs Improvement'
+
+
 class ChatMessage(models.Model):
     ROLE_CHOICES = [('user', 'User'), ('assistant', 'Assistant')]
 

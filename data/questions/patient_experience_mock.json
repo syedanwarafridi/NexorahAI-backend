@@ -1,0 +1,126 @@
+{
+  "topic": "Patient/Member Experience",
+  "type": "mock",
+  "questions": [
+    {
+      "text": "A hospital's HCAHPS scores show that patients from non-English-speaking backgrounds rate their care significantly lower than English-speaking patients. Which is the MOST appropriate intervention?",
+      "options": {
+        "a": "Assign English-speaking patients to higher nurse-to-patient ratios",
+        "b": "Implement a language access program with qualified medical interpreters",
+        "c": "Require all patients to complete HCAHPS in English",
+        "d": "Use family members as interpreters for all non-English-speaking patients"
+      },
+      "correct_option": "b",
+      "explanation": "Qualified medical interpreters improve communication accuracy and safety for patients with limited English proficiency, directly addressing the disparity in experience scores.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director reviews patient complaint data and notices a pattern of complaints about long waits for pain medication. Which approach BEST addresses this systematically?",
+      "options": {
+        "a": "Counsel the nurse manager on the unit with the most complaints",
+        "b": "Analyze the medication administration workflow to identify bottlenecks and redesign the process",
+        "c": "Ask patients to be more patient during busy periods",
+        "d": "Increase the use of PRN (as-needed) orders for pain medications"
+      },
+      "correct_option": "b",
+      "explanation": "A systematic process analysis identifies the root causes of delays, enabling targeted workflow improvements rather than addressing individual behaviors.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the BEST indicator that a patient truly understands their discharge instructions?",
+      "options": {
+        "a": "The patient nods and says 'yes' when asked if they understand",
+        "b": "The patient signs the discharge instruction form",
+        "c": "The patient correctly explains their care plan in their own words using teach-back",
+        "d": "The patient receives a printed copy of the instructions"
+      },
+      "correct_option": "c",
+      "explanation": "Teach-back is the gold standard for confirming patient understanding — it requires patients to demonstrate comprehension rather than simply acknowledging they received information.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A patient reports feeling dismissed when raising concerns about their care. This MOST directly violates which principle of patient-centered care?",
+      "options": {
+        "a": "Continuity and transition",
+        "b": "Access to care",
+        "c": "Respect for patients' values, preferences, and expressed needs",
+        "d": "Physical comfort"
+      },
+      "correct_option": "c",
+      "explanation": "Respecting and taking seriously the patient's expressed concerns is a core principle of patient-centered care; dismissing them violates this foundational principle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the relationship between patient experience and clinical quality outcomes?",
+      "options": {
+        "a": "They are entirely separate domains with no relationship",
+        "b": "Improving patient experience always worsens clinical quality",
+        "c": "Better patient experience is generally associated with better clinical outcomes and safety",
+        "d": "Clinical quality outcomes are irrelevant to patient satisfaction"
+      },
+      "correct_option": "c",
+      "explanation": "Research consistently shows that organizations with higher patient experience scores tend to have better clinical outcomes, lower readmission rates, and stronger safety cultures.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital wants to reduce HCAHPS 'hospital overall rating' scores below 9-10. Which factor has the STRONGEST impact on these summary scores?",
+      "options": {
+        "a": "Nurse communication",
+        "b": "Quietness of the hospital environment",
+        "c": "Cleanliness of the hospital",
+        "d": "Discharge information"
+      },
+      "correct_option": "a",
+      "explanation": "Nurse communication is consistently the strongest predictor of overall hospital ratings and likelihood to recommend scores in HCAHPS research.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "What is the MAIN purpose of a patient complaint management system in a healthcare organization?",
+      "options": {
+        "a": "To document complaints for legal protection only",
+        "b": "To resolve individual patient issues and identify systemic quality improvement opportunities",
+        "c": "To track complaints for staff performance evaluations",
+        "d": "To meet minimum regulatory documentation requirements"
+      },
+      "correct_option": "b",
+      "explanation": "An effective complaint management system resolves patient concerns and uses aggregated complaint data to identify patterns and drive systemic quality improvements.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A quality professional is designing a patient experience improvement initiative. Which approach is MOST effective for sustaining long-term improvement?",
+      "options": {
+        "a": "Running a one-time training for all staff and monitoring results",
+        "b": "Embedding patient-centered behaviors into hiring, onboarding, recognition, and leadership practices",
+        "c": "Distributing monthly patient satisfaction reports to managers",
+        "d": "Conducting quarterly patient focus groups"
+      },
+      "correct_option": "b",
+      "explanation": "Sustained improvement requires embedding patient-centered care into organizational culture through hiring practices, leadership modeling, recognition systems, and ongoing accountability.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which of the following BEST describes 'service recovery' in patient experience?",
+      "options": {
+        "a": "Recovering financial losses after a patient complaint",
+        "b": "The process of identifying a service failure and making it right for the patient",
+        "c": "Transferring a dissatisfied patient to another facility",
+        "d": "Following up with patients only after formal grievances"
+      },
+      "correct_option": "b",
+      "explanation": "Service recovery involves acknowledging a service failure, apologizing, and taking steps to restore the patient's trust and satisfaction.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital wants to implement bedside shift handoffs as a patient engagement strategy. Which outcome is MOST likely to improve as a result?",
+      "options": {
+        "a": "Physician satisfaction scores",
+        "b": "Patient perception of staff communication and involvement in care",
+        "c": "Hospital revenue per patient day",
+        "d": "Nursing documentation compliance"
+      },
+      "correct_option": "b",
+      "explanation": "Bedside shift handoffs involve patients in the care transition, directly improving their perception of communication quality and engagement in their own care.",
+      "difficulty": "medium"
+    }
+  ]
+}

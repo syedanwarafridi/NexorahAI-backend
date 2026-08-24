@@ -1,5 +1,126 @@
 {
   "topic": "Quality Review & Accountability",
   "type": "mock",
-  "questions": []
+  "questions": [
+    {
+      "text": "A quality committee is reviewing adverse event data from the past quarter. Which approach best supports a culture of accountability without blame?",
+      "options": {
+        "a": "Identify and discipline the individual responsible for each event",
+        "b": "Use root cause analysis to identify system-level contributing factors",
+        "c": "Require all staff involved to complete additional training immediately",
+        "d": "Report only events that resulted in patient harm"
+      },
+      "correct_option": "b",
+      "explanation": "Root cause analysis focuses on system failures rather than individual blame, supporting a just culture of accountability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which metric is most commonly used to evaluate the effectiveness of a quality improvement initiative?",
+      "options": {
+        "a": "Staff satisfaction scores",
+        "b": "Number of incident reports submitted",
+        "c": "Pre- and post-intervention outcome measures",
+        "d": "Budget variance reports"
+      },
+      "correct_option": "c",
+      "explanation": "Comparing outcome measures before and after an intervention directly demonstrates whether the improvement achieved its goal.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital's readmission rate has increased over three consecutive months. What is the FIRST step in addressing this?",
+      "options": {
+        "a": "Immediately implement a new discharge protocol",
+        "b": "Conduct a thorough data analysis to identify patterns and root causes",
+        "c": "Alert the medical staff and request voluntary improvement",
+        "d": "Report the findings to the accreditation body"
+      },
+      "correct_option": "b",
+      "explanation": "Before implementing solutions, analyzing data to understand root causes ensures that interventions target the actual drivers of the problem.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the purpose of a peer review process in healthcare?",
+      "options": {
+        "a": "To determine disciplinary action for all clinical staff",
+        "b": "To evaluate the quality of clinical care provided by practitioners",
+        "c": "To replace the role of the risk management department",
+        "d": "To satisfy only regulatory requirements"
+      },
+      "correct_option": "b",
+      "explanation": "Peer review evaluates clinical care quality and supports practitioner improvement and accountability.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "When presenting quality data to senior leadership, which format is MOST effective for showing trends over time?",
+      "options": {
+        "a": "Pie chart",
+        "b": "Run chart or control chart",
+        "c": "Bar graph comparing departments",
+        "d": "Written narrative report"
+      },
+      "correct_option": "b",
+      "explanation": "Run charts and control charts are specifically designed to display data trends over time and identify patterns of variation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the PRIMARY goal of a utilization review program?",
+      "options": {
+        "a": "Reducing the length of stay for all patients",
+        "b": "Ensuring that healthcare services are medically necessary and appropriate",
+        "c": "Increasing hospital revenue by maximizing bed occupancy",
+        "d": "Eliminating all elective procedures"
+      },
+      "correct_option": "b",
+      "explanation": "Utilization review ensures healthcare services are medically necessary, appropriate, and cost-effective.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A quality professional notices that a newly implemented hand hygiene protocol has not achieved the desired compliance rate. Which tool would BEST help identify barriers to compliance?",
+      "options": {
+        "a": "Pareto chart",
+        "b": "Fishbone (Ishikawa) diagram",
+        "c": "Control chart",
+        "d": "Gantt chart"
+      },
+      "correct_option": "b",
+      "explanation": "A fishbone diagram helps identify multiple potential causes and barriers contributing to a problem, making it ideal for analyzing compliance issues.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which statement about benchmarking in healthcare quality is TRUE?",
+      "options": {
+        "a": "Internal benchmarking compares performance against national databases",
+        "b": "Benchmarking is only useful for large health systems",
+        "c": "External benchmarking compares an organization's performance to peers or best practices",
+        "d": "Benchmarking eliminates the need for internal quality audits"
+      },
+      "correct_option": "c",
+      "explanation": "External benchmarking involves comparing performance metrics against peer organizations, industry standards, or best-practice leaders.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A quality director wants to ensure that quality improvement activities are aligned with the organization's strategic goals. Which approach is MOST appropriate?",
+      "options": {
+        "a": "Allow each department to independently select its own improvement projects",
+        "b": "Align quality improvement priorities with the organization's strategic plan and mission",
+        "c": "Focus exclusively on areas flagged by external regulators",
+        "d": "Prioritize projects that can be completed within 30 days"
+      },
+      "correct_option": "b",
+      "explanation": "Aligning quality improvement activities with strategic goals ensures resources are directed toward the organization's highest priorities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a structure measure in healthcare quality?",
+      "options": {
+        "a": "Patient fall rate per 1,000 patient days",
+        "b": "Percentage of patients who received discharge instructions",
+        "c": "Nurse-to-patient staffing ratios",
+        "d": "30-day readmission rates"
+      },
+      "correct_option": "c",
+      "explanation": "Structure measures assess the conditions under which care is provided, such as staffing ratios, facilities, and equipment — not the processes or outcomes of care.",
+      "difficulty": "medium"
+    }
+  ]
 }

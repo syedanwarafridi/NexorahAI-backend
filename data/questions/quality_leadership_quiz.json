@@ -1,0 +1,186 @@
+{
+  "topic": "Quality Leadership and Integration",
+  "type": "quiz",
+  "questions": [
+    {
+      "text": "Which leadership theory focuses on motivating followers by appealing to their higher ideals and values?",
+      "options": {
+        "a": "Transactional leadership",
+        "b": "Transformational leadership",
+        "c": "Autocratic leadership",
+        "d": "Laissez-faire leadership"
+      },
+      "correct_option": "b",
+      "explanation": "Transformational leaders inspire followers by aligning their work with a compelling vision and higher values, fostering commitment to quality and change.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A 'just culture' in healthcare is characterized by:",
+      "options": {
+        "a": "Holding all individuals equally accountable regardless of intent or context",
+        "b": "Balancing individual accountability with system-focused learning to improve safety",
+        "c": "Eliminating all punitive actions to encourage error reporting",
+        "d": "Focusing exclusively on system failures and ignoring individual behavior"
+      },
+      "correct_option": "b",
+      "explanation": "Just culture distinguishes between human error, at-risk behavior, and reckless behavior — holding individuals accountable appropriately while addressing system-level contributors.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the role of senior leadership in quality improvement?",
+      "options": {
+        "a": "Delegating all quality activities to the quality department",
+        "b": "Providing visible support, allocating resources, and setting clear quality expectations",
+        "c": "Approving quality reports before they are shared with staff",
+        "d": "Reviewing quality data only during accreditation surveys"
+      },
+      "correct_option": "b",
+      "explanation": "Senior leaders must visibly champion quality, allocate resources, hold people accountable, and model the behaviors they expect — delegating quality entirely undermines its success.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Change management in healthcare quality MOST requires which of the following for success?",
+      "options": {
+        "a": "Top-down mandates without input from frontline staff",
+        "b": "Engaging stakeholders at all levels, communicating the vision, and addressing resistance",
+        "c": "Implementing change rapidly to minimize disruption",
+        "d": "Limiting communication to avoid premature resistance"
+      },
+      "correct_option": "b",
+      "explanation": "Successful change management requires inclusive engagement, transparent communication, and proactive strategies for addressing resistance throughout the process.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A balanced scorecard in healthcare typically includes performance indicators in which categories?",
+      "options": {
+        "a": "Quality, safety, finance, and operational efficiency",
+        "b": "Clinical, administrative, financial, and technology",
+        "c": "Patient, staff, community, and regulatory",
+        "d": "Finance, customer, internal processes, and learning/growth"
+      },
+      "correct_option": "d",
+      "explanation": "The Balanced Scorecard framework, developed by Kaplan and Norton, uses four perspectives: Financial, Customer, Internal Processes, and Learning and Growth.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes 'strategic alignment' in quality management?",
+      "options": {
+        "a": "All departments use the same quality improvement methodology",
+        "b": "Quality improvement priorities and activities are directly linked to organizational strategic goals",
+        "c": "The quality department reports directly to the CEO",
+        "d": "All staff participate in the same quality training program"
+      },
+      "correct_option": "b",
+      "explanation": "Strategic alignment ensures that quality improvement work contributes to the organization's overall mission and strategic objectives, making it a priority rather than a side activity.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following is a key characteristic of high-reliability organizations (HROs) in healthcare?",
+      "options": {
+        "a": "Centralized decision-making by senior leadership only",
+        "b": "Sensitivity to operations and deference to expertise at the front line",
+        "c": "Tolerance for small errors because they are inevitable",
+        "d": "Avoiding discussion of near misses to maintain staff morale"
+      },
+      "correct_option": "b",
+      "explanation": "HROs are characterized by preoccupation with failure, sensitivity to operations, reluctance to simplify, commitment to resilience, and deference to expertise.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which stakeholder engagement strategy is MOST effective when implementing a major clinical quality initiative?",
+      "options": {
+        "a": "Announcing the initiative via email and expecting compliance",
+        "b": "Involving key stakeholders in planning from the beginning and addressing their concerns",
+        "c": "Implementing the change first and gathering feedback afterward",
+        "d": "Limiting involvement to department heads only"
+      },
+      "correct_option": "b",
+      "explanation": "Early stakeholder involvement builds ownership, surfaces potential barriers, and increases the likelihood of successful implementation and sustainability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "What is the PRIMARY purpose of 'workforce development' in healthcare quality?",
+      "options": {
+        "a": "Reducing staff turnover to cut recruitment costs",
+        "b": "Building staff competencies and a culture of continuous learning that supports quality and safety",
+        "c": "Meeting minimum regulatory training requirements",
+        "d": "Ensuring all staff hold advanced academic degrees"
+      },
+      "correct_option": "b",
+      "explanation": "Workforce development builds the skills, knowledge, and culture needed to deliver high-quality, safe care consistently — going beyond compliance to build sustainable competency.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A quality professional is facilitating a meeting to build consensus on a new patient safety initiative. Which facilitation technique BEST encourages equal participation?",
+      "options": {
+        "a": "Asking the most senior person to summarize the group's position",
+        "b": "Using structured methods such as round-robin input or nominal group technique",
+        "c": "Limiting discussion to one hour and taking a majority vote",
+        "d": "Asking for volunteers to share their perspectives"
+      },
+      "correct_option": "b",
+      "explanation": "Structured facilitation techniques like nominal group technique ensure that all participants contribute equally, preventing dominance by senior voices.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which approach BEST demonstrates integration of quality into the organization's governance structure?",
+      "options": {
+        "a": "Having the quality department report to the finance division",
+        "b": "Including quality performance as a standing agenda item at board meetings",
+        "c": "Creating a separate quality oversight board independent of organizational leadership",
+        "d": "Reviewing quality data only during accreditation preparation"
+      },
+      "correct_option": "b",
+      "explanation": "Regular board-level review of quality performance integrates quality into governance, signaling its importance and ensuring accountability at the highest organizational level.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Kotter's 8-Step Change Model begins with which step?",
+      "options": {
+        "a": "Build a guiding coalition",
+        "b": "Create a vision for change",
+        "c": "Create urgency",
+        "d": "Communicate the vision"
+      },
+      "correct_option": "c",
+      "explanation": "Kotter's first step is creating a sense of urgency by helping people understand why change is necessary — without urgency, change efforts typically fail.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which term describes the gap between evidence-based best practices and actual care delivered?",
+      "options": {
+        "a": "Variation",
+        "b": "Practice gap",
+        "c": "Performance ceiling",
+        "d": "Clinical lag"
+      },
+      "correct_option": "b",
+      "explanation": "A practice gap is the measurable difference between what evidence indicates should be done and what is actually being done in clinical practice.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization wants to build a 'culture of safety.' Which element is MOST foundational?",
+      "options": {
+        "a": "Investing in new safety technology and equipment",
+        "b": "Psychological safety — where staff feel comfortable reporting errors without fear of retaliation",
+        "c": "Implementing a zero-tolerance policy for all errors",
+        "d": "Requiring annual safety certification for all clinical staff"
+      },
+      "correct_option": "b",
+      "explanation": "Psychological safety is the foundation of a safety culture — without it, staff will not report errors or near misses, undermining all other safety improvement efforts.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of 'horizontal integration' in healthcare quality?",
+      "options": {
+        "a": "A hospital acquiring a physician practice group",
+        "b": "Aligning quality improvement processes across multiple hospitals within the same health system",
+        "c": "Integrating outpatient and inpatient services under one EHR",
+        "d": "Merging the quality and risk management departments"
+      },
+      "correct_option": "b",
+      "explanation": "Horizontal integration in quality involves standardizing and aligning quality processes across peer organizations (e.g., hospitals in a system) to achieve consistent performance.",
+      "difficulty": "hard"
+    }
+  ]
+}

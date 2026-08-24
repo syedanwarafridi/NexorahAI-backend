@@ -1,0 +1,67 @@
+{
+  "domain_order": 3,
+  "chapter_order": 1,
+  "topic": "Performance and Process Improvement",
+  "questions": [
+    {
+      "text": "In the PDSA (Plan-Do-Study-Act) cycle, what is the primary purpose of the 'Study' phase?",
+      "options": {
+        "a": "To implement the improvement intervention on a large scale",
+        "b": "To analyze results and determine whether the change led to improvement",
+        "c": "To plan the next improvement project",
+        "d": "To assign tasks to the improvement team"
+      },
+      "correct_option": "b",
+      "explanation": "The Study (or Check) phase involves analyzing the data collected during the Do phase to determine if the change produced the expected improvement, and identifying what was learned.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A Pareto chart is used in quality improvement to:",
+      "options": {
+        "a": "Show the normal distribution of patient wait times",
+        "b": "Identify the 'vital few' causes that account for the majority of problems",
+        "c": "Map every step in a clinical process",
+        "d": "Compare two groups of patients in a clinical trial"
+      },
+      "correct_option": "b",
+      "explanation": "A Pareto chart is a bar chart where causes are ordered by frequency. It applies the 80/20 rule — typically 80% of problems stem from 20% of causes — helping teams prioritize improvement efforts.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which Lean concept focuses on eliminating activities that do not add value from the patient's perspective?",
+      "options": {
+        "a": "Kaizen",
+        "b": "Muda (waste) reduction",
+        "c": "Six Sigma DMAIC",
+        "d": "Statistical Process Control"
+      },
+      "correct_option": "b",
+      "explanation": "Muda is the Japanese term for waste. Lean methodology identifies seven types of waste (e.g., waiting, overproduction, defects) and focuses on eliminating activities that consume resources without adding value for the patient.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A run chart that shows data points consistently above the median for eight or more consecutive points indicates:",
+      "options": {
+        "a": "Random variation — no action required",
+        "b": "A special cause signal suggesting a non-random shift in the process",
+        "c": "The process is statistically out of control in both directions",
+        "d": "The data collection method is incorrect"
+      },
+      "correct_option": "b",
+      "explanation": "Eight or more consecutive data points on the same side of the median is a run chart rule violation indicating special cause variation — a signal that something in the process has systematically changed.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "The Six Sigma methodology defines a process as 'in control' when the defect rate is:",
+      "options": {
+        "a": "Less than 1% defect rate",
+        "b": "No more than 3.4 defects per million opportunities",
+        "c": "Zero defects at all times",
+        "d": "Below the industry average defect benchmark"
+      },
+      "correct_option": "b",
+      "explanation": "Six Sigma aims to achieve no more than 3.4 defects per million opportunities (DPMO), representing 99.99966% accuracy — a very high standard of process performance.",
+      "difficulty": "medium"
+    }
+  ]
+}

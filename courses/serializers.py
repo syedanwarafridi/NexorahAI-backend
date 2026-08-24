@@ -17,13 +17,24 @@ class DocumentSerializer(serializers.ModelSerializer):
 class ChapterSerializer(serializers.ModelSerializer):
     documents = DocumentSerializer(many=True, read_only=True)
     is_completed = serializers.SerializerMethodField()
+    is_locked = serializers.SerializerMethodField()
 
     class Meta:
         model = Chapter
         fields = (
             'id', 'title', 'order', 'duration_minutes',
-            'video_url', 'video_file', 'documents', 'is_completed',
+            'video_url', 'video_file', 'documents', 'is_completed', 'is_locked',
         )
+
+    def get_is_locked(self, obj):
+        request = self.context.get('request')
+        if not request or not request.user.is_authenticated:
+            return True
+        # First chapter of first domain is always free
+        if obj.domain and obj.domain.order == 1 and obj.order == 1:
+            return False
+        from payments.utils import has_active_subscription
+        return not has_active_subscription(request.user)
 
     def get_is_completed(self, obj):
         request = self.context.get('request')

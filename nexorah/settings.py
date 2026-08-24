@@ -10,8 +10,13 @@ environ.Env.read_env(BASE_DIR / '.env')
 
 SECRET_KEY = env('SECRET_KEY', default='django-insecure-nexorah-dev-key-change-in-production')
 DEBUG = env('DEBUG', default=True)
-# ALLOWED_HOSTS = env.list('ALLOWED_HOSTS', default=['localhost', '127.0.0.1', '.ngrok-free.dev', '.ngrok.io',])
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.ngrok-free.dev', '.ngrok.io', 'synovial-kale-nonexcitable.ngrok-free.dev']
+
+if DEBUG:
+    ALLOWED_HOSTS = ['*']
+else:
+    ALLOWED_HOSTS = env.list('ALLOWED_HOSTS', default=['localhost', '127.0.0.1'])
+
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 INSTALLED_APPS = [
     'jazzmin',  # must be before django.contrib.admin
     'django.contrib.admin',
@@ -34,12 +39,13 @@ INSTALLED_APPS = [
     'study_planner',
     'study_vault',
     'dashboard',
+    'payments',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -135,6 +141,7 @@ CORS_ALLOW_HEADERS = [
     'user-agent',
     'x-csrftoken',
     'x-requested-with',
+    'ngrok-skip-browser-warning',
 ]
 
 # ── Email ──────────────────────────────────────────────────────────────────────
@@ -148,8 +155,21 @@ DEFAULT_FROM_EMAIL = env('DEFAULT_FROM_EMAIL', default='Nexorah AI <noreply@nexo
 
 FRONTEND_URL = env('FRONTEND_URL', default='http://localhost:3000')
 
-# ── OpenAI (placeholder — key added tomorrow) ─────────────────────────────────
+# ── OpenAI ────────────────────────────────────────────────────────────────────
 OPENAI_API_KEY = env('OPENAI_API_KEY', default='')
+
+# ── Stripe (replaced by Lemon Squeezy) ─────────────────────────────────────────
+# STRIPE_PUBLISHABLE_KEY = env('STRIPE_PUBLISHABLE_KEY', default='')
+# STRIPE_SECRET_KEY = env('STRIPE_SECRET_KEY', default='')
+# STRIPE_WEBHOOK_SECRET = env('STRIPE_WEBHOOK_SECRET', default='')
+
+# ── Lemon Squeezy ───────────────────────────────────────────────────────────────
+LEMONSQUEEZY_API_KEY = env('LEMONSQUEEZY_API_KEY', default='')
+LEMONSQUEEZY_STORE_ID = env('LEMONSQUEEZY_STORE_ID', default='')
+LEMONSQUEEZY_WEBHOOK_SECRET = env('LEMONSQUEEZY_WEBHOOK_SECRET', default='')
+
+# Free tier limits
+FREE_MOCK_QUESTIONS_LIMIT = 5
 
 # ── Jazzmin Admin Theme ────────────────────────────────────────────────────────
 JAZZMIN_SETTINGS = {

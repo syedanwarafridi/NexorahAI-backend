@@ -1,0 +1,186 @@
+{
+  "topic": "Information Management",
+  "type": "quiz",
+  "questions": [
+    {
+      "text": "Which federal law in the United States primarily governs the privacy and security of patient health information?",
+      "options": {
+        "a": "EMTALA",
+        "b": "HIPAA",
+        "c": "Stark Law",
+        "d": "ACA"
+      },
+      "correct_option": "b",
+      "explanation": "HIPAA (Health Insurance Portability and Accountability Act) establishes national standards for protecting patient health information.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which type of data is considered 'protected health information' (PHI) under HIPAA?",
+      "options": {
+        "a": "De-identified patient data shared for research",
+        "b": "Aggregate statistical reports with no individual identifiers",
+        "c": "Individually identifiable health information in any form",
+        "d": "Staff performance evaluations"
+      },
+      "correct_option": "c",
+      "explanation": "PHI is any individually identifiable health information held or transmitted by a covered entity in any form — electronic, paper, or verbal.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital quality department is building a dashboard to monitor key performance indicators. Which principle BEST guides the selection of metrics?",
+      "options": {
+        "a": "Include as many metrics as possible to be comprehensive",
+        "b": "Select metrics that are actionable, meaningful, and aligned with strategic goals",
+        "c": "Use only metrics reported to external agencies",
+        "d": "Focus exclusively on financial indicators"
+      },
+      "correct_option": "b",
+      "explanation": "Effective dashboards use a focused set of meaningful, actionable metrics aligned with organizational priorities rather than overwhelming stakeholders with data.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes 'data integrity' in healthcare information management?",
+      "options": {
+        "a": "The ability to access data from any location",
+        "b": "The accuracy, completeness, and consistency of data",
+        "c": "The speed at which data is processed",
+        "d": "The volume of data stored in the system"
+      },
+      "correct_option": "b",
+      "explanation": "Data integrity refers to maintaining the accuracy, completeness, and consistency of data throughout its lifecycle.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "What is the primary purpose of an electronic health record (EHR) in quality management?",
+      "options": {
+        "a": "To replace the need for clinical quality reviews",
+        "b": "To support care coordination, documentation, and data-driven quality improvement",
+        "c": "To reduce the number of clinical staff required",
+        "d": "To eliminate paper-based processes entirely"
+      },
+      "correct_option": "b",
+      "explanation": "EHRs support quality management by facilitating documentation, care coordination, and the extraction of data for quality measurement and improvement.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which statistical term describes the proportion of people with a condition who test positive for it?",
+      "options": {
+        "a": "Specificity",
+        "b": "Positive predictive value",
+        "c": "Sensitivity",
+        "d": "Reliability"
+      },
+      "correct_option": "c",
+      "explanation": "Sensitivity (true positive rate) measures how well a test identifies those who actually have the condition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality analyst is comparing infection rates across multiple hospital units. Which type of chart is MOST appropriate for this comparison?",
+      "options": {
+        "a": "Run chart",
+        "b": "Bar chart",
+        "c": "Control chart",
+        "d": "Scatter plot"
+      },
+      "correct_option": "b",
+      "explanation": "Bar charts are ideal for comparing discrete values across multiple categories or groups at a single point in time.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following is an example of 'secondary data' in healthcare quality?",
+      "options": {
+        "a": "Direct patient interviews",
+        "b": "Real-time bedside observations",
+        "c": "Administrative claims data and medical records",
+        "d": "Surveys completed by nursing staff during care"
+      },
+      "correct_option": "c",
+      "explanation": "Secondary data is collected for purposes other than the current study — administrative claims and existing medical records are classic examples.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "What does 'interoperability' mean in the context of health information technology?",
+      "options": {
+        "a": "The ability of different systems to exchange and use health information",
+        "b": "The backup and recovery capabilities of an EHR system",
+        "c": "The encryption standards used to protect data",
+        "d": "The user interface design of a clinical system"
+      },
+      "correct_option": "a",
+      "explanation": "Interoperability allows different health IT systems to exchange, interpret, and use data effectively across organizations and settings.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital wants to reduce duplicate test ordering. Which information management tool would be MOST helpful?",
+      "options": {
+        "a": "Patient satisfaction survey system",
+        "b": "Clinical decision support (CDS) integrated into the EHR",
+        "c": "Manual chart audit program",
+        "d": "Staff scheduling software"
+      },
+      "correct_option": "b",
+      "explanation": "Clinical decision support systems can alert providers to existing test results and flag duplicate orders in real time at the point of care.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes 'risk-adjusted' outcome data?",
+      "options": {
+        "a": "Data collected only from high-risk patient populations",
+        "b": "Outcome data corrected for differences in patient demographics and severity of illness",
+        "c": "Data that excludes outlier cases",
+        "d": "Outcome data reported without any statistical adjustments"
+      },
+      "correct_option": "b",
+      "explanation": "Risk adjustment accounts for patient factors (age, comorbidities, severity) that affect outcomes, enabling fair comparisons across providers or facilities.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which data collection method involves systematically observing processes or behaviors as they occur?",
+      "options": {
+        "a": "Retrospective chart review",
+        "b": "Focus group",
+        "c": "Direct observation",
+        "d": "Survey administration"
+      },
+      "correct_option": "c",
+      "explanation": "Direct observation captures real-time process performance, which is more accurate than self-reporting or retrospective data for measuring actual practice.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "In a data-driven quality culture, what is the PRIMARY role of data visualizations?",
+      "options": {
+        "a": "To satisfy accreditation reporting requirements",
+        "b": "To make complex data accessible and actionable for decision-makers",
+        "c": "To replace the need for narrative quality reports",
+        "d": "To document data collection methodology"
+      },
+      "correct_option": "b",
+      "explanation": "Effective data visualizations translate complex information into clear insights, enabling leaders and frontline staff to make informed decisions.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital is reviewing its data on central line-associated bloodstream infections (CLABSIs). The rate is 2.1 per 1,000 catheter days. This is an example of which type of measure?",
+      "options": {
+        "a": "Structure measure",
+        "b": "Process measure",
+        "c": "Outcome measure",
+        "d": "Balancing measure"
+      },
+      "correct_option": "c",
+      "explanation": "CLABSI rate per 1,000 catheter days is an outcome measure — it reflects the end result of care processes and patient safety practices.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the MOST reliable method for measuring patient safety event rates?",
+      "options": {
+        "a": "Voluntary incident reporting by staff",
+        "b": "Structured medical record review using trigger tools",
+        "c": "Patient satisfaction surveys",
+        "d": "Annual staff safety assessments"
+      },
+      "correct_option": "b",
+      "explanation": "Trigger tools systematically review records for clues of adverse events, identifying far more events than voluntary reporting alone.",
+      "difficulty": "hard"
+    }
+  ]
+}

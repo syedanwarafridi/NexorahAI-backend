@@ -5,30 +5,26 @@ Reads JSON files from data/questions/ and seeds the database with:
 
   Category  : Healthcare Quality
   Course    : CPHQ Exam Preparation
-  Chapters  : one per Domain (video attached if available in media/)
+  Chapters  : one or more per Domain (video attached if available in media/)
   Topics    : one per Domain
-  Questions : loaded from JSON files
+  Questions : loaded from JSON files (quiz, mock, chapter_quiz, module_assessment)
 
 JSON file layout expected in <BASE_DIR>/data/questions/:
-  patient_safety_quiz.json
-  patient_safety_mock.json
-  quality_review_quiz.json
-  quality_review_mock.json
-  cphq_global_mock.json
+  patient_safety_quiz.json          — domain-level quiz questions
+  patient_safety_mock.json          — domain-level mock questions
+  domain1_chapter1_quick_quiz.json  — chapter quick quiz questions
+  domain1_module_assessment.json    — full module MCQ assessment questions
 
-Each file has the schema:
+Chapter quick quiz schema:
   {
-    "topic": "<topic name or null>",
-    "type":  "quiz" | "mock",
-    "questions": [
-      {
-        "text": "...",
-        "options": {"a": "...", "b": "...", "c": "...", "d": "..."},
-        "correct_option": "a" | "b" | "c" | "d",
-        "explanation": "...",
-        "difficulty": "easy" | "medium" | "hard"   // optional
-      }
-    ]
+    "topic": "<topic name>",
+    "questions": [{ "text": "...", "options": {...}, "correct_option": "a-d", "explanation": "...", "difficulty": "easy|medium|hard" }]
+  }
+
+Module assessment schema:
+  {
+    "domain_order": 1,
+    "questions": [{ "text": "...", "options": {...}, "correct_option": "a-d", "explanation": "...", "difficulty": "easy|medium|hard" }]
   }
 
 Usage:
@@ -51,11 +47,41 @@ from quiz.models import Question, Topic
 # Question files: (filename, topic_name_or_None, question_type)
 # ---------------------------------------------------------------------------
 QUESTION_FILES = [
-    ("patient_safety_quiz.json",     "Patient Safety",                  "quiz"),
-    ("patient_safety_mock.json",     "Patient Safety",                  "mock"),
-    ("quality_review_quiz.json",     "Quality Review & Accountability",  "quiz"),
-    ("quality_review_mock.json",     "Quality Review & Accountability",  "mock"),
-    ("cphq_global_mock.json",        None,                               "mock"),
+    ("patient_safety_quiz.json",              "Patient Safety",                    "quiz"),
+    ("patient_safety_mock.json",              "Patient Safety",                    "mock"),
+    ("quality_review_quiz.json",              "Quality Review & Accountability",   "quiz"),
+    ("quality_review_mock.json",              "Quality Review & Accountability",   "mock"),
+    ("performance_improvement_quiz.json",     "Performance and Process Improvement", "quiz"),
+    ("performance_improvement_mock.json",     "Performance and Process Improvement", "mock"),
+    ("information_management_quiz.json",      "Information Management",            "quiz"),
+    ("information_management_mock.json",      "Information Management",            "mock"),
+    ("patient_experience_quiz.json",          "Patient/Member Experience",         "quiz"),
+    ("patient_experience_mock.json",          "Patient/Member Experience",         "mock"),
+    ("regulatory_accreditation_quiz.json",    "Regulatory and Accreditation",      "quiz"),
+    ("regulatory_accreditation_mock.json",    "Regulatory and Accreditation",      "mock"),
+    ("quality_leadership_quiz.json",          "Quality Leadership and Integration", "quiz"),
+    ("quality_leadership_mock.json",          "Quality Leadership and Integration", "mock"),
+    ("cphq_global_mock.json",                 None,                                "mock"),
+]
+
+# Chapter quick quiz files: (filename, domain_order, chapter_order)
+CHAPTER_QUIZ_FILES = [
+    ("domain1_chapter1_quick_quiz.json", 1, 1),
+    ("domain1_chapter2_quick_quiz.json", 1, 2),
+    ("domain1_chapter3_quick_quiz.json", 1, 3),
+    ("domain1_chapter4_quick_quiz.json", 1, 4),
+    ("domain1_chapter5_quick_quiz.json", 1, 5),
+    ("domain2_chapter1_quick_quiz.json", 2, 1),
+    ("domain3_chapter1_quick_quiz.json", 3, 1),
+    ("domain4_chapter1_quick_quiz.json", 4, 1),
+    ("domain5_chapter1_quick_quiz.json", 5, 1),
+    ("domain6_chapter1_quick_quiz.json", 6, 1),
+    ("domain7_chapter1_quick_quiz.json", 7, 1),
+]
+
+# Full Module MCQ Assessment files: (filename, domain_order)
+MODULE_ASSESSMENT_FILES = [
+    ("domain1_module_assessment.json", 1),
 ]
 
 # Course structure: Course → Domains → Chapters
@@ -63,20 +89,40 @@ QUESTION_FILES = [
 COURSE_STRUCTURE = [
     {
         "order": 1,
-        "title": "Domain 1: Patient Safety",
-        "description": "Covers patient safety principles, risk reduction, and safety culture in healthcare.",
-        "topic_name": "Patient Safety",
+        "title": "Module 1: Quality Leadership and Integration",
+        "description": "Covers quality leadership principles, change management, organizational culture, and strategic integration of quality.",
+        "topic_name": "Quality Leadership and Integration",
         "chapters": [
             {
                 "order": 1,
-                "title": "Chapter 1: Introduction to Patient Safety",
-                "video_filename": "Patient Safety.mp4",
+                "title": "Chapter 1: Leadership vs. Management",
+                "video_filename": "Quality Leadership and Integration - Chapter 1.mp4",
+            },
+            {
+                "order": 2,
+                "title": "Chapter 2: Leadership and Organizational Culture",
+                "video_filename": "Quality Leadership and Integration - Chapter 2.mp4",
+            },
+            {
+                "order": 3,
+                "title": "Chapter 3: Strategic Planning and Performance Excellence",
+                "video_filename": "Quality Leadership and Integration - Chapter 3.mp4",
+            },
+            {
+                "order": 4,
+                "title": "Chapter 4: Organizational Infrastructure for Quality and Safety",
+                "video_filename": "Quality Leadership and Integration - Chapter 4.mp4",
+            },
+            {
+                "order": 5,
+                "title": "Chapter 5: Quality Leadership and Integration",
+                "video_filename": "Quality Leadership and Integration - Chapter 5.mp4",
             },
         ],
     },
     {
         "order": 2,
-        "title": "Domain 2: Quality Review & Accountability",
+        "title": "Module 2: Quality Review & Accountability",
         "description": "Covers quality review processes, accountability structures, and performance improvement.",
         "topic_name": "Quality Review & Accountability",
         "chapters": [
@@ -84,6 +130,71 @@ COURSE_STRUCTURE = [
                 "order": 1,
                 "title": "Chapter 1: Quality Review & Accountability",
                 "video_filename": "Quality Review and Accountability.mp4",
+            },
+        ],
+    },
+    {
+        "order": 3,
+        "title": "Module 3: Performance and Process Improvement",
+        "description": "Covers quality improvement methodologies including PDSA, Lean, Six Sigma, and data-driven improvement tools.",
+        "topic_name": "Performance and Process Improvement",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Performance and Process Improvement",
+                "video_filename": "",
+            },
+        ],
+    },
+    {
+        "order": 4,
+        "title": "Module 4: Information Management",
+        "description": "Covers healthcare data management, analytics, EHR systems, regulatory data requirements, and quality measurement.",
+        "topic_name": "Information Management",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Information Management",
+                "video_filename": "",
+            },
+        ],
+    },
+    {
+        "order": 5,
+        "title": "Module 5: Patient/Member Experience",
+        "description": "Covers patient-centered care, HCAHPS measurement, engagement strategies, and improving patient experience.",
+        "topic_name": "Patient/Member Experience",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Patient and Member Experience",
+                "video_filename": "",
+            },
+        ],
+    },
+    {
+        "order": 6,
+        "title": "Module 6: Regulatory and Accreditation",
+        "description": "Covers accreditation standards, regulatory compliance, survey readiness, and CMS requirements.",
+        "topic_name": "Regulatory and Accreditation",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Regulatory and Accreditation",
+                "video_filename": "",
+            },
+        ],
+    },
+    {
+        "order": 7,
+        "title": "Module 7: Patient Safety",
+        "description": "Covers patient safety principles, risk reduction, and safety culture in healthcare.",
+        "topic_name": "Patient Safety",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Introduction to Patient Safety",
+                "video_filename": "Patient Safety.mp4",
             },
         ],
     },
@@ -148,6 +259,7 @@ class Command(BaseCommand):
 
         # ── Domains & Chapters ─────────────────────────────────────────────
         media_video_dir = Path(settings.MEDIA_ROOT) / "courses" / "videos"
+        topic_name_to_domain = {}
         for domain_cfg in COURSE_STRUCTURE:
             domain, created = Domain.objects.get_or_create(
                 course=course,
@@ -163,6 +275,7 @@ class Command(BaseCommand):
                 domain.description = domain_cfg.get("description", "")
                 domain.save()
             self._log("created" if created else "exists", "Domain", domain.title)
+            topic_name_to_domain[domain_cfg["topic_name"]] = domain
 
             for ch_cfg in domain_cfg["chapters"]:
                 chapter, created = Chapter.objects.get_or_create(
@@ -210,22 +323,161 @@ class Command(BaseCommand):
                 topic, t_created = Topic.objects.get_or_create(
                     name=topic_name,
                     defaults={
-                        "description": f"Questions covering the {topic_name} domain of the CPHQ exam."
+                        "description": f"Questions covering the {topic_name} domain of the CPHQ exam.",
+                        "domain": topic_name_to_domain.get(topic_name),
                     },
                 )
                 if t_created:
                     self._log("created", "Topic", topic.name)
+                elif topic.domain_id != getattr(topic_name_to_domain.get(topic_name), "id", None):
+                    topic.domain = topic_name_to_domain.get(topic_name)
+                    topic.save(update_fields=["domain"])
 
             created_count, skipped_count = self._load_json(filepath, topic, q_type)
             total_created += created_count
             total_skipped += skipped_count
 
+        # ── Chapter Quick Quiz Questions ───────────────────────────────────
+        self.stdout.write("")
+        self.stdout.write(self.style.MIGRATE_HEADING("=== Loading chapter quick quiz questions ===\n"))
+        chapter_q_created = 0
+        chapter_q_skipped = 0
+
+        for filename, domain_order, chapter_order in CHAPTER_QUIZ_FILES:
+            filepath = data_dir / filename
+            if not filepath.exists():
+                self.stdout.write(self.style.WARNING(f"  Skipping (not found): {filename}"))
+                continue
+
+            try:
+                chapter = Chapter.objects.get(domain__course=course, domain__order=domain_order, order=chapter_order)
+            except Chapter.DoesNotExist:
+                self.stdout.write(self.style.WARNING(f"  Chapter not found for domain {domain_order} chapter {chapter_order}, skipping {filename}"))
+                continue
+
+            with open(filepath, encoding="utf-8") as f:
+                data = json.load(f)
+
+            topic_name = data.get("topic")
+            topic = None
+            if topic_name:
+                topic, _ = Topic.objects.get_or_create(
+                    name=topic_name,
+                    defaults={"description": f"Questions covering the {topic_name} domain of the CPHQ exam."},
+                )
+
+            created, skipped = self._load_chapter_quiz(filepath, data, chapter, topic)
+            chapter_q_created += created
+            chapter_q_skipped += skipped
+
+        # ── Full Module MCQ Assessment Questions ────────────────────────────
+        self.stdout.write("")
+        self.stdout.write(self.style.MIGRATE_HEADING("=== Loading full module MCQ assessment questions ===\n"))
+        module_q_created = 0
+        module_q_skipped = 0
+
+        for filename, domain_order in MODULE_ASSESSMENT_FILES:
+            filepath = data_dir / filename
+            if not filepath.exists():
+                self.stdout.write(self.style.WARNING(f"  Skipping (not found): {filename}"))
+                continue
+
+            try:
+                domain = Domain.objects.get(course=course, order=domain_order)
+            except Domain.DoesNotExist:
+                self.stdout.write(self.style.WARNING(f"  Domain {domain_order} not found, skipping {filename}"))
+                continue
+
+            with open(filepath, encoding="utf-8") as f:
+                data = json.load(f)
+
+            created, skipped = self._load_module_assessment(filepath, data, domain)
+            module_q_created += created
+            module_q_skipped += skipped
+
         self.stdout.write("")
         self.stdout.write(
             self.style.SUCCESS(
-                f"=== Done! {total_created} questions created, {total_skipped} skipped (duplicates). ==="
+                f"=== Done! {total_created} domain questions + {chapter_q_created} chapter quiz questions + "
+                f"{module_q_created} module assessment questions created. "
+                f"({total_skipped + chapter_q_skipped + module_q_skipped} total skipped) ==="
             )
         )
+
+    # ── Chapter quiz loader ────────────────────────────────────────────────
+
+    def _load_chapter_quiz(self, filepath: Path, data: dict, chapter, topic) -> tuple[int, int]:
+        questions = data.get("questions", [])
+        self.stdout.write(f"  Loading {filepath.name}  ({len(questions)} questions, chapter={chapter.title})")
+        created = 0
+        skipped = 0
+        for q in questions:
+            text = q.get("text", "").strip()
+            options = q.get("options", {})
+            correct = q.get("correct_option", "").lower().strip()
+            explanation = q.get("explanation", "").strip()
+            difficulty = q.get("difficulty", "medium")
+            if not text or not options or correct not in "abcd" or len(options) < 4:
+                skipped += 1
+                continue
+            if Question.objects.filter(text=text).exists():
+                skipped += 1
+                continue
+            Question.objects.create(
+                topic=topic,
+                chapter=chapter,
+                question_type="chapter_quiz",
+                difficulty=difficulty,
+                text=text,
+                option_a=options.get("a", ""),
+                option_b=options.get("b", ""),
+                option_c=options.get("c", ""),
+                option_d=options.get("d", ""),
+                correct_option=correct,
+                explanation=explanation,
+                is_active=True,
+            )
+            created += 1
+        label = self.style.SUCCESS(f"    Created: {created}") if created else f"    Created: {created}"
+        self.stdout.write(label + (f"  Skipped: {skipped}" if skipped else ""))
+        return created, skipped
+
+    # ── Module assessment loader ─────────────────────────────────────────────
+
+    def _load_module_assessment(self, filepath: Path, data: dict, domain) -> tuple[int, int]:
+        questions = data.get("questions", [])
+        self.stdout.write(f"  Loading {filepath.name}  ({len(questions)} questions, module={domain.title})")
+        created = 0
+        skipped = 0
+        for q in questions:
+            text = q.get("text", "").strip()
+            options = q.get("options", {})
+            correct = q.get("correct_option", "").lower().strip()
+            explanation = q.get("explanation", "").strip()
+            difficulty = q.get("difficulty", "medium")
+            if not text or not options or correct not in "abcd" or len(options) < 4:
+                skipped += 1
+                continue
+            if Question.objects.filter(text=text).exists():
+                skipped += 1
+                continue
+            Question.objects.create(
+                domain=domain,
+                question_type="module_assessment",
+                difficulty=difficulty,
+                text=text,
+                option_a=options.get("a", ""),
+                option_b=options.get("b", ""),
+                option_c=options.get("c", ""),
+                option_d=options.get("d", ""),
+                correct_option=correct,
+                explanation=explanation,
+                is_active=True,
+            )
+            created += 1
+        label = self.style.SUCCESS(f"    Created: {created}") if created else f"    Created: {created}"
+        self.stdout.write(label + (f"  Skipped: {skipped}" if skipped else ""))
+        return created, skipped
 
     # ── JSON loader ────────────────────────────────────────────────────────
 

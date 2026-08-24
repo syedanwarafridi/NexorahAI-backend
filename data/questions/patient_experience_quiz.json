@@ -1,0 +1,186 @@
+{
+  "topic": "Patient/Member Experience",
+  "type": "quiz",
+  "questions": [
+    {
+      "text": "Which standardized survey is used to measure inpatient patients' perspectives on hospital care in the United States?",
+      "options": {
+        "a": "Press Ganey",
+        "b": "HCAHPS",
+        "c": "CG-CAHPS",
+        "d": "NPS (Net Promoter Score)"
+      },
+      "correct_option": "b",
+      "explanation": "HCAHPS (Hospital Consumer Assessment of Healthcare Providers and Systems) is the national, standardized, publicly reported survey of patients' perspectives on hospital care.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Patient-centered care is BEST defined as care that:",
+      "options": {
+        "a": "Prioritizes clinical outcomes above all other considerations",
+        "b": "Respects and responds to individual patient preferences, needs, and values",
+        "c": "Standardizes care protocols to reduce variation",
+        "d": "Focuses exclusively on preventing medical errors"
+      },
+      "correct_option": "b",
+      "explanation": "Patient-centered care places the patient's preferences, needs, and values at the center of all clinical decisions, as defined by the IOM.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following is an example of a 'patient engagement' strategy?",
+      "options": {
+        "a": "Restricting family member visits to reduce infection risk",
+        "b": "Inviting patients to participate in bedside shift reports",
+        "c": "Requiring patients to sign consent forms",
+        "d": "Using generic printed discharge instructions"
+      },
+      "correct_option": "b",
+      "explanation": "Bedside shift reports involving patients directly engage them in their care, improving communication and safety.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital receives consistently low scores on the 'communication about medicines' domain of HCAHPS. Which intervention would MOST directly address this?",
+      "options": {
+        "a": "Increasing nursing staff on all units",
+        "b": "Training nurses to explain medications, side effects, and reasons using teach-back",
+        "c": "Distributing printed medication lists to all patients",
+        "d": "Reducing the number of medications prescribed per patient"
+      },
+      "correct_option": "b",
+      "explanation": "Using teach-back and clear communication techniques when explaining medications directly addresses the HCAHPS domain measuring how well staff communicate about medicines.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Health literacy refers to:",
+      "options": {
+        "a": "A patient's ability to pay for healthcare services",
+        "b": "A patient's ability to obtain, process, and understand basic health information",
+        "c": "The level of education required to work in healthcare",
+        "d": "A clinician's knowledge of public health topics"
+      },
+      "correct_option": "b",
+      "explanation": "Health literacy is the degree to which individuals can obtain, process, and understand health information needed to make appropriate decisions.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following strategies is MOST effective for improving patient satisfaction with pain management?",
+      "options": {
+        "a": "Ensuring all patients receive opioid pain medications",
+        "b": "Proactively assessing and addressing pain, and communicating the pain management plan to patients",
+        "c": "Reducing nursing documentation requirements",
+        "d": "Eliminating pain scales from patient assessments"
+      },
+      "correct_option": "b",
+      "explanation": "Proactive pain assessment, combined with clear communication of the pain management plan, has the greatest impact on patient satisfaction with pain care.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The 'teach-back' method is used to:",
+      "options": {
+        "a": "Train nursing students during clinical rotations",
+        "b": "Confirm that patients understand the information they have been given",
+        "c": "Document patient education in the EHR",
+        "d": "Provide in-service training to staff"
+      },
+      "correct_option": "b",
+      "explanation": "Teach-back asks patients to explain in their own words what they were told, confirming understanding and allowing clinicians to correct any misunderstandings.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following is considered a dimension of patient-centered care according to the Picker Institute?",
+      "options": {
+        "a": "Reducing hospital length of stay",
+        "b": "Respect for patients' values, preferences, and expressed needs",
+        "c": "Maximizing hospital revenue",
+        "d": "Standardizing all clinical pathways"
+      },
+      "correct_option": "b",
+      "explanation": "The Picker Institute identified eight dimensions of patient-centered care, with respect for patients' values, preferences, and needs as a core dimension.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital wants to increase its HCAHPS 'top box' scores. 'Top box' scores refer to:",
+      "options": {
+        "a": "The percentage of patients giving the highest possible rating",
+        "b": "The total number of surveys returned",
+        "c": "The average score across all domains",
+        "d": "Scores from the highest-performing departments"
+      },
+      "correct_option": "a",
+      "explanation": "Top box scores represent the percentage of patients who selected the most positive response category (e.g., 'Always' or '9 or 10'), which is how HCAHPS results are publicly reported.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Patient experience is DIFFERENT from patient satisfaction in that:",
+      "options": {
+        "a": "Patient satisfaction is objective while experience is subjective",
+        "b": "Patient experience measures what actually happened during care; satisfaction measures how patients felt about it",
+        "c": "Patient satisfaction is measured by clinical outcomes",
+        "d": "Patient experience only applies to inpatient settings"
+      },
+      "correct_option": "b",
+      "explanation": "Patient experience captures specific events and interactions during care; satisfaction measures the patient's emotional reaction to those events, which is influenced by expectations.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which of the following BEST supports shared decision-making between patients and providers?",
+      "options": {
+        "a": "Providing patients with a single recommended treatment option",
+        "b": "Presenting patients with evidence-based options and incorporating their preferences into the plan",
+        "c": "Having the physician make all treatment decisions to avoid patient confusion",
+        "d": "Using standardized care pathways without exceptions"
+      },
+      "correct_option": "b",
+      "explanation": "Shared decision-making involves presenting evidence-based options, discussing benefits and risks, and incorporating the patient's values and preferences into the final care plan.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team reviews HCAHPS results and finds a significant drop in 'responsiveness of hospital staff' scores. Which intervention should be PRIORITIZED?",
+      "options": {
+        "a": "Increasing housekeeping frequency",
+        "b": "Implementing hourly rounding protocols",
+        "c": "Expanding the hospital cafeteria hours",
+        "d": "Updating the hospital's website"
+      },
+      "correct_option": "b",
+      "explanation": "Hourly rounding proactively addresses patient needs, reducing call light use and improving responsiveness scores — consistently one of the most effective interventions for this domain.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Cultural competence in healthcare is BEST described as:",
+      "options": {
+        "a": "The ability to speak multiple languages",
+        "b": "The capacity to provide effective care that meets the cultural, social, and linguistic needs of patients",
+        "c": "Following all patients' requests regardless of clinical appropriateness",
+        "d": "Eliminating cultural differences in care delivery"
+      },
+      "correct_option": "b",
+      "explanation": "Cultural competence involves providing care that is respectful of and responsive to the health beliefs, practices, and cultural and linguistic needs of diverse patients.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which approach BEST reduces patient anxiety prior to a procedure?",
+      "options": {
+        "a": "Avoiding discussion of risks to prevent patient distress",
+        "b": "Providing clear, tailored information about what to expect before, during, and after the procedure",
+        "c": "Administering sedation as early as possible",
+        "d": "Limiting family involvement to reduce distractions"
+      },
+      "correct_option": "b",
+      "explanation": "Clear, individualized preparation information reduces uncertainty and anxiety by helping patients know what to expect throughout the care process.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital's patient advisory council includes former patients who contribute to care improvement decisions. This is an example of:",
+      "options": {
+        "a": "Community benefit programming",
+        "b": "Patient and family engagement in quality improvement",
+        "c": "Regulatory compliance with CMS requirements",
+        "d": "Public relations activity"
+      },
+      "correct_option": "b",
+      "explanation": "Patient and family advisory councils are a structured form of patient and family engagement in organizational quality improvement and decision-making.",
+      "difficulty": "easy"
+    }
+  ]
+}

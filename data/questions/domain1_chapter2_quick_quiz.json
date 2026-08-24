@@ -1,0 +1,65 @@
+{
+  "topic": "Quality Leadership and Integration",
+  "questions": [
+    {
+      "text": "A charge nurse notices that a medication pump consistently gives slightly different readings depending on the patient's position, but decides this is minor and does not report it. Which HRO principle is being VIOLATED?",
+      "options": {
+        "a": "Deference to Expertise",
+        "b": "Commitment to Resilience",
+        "c": "Preoccupation with Failure",
+        "d": "Reluctance to Simplify"
+      },
+      "correct_option": "c",
+      "explanation": "Preoccupation with Failure means actively looking for weak signals before harm occurs. Dismissing a small, consistent anomaly without investigation is a direct violation of this principle, which requires vigilance even when no harm has yet occurred.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital implements a non-punitive reporting system where staff can report errors and near-misses without fear of disciplinary action, while still holding individuals accountable for reckless behavior. This best describes:",
+      "options": {
+        "a": "High Reliability Organization principles",
+        "b": "Just Culture",
+        "c": "Psychological safety only",
+        "d": "Sentinel event review policy"
+      },
+      "correct_option": "b",
+      "explanation": "Just Culture creates a system where reporting is safe and encouraged, errors are analyzed systemically, but individuals who engage in reckless behavior are still held accountable. It balances psychological safety with appropriate accountability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality leader wants to assess whether the organizational culture will support a new hand hygiene improvement initiative before it launches. Which tool is MOST appropriate?",
+      "options": {
+        "a": "HCAHPS survey",
+        "b": "Root cause analysis",
+        "c": "AHRQ Hospital Survey on Patient Safety Culture (HSOPS)",
+        "d": "Balanced Scorecard"
+      },
+      "correct_option": "c",
+      "explanation": "HSOPS is specifically designed to assess staff perceptions of safety culture and organizational readiness. It identifies cultural enablers and barriers before launching improvement initiatives — exactly matching Galpin's Cultural Screening purpose.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During a medication error investigation, the quality team finds that three different departments independently reached the same wrong conclusion about the cause because they each saw only their own data. This violates which HRO principle?",
+      "options": {
+        "a": "Sensitivity to Operations",
+        "b": "Preoccupation with Failure",
+        "c": "Commitment to Resilience",
+        "d": "Reluctance to Simplify"
+      },
+      "correct_option": "d",
+      "explanation": "Reluctance to Simplify means avoiding easy or single explanations for complex problems. When each department applies its own limited perspective and reaches a simplistic conclusion, it violates this principle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the primary role of a Quality Council in healthcare governance?",
+      "options": {
+        "a": "Reviewing individual patient safety incidents at the unit level",
+        "b": "Providing strategic oversight of quality priorities and organizational performance governance",
+        "c": "Credentialing medical staff for clinical privileges",
+        "d": "Managing daily infection control monitoring"
+      },
+      "correct_option": "b",
+      "explanation": "A Quality Council provides strategic oversight — setting quality priorities, monitoring organizational performance, and ensuring governance alignment. It operates at the strategic level, distinct from committees that handle specific incidents or operational functions.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "domain_order": 4,
+  "chapter_order": 1,
+  "topic": "Information Management",
+  "questions": [
+    {
+      "text": "Which federal law primarily governs the privacy and security of protected health information (PHI) in the United States?",
+      "options": {
+        "a": "The Affordable Care Act (ACA)",
+        "b": "HITECH Act",
+        "c": "HIPAA",
+        "d": "EMTALA"
+      },
+      "correct_option": "c",
+      "explanation": "HIPAA (Health Insurance Portability and Accountability Act) is the primary federal law governing the privacy and security of protected health information. The HITECH Act strengthened HIPAA enforcement but HIPAA is the foundational law.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A healthcare organization wants to compare its patient fall rate to that of similar hospitals nationally. This process is best described as:",
+      "options": {
+        "a": "Root cause analysis",
+        "b": "Benchmarking",
+        "c": "Concurrent review",
+        "d": "Risk stratification"
+      },
+      "correct_option": "b",
+      "explanation": "Benchmarking is the process of comparing an organization's performance data against external standards, best practices, or similar organizations to identify performance gaps and opportunities for improvement.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "In healthcare data management, 'data validity' refers to:",
+      "options": {
+        "a": "How quickly data can be retrieved from the EHR system",
+        "b": "Whether data accurately measures what it is intended to measure",
+        "c": "The number of data points collected in a given period",
+        "d": "The frequency with which data is updated in the system"
+      },
+      "correct_option": "b",
+      "explanation": "Data validity (or accuracy) ensures that the data collected truly represents what it claims to measure. Invalid data can lead to incorrect conclusions and poor quality decisions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is implementing a new EHR system. Which of the following is the MOST important consideration for patient safety?",
+      "options": {
+        "a": "Ensuring the vendor offers the lowest possible cost",
+        "b": "Completing implementation as quickly as possible",
+        "c": "Providing thorough staff training and testing before go-live",
+        "d": "Decommissioning the old system immediately at go-live"
+      },
+      "correct_option": "c",
+      "explanation": "EHR implementations carry significant patient safety risks if staff are not properly trained. Thorough training and testing before go-live reduces medication errors, workflow disruptions, and data integrity issues.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which type of data is MOST useful for identifying trends in patient outcomes over time?",
+      "options": {
+        "a": "Cross-sectional data collected at a single point in time",
+        "b": "Longitudinal data collected repeatedly over an extended period",
+        "c": "Qualitative data from patient focus groups",
+        "d": "Anecdotal data from staff incident reports"
+      },
+      "correct_option": "b",
+      "explanation": "Longitudinal data, collected over time for the same patients or processes, is most effective for identifying trends, measuring the impact of interventions, and predicting future outcomes.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "Quality Leadership and Integration",
+  "questions": [
+    {
+      "text": "A hospital quality department is embedded within individual clinical units rather than housed as a central department. Quality staff report directly to unit leaders and are integrated into daily unit operations. This BEST describes which organizational structure?",
+      "options": {
+        "a": "Centralized quality structure",
+        "b": "Matrix quality structure",
+        "c": "Decentralized quality structure",
+        "d": "Hybrid quality structure"
+      },
+      "correct_option": "c",
+      "explanation": "Decentralized quality structures place quality expertise closer to frontline teams and local workflows. This increases responsiveness and unit-level ownership but may reduce enterprise-wide standardization.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the primary purpose of the peer review process in a healthcare organization?",
+      "options": {
+        "a": "Verifying physician credentials before granting hospital privileges",
+        "b": "Retrospectively evaluating a clinician's clinical performance and identifying improvement opportunities",
+        "c": "Assessing organizational readiness for accreditation surveys",
+        "d": "Reviewing patient safety incident reports at the unit level"
+      },
+      "correct_option": "b",
+      "explanation": "Peer review is a retrospective process where qualified colleagues evaluate clinical decisions and outcomes to identify performance improvement opportunities. It is distinct from credentialing, which verifies qualifications before granting privileges.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A steering committee is formed to guide the implementation of a new sepsis protocol across all inpatient units. Which of the following BEST describes the committee's primary governance function?",
+      "options": {
+        "a": "Oversee the organization's overall quality strategy and performance governance",
+        "b": "Guide the specific improvement initiative and remove implementation barriers",
+        "c": "Credential clinical staff involved in sepsis management",
+        "d": "Review retrospective mortality data for root cause analysis"
+      },
+      "correct_option": "b",
+      "explanation": "Steering committees are formed to guide specific improvement initiatives and remove barriers to implementation. Quality councils, by contrast, oversee the broader organizational quality strategy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is asked to help a clinical department reduce medication errors. Rather than auditing the department, the quality professional facilitates a team problem-solving session, analyzes process data, and helps design a workflow improvement. This role BEST reflects:",
+      "options": {
+        "a": "Compliance monitoring and enforcement",
+        "b": "The quality department as an organizational partner and improvement facilitator",
+        "c": "Peer review oversight responsibilities",
+        "d": "Accreditation preparation leadership"
+      },
+      "correct_option": "b",
+      "explanation": "The CPHQ framework positions quality professionals as facilitators, advisors, and improvement partners — not auditors or compliance enforcement agents. Technical expertise is deployed to support, not police, clinical teams.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following quality organizational structures BEST supports both enterprise-wide standardization AND unit-level improvement accountability?",
+      "options": {
+        "a": "Fully centralized structure",
+        "b": "Fully decentralized structure",
+        "c": "Matrix or hybrid structure",
+        "d": "Governance-only structure"
+      },
+      "correct_option": "c",
+      "explanation": "Matrix and hybrid structures connect central quality oversight with departmental ownership and accountability — balancing the standardization benefits of centralization with the frontline responsiveness of decentralization.",
+      "difficulty": "medium"
+    }
+  ]
+}

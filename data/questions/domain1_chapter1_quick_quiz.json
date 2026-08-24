@@ -1,0 +1,65 @@
+{
+  "topic": "Quality Leadership and Integration",
+  "questions": [
+    {
+      "text": "Which of the following most accurately describes the primary difference between a healthcare leader and a healthcare manager?",
+      "options": {
+        "a": "Leaders handle daily operations while managers set long-term strategy",
+        "b": "Leaders create vision and direction while managers ensure stable execution",
+        "c": "Leaders focus on compliance while managers focus on cultural change",
+        "d": "Leaders report to managers in most governance structures"
+      },
+      "correct_option": "b",
+      "explanation": "Leaders drive vision, change, and cultural direction. Managers ensure stability, execution, and compliance with daily operations. This is a foundational CPHQ distinction tested across multiple domains.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital Board of Directors receives a quality dashboard showing a sustained increase in hospital-acquired infection rates over six months. What is the Board's PRIMARY responsibility in this situation?",
+      "options": {
+        "a": "Directly investigate the root cause at the unit level",
+        "b": "Replace the quality department leadership immediately",
+        "c": "Hold the CEO accountable for a corrective action plan",
+        "d": "Implement new infection control protocols themselves"
+      },
+      "correct_option": "c",
+      "explanation": "The Board bears ultimate accountability for quality outcomes but exercises this through governance — holding executive leadership accountable through structured reporting, performance metrics, and strategic oversight. The Board does not manage operations directly.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director is implementing a hospital-wide patient safety culture change. Leadership research suggests this type of major organizational change typically takes:",
+      "options": {
+        "a": "3–6 months to implement and sustain",
+        "b": "6–12 months with strong executive support",
+        "c": "18–24 months to implement and longer to embed in culture",
+        "d": "5 years minimum regardless of leadership approach"
+      },
+      "correct_option": "c",
+      "explanation": "The 18–24 month implementation timeline for major change is a CPHQ-testable fact. Sustainable quality improvement is a long-term cultural shift — not a short-term project. Cultural embedding extends beyond implementation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Quality Committee of the Board receives monthly performance data from the Chief Quality Officer. This reporting structure best demonstrates which governance principle?",
+      "options": {
+        "a": "Decentralized decision-making",
+        "b": "Board accountability for quality outcomes exercised through structured oversight",
+        "c": "Management delegation to frontline staff",
+        "d": "Peer review and credentialing oversight"
+      },
+      "correct_option": "b",
+      "explanation": "Regular quality dashboard reporting to the Board Quality Committee is the mechanism through which governance accountability is exercised. This is distinct from operational management and represents the formal quality governance structure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following characteristics MOST distinguishes a successful quality leader from a competent quality manager?",
+      "options": {
+        "a": "Ability to complete audits on time",
+        "b": "Proficiency in regulatory compliance documentation",
+        "c": "Creating psychological safety so staff can report errors without fear",
+        "d": "Ensuring departmental budget targets are met quarterly"
+      },
+      "correct_option": "c",
+      "explanation": "Psychological safety — where staff can speak up, pause unsafe care, and escalate concerns without fear — is a defining characteristic of successful quality leaders. This goes beyond managerial competency into cultural and behavioral leadership territory.",
+      "difficulty": "medium"
+    }
+  ]
+}

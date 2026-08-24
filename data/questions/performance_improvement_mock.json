@@ -1,0 +1,126 @@
+{
+  "topic": "Performance and Process Improvement",
+  "type": "mock",
+  "questions": [
+    {
+      "text": "A quality team has completed a PDSA cycle and found that the intervention did not achieve the desired outcome. What is the MOST appropriate next step?",
+      "options": {
+        "a": "Abandon the improvement project and select a new priority",
+        "b": "Implement the intervention organization-wide and monitor results",
+        "c": "Analyze what was learned and revise the intervention for the next PDSA cycle",
+        "d": "Report the failure to senior leadership and await direction"
+      },
+      "correct_option": "c",
+      "explanation": "The PDSA cycle is iterative. When an intervention does not work, the team analyzes what was learned and uses that knowledge to revise the approach in the next cycle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which type of waste in Lean methodology refers to producing more than is needed or producing earlier than needed?",
+      "options": {
+        "a": "Waiting",
+        "b": "Overproduction",
+        "c": "Defects",
+        "d": "Motion"
+      },
+      "correct_option": "b",
+      "explanation": "Overproduction is considered the most critical waste in Lean because it leads to excess inventory and can hide other problems.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital wants to reduce the time from ED arrival to physician assessment. Which tool would BEST help map the current state process?",
+      "options": {
+        "a": "Control chart",
+        "b": "Value stream map",
+        "c": "Pareto chart",
+        "d": "Run chart"
+      },
+      "correct_option": "b",
+      "explanation": "Value stream mapping visualizes the entire flow of a process, including steps, delays, and handoffs, making it ideal for identifying waste and inefficiencies.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In Six Sigma, a process operating at 'Six Sigma quality' produces approximately:",
+      "options": {
+        "a": "1 defect per 100 opportunities",
+        "b": "3.4 defects per million opportunities",
+        "c": "No defects under any conditions",
+        "d": "10 defects per 1,000 opportunities"
+      },
+      "correct_option": "b",
+      "explanation": "Six Sigma quality is defined as no more than 3.4 defects per million opportunities, representing near-perfect process performance.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which of the following is the PRIMARY purpose of the 'Control' phase in DMAIC?",
+      "options": {
+        "a": "Identifying root causes of the problem",
+        "b": "Developing and testing improvement solutions",
+        "c": "Sustaining the gains achieved and preventing regression",
+        "d": "Defining the problem scope and goals"
+      },
+      "correct_option": "c",
+      "explanation": "The Control phase focuses on sustaining improvements by implementing monitoring systems, standard procedures, and response plans to prevent regression.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is tasked with reducing patient wait times in the outpatient clinic. After mapping the process, which activity should be targeted FIRST?",
+      "options": {
+        "a": "Steps that add the most value to the patient",
+        "b": "Steps where clinical staff spend the most time",
+        "c": "Steps that do not add value and can be eliminated (waste)",
+        "d": "Steps mandated by regulatory bodies"
+      },
+      "correct_option": "c",
+      "explanation": "Lean improvement prioritizes identifying and eliminating non-value-added steps (waste) as the most effective way to reduce wait times.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A run chart shows 8 consecutive data points all above the median. This pattern indicates:",
+      "options": {
+        "a": "Common cause variation only",
+        "b": "A signal of special cause variation",
+        "c": "Random variation within control limits",
+        "d": "Insufficient data to draw conclusions"
+      },
+      "correct_option": "b",
+      "explanation": "Eight or more consecutive data points on the same side of the median is a run chart rule for special cause variation, suggesting a real change in the process.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which of the following best describes a 'process measure' in quality improvement?",
+      "options": {
+        "a": "A measure of patient health outcomes such as mortality rate",
+        "b": "A measure of whether a specific step in the care process was performed",
+        "c": "A measure of financial performance",
+        "d": "A measure of patient satisfaction"
+      },
+      "correct_option": "b",
+      "explanation": "Process measures assess whether specific evidence-based care steps were completed, such as whether a patient received a recommended screening.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which framework specifically uses 'tollgates' to review progress at each phase before proceeding?",
+      "options": {
+        "a": "PDSA",
+        "b": "Lean",
+        "c": "DMAIC (Six Sigma)",
+        "d": "Model for Improvement"
+      },
+      "correct_option": "c",
+      "explanation": "DMAIC uses formal tollgate reviews at the end of each phase, where leadership reviews progress and approves moving to the next phase.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "A hospital implements a new sepsis bundle and tracks compliance monthly. After six months, compliance remains consistently above 95%. This is an example of:",
+      "options": {
+        "a": "A process in special cause variation",
+        "b": "A sustained improvement that has become the new standard",
+        "c": "A temporary improvement that requires re-testing",
+        "d": "Insufficient data to determine sustainability"
+      },
+      "correct_option": "b",
+      "explanation": "Consistent performance at the desired level over multiple measurement periods indicates the improvement has been sustained and incorporated into standard practice.",
+      "difficulty": "medium"
+    }
+  ]
+}

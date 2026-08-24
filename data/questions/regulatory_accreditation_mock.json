@@ -1,0 +1,126 @@
+{
+  "topic": "Regulatory and Accreditation",
+  "type": "mock",
+  "questions": [
+    {
+      "text": "A hospital receives a survey finding that its infection control documentation is incomplete. The FIRST step in responding is to:",
+      "options": {
+        "a": "Immediately dispute the finding with the accreditation body",
+        "b": "Perform a root cause analysis to understand why documentation is incomplete and develop a corrective plan",
+        "c": "Reassign the infection control staff to other duties",
+        "d": "Wait until the next survey cycle to address the deficiency"
+      },
+      "correct_option": "b",
+      "explanation": "Understanding the root cause enables development of an effective Plan of Correction that addresses the actual problem rather than just the symptom.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Under HIPAA, which of the following is a permissible use of patient information WITHOUT specific patient authorization?",
+      "options": {
+        "a": "Sharing patient information with an employer for employment decisions",
+        "b": "Using patient information for treatment, payment, and healthcare operations",
+        "c": "Disclosing patient information to a marketing company",
+        "d": "Providing patient records to a family member without patient consent"
+      },
+      "correct_option": "b",
+      "explanation": "HIPAA permits use of PHI for treatment, payment, and healthcare operations (TPO) without specific patient authorization.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital's quality department identifies that its falls prevention protocol does not meet current Joint Commission standards. Which action is MOST appropriate?",
+      "options": {
+        "a": "Continue using the current protocol until the next survey",
+        "b": "Revise the protocol to meet the standard, implement it, and verify compliance through monitoring",
+        "c": "Request a waiver from The Joint Commission",
+        "d": "Document the gap and refer it to the medical staff office"
+      },
+      "correct_option": "b",
+      "explanation": "When a gap is identified, the correct response is to update the practice to meet the standard, implement the change, and monitor compliance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is a CMS 'never event' (Serious Reportable Event)?",
+      "options": {
+        "a": "A patient acquiring a minor skin tear during repositioning",
+        "b": "Surgery performed on the wrong patient",
+        "c": "A medication dose being administered 30 minutes late",
+        "d": "A patient experiencing a headache after a lumbar puncture"
+      },
+      "correct_option": "b",
+      "explanation": "Wrong-patient surgery is a CMS Serious Reportable Event (never event) — a preventable error that should never occur if proper safeguards are in place.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A quality professional is preparing a regulatory compliance report. Which of the following BEST demonstrates ongoing survey readiness?",
+      "options": {
+        "a": "Data showing compliance metrics are consistently monitored and trending toward improvement",
+        "b": "Evidence that staff completed training modules the week before the survey",
+        "c": "A list of temporary measures implemented specifically for the survey",
+        "d": "Testimonials from staff that they feel ready for the survey"
+      },
+      "correct_option": "a",
+      "explanation": "Consistently monitored and improving compliance data demonstrates a culture of continuous readiness, not just pre-survey preparation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the purpose of the Joint Commission's ORYX initiative?",
+      "options": {
+        "a": "To provide a voluntary peer networking program for hospital CEOs",
+        "b": "To integrate performance measurement data into the accreditation process",
+        "c": "To standardize physician credentialing across states",
+        "d": "To accredit laboratory services"
+      },
+      "correct_option": "b",
+      "explanation": "The ORYX initiative requires accredited organizations to collect and submit standardized performance measurement data, integrating it into TJC's accreditation process.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "A hospital is notified of an unannounced CMS survey. How should the quality team respond?",
+      "options": {
+        "a": "Request a 24-hour postponement to prepare staff",
+        "b": "Welcome the surveyors and provide requested access and documentation",
+        "c": "Alert only senior leadership and restrict surveyor access until preparation is complete",
+        "d": "Contact legal counsel before allowing surveyors to enter"
+      },
+      "correct_option": "b",
+      "explanation": "Organizations with true continuous readiness should welcome unannounced surveys. Obstructing access or delaying entry may constitute non-compliance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which regulatory body enforces workplace safety standards in healthcare settings?",
+      "options": {
+        "a": "CMS",
+        "b": "FDA",
+        "c": "OSHA",
+        "d": "The Joint Commission"
+      },
+      "correct_option": "c",
+      "explanation": "OSHA (Occupational Safety and Health Administration) enforces workplace safety and health regulations, including bloodborne pathogen standards for healthcare settings.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital's compliance program identifies a pattern of upcoding in billing practices. The MOST appropriate next step is to:",
+      "options": {
+        "a": "Continue the practice and consult legal counsel only if audited",
+        "b": "Voluntarily report the issue through the OIG Self-Disclosure Protocol and take corrective action",
+        "c": "Quietly stop the practice without reporting",
+        "d": "Wait to see if CMS identifies the issue during a routine audit"
+      },
+      "correct_option": "b",
+      "explanation": "The OIG Self-Disclosure Protocol allows organizations to voluntarily report potential fraud violations, which generally results in more favorable resolution than waiting for detection.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which of the following is the PRIMARY benefit of healthcare accreditation for patients?",
+      "options": {
+        "a": "Accreditation guarantees zero medical errors",
+        "b": "Accreditation provides assurance that the organization meets established quality and safety standards",
+        "c": "Accreditation reduces the cost of care for patients",
+        "d": "Accreditation ensures all staff are nationally certified"
+      },
+      "correct_option": "b",
+      "explanation": "Accreditation gives patients confidence that an organization has met recognized quality and safety standards through rigorous external evaluation.",
+      "difficulty": "easy"
+    }
+  ]
+}

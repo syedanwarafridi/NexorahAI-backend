@@ -1,0 +1,186 @@
+{
+  "topic": "Regulatory and Accreditation",
+  "type": "quiz",
+  "questions": [
+    {
+      "text": "Which organization accredits hospitals through the Joint Commission accreditation program?",
+      "options": {
+        "a": "Centers for Medicare and Medicaid Services (CMS)",
+        "b": "The Joint Commission (TJC)",
+        "c": "The National Committee for Quality Assurance (NCQA)",
+        "d": "The American Hospital Association (AHA)"
+      },
+      "correct_option": "b",
+      "explanation": "The Joint Commission (TJC) is the primary accreditation body for hospitals and healthcare organizations in the United States.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "What is the purpose of The Joint Commission's National Patient Safety Goals (NPSGs)?",
+      "options": {
+        "a": "To rank hospitals by clinical performance",
+        "b": "To address specific areas of concern in patient safety through evidence-based requirements",
+        "c": "To replace CMS Conditions of Participation",
+        "d": "To mandate staff training hours"
+      },
+      "correct_option": "b",
+      "explanation": "NPSGs are developed annually to focus healthcare organizations on specific safety practices with the strongest evidence for preventing harm.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "CMS Conditions of Participation (CoPs) are BEST described as:",
+      "options": {
+        "a": "Optional guidelines for improving hospital quality",
+        "b": "Standards that healthcare organizations must meet to participate in Medicare and Medicaid programs",
+        "c": "Billing requirements for submitting claims to CMS",
+        "d": "Guidelines for physician credentialing"
+      },
+      "correct_option": "b",
+      "explanation": "CoPs are federal regulations that healthcare organizations must comply with to be eligible for Medicare and Medicaid reimbursement.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following is a characteristic of a 'Deemed Status' hospital?",
+      "options": {
+        "a": "A hospital that has failed its most recent CMS survey",
+        "b": "A hospital accredited by an approved accreditation body, meeting CMS CoP requirements",
+        "c": "A hospital that operates without any accreditation",
+        "d": "A hospital that exclusively serves Medicare patients"
+      },
+      "correct_option": "b",
+      "explanation": "Deemed status means a hospital accredited by an approved body (e.g., TJC) is deemed to meet Medicare CoPs without separate CMS survey.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "What is the primary purpose of a sentinel event review?",
+      "options": {
+        "a": "To determine financial liability for the event",
+        "b": "To conduct a thorough root cause analysis and implement system improvements to prevent recurrence",
+        "c": "To identify and discipline responsible staff members",
+        "d": "To report the event to law enforcement"
+      },
+      "correct_option": "b",
+      "explanation": "Sentinel event reviews use root cause analysis to understand system-level factors contributing to serious events and develop corrective action plans.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "NCQA accreditation primarily applies to which type of healthcare organization?",
+      "options": {
+        "a": "Acute care hospitals",
+        "b": "Managed care organizations and health plans",
+        "c": "Long-term care facilities",
+        "d": "Ambulatory surgery centers"
+      },
+      "correct_option": "b",
+      "explanation": "NCQA accredits managed care organizations, health plans, and disease management programs, focusing on quality of care and service.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes 'tracer methodology' used by The Joint Commission during surveys?",
+      "options": {
+        "a": "A process of reviewing financial documents to identify billing errors",
+        "b": "Following the care experience of individual patients through the organization to assess compliance",
+        "c": "Tracing the supply chain of medications used in the hospital",
+        "d": "Reviewing staff training records for compliance"
+      },
+      "correct_option": "b",
+      "explanation": "Tracer methodology evaluates the care of individual patients by following their experiences across departments and staff, assessing compliance with standards in real care contexts.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is preparing for a regulatory survey. Which approach BEST demonstrates a culture of continuous readiness?",
+      "options": {
+        "a": "Conducting intensive preparation activities only in the weeks before the survey",
+        "b": "Maintaining ongoing compliance with standards through regular self-assessments and education",
+        "c": "Hiring temporary staff to improve metrics before the survey",
+        "d": "Limiting surveyor access to high-performing units"
+      },
+      "correct_option": "b",
+      "explanation": "Survey readiness as a continuous process — not just pre-survey cramming — reflects a true culture of quality and compliance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a 'structure' standard in accreditation?",
+      "options": {
+        "a": "Percentage of patients who received VTE prophylaxis",
+        "b": "A requirement that hospitals have a functional quality improvement committee",
+        "c": "Patient mortality rate",
+        "d": "Staff hand hygiene compliance rate"
+      },
+      "correct_option": "b",
+      "explanation": "Structure standards address the organizational conditions for care, such as governance, committees, and staffing requirements — not the processes or outcomes of care.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "What does EMTALA require of hospital emergency departments?",
+      "options": {
+        "a": "To accept all patients regardless of their insurance status for any type of care",
+        "b": "To provide medical screening and stabilizing treatment to all individuals regardless of ability to pay",
+        "c": "To transfer all uninsured patients to publicly funded hospitals",
+        "d": "To report all emergency visits to CMS within 24 hours"
+      },
+      "correct_option": "b",
+      "explanation": "EMTALA requires hospital EDs to provide a medical screening exam and necessary stabilizing treatment to any individual who presents, regardless of insurance status.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which accreditation body is responsible for accrediting home health agencies?",
+      "options": {
+        "a": "NCQA",
+        "b": "URAC",
+        "c": "The Joint Commission or ACHC",
+        "d": "AHA"
+      },
+      "correct_option": "c",
+      "explanation": "The Joint Commission and the Accreditation Commission for Health Care (ACHC) both accredit home health agencies.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "A 'Plan of Correction' (POC) is required when:",
+      "options": {
+        "a": "A hospital voluntarily applies for a new accreditation program",
+        "b": "Deficiencies or non-compliance are identified during a regulatory survey",
+        "c": "A hospital implements a new quality improvement initiative",
+        "d": "Staff complete annual competency evaluations"
+      },
+      "correct_option": "b",
+      "explanation": "A Plan of Correction formally documents how the organization will address identified deficiencies, with specific actions, timelines, and responsible parties.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following is a key function of the hospital's quality committee related to regulatory compliance?",
+      "options": {
+        "a": "Setting physician compensation levels",
+        "b": "Overseeing compliance with accreditation standards and monitoring quality metrics",
+        "c": "Managing the hospital's capital budget",
+        "d": "Approving all staff hiring decisions"
+      },
+      "correct_option": "b",
+      "explanation": "The quality committee oversees compliance with regulatory and accreditation standards, reviews quality data, and guides improvement efforts.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "What is the role of a quality professional during a Joint Commission survey?",
+      "options": {
+        "a": "To speak on behalf of all staff and intercept all surveyor communications",
+        "b": "To facilitate the survey process, provide requested documentation, and support staff",
+        "c": "To prevent surveyors from accessing patient care areas",
+        "d": "To negotiate the final survey score with the survey team"
+      },
+      "correct_option": "b",
+      "explanation": "Quality professionals facilitate the survey by coordinating logistics, ensuring documents are available, and supporting staff in responding to surveyor questions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the role of the Office of Inspector General (OIG) in healthcare?",
+      "options": {
+        "a": "Accrediting hospitals for quality and safety",
+        "b": "Investigating and preventing fraud, waste, and abuse in federal healthcare programs",
+        "c": "Establishing clinical practice guidelines",
+        "d": "Approving new medical devices and pharmaceuticals"
+      },
+      "correct_option": "b",
+      "explanation": "The OIG focuses on combating fraud, waste, and abuse in Medicare, Medicaid, and other federal healthcare programs.",
+      "difficulty": "medium"
+    }
+  ]
+}

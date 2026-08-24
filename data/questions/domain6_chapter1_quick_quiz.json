@@ -1,0 +1,67 @@
+{
+  "domain_order": 6,
+  "chapter_order": 1,
+  "topic": "Regulatory and Accreditation",
+  "questions": [
+    {
+      "text": "The Joint Commission's accreditation standards are PRIMARILY designed to:",
+      "options": {
+        "a": "Maximize hospital revenue through quality bonuses",
+        "b": "Evaluate and improve the safety and quality of care provided to patients",
+        "c": "Regulate physician licensing in all 50 states",
+        "d": "Replace state health department inspections entirely"
+      },
+      "correct_option": "b",
+      "explanation": "The Joint Commission's accreditation program evaluates healthcare organizations against nationally recognized safety and quality standards, with the primary goal of improving patient care outcomes.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A 'Condition of Participation' (CoP) in the context of CMS refers to:",
+      "options": {
+        "a": "A requirement for patients to participate in quality improvement studies",
+        "b": "The minimum health and safety standards a healthcare organization must meet to receive Medicare and Medicaid reimbursement",
+        "c": "A voluntary quality standard set by professional associations",
+        "d": "A requirement for staff to participate in continuing education"
+      },
+      "correct_option": "b",
+      "explanation": "CMS Conditions of Participation (CoPs) are the minimum health and safety standards that hospitals and other healthcare providers must meet to participate in and receive payment from Medicare and Medicaid programs.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During an unannounced Joint Commission survey, a surveyor finds that a fire extinguisher in a patient care area is out of date. This would MOST likely be classified as:",
+      "options": {
+        "a": "An Immediate Threat to Life (ITL) requiring emergency shutdown",
+        "b": "A Requirement for Improvement (RFI) in the Life Safety chapter",
+        "c": "A minor finding with no required corrective action",
+        "d": "A violation reported to the state medical board"
+      },
+      "correct_option": "b",
+      "explanation": "Outdated fire extinguishers are a Life Safety standard finding. Unless posing an Immediate Threat to Life (such as the entire suppression system being disabled), it typically results in a Requirement for Improvement requiring a corrective action plan.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which organization is responsible for setting and enforcing HIPAA privacy and security rules?",
+      "options": {
+        "a": "The Joint Commission (TJC)",
+        "b": "The Office for Civil Rights (OCR) within HHS",
+        "c": "The American Hospital Association (AHA)",
+        "d": "State Departments of Health"
+      },
+      "correct_option": "b",
+      "explanation": "The Office for Civil Rights (OCR) within the U.S. Department of Health and Human Services (HHS) is responsible for enforcing the HIPAA Privacy and Security Rules.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A 'Tracer Methodology' used during accreditation surveys involves:",
+      "options": {
+        "a": "Reviewing only paper-based medical records for documentation compliance",
+        "b": "Following a patient's care experience through the organization to evaluate compliance with standards",
+        "c": "Tracing the financial transactions of the organization",
+        "d": "Conducting staff interviews without direct patient observation"
+      },
+      "correct_option": "b",
+      "explanation": "Tracer methodology follows the care experience of individual patients — or system processes — through an organization to assess how standards are applied in actual practice, from admission through discharge.",
+      "difficulty": "medium"
+    }
+  ]
+}

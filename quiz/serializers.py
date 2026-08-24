@@ -44,7 +44,7 @@ class QuestionResultSerializer(serializers.ModelSerializer):
 
 
 class StartSessionSerializer(serializers.Serializer):
-    session_type = serializers.ChoiceField(choices=['quiz', 'mock'])
+    session_type = serializers.ChoiceField(choices=['quiz', 'mock', 'pre_assessment', 'practice_test', 'final_exam'])
     topic_id = serializers.IntegerField(required=False, allow_null=True)
     num_questions = serializers.IntegerField(default=10, min_value=1, max_value=50)
 
@@ -64,14 +64,17 @@ class QuizAttemptSerializer(serializers.ModelSerializer):
 class QuizSessionSerializer(serializers.ModelSerializer):
     score_percent = serializers.IntegerField(read_only=True)
     passed = serializers.BooleanField(read_only=True)
+    status_label = serializers.CharField(read_only=True)
     duration_minutes = serializers.IntegerField(read_only=True)
+    time_remaining_seconds = serializers.IntegerField(read_only=True)
     topic_name = serializers.CharField(source='topic.name', read_only=True, allow_null=True)
 
     class Meta:
         model = QuizSession
         fields = (
-            'id', 'session_type', 'topic_name', 'status',
+            'id', 'session_type', 'topic_name', 'status', 'status_label',
             'score', 'total_questions', 'score_percent', 'passed',
+            'time_limit_minutes', 'time_remaining_seconds',
             'duration_minutes', 'started_at', 'completed_at',
         )
 

@@ -1,0 +1,65 @@
+{
+  "topic": "Patient Safety",
+  "questions": [
+    {
+      "text": "Which of the following is the primary goal of a Root Cause Analysis (RCA) following a sentinel event?",
+      "options": {
+        "a": "To assign blame to the responsible staff member",
+        "b": "To identify underlying system failures that contributed to the event",
+        "c": "To document the event for legal purposes",
+        "d": "To determine the financial cost of the adverse event"
+      },
+      "correct_option": "b",
+      "explanation": "RCA focuses on identifying systemic causes rather than individual blame, allowing organizations to make lasting improvements to prevent recurrence.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A 'near miss' in patient safety terminology refers to:",
+      "options": {
+        "a": "An event that resulted in minor patient harm",
+        "b": "An unsafe condition that has not yet caused harm",
+        "c": "An event that was caught before reaching the patient",
+        "d": "An event reported anonymously by staff"
+      },
+      "correct_option": "c",
+      "explanation": "A near miss (also called a close call) is an event that could have caused harm but was intercepted before reaching the patient. It is a valuable learning opportunity.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "The 'Swiss Cheese Model' of accident causation suggests that:",
+      "options": {
+        "a": "A single failure is always sufficient to cause a patient safety event",
+        "b": "Safety errors only occur in ICU settings",
+        "c": "Multiple layers of defenses each have gaps, and when gaps align an accident occurs",
+        "d": "Human error is the primary cause of all medical accidents"
+      },
+      "correct_option": "c",
+      "explanation": "James Reason's Swiss Cheese Model illustrates how multiple defensive layers (policies, procedures, technology, humans) each have gaps. Accidents occur when the gaps in all layers align simultaneously.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which culture best supports patient safety reporting?",
+      "options": {
+        "a": "A blame culture where individuals are held accountable for every error",
+        "b": "A just culture that distinguishes between human error, at-risk behavior, and reckless behavior",
+        "c": "A no-fault culture where no individual is ever held accountable",
+        "d": "A hierarchical culture where only managers report safety events"
+      },
+      "correct_option": "b",
+      "explanation": "A just culture balances accountability with learning. It encourages reporting by differentiating between inadvertent human error, at-risk choices, and reckless behavior, holding each appropriately accountable.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A Failure Mode and Effects Analysis (FMEA) is best described as:",
+      "options": {
+        "a": "A reactive tool used after a patient safety event has occurred",
+        "b": "A proactive risk assessment tool that identifies potential failure points before harm occurs",
+        "c": "A staff satisfaction survey focused on safety perceptions",
+        "d": "A method for calculating the financial impact of medical errors"
+      },
+      "correct_option": "b",
+      "explanation": "FMEA is a proactive, systematic technique used to anticipate what could go wrong in a process, assess the likelihood and severity of failure, and implement preventive controls.",
+      "difficulty": "medium"
+    }
+  ]
+}

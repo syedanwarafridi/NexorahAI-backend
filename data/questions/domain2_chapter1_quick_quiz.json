@@ -1,0 +1,67 @@
+{
+  "domain_order": 2,
+  "chapter_order": 1,
+  "topic": "Quality Review & Accountability",
+  "questions": [
+    {
+      "text": "Which of the following best describes the purpose of a quality indicator?",
+      "options": {
+        "a": "To measure staff performance for annual appraisals",
+        "b": "To track and evaluate the quality of care delivered against defined standards",
+        "c": "To report incidents to external regulatory agencies",
+        "d": "To benchmark physician salaries against national averages"
+      },
+      "correct_option": "b",
+      "explanation": "Quality indicators are measurable elements used to monitor and evaluate the quality of patient care and organizational performance against established standards.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Peer review in a healthcare quality context primarily serves to:",
+      "options": {
+        "a": "Determine malpractice liability for physicians",
+        "b": "Evaluate clinical performance and identify opportunities for improvement",
+        "c": "Replace the role of the quality department in monitoring outcomes",
+        "d": "Satisfy accreditation requirements only"
+      },
+      "correct_option": "b",
+      "explanation": "Peer review is a formal process where clinicians evaluate each other's practice to identify deviations from accepted standards and opportunities for quality improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's quality council is reviewing a department that consistently exceeds its infection rate benchmark. The FIRST step in the quality review process should be:",
+      "options": {
+        "a": "Immediately discipline the department manager",
+        "b": "Collect and analyze data to understand the root cause of the variance",
+        "c": "Report the department to state health authorities",
+        "d": "Benchmark against a lower-performing hospital to appear favorable"
+      },
+      "correct_option": "b",
+      "explanation": "The first step in quality review is data-driven analysis to understand why performance deviates from the benchmark before implementing any interventions or actions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a structural measure of quality?",
+      "options": {
+        "a": "Patient readmission rate within 30 days",
+        "b": "Percentage of patients who received discharge instructions",
+        "c": "Number of board-certified physicians on staff",
+        "d": "Patient satisfaction score"
+      },
+      "correct_option": "c",
+      "explanation": "Structural measures assess the attributes of the care setting — such as facilities, personnel qualifications, and organizational characteristics. Board certification is a structural measure. Process and outcome measures assess what is done and what results.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a quality management framework, accountability means:",
+      "options": {
+        "a": "Only senior leadership is responsible for quality outcomes",
+        "b": "Each role in the organization has defined quality responsibilities and is answerable for results",
+        "c": "Quality is the sole responsibility of the quality department",
+        "d": "Accountability is only applied when a regulatory body demands it"
+      },
+      "correct_option": "b",
+      "explanation": "True quality accountability is distributed throughout the organization. Each department, team, and individual has defined responsibilities for quality and is expected to report on and own their performance.",
+      "difficulty": "easy"
+    }
+  ]
+}

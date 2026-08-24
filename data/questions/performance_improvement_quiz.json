@@ -1,0 +1,186 @@
+{
+  "topic": "Performance and Process Improvement",
+  "type": "quiz",
+  "questions": [
+    {
+      "text": "Which improvement model uses the Plan-Do-Study-Act cycle?",
+      "options": {
+        "a": "Six Sigma",
+        "b": "Model for Improvement (IHI)",
+        "c": "Lean methodology",
+        "d": "ISO 9001"
+      },
+      "correct_option": "b",
+      "explanation": "The Model for Improvement, developed by Associates in Process Improvement and popularized by IHI, uses the PDSA cycle.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "In the DMAIC process improvement framework, what does the 'M' stand for?",
+      "options": {
+        "a": "Manage",
+        "b": "Monitor",
+        "c": "Measure",
+        "d": "Modify"
+      },
+      "correct_option": "c",
+      "explanation": "DMAIC stands for Define, Measure, Analyze, Improve, Control — a Six Sigma improvement framework.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A Pareto chart is used to:",
+      "options": {
+        "a": "Show data distribution over time",
+        "b": "Identify the most frequent causes of a problem",
+        "c": "Compare performance between departments",
+        "d": "Map the steps in a process"
+      },
+      "correct_option": "b",
+      "explanation": "A Pareto chart displays causes in descending frequency, helping teams focus on the 'vital few' causes that account for most problems (80/20 rule).",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following tools is BEST suited for identifying variation and determining if a process is in statistical control?",
+      "options": {
+        "a": "Flowchart",
+        "b": "Histogram",
+        "c": "Control chart",
+        "d": "Affinity diagram"
+      },
+      "correct_option": "c",
+      "explanation": "Control charts plot process data over time with upper and lower control limits to detect special cause variation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Lean methodology primarily focuses on:",
+      "options": {
+        "a": "Reducing statistical variation",
+        "b": "Eliminating waste and improving flow",
+        "c": "Standardizing clinical documentation",
+        "d": "Increasing staff training hours"
+      },
+      "correct_option": "b",
+      "explanation": "Lean is focused on identifying and eliminating waste (non-value-added activities) to improve efficiency and flow.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A process map or flowchart is MOST useful for:",
+      "options": {
+        "a": "Displaying trends in patient outcomes",
+        "b": "Visualizing the steps and decision points in a process",
+        "c": "Calculating standard deviation of process data",
+        "d": "Comparing two groups of patients"
+      },
+      "correct_option": "b",
+      "explanation": "Flowcharts visually represent the sequence of steps, decisions, and handoffs in a process, making them useful for identifying inefficiencies.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "In a cause-and-effect analysis, the 'bones' of a fishbone diagram typically represent:",
+      "options": {
+        "a": "Patient outcomes",
+        "b": "Financial metrics",
+        "c": "Categories of potential causes such as people, process, equipment, and environment",
+        "d": "Steps in the PDSA cycle"
+      },
+      "correct_option": "c",
+      "explanation": "The 'bones' represent major categories of causes (often the 6 Ms: Man, Machine, Method, Material, Measurement, Mother Nature).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes 'common cause variation'?",
+      "options": {
+        "a": "Variation caused by a specific, identifiable event",
+        "b": "Variation inherent in the process that is predictable and consistent",
+        "c": "Variation resulting from staff errors",
+        "d": "Variation that requires immediate corrective action"
+      },
+      "correct_option": "b",
+      "explanation": "Common cause (or random) variation is inherent in any process. It is predictable within a range and does not require special investigation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Before beginning a process improvement project, a quality team should FIRST:",
+      "options": {
+        "a": "Implement a solution based on best practices",
+        "b": "Clearly define the problem and establish a baseline measure",
+        "c": "Survey all staff involved in the process",
+        "d": "Review benchmarking data from peer organizations"
+      },
+      "correct_option": "b",
+      "explanation": "Defining the problem clearly and establishing a baseline allows the team to measure whether any intervention produces improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is a key principle of the 'Five Whys' technique?",
+      "options": {
+        "a": "Asking 'why' five times to identify the root cause of a problem",
+        "b": "Involving five stakeholders in each improvement meeting",
+        "c": "Completing five PDSA cycles before implementing a change",
+        "d": "Identifying five process improvement opportunities per quarter"
+      },
+      "correct_option": "a",
+      "explanation": "The Five Whys technique repeatedly asks 'why' to drill down past symptoms to the underlying root cause of a problem.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital reduces medication errors by 40% after implementing a barcode scanning system. This is an example of which type of improvement strategy?",
+      "options": {
+        "a": "Education-based intervention",
+        "b": "Policy revision",
+        "c": "Forcing function / error-proofing (poka-yoke)",
+        "d": "Peer accountability program"
+      },
+      "correct_option": "c",
+      "explanation": "Barcode scanning forces verification before medication administration, making errors harder to commit — this is an error-proofing or poka-yoke strategy.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which term describes the 'voice of the customer' in quality improvement?",
+      "options": {
+        "a": "Process capability index",
+        "b": "Patient satisfaction scores only",
+        "c": "The needs, expectations, and preferences of patients and stakeholders",
+        "d": "Regulatory requirements"
+      },
+      "correct_option": "c",
+      "explanation": "Voice of the Customer (VOC) captures the needs, expectations, and preferences of patients and other stakeholders to drive improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A 'quick win' in process improvement refers to:",
+      "options": {
+        "a": "A change that is implemented without testing",
+        "b": "A small, low-effort improvement that produces rapid visible results",
+        "c": "A large-scale transformation completed in under 30 days",
+        "d": "A solution adopted directly from another organization"
+      },
+      "correct_option": "b",
+      "explanation": "Quick wins build momentum and stakeholder confidence by delivering visible improvements early in an improvement initiative.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Which of the following BEST describes the 'Improve' phase in DMAIC?",
+      "options": {
+        "a": "Collecting baseline performance data",
+        "b": "Identifying and prioritizing root causes",
+        "c": "Developing, testing, and implementing solutions",
+        "d": "Monitoring the process to ensure gains are sustained"
+      },
+      "correct_option": "c",
+      "explanation": "In the Improve phase, teams generate potential solutions, pilot test them, and implement the ones that address the verified root causes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A scatter diagram is used to show:",
+      "options": {
+        "a": "The frequency distribution of a single variable",
+        "b": "The relationship or correlation between two variables",
+        "c": "Control limits for a process",
+        "d": "The cumulative percentage of defects"
+      },
+      "correct_option": "b",
+      "explanation": "Scatter diagrams plot two variables against each other to visually display whether a relationship or correlation exists.",
+      "difficulty": "medium"
+    }
+  ]
+}

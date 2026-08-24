@@ -11,4 +11,5 @@ urlpatterns = [
     path('api/study-planner/', include('study_planner.urls')),
     path('api/study-vault/', include('study_vault.urls')),
     path('api/dashboard/', include('dashboard.urls')),
+    path('api/payments/', include('payments.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

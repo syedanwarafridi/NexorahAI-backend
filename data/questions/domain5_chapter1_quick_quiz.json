@@ -1,0 +1,67 @@
+{
+  "domain_order": 5,
+  "chapter_order": 1,
+  "topic": "Patient/Member Experience",
+  "questions": [
+    {
+      "text": "HCAHPS (Hospital Consumer Assessment of Healthcare Providers and Systems) is BEST described as:",
+      "options": {
+        "a": "A clinical quality measure for hospital-acquired infections",
+        "b": "A standardized national survey measuring patients' perspectives of their hospital care",
+        "c": "An accreditation standard used by The Joint Commission",
+        "d": "A reimbursement model used by Medicare for quality bonuses"
+      },
+      "correct_option": "b",
+      "explanation": "HCAHPS is the first national, standardized, publicly reported survey of patients' perspectives of hospital care. Results are publicly reported and tied to hospital reimbursement through CMS's Value-Based Purchasing program.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "Patient-centered care is BEST characterized by:",
+      "options": {
+        "a": "Physicians making all clinical decisions to maximize efficiency",
+        "b": "Standardized care protocols applied uniformly to all patients",
+        "c": "Respecting and responding to individual patient preferences, needs, and values",
+        "d": "Minimizing patient family involvement to reduce distractions"
+      },
+      "correct_option": "c",
+      "explanation": "Patient-centered care, as defined by the Institute of Medicine, involves respecting and responding to patient preferences, needs, and values, ensuring patient values guide all clinical decisions.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A hospital notices its HCAHPS 'communication with nurses' domain score has declined. The MOST appropriate initial step is:",
+      "options": {
+        "a": "Immediately replace the nursing staff on low-scoring units",
+        "b": "Analyze the survey data by unit, shift, and patient population to identify patterns",
+        "c": "Dismiss the survey results as statistically insignificant",
+        "d": "Add more nursing staff to all units immediately"
+      },
+      "correct_option": "b",
+      "explanation": "Before taking action, leaders should drill down into the data to understand where, when, and with whom communication is breaking down. This targeted analysis informs effective, evidence-based interventions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a 'moments of truth' in the patient experience?",
+      "options": {
+        "a": "The hospital's annual financial audit",
+        "b": "Every interaction a patient has with staff, facilities, and processes during their care",
+        "c": "The quarterly board of directors meeting",
+        "d": "The annual employee satisfaction survey"
+      },
+      "correct_option": "b",
+      "explanation": "A 'moment of truth' is any point of contact between a patient and the organization that shapes their perception of care quality. Each touchpoint — from parking to discharge — influences the overall patient experience.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Shared decision-making between patients and clinicians is MOST important for:",
+      "options": {
+        "a": "Reducing the length of clinical consultations",
+        "b": "Ensuring patients choose the least expensive treatment option",
+        "c": "Aligning treatment plans with patient values, preferences, and goals",
+        "d": "Satisfying accreditation requirements for patient rights"
+      },
+      "correct_option": "c",
+      "explanation": "Shared decision-making is a collaborative process where clinicians and patients work together to make care decisions that align with the best available evidence and the patient's personal values, preferences, and circumstances.",
+      "difficulty": "medium"
+    }
+  ]
+}

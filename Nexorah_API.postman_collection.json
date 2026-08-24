@@ -8,7 +8,9 @@
   "variable": [
     { "key": "base_url", "value": "http://127.0.0.1:8000/api", "type": "string" },
     { "key": "access_token", "value": "", "type": "string" },
-    { "key": "refresh_token", "value": "", "type": "string" }
+    { "key": "refresh_token", "value": "", "type": "string" },
+    { "key": "quiz_session_id", "value": "", "type": "string" },
+    { "key": "ls_order_id", "value": "", "type": "string" }
   ],
   "auth": {
     "type": "bearer",
@@ -246,6 +248,46 @@
               "variable": [{ "key": "course_id", "value": "1", "description": "Course ID" }]
             }
           }
+        },
+        {
+          "name": "Get Chapter Quick Quiz",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/courses/chapters/:chapter_id/quick-quiz/",
+              "host": ["{{base_url}}"],
+              "path": ["courses", "chapters", ":chapter_id", "quick-quiz", ""],
+              "variable": [{ "key": "chapter_id", "value": "1", "description": "Chapter ID — get from course detail endpoint" }]
+            }
+          }
+        },
+        {
+          "name": "Submit Chapter Quick Quiz",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"answers\": [\n    { \"question_id\": 1, \"selected_option\": \"b\" },\n    { \"question_id\": 2, \"selected_option\": \"c\" },\n    { \"question_id\": 3, \"selected_option\": \"a\" },\n    { \"question_id\": 4, \"selected_option\": \"b\" },\n    { \"question_id\": 5, \"selected_option\": \"d\" }\n  ]\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/courses/chapters/:chapter_id/quick-quiz/submit/",
+              "host": ["{{base_url}}"],
+              "path": ["courses", "chapters", ":chapter_id", "quick-quiz", "submit", ""],
+              "variable": [{ "key": "chapter_id", "value": "1", "description": "Chapter ID" }]
+            }
+          }
+        },
+        {
+          "name": "Get Weak Topics",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/courses/weak-topics/",
+              "host": ["{{base_url}}"],
+              "path": ["courses", "weak-topics", ""]
+            }
+          }
         }
       ]
     },
@@ -267,7 +309,7 @@
               "script": {
                 "exec": [
                   "const json = pm.response.json();",
-                  "if (json.id) pm.collectionVariables.set('quiz_session_id', json.id);"
+                  "if (json.session_id) pm.collectionVariables.set('quiz_session_id', json.session_id);"
                 ],
                 "type": "text/javascript"
               }
@@ -291,12 +333,30 @@
         },
         {
           "name": "Start Mock Exam Session",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "const json = pm.response.json();",
+                  "if (json.session_id) pm.collectionVariables.set('quiz_session_id', json.session_id);"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
           "request": {
             "method": "POST",
             "header": [{ "key": "Content-Type", "value": "application/json" }],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"session_type\": \"mock\",\n  \"num_questions\": 50\n}"
+              "raw": "{\n  \"session_type\": \"mock\",\n  \"num_questions\": 50\n}",
+              "options": {
+                "raw": {
+                  "language": "json",
+                  "_comment": "Mock exam is timed: 180 minutes. Response includes time_limit_minutes=180 and time_remaining_seconds=10800. Frontend should start a countdown timer using time_remaining_seconds. Free users limited to 5 questions total across all mock sessions."
+                }
+              }
             },
             "url": { "raw": "{{base_url}}/quiz/start/", "host": ["{{base_url}}"], "path": ["quiz", "start", ""] }
           }
@@ -371,6 +431,24 @@
           "request": {
             "method": "GET",
             "url": { "raw": "{{base_url}}/study-planner/plan/", "host": ["{{base_url}}"], "path": ["study-planner", "plan", ""] }
+          }
+        },
+        {
+          "name": "AI Generate Study Plan",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"exam_date\": \"2026-09-01\",\n  \"hours_per_week\": 10,\n  \"weak_topics\": [\"Patient Safety\", \"Regulatory and Accreditation\"],\n  \"notes\": \"I work full time and can only study evenings and weekends\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json",
+                  "_comment": "weak_topics and notes are optional. exam_date must be a future date (YYYY-MM-DD). Returns a saved StudyPlan + calendar events + AI tips."
+                }
+              }
+            },
+            "url": { "raw": "{{base_url}}/study-planner/plan/generate/", "host": ["{{base_url}}"], "path": ["study-planner", "plan", "generate", ""] }
           }
         },
         {
@@ -576,6 +654,68 @@
           "request": {
             "method": "GET",
             "url": { "raw": "{{base_url}}/dashboard/stats/", "host": ["{{base_url}}"], "path": ["dashboard", "stats", ""] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Payments",
+      "item": [
+        {
+          "name": "Get Subscription Plans",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/payments/plans/", "host": ["{{base_url}}"], "path": ["payments", "plans", ""] }
+          }
+        },
+        {
+          "name": "Create Checkout Session",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "const json = pm.response.json();",
+                  "if (json.checkout_url) console.log('Open this URL to pay:', json.checkout_url);"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"plan_id\": 1,\n  \"success_url\": \"http://localhost:3000/payment/success\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json",
+                  "_comment": "plan_id 1 = 1 Month ($29), plan_id 2 = 3 Months ($69). Returns checkout_url — redirect user to this URL to complete payment on Lemon Squeezy."
+                }
+              }
+            },
+            "url": { "raw": "{{base_url}}/payments/checkout/", "host": ["{{base_url}}"], "path": ["payments", "checkout", ""] }
+          }
+        },
+        {
+          "name": "Get Subscription Status",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{base_url}}/payments/status/", "host": ["{{base_url}}"], "path": ["payments", "status", ""] }
+          }
+        },
+        {
+          "name": "Verify Payment (after Lemon Squeezy redirect)",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "{{base_url}}/payments/verify/?order_id={{ls_order_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["payments", "verify", ""],
+              "query": [{ "key": "order_id", "value": "{{ls_order_id}}", "description": "Lemon Squeezy order ID from the redirect" }]
+            }
           }
         }
       ]

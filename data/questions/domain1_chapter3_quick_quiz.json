@@ -1,0 +1,65 @@
+{
+  "topic": "Quality Leadership and Integration",
+  "questions": [
+    {
+      "text": "A hospital quality team is designing a new patient discharge process. According to Voice of the Customer principles, when should patient and family input be collected?",
+      "options": {
+        "a": "After the new process is piloted and results are evaluated",
+        "b": "During the implementation phase to capture real-time feedback",
+        "c": "Before the process is designed, to capture needs prior to building solutions",
+        "d": "After the process is fully standardized across all units"
+      },
+      "correct_option": "c",
+      "explanation": "VOC must be conducted at the START of any new product, process, or service design — before solutions are built. This ensures the initiative is patient-driven rather than based on internal assumptions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's Balanced Scorecard shows improving patient satisfaction scores and declining readmission rates, but financial performance has not yet improved. Which of the following BEST explains this pattern?",
+      "options": {
+        "a": "The Balanced Scorecard data is unreliable and should be recalibrated",
+        "b": "Quality improvements appear first in customer and process metrics before financial results",
+        "c": "Financial performance is independent of clinical quality outcomes",
+        "d": "Patient satisfaction is a lagging indicator that always precedes financial recovery"
+      },
+      "correct_option": "b",
+      "explanation": "The Balanced Scorecard framework recognizes that quality improvements manifest first in customer experience and process performance, with financial improvements following. This sequence is a CPHQ-testable insight.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director wants to deploy strategic goals from organizational leadership down to individual department teams, with departments proposing their own action plans for leadership approval. This approach is BEST described as:",
+      "options": {
+        "a": "Balanced Scorecard cascade",
+        "b": "Force Field Analysis",
+        "c": "Hoshin Planning with catch-ball dialogue",
+        "d": "PDCA strategic alignment"
+      },
+      "correct_option": "c",
+      "explanation": "Hoshin Planning uses roll-down strategy from leadership and catch-ball dialogue — where departments propose actions that are reviewed and approved by leadership — to create both strategic alignment and departmental buy-in simultaneously.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team is selecting between three improvement initiatives. They use a tool that scores each initiative on impact, feasibility, urgency, and strategic alignment to compare them objectively. This is BEST described as:",
+      "options": {
+        "a": "SWOT Analysis",
+        "b": "Criteria-based selection matrix",
+        "c": "Force Field Analysis",
+        "d": "Priority Matrix only"
+      },
+      "correct_option": "b",
+      "explanation": "A criteria-based selection matrix scores initiatives against multiple weighted factors to enable objective, defensible prioritization of quality initiatives. This directly aligns with CPHQ guidance on initiative selection.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Training completion rates and audit compliance scores are examples of which type of strategic performance indicators?",
+      "options": {
+        "a": "Lagging indicators — they measure final results",
+        "b": "Outcome indicators linked to the Balanced Scorecard financial perspective",
+        "c": "Leading indicators — they are proactive and process-driven",
+        "d": "Structural measures under the Donabedian framework only"
+      },
+      "correct_option": "c",
+      "explanation": "Leading indicators are early signals and process-driven measures that predict future performance. Training completion and audit compliance are proactive measures signaling whether the right activities are happening before outcomes deteriorate.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "topic": "Information Management",
+  "type": "mock",
+  "questions": [
+    {
+      "text": "A quality professional is preparing a report on hospital-acquired infection rates for the board of trustees. Which consideration is MOST important when presenting this data?",
+      "options": {
+        "a": "Including raw numbers only without context",
+        "b": "Presenting data with trend lines, benchmarks, and actionable insights",
+        "c": "Limiting the report to one metric to avoid confusion",
+        "d": "Presenting only positive results to maintain stakeholder confidence"
+      },
+      "correct_option": "b",
+      "explanation": "Effective reporting provides context through trends, benchmarks, and clear explanations so the board can make informed decisions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is TRUE about using claims data for quality measurement?",
+      "options": {
+        "a": "Claims data captures all clinical nuances of patient care",
+        "b": "Claims data is real-time and suitable for immediate quality monitoring",
+        "c": "Claims data is primarily designed for billing and may lack clinical detail",
+        "d": "Claims data is always more accurate than electronic health record data"
+      },
+      "correct_option": "c",
+      "explanation": "Claims data is primarily generated for billing purposes and may lack clinical specificity, making it less ideal for detailed quality measurement without supplementary clinical data.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization wants to measure whether patients received discharge instructions. This is BEST described as a:",
+      "options": {
+        "a": "Balancing measure",
+        "b": "Outcome measure",
+        "c": "Process measure",
+        "d": "Structure measure"
+      },
+      "correct_option": "c",
+      "explanation": "Whether discharge instructions were provided is a process measure — it assesses if a specific step in care was completed, not the final patient outcome.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "When analyzing quality data, a quality professional finds that a control chart shows several points beyond the upper control limit. This indicates:",
+      "options": {
+        "a": "The process is performing as expected",
+        "b": "Normal random variation that does not require action",
+        "c": "Special cause variation that warrants investigation",
+        "d": "The control limits need to be recalculated"
+      },
+      "correct_option": "c",
+      "explanation": "Points beyond the control limits indicate special cause variation — an unusual event or change in the process that should be investigated.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes 'data governance' in healthcare?",
+      "options": {
+        "a": "The IT department's responsibility for managing servers",
+        "b": "A framework for managing the availability, integrity, and security of organizational data",
+        "c": "The process of converting paper records to electronic format",
+        "d": "Compliance with state medical records retention laws"
+      },
+      "correct_option": "b",
+      "explanation": "Data governance encompasses the policies, processes, and standards that ensure data quality, integrity, security, and appropriate use across the organization.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "A hospital notices that its EHR-derived quality metrics differ significantly from its manually abstracted chart review data for the same measure. The MOST likely cause is:",
+      "options": {
+        "a": "The EHR data is always more accurate than manual review",
+        "b": "Differences in data definitions, coding practices, or documentation completeness",
+        "c": "Manual chart review is too subjective to be reliable",
+        "d": "The metrics being compared are measuring different patient populations"
+      },
+      "correct_option": "b",
+      "explanation": "Discrepancies between EHR-derived and manually abstracted data commonly arise from differences in data definitions, coding, or documentation practices.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "Which of the following is an example of using data for 'predictive analytics' in healthcare?",
+      "options": {
+        "a": "Reviewing last year's fall rates to write an annual report",
+        "b": "Using patient data to identify individuals at high risk for readmission before discharge",
+        "c": "Tracking hand hygiene compliance through direct observation",
+        "d": "Auditing medical records for documentation completeness"
+      },
+      "correct_option": "b",
+      "explanation": "Predictive analytics uses historical and current data to forecast future events, such as identifying patients likely to be readmitted so preventive interventions can be applied.",
+      "difficulty": "hard"
+    },
+    {
+      "text": "A hospital's quality team wants to determine if there is a correlation between nurse staffing ratios and patient fall rates. Which analytical tool is MOST appropriate?",
+      "options": {
+        "a": "Pareto chart",
+        "b": "Scatter diagram",
+        "c": "Histogram",
+        "d": "Flowchart"
+      },
+      "correct_option": "b",
+      "explanation": "A scatter diagram plots two variables against each other to reveal whether a correlation exists between them.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "What is the purpose of 'data de-identification' in healthcare research and quality reporting?",
+      "options": {
+        "a": "To improve the accuracy of the data",
+        "b": "To enable sharing of patient information while protecting individual privacy",
+        "c": "To reduce the size of data files for storage efficiency",
+        "d": "To comply with accreditation documentation requirements"
+      },
+      "correct_option": "b",
+      "explanation": "De-identification removes or obscures patient identifiers so that data can be shared for research or reporting purposes without violating patient privacy.",
+      "difficulty": "easy"
+    },
+    {
+      "text": "A quality team wants to set a performance target for a new hand hygiene initiative. Which source provides the MOST meaningful benchmark?",
+      "options": {
+        "a": "The organization's own historical baseline data only",
+        "b": "National benchmarks from organizations such as NHSN or Leapfrog",
+        "c": "A target of 100% compliance, regardless of current performance",
+        "d": "The average of the three highest-performing departments internally"
+      },
+      "correct_option": "b",
+      "explanation": "External benchmarks from recognized national databases provide meaningful comparisons to peer organizations and industry standards.",
+      "difficulty": "medium"
+    }
+  ]
+}

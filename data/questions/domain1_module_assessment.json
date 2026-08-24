@@ -1,0 +1,1061 @@
+{
+  "domain_order": 1,
+  "questions": [
+    {
+      "text": "When a team of CQI formed to discuss restraint started to discuss claim issues about the patient, the facilitator should:",
+      "options": {
+        "a": "Redirect the group",
+        "b": "Review ground rounds",
+        "c": "Ask for the risk manager",
+        "d": "Document meeting minutes"
+      },
+      "correct_option": "a",
+      "explanation": "The facilitator's primary role in a CQI team meeting is to keep the group focused on its stated purpose. When a restraint-focused team digresses into claim or liability issues — which fall under risk management, not quality improvement — the facilitator must redirect the group back to its sanctioned agenda. Reviewing ground rounds (B) is clinically irrelevant to the facilitator's role in this moment. Asking for the risk manager (C) may eventually be appropriate if a liability concern is confirmed, but it is not the facilitator's first action when the group simply drifts off-topic. Documenting meeting minutes (D) is an administrative function of the recorder, not a redirecting action. Per IHI team facilitation principles and CPHQ Quality Leadership standards, maintaining group focus is the facilitator's primary in-session responsibility.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The best way to evaluate any team is by:",
+      "options": {
+        "a": "Learning and innovation",
+        "b": "Quantifiable objectives",
+        "c": "Members satisfaction",
+        "d": "Aligning the vision of the organization"
+      },
+      "correct_option": "b",
+      "explanation": "Teams in a quality improvement context are best evaluated against measurable, pre-defined performance targets — quantifiable objectives. This is the only evaluation method that produces objective, evidence-based conclusions about whether the team is achieving its intended outcomes. Learning and innovation (A) are desirable qualities but are difficult to measure and do not constitute a rigorous evaluation framework. Member satisfaction (C) measures team experience, not team performance against goals. Aligning vision (D) is a strategic orientation activity, not an evaluation measure. Per CPHQ performance improvement domain standards and IHI Model for Improvement, teams must define and measure their improvement goals — quantifiable objectives are the gold standard for team evaluation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The responsibility for providing organizational direction for a facility continuous quality improvement program frequently rests with the quality:",
+      "options": {
+        "a": "Council",
+        "b": "Teams",
+        "c": "Leader",
+        "d": "Facilitator"
+      },
+      "correct_option": "a",
+      "explanation": "In most healthcare organizations, the Quality Council (also called the Quality Steering Committee or Quality Improvement Council) is the governance body responsible for setting strategic direction for the CQI program. It establishes priorities, allocates resources, monitors progress, and ensures alignment with the organization's mission and strategic goals. Quality teams (B) implement improvement work at the operational level but do not set organizational direction. A quality leader (C) is an individual executive role — important, but the council represents collective governance authority. The facilitator (D) manages group process, not organizational direction. Per CPHQ Quality Leadership domain standards and TJC leadership chapter requirements, organizational QI direction is a governance and council-level function.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization that is committed to a culture of teamwork, collaboration, and adaptability is referred to as having:",
+      "options": {
+        "a": "A learning culture",
+        "b": "An open culture",
+        "c": "A just culture",
+        "d": "A reporting culture"
+      },
+      "correct_option": "a",
+      "explanation": "A learning culture — also called a learning organization, as defined by Peter Senge — is specifically characterized by shared vision, team learning, systems thinking, adaptability, and collaboration. These are precisely the attributes described in the question stem. An open culture (B) refers to transparency and communication norms, not specifically to teamwork and adaptability. A just culture (C) refers to the balanced accountability framework distinguishing systems errors from individual behavioral choices — it is a patient safety concept, not a teamwork orientation. A reporting culture (D) refers to an environment where staff freely report errors and near misses. Per CPHQ Quality Leadership and organizational culture frameworks, learning culture is the correct label for the described attributes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The consensus-building group of diverse stakeholders who reviews and endorses measures for public reporting in the U.S. is known as the:",
+      "options": {
+        "a": "Institute of Medicine (IOM)",
+        "b": "Agency for Healthcare Research and Quality (AHRQ)",
+        "c": "Center for Medicare and Medicaid Services (CMS)",
+        "d": "National Quality Forum (NQF)"
+      },
+      "correct_option": "d",
+      "explanation": "The National Quality Forum is the U.S.-based, multi-stakeholder consensus organization whose explicit mission is to endorse standardized performance measures for public reporting. NQF's consensus process brings together patients, providers, purchasers, and public health representatives to evaluate and formally endorse measures — the NQF seal of endorsement is the recognized standard for measure credibility in U.S. public reporting. The IOM (A) — now the National Academy of Medicine — conducts research and issues reports but does not endorse performance measures through a consensus process. AHRQ (B) is a federal research agency that develops and funds quality improvement tools and measures but does not serve as the public endorsement body. CMS (C) is the federal payer agency that mandates reporting programs but relies on NQF-endorsed measures. Per NCQA, CMS, and CPHQ regulatory and accreditation domain standards, NQF is the definitive measure endorsement body.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Integration of quality culture within an organization is best demonstrated by:",
+      "options": {
+        "a": "Leadership rounds, increase staff satisfaction, and positive patient outcome",
+        "b": "Physician competence, staff longevity, and high patient satisfaction scores",
+        "c": "Mission and vision statements, high patient census, and government body",
+        "d": "Reduce adverse outcome, culture of patient safety, and expansion of services"
+      },
+      "correct_option": "d",
+      "explanation": "True integration of quality culture is demonstrated by tangible organizational results that reflect quality as a lived value — not merely as a stated aspiration. Reducing adverse outcomes and sustaining a culture of patient safety are direct indicators that quality principles are embedded in day-to-day practice, while expansion of services signals that quality performance has enabled organizational growth and trust. Option A (leadership rounds and staff satisfaction) describes management activities, not cultural integration outcomes. Option B (physician competence and longevity) describes workforce characteristics, not culture. Option C (mission statements and patient census) includes administrative metrics that do not measure cultural quality integration. Per IHI culture of safety frameworks and CPHQ Quality Leadership domain standards, reduced harm and sustained safety culture are the definitive markers of quality culture integration.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The best way to facilitate change within a healthcare organization is to:",
+      "options": {
+        "a": "Communicate through group meetings",
+        "b": "Arrange presentations by senior leaders",
+        "c": "Communicate through group email",
+        "d": "Involve the individuals directly affected by the change"
+      },
+      "correct_option": "d",
+      "explanation": "Change management research consistently demonstrates that the most effective strategy for facilitating and sustaining organizational change is to actively engage those who will be most affected by it. Participation creates ownership, reduces resistance, and builds commitment to the new direction. Communicating through group meetings (A) and email (C) are one-way or passive mechanisms that inform but do not engage. Presentations by senior leaders (B) demonstrate visible commitment but are top-down and do not create the participative engagement needed for sustained change. Per Kotter's Eight-Step Change Model, Lewin's change theory, and CPHQ Quality Leadership standards, stakeholder involvement is the most powerful facilitator of successful, lasting organizational change.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A curriculum developed by a healthcare organization for staff education in organizational change should include all of the following EXCEPT:",
+      "options": {
+        "a": "Project and time management",
+        "b": "The negotiating process",
+        "c": "Budgeting techniques",
+        "d": "Conflict resolution"
+      },
+      "correct_option": "c",
+      "explanation": "A staff education curriculum focused on organizational change should equip employees with skills directly relevant to navigating and driving change: project and time management (A) for executing change activities; negotiating (B) for resolving competing interests during transitions; and conflict resolution (D) for managing interpersonal and interdepartmental tension that change inevitably produces. Budgeting techniques (C) is a financial management skill that belongs in finance or leadership training — it is not a direct competency for staff navigating organizational change. Per CPHQ Quality Leadership domain education standards and change management curriculum frameworks, budgeting is a management function, not a core change navigation competency for staff.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Organizational leaders can best demonstrate commitment to a new quality improvement initiative by:",
+      "options": {
+        "a": "Offering solutions to identified problems",
+        "b": "Maintaining performance appraisals for staff",
+        "c": "Allocating resources for the process",
+        "d": "Reviewing the quality improvement plan"
+      },
+      "correct_option": "c",
+      "explanation": "In quality improvement, the most tangible and credible demonstration of leadership commitment is resource allocation — dedicating time, staff, budget, technology, and infrastructure to the improvement initiative. Resource allocation signals that leadership is not merely endorsing the initiative verbally but investing in its success materially. Offering solutions (A) is problem-solving, not commitment demonstration. Maintaining performance appraisals (B) is routine HR management. Reviewing the QI plan (D) is an oversight activity that is necessary but insufficient as a commitment signal. Per Kotter's change leadership principles, IHI improvement science, and CPHQ Quality Leadership domain standards, leadership resource commitment is the definitive behavioral indicator of genuine organizational dedication to a QI initiative.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization has established a culture of patient safety when:",
+      "options": {
+        "a": "Reports of potential error have decreased",
+        "b": "Patient safety goals are implemented",
+        "c": "Employee education is completed",
+        "d": "Fear of retaliation is eliminated"
+      },
+      "correct_option": "d",
+      "explanation": "A true patient safety culture is established when staff feel psychologically safe to report errors, near misses, and concerns without fear of punishment, blame, or retaliation. This is the foundational behavioral condition that enables all other safety activities — reporting, learning, and improvement — to function. Decreasing reports of potential error (A) is a dangerous distractor: it signals under-reporting, which indicates a failing safety culture, not a successful one. Implementing safety goals (B) is a process activity — implementation alone does not prove cultural change. Completing employee education (C) is a training milestone, not a cultural achievement. Per AHRQ's definition of safety culture, IHI's Framework for Safe, Reliable, and Effective Care, and CPHQ patient safety domain standards, elimination of fear of retaliation is the defining indicator of a patient safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Even when appropriate processes are in place, errors can occur. Understanding this, a leader coordinating any safety program should focus on:",
+      "options": {
+        "a": "Patient survey",
+        "b": "Time constraints",
+        "c": "Policies",
+        "d": "Performance feedback"
+      },
+      "correct_option": "d",
+      "explanation": "The acknowledgment that errors occur even with good processes in place reflects the High Reliability Organization (HRO) principle of preoccupation with failure and continuous vigilance. The appropriate leadership response to this reality is to maintain active performance feedback loops — so that when system boundaries are approached or breached, the information is captured, analyzed, and used to prevent recurrence. Patient surveys (A) capture patient experience, not process safety performance. Time constraints (B) are a contributing factor to error, not a leadership focus area per se. Policies (C) are structural tools — necessary but insufficient if not accompanied by feedback on whether they are working. Per AHRQ HRO principles, IHI safety program design frameworks, and CPHQ patient safety domain standards, performance feedback is the mechanism that makes safety systems self-correcting even when processes are imperfect.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To allow changes to be maintained, you should ensure the change in:",
+      "options": {
+        "a": "The behavior of the staff",
+        "b": "The hierarchy of the organization",
+        "c": "The values within the organization",
+        "d": "The reward system"
+      },
+      "correct_option": "c",
+      "explanation": "For change to be truly sustained rather than merely adopted temporarily, it must become embedded in the organization's values — the deep cultural beliefs that drive behavior regardless of external monitoring or enforcement. This is Lewin's \"refreezing\" stage: change is locked in when it becomes part of the organizational identity and value system. Changing staff behavior (A) is the immediate outcome of change implementation but is not self-sustaining without a values shift — behavior reverts when external pressure is removed. Changing hierarchy (B) is a structural change that does not guarantee behavioral or cultural embedding. Changing the reward system (D) is an important enabler but is a mechanism, not the core of sustained change — rewards can be removed. Per Lewin's Three-Stage Change Model, Kotter's change consolidation principles, and CPHQ quality leadership standards, values embedding is the condition for permanent change maintenance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Organizational profitability is the difference between:",
+      "options": {
+        "a": "Reimbursement minus cost of service",
+        "b": "Reimbursement minus charges",
+        "c": "Fees minus cost",
+        "d": "Cost minus reimbursement"
+      },
+      "correct_option": "a",
+      "explanation": "Profitability is defined as revenue minus costs — what an organization receives minus what it spends to deliver services. In healthcare, the relevant revenue figure is reimbursement (what payers actually pay the organization) and the relevant cost figure is the cost of delivering the service. Reimbursement minus charges (B) is not a profitability formula — charges are the listed prices, not the actual cost; and charges are typically higher than reimbursement in most payer arrangements. Fees minus cost (C) is close but \"fees\" is a less precise term than \"reimbursement\" in the healthcare context. Cost minus reimbursement (D) is the inverse — this produces a negative number (a loss indicator), not profitability. Per CPHQ healthcare financial management principles and standard health economics definitions, reimbursement minus cost of service is the correct profitability formula.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following management approaches, if expected, would be MOST likely to harm quality improvement initiatives?",
+      "options": {
+        "a": "Quick fix from quality improvement",
+        "b": "CQI to save the organization money",
+        "c": "Organization-wide involvement in QI",
+        "d": "Role change throughout the organization"
+      },
+      "correct_option": "a",
+      "explanation": "The \"quick fix\" mentality is fundamentally incompatible with continuous quality improvement. CQI is a sustained, systematic, data-driven methodology — it produces durable results through iterative improvement cycles, not rapid one-time solutions. When leaders or managers expect immediate fixes, they undermine the CQI process by abandoning improvement efforts prematurely, before lasting change is embedded. CQI to save money (B) is a valid secondary objective of improvement — cost reduction through waste elimination and error prevention is a legitimate CQI goal. Organization-wide involvement (C) is a strength, not a harm factor. Role changes (D) may accompany improvement efforts and are not inherently harmful. Per Deming's 14 Points, IHI improvement science, and CPHQ Quality Leadership domain standards, expecting quick fixes is the management behavior most destructive to sustained QI.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Attempts to align financial incentives of purchasers, payers, and providers with provider performance on clinical process and outcome measures encourages:",
+      "options": {
+        "a": "Under-utilization",
+        "b": "Community backlash",
+        "c": "Over-utilization",
+        "d": "Reengineering"
+      },
+      "correct_option": "d",
+      "explanation": "Pay-for-performance (P4P) and value-based purchasing models align financial incentives with clinical quality and outcomes — they reward providers who achieve better performance on defined measures. This financial alignment drives organizations to fundamentally redesign and reengineer their care processes to achieve higher quality at lower cost. Under-utilization (A) is a risk of capitated payment models, not pay-for-performance aligned with outcomes. Community backlash (B) is not a recognized outcome of incentive alignment. Over-utilization (C) is a risk of fee-for-service models, not outcomes-aligned incentives. Per CMS value-based care frameworks, AHRQ payment reform research, and CPHQ regulatory and accreditation domain standards, aligning financial incentives with outcomes drives process reengineering.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In order to facilitate development of a strategic plan, what to consider first?",
+      "options": {
+        "a": "Cultural assessment, planning, implementation, and evaluation",
+        "b": "Risk management, gap analysis, identification of organization-wide functions",
+        "c": "Mission, vision, values, short- and long-term goals and objectives",
+        "d": "Creation of master plan, identify customers, goals, and objectives"
+      },
+      "correct_option": "c",
+      "explanation": "Strategic planning must begin with the foundational elements that define organizational identity and direction: mission (why we exist), vision (where we are going), and values (what we stand for). These elements are the preconditions for all subsequent planning activities — without them, cultural assessment, gap analysis, and master plan creation have no directional anchor. Option A (cultural assessment first) is important but occurs within the context of an already-defined mission and vision. Option B (risk management and gap analysis) are analytical tools used mid-process after direction is set. Option D (master plan creation first) puts the cart before the horse. Per CPHQ Quality Leadership standards, Balanced Scorecard methodology, and strategic planning best practices, mission/vision/values is always the starting point for strategic plan development.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When the organization motivates the finance system of a healthcare organization using financial motivation, it uses:",
+      "options": {
+        "a": "JCI standards",
+        "b": "Leapfrog",
+        "c": "Baldrige Award",
+        "d": "Magnet Program"
+      },
+      "correct_option": "b",
+      "explanation": "The Leapfrog Group is a purchaser-driven transparency and incentive organization that uses public reporting and employer purchasing leverage to financially motivate hospitals to improve patient safety and quality — it explicitly operates through financial motivation by directing employer healthcare purchasing toward high-performing hospitals. JCI (A) is an accreditation body — it sets standards for safety and quality but does not operate primarily through financial incentives to the organization's finance system. The Baldrige Award (C) is a national quality excellence recognition program — it is a quality framework and award, not a financial incentive mechanism. The Magnet Program (D) is a nursing excellence recognition program — it drives quality through professional recognition, not financial incentives at the organizational finance level. Per CPHQ regulatory and accreditation domain standards, Leapfrog is the recognized purchaser-based financial motivation mechanism.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "CQI training implementation success is proven by:",
+      "options": {
+        "a": "Data satisfaction",
+        "b": "Staff competency",
+        "c": "GB (Governing Body)",
+        "d": "Organization culture"
+      },
+      "correct_option": "d",
+      "explanation": "The ultimate proof of successful CQI training implementation is that it changes the culture of the organization — that quality thinking, continuous improvement behaviors, and data-driven decision-making become embedded in the daily practice of staff at all levels. This cultural transformation is the definitive outcome because it represents internalization rather than mere compliance. Data satisfaction (A) is a vague and incomplete measure. Staff competency (B) demonstrates knowledge acquisition but not behavioral integration into practice. Governing body (C) is a governance entity, not a proof of training success. Per Kirkpatrick's levels of training evaluation (level 4: results/organizational impact) and CPHQ Quality Leadership standards, organizational culture change is the highest-level evidence of successful CQI training implementation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Leadership (LD) style needed to make practice guidelines:",
+      "options": {
+        "a": "Participatory",
+        "b": "Autocratic",
+        "c": "Diplomatic",
+        "d": "Democratic"
+      },
+      "correct_option": "a",
+      "explanation": "Developing clinical practice guidelines requires broad input, stakeholder engagement, and buy-in from the clinicians who will implement them. A participatory (also called collaborative or participative) leadership style actively involves staff in decision-making and guideline development, producing guidelines that reflect frontline expertise and are more likely to be adopted and followed. Autocratic (B) leadership imposes decisions from above — guidelines developed autocratically face resistance and low compliance. Diplomatic (C) describes a conflict-avoidance interpersonal style, not a leadership model for guideline creation. Democratic (D) is close to participatory but implies majority voting — guideline development benefits from consensus-building and expertise input, not simple majority rule. Per CPHQ Quality Leadership standards and evidence-based practice guideline development methodology, participatory leadership is the appropriate style for this purpose.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Organization improvement plans will assign a team when:",
+      "options": {
+        "a": "There is a lot of staff",
+        "b": "Turnover rate among staff",
+        "c": "Lab delivers results late",
+        "d": "Whenever a problem arises"
+      },
+      "correct_option": "d",
+      "explanation": "In performance improvement methodology, teams are convened in response to identified problems — when data signals a gap between current and desired performance. The assignment of a PI team is triggered by problem identification, not by staffing levels (A), turnover patterns (B), or a specific operational issue like lab turnaround (C) in isolation. Options A and B are HR management concerns; while staff turnover could be a problem warranting a team, it is the presence of a problem — of any type — that triggers team formation. Option C is a specific example of a problem that might trigger team assignment, but it is too narrow as a principle. Per IHI Model for Improvement and CPHQ performance improvement domain standards, team assignment follows problem identification — whenever a problem arises that requires structured, multidisciplinary resolution.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The organizations strategic goals are best linked to its performance improvement activities by management:",
+      "options": {
+        "a": "Offering many performance improvement models from which each area can choose",
+        "b": "Assigning improvement models to areas as deemed appropriate by key leaders",
+        "c": "Obtaining organizational consensus for continuous improvement activities",
+        "d": "Analyzing the goals and improvement activities of other similar organizations"
+      },
+      "correct_option": "c",
+      "explanation": "Linking strategic goals to PI activities requires organization-wide alignment — every department and team must understand how their improvement work connects to the strategic plan. Obtaining consensus ensures that the same improvement priorities are understood and owned across the organization, creating coherent, coordinated effort. Offering many models (A) creates fragmentation — different areas using incompatible methodologies cannot be effectively compared or aggregated at the strategic level. Assigning models by leader preference (B) may not reflect the needs of the areas or produce strategic alignment. Analyzing peer organizations (D) is useful for benchmarking but does not link internal strategy to internal PI activities. Per Hoshin Planning methodology, Balanced Scorecard principles, and CPHQ Quality Leadership domain standards, organizational consensus and alignment is the mechanism that connects strategic goals to operational improvement activities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following statements and documents are most likely to reveal the organization's underlying or true value system?",
+      "options": {
+        "a": "Mission, ethics policy, strategic initiatives",
+        "b": "Vision, ethics policy, corporate bylaws",
+        "c": "Values, QM/QI plan, utilization management plan",
+        "d": "Mission, vision, values"
+      },
+      "correct_option": "a",
+      "explanation": "An organization's true value system is revealed not just by what it states (mission) but by what it prioritizes ethically (ethics policy) and where it focuses its resources and direction (strategic initiatives). The combination of mission, ethics policy, and strategic initiatives provides both the stated values and the operationalized evidence of those values in action. Option D (mission, vision, values) captures stated identity but does not include the behavioral/operational evidence of values in practice. Options B and C include bylaws and operational plans that reflect governance structure and management processes more than core values. Per organizational culture theory (Edgar Schein), CPHQ Quality Leadership standards, and ethics in healthcare management frameworks, the true value system is best revealed through the intersection of mission, ethics commitments, and strategic resource allocation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "TQM leadership style is:",
+      "options": {
+        "a": "Autocratic",
+        "b": "Participatory",
+        "c": "Laissez-faire",
+        "d": "Diplomatic"
+      },
+      "correct_option": "b",
+      "explanation": "Total Quality Management (TQM) as defined by Deming, Juran, and Crosby is built on employee empowerment, team-based problem solving, and inclusive decision-making — all of which require participatory leadership. The participatory style is the explicit leadership model of TQM because it engages employees at all levels in quality improvement, recognizing that frontline workers have the knowledge needed to improve processes. Autocratic leadership (A) concentrates decision-making at the top — antithetical to TQM's philosophy. Laissez-faire (C) abdicates leadership responsibility — TQM requires active leadership engagement and direction. Diplomatic (D) describes interpersonal style, not a management model. Per Deming's 14 Points, TQM theoretical foundations, and CPHQ Quality Leadership domain standards, participatory leadership is the management style of TQM.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "There are whistleblower allegations in a public report about the healthcare organization. The CEO should first:",
+      "options": {
+        "a": "Inform the governing body and fire the staff who did that",
+        "b": "Go to the website and compare data on it with the internal data",
+        "c": "Review the process and discuss with the staff if there is any pressure on them",
+        "d": "Ask for a detailed report with RCA"
+      },
+      "correct_option": "b",
+      "explanation": "When whistleblower allegations appear in a public report, the CEO's first obligation is to assess whether the allegations have merit by comparing the publicly reported data with the organization's own internal data. This fact-finding step is the foundation for any subsequent action — it determines whether the allegations reflect a genuine discrepancy, a data error, or an accurate depiction of an internal problem. Firing staff immediately (A) is a punitive, legally reckless action taken before any facts are established — it also violates whistleblower protection laws. Reviewing the process and discussing pressure with staff (C) is an important step but is premature before establishing whether the data discrepancy is real. Requesting an RCA (D) is appropriate after the data comparison confirms a problem exists — not as the first step. Per CPHQ Quality Leadership standards, healthcare risk management principles, and whistleblower response protocols, data verification is always the first action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A chief quality officer has the responsibility for education and implementation of a continuous quality improvement process. To affect cultural change, administration must:",
+      "options": {
+        "a": "Believe the costs are justified by the benefits",
+        "b": "Be assigned as a member of a team",
+        "c": "Receive quarterly reports",
+        "d": "Limit training to managers and supervisors"
+      },
+      "correct_option": "a",
+      "explanation": "For cultural change to occur through a CQI program, administration must be genuinely convinced that the investment — in time, resources, and organizational disruption — is worth the expected improvement in outcomes, efficiency, and quality. Without this belief, administrative support will be superficial and resources will be withdrawn at the first sign of difficulty. Being assigned to a team (B) is a structural action, not the foundational belief shift needed for cultural change. Receiving quarterly reports (C) is passive monitoring, not cultural engagement. Limiting training to managers and supervisors (D) restricts the reach of the cultural change effort — broad cultural transformation requires all-staff engagement. Per Kotter's change leadership principles, IHI culture change frameworks, and CPHQ Quality Leadership domain standards, leadership belief in the value of the initiative is the prerequisite for meaningful cultural change.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A chief quality officer has the responsibility for education and implementation of a quality improvement process. To affect cultural change, the chief quality officer must:",
+      "options": {
+        "a": "Believe the costs are justified by the benefits",
+        "b": "Be a visible participant in the process",
+        "c": "Receive quarterly reports",
+        "d": "Limit training to managers and supervisors"
+      },
+      "correct_option": "b",
+      "explanation": "The CQO's most powerful lever for cultural change is visible, personal participation in the QI process — walking the talk, demonstrating commitment through direct engagement rather than oversight from a distance. Visible leadership modeling is the mechanism by which cultural expectations are set and reinforced. Believing costs are justified (A) is the prerequisite for administrative support — it is the answer for administration, not the CQO's primary action. Receiving quarterly reports (C) is passive. Limiting training (D) undermines broad cultural reach. Per CPHQ Quality Leadership standards, Kotter's principle of visible change leadership, and organizational culture change theory, the CQO must be a visible, active participant to drive cultural transformation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Who is responsible for FPPE and OPPE in a healthcare organization?",
+      "options": {
+        "a": "Governing body",
+        "b": "Medical staff",
+        "c": "Chief medical officer",
+        "d": "Team leader"
+      },
+      "correct_option": "b",
+      "explanation": "Focused Professional Practice Evaluation (FPPE) and Ongoing Professional Practice Evaluation (OPPE) are medical staff functions governed by TJC Medical Staff standards. The medical staff — through its peer review, credentials, and professional practice evaluation committees — is responsible for conducting, reviewing, and acting upon FPPE and OPPE data for all licensed independent practitioners. The governing body (A) holds ultimate accountability for quality of care but delegates the conduct of FPPE/OPPE to the medical staff. The chief medical officer (C) provides administrative leadership over medical staff functions but FPPE/OPPE responsibility is vested in the medical staff organization collectively. Team leaders (D) have no role in credentialing evaluation processes. Per TJC MS.08.01.01 and MS.08.01.03 standards and CPHQ credentialing and privileging domain standards, medical staff is responsible for FPPE and OPPE.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital-wide set of professional standards is important because it:",
+      "options": {
+        "a": "Reduces the waste of time and resources",
+        "b": "Eliminates bottlenecks",
+        "c": "Encourages duplication",
+        "d": "Minimizes the need for communication"
+      },
+      "correct_option": "a",
+      "explanation": "Hospital-wide professional standards create consistency, reduce unwarranted variation, and eliminate the need for individual staff or departments to reinvent approaches to routine processes — thereby reducing waste of time, effort, and resources. This is a foundational lean principle: standardization of work eliminates non-value-added variation. Eliminating bottlenecks (B) is a related but secondary benefit — standardization may reduce some bottlenecks but this is not the primary importance of professional standards. Encouraging duplication (C) is the opposite of what standards achieve — they prevent duplication. Minimizing communication needs (D) is incorrect — standards actually support and clarify communication rather than eliminate the need for it. Per Lean management principles, TJC standards compliance frameworks, and CPHQ Quality Leadership standards, hospital-wide professional standards reduce waste and create operational efficiency.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Hospital Utilization Management plan generally includes provision for:",
+      "options": {
+        "a": "Disaster planning",
+        "b": "Transition planning",
+        "c": "Quality planning",
+        "d": "Financial planning"
+      },
+      "correct_option": "b",
+      "explanation": "A Hospital Utilization Management (UM) plan addresses the appropriate and efficient use of healthcare resources across the continuum of care. A core component of UM is transition planning — also called discharge planning and care transitions — ensuring that patients move safely and efficiently from one level of care to another (acute care to SNF, home, or rehabilitation). This directly supports appropriate length of stay and prevents unnecessary resource utilization. Disaster planning (A) is an emergency management function — separate from UM. Quality planning (C) is a broader QI governance function. Financial planning (D) is a finance department function. Per CMS Conditions of Participation for Utilization Review, CMSA standards, and CPHQ Population Health and Care Transitions domain standards, transition/discharge planning is a core provision of the hospital UM plan.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization vision statement addresses:",
+      "options": {
+        "a": "How the organization will reach the goal",
+        "b": "Where the organization will be in the future",
+        "c": "What the organization budget will be",
+        "d": "The standards of the organization"
+      },
+      "correct_option": "b",
+      "explanation": "A vision statement is a forward-looking declaration of the desired future state of the organization — it articulates where the organization aspires to be. It does not describe how to get there (A) — that is the role of strategic plans and operational plans. It does not address budget (C) — that is a financial planning document. It does not describe standards (D) — those are codified in policies and accreditation requirements. The classic definition of a vision statement is an inspiring, aspirational picture of the future the organization is working toward. Per CPHQ Quality Leadership domain standards, strategic planning frameworks, and organizational management theory, the vision statement answers the question: \"Where are we going?\"",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Critical value is determined by:",
+      "options": {
+        "a": "The regulations and laws",
+        "b": "Accrediting body",
+        "c": "Organization",
+        "d": "Literature"
+      },
+      "correct_option": "c",
+      "explanation": "Critical values — the laboratory or diagnostic result thresholds that require immediate clinical notification because they represent life-threatening physiological states — are determined by each organization based on its patient population, clinical context, and the professional judgment of its medical staff. While literature (D) informs what ranges are clinically significant, and accrediting bodies (B) require that organizations define and communicate critical values, the actual threshold numbers are set by each organization internally. Regulations and laws (A) do not prescribe specific laboratory critical value thresholds. Per TJC NPSG.02.03.01 (critical results reporting), CAP laboratory standards, and CPHQ data analytics domain standards, each organization is responsible for defining its own critical value thresholds through its medical staff and laboratory leadership.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To assess culture:",
+      "options": {
+        "a": "Incident reports of all physicians and employees",
+        "b": "Facilitator expectation and record of team efforts",
+        "c": "Health insurance company contract",
+        "d": "Conduct employee survey"
+      },
+      "correct_option": "d",
+      "explanation": "Organizational culture — including safety culture, quality culture, and work environment — is most directly and reliably assessed through employee surveys. Validated instruments such as AHRQ's Hospital Survey on Patient Safety Culture (HSOPSC) and the Safety Attitudes Questionnaire (SAQ) capture staff perceptions, beliefs, and behavioral norms that constitute culture. Incident reports (A) capture adverse events and near misses — they are patient safety data, not direct culture measures. Facilitator expectations and team records (B) are process documents, not culture assessment tools. Health insurance contracts (C) are financial/legal documents with no connection to organizational culture assessment. Per AHRQ culture assessment methodology, IHI safety culture frameworks, and CPHQ Quality Leadership standards, employee surveys are the gold standard for organizational culture assessment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization committed to improving patient safety — key areas to influence change are:",
+      "options": {
+        "a": "Staff willingness to change, policies and procedures, redesign the structure, and improvement of morale",
+        "b": "Structure, environment, equipment, process, application, leadership, culture",
+        "c": "Medication delivery, structure, staff willingness to change, non-slip floors, improvement of wards, environment",
+        "d": "Leadership, culture, policies and procedures, staff incentives, better lighting, evaluation of processes, and electronic medical records"
+      },
+      "correct_option": "b",
+      "explanation": "The key areas for influencing patient safety change align with the domains of human factors engineering and systems-based safety improvement: structure (organizational design), environment (physical space), equipment (tools and technology), process (workflows and care delivery), application (how things are applied in practice), leadership (direction and modeling), and culture (values and behaviors). This comprehensive, systems-level framing reflects AHRQ's systems approach to patient safety and IHI's whole-system safety model. Option A is incomplete — it omits environmental and equipment factors central to safety. Option C is too specific and operational (non-slip floors, wards) and misses leadership and culture. Option D mixes important elements with peripheral specifics (lighting) and omits equipment. Per AHRQ patient safety systems frameworks, TJC safety program standards, and CPHQ patient safety domain standards, option B represents the most complete and conceptually accurate set of key change areas.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Strong organizational culture:",
+      "options": {
+        "a": "Employees' commitment to mission and vision",
+        "b": "Employees participate in CQI activities",
+        "c": "Leaders pass the organizational values to staff",
+        "d": "Maintain accreditation standards"
+      },
+      "correct_option": "a",
+      "explanation": "A strong organizational culture is most fundamentally characterized by widespread, genuine employee commitment to the mission and vision of the organization — a shared understanding of purpose that drives behavior at all levels. This commitment is what makes a culture \"strong\" — it is deeply held, broadly distributed, and behaviorally manifested. Employee participation in CQI (B) is an activity that a strong culture may produce, but participation alone does not define cultural strength. Leaders passing values to staff (C) describes a transmission mechanism, not the strength of the culture itself. Maintaining accreditation standards (D) is a compliance activity. Per Edgar Schein's organizational culture theory, Kotter and Heskett's Corporate Culture and Performance research, and CPHQ Quality Leadership standards, employee commitment to mission and vision is the defining attribute of a strong organizational culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To promote teamwork in a facility:",
+      "options": {
+        "a": "Leadership commitment",
+        "b": "Define improvement objectives",
+        "c": "Conduct committee meetings as per schedule",
+        "d": "Employee engagement"
+      },
+      "correct_option": "a",
+      "explanation": "The foundation of teamwork in any organization is leadership commitment — when leaders visibly model, support, and invest in team-based work, it legitimizes and sustains collaboration across the facility. Leadership commitment creates the structural and cultural conditions (protected team time, resources, recognition) without which teamwork cannot be sustained. Defining improvement objectives (B) focuses teams on tasks, not on building teamwork itself. Scheduled committee meetings (C) are administrative structures — meeting frequency does not create genuine teamwork. Employee engagement (D) is a desirable outcome of effective teamwork conditions, not the driver of teamwork promotion. Per Tuckman's team development model, IHI team effectiveness frameworks, and CPHQ Quality Leadership standards, leadership commitment is the primary enabler of sustained organizational teamwork.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Hospital leaders are confronted with the challenge of increasing quality while reducing cost. Which of the following branches is the best advance for improving effort?",
+      "options": {
+        "a": "Support activity that improves outcomes and reduces variation",
+        "b": "Develop a new service and increase revenues",
+        "c": "Increase charge and decrease cost",
+        "d": "In collaboration, customer satisfaction results in quality initiative"
+      },
+      "correct_option": "a",
+      "explanation": "The evidence base for simultaneous quality improvement and cost reduction centers on reducing unwarranted clinical variation. Variation in clinical practice is the primary driver of both poor outcomes and unnecessary costs — standardizing best practices improves outcomes while eliminating the waste associated with inconsistent care. This is the foundation of value-based healthcare: better outcomes at lower cost through reduced variation. Developing new services and increasing revenue (B) addresses cost pressure through revenue growth, not quality improvement. Increasing charges (C) is a pricing strategy with no quality improvement component. Customer satisfaction as a quality initiative (D) is an outcome measure, not an improvement strategy. Per IHI Triple Aim, NQF quality improvement principles, and CPHQ performance improvement domain standards, reducing variation while improving outcomes is the highest-value strategy for quality-and-cost improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "You are working with senior leadership and need their support on a medication safety project. As a healthcare quality professional, how would you convince leadership to gain their support?",
+      "options": {
+        "a": "Improve patient safety",
+        "b": "Medication safety is mandated by accreditation agencies",
+        "c": "Decrease in errors",
+        "d": "Promote accountability among stakeholders"
+      },
+      "correct_option": "b",
+      "explanation": "When seeking executive leadership support, the most compelling organizational argument is regulatory and accreditation mandate — it creates an obligation that cannot be deferred or deprioritized. Medication safety is explicitly required by TJC National Patient Safety Goals (NPSG.03 series) and CMS Conditions of Participation, meaning non-compliance carries accreditation and reimbursement consequences. This framing makes the business and compliance case simultaneously. Improving patient safety (A) and decreasing errors (C) are the clinical rationale — important but already assumed by leadership; they are outcomes, not organizational imperatives that compel action. Promoting accountability (D) is a governance concept, not a persuasion strategy for resource allocation. Per CPHQ Quality Leadership standards, change management principles, and leadership engagement strategies, accreditation mandate is the most effective lever for securing executive commitment to patient safety initiatives.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Autocratic leadership:",
+      "options": {
+        "a": "Makes decisions and announces them",
+        "b": "Limiting setting interfering in decision",
+        "c": "Involves team members in decision making",
+        "d": "Has no control over the team members"
+      },
+      "correct_option": "a",
+      "explanation": "Autocratic (authoritarian) leadership is characterized by centralized decision-making — the leader makes all decisions unilaterally and announces them to the group without seeking input. This is the defining characteristic that distinguishes autocratic from participatory or democratic styles. Limiting setting (B) describes laissez-faire leadership — where the leader minimally interferes. Involving team members (C) is the defining characteristic of participatory/democratic leadership. Having no control (D) describes ineffective or abdicating leadership. Per classical leadership style theory (Lewin, Lippit, and White), management textbook definitions, and CPHQ Quality Leadership domain standards, autocratic leadership is defined by unilateral decision-making and announcement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When developing a strategic plan with integration of patient safety, what is considered to be crucial?",
+      "options": {
+        "a": "Culture of performance improvement",
+        "b": "Resources of new technology",
+        "c": "Cost-benefit analysis of patient safety program",
+        "d": "Patient-to-staff ratio"
+      },
+      "correct_option": "a",
+      "explanation": "When integrating patient safety into strategic planning, the most crucial foundational element is an organizational culture that values continuous performance improvement. Culture determines whether patient safety goals are internalized and sustained or merely documented and ignored. Without a performance improvement culture, even well-resourced safety programs with favorable ratios and modern technology will fail to produce lasting results. Resources for new technology (B) are enabling inputs — important but insufficient without culture. Cost-benefit analysis (C) informs investment decisions but is an analytical tool, not the foundation of safety integration. Patient-to-staff ratios (D) are an operational metric related to safety capacity but not the crucial strategic integration factor. Per AHRQ safety culture research, IHI safety program design, and CPHQ Quality Leadership domain standards, culture of performance improvement is the decisive factor in successful patient safety strategic integration.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization's balanced scorecard is best described as:",
+      "options": {
+        "a": "Graphical display of departmental performance",
+        "b": "An integrated report of the best performing teams",
+        "c": "A summary of key performance indicators",
+        "d": "A tool that helps prioritize customer needs"
+      },
+      "correct_option": "c",
+      "explanation": "The Balanced Scorecard, developed by Kaplan and Norton, is a strategic performance management framework that summarizes organizational performance across four perspectives (financial, customer, internal processes, and learning and growth) through a set of key performance indicators aligned to strategic goals. It provides a balanced, multi-dimensional view of organizational performance that goes beyond purely financial measures. A graphical display of departmental performance (A) is too narrow and operational. A report of the best performing teams (B) is not what a Balanced Scorecard does — it tracks performance across all areas against targets, not just top performers. Prioritizing customer needs (D) is a function of voice-of-the-customer tools, not the Balanced Scorecard. Per Kaplan and Norton's Balanced Scorecard methodology and CPHQ Quality Leadership domain standards, the Balanced Scorecard is a strategic KPI summary framework.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The best way to keep the team focused on goals:",
+      "options": {
+        "a": "Make the team periodically review original goals",
+        "b": "Provide incentives",
+        "c": "Employee engagement",
+        "d": "Annual performance review"
+      },
+      "correct_option": "a",
+      "explanation": "Teams naturally drift in their focus over time — agendas expand, priorities shift, and the original charter becomes obscured. The most effective technique for maintaining goal focus is periodic, structured review of the original goals against current progress. This re-anchors the team's work to its stated purpose and provides data on whether course corrections are needed. Providing incentives (B) may motivate effort but does not ensure the effort is directed at the right goals. Employee engagement (C) is a broad organizational concept, not a team focus technique. Annual performance review (D) is too infrequent for active PI team management and is retrospective rather than corrective. Per IHI team management principles, CPHQ quality improvement domain standards, and project management best practices, regular goal review sessions are the most direct mechanism for maintaining team focus.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The paradigm shift is:",
+      "options": {
+        "a": "Increase the reframe of thinking",
+        "b": "Improve the monitoring measure",
+        "c": "Increase the standards",
+        "d": "Use of recent advances in medicine and technology"
+      },
+      "correct_option": "a",
+      "explanation": "A paradigm shift, as defined by Thomas Kuhn, is a fundamental transformation in the underlying framework or model through which a field or organization perceives and interprets reality — it is a reframe of thinking at the deepest level. In healthcare quality, the paradigm shift from QA to CQI represented exactly this: a fundamental change in how quality problems are understood (from individual failures to system failures). Improving monitoring measures (B) is a technical improvement within an existing paradigm. Increasing standards (C) is a threshold adjustment, not a paradigm shift. Using recent technology (D) is innovation adoption, not a paradigm shift. Per Kuhn's Structure of Scientific Revolutions, IHI quality transformation frameworks, and CPHQ Quality Leadership domain standards, a paradigm shift is defined as a fundamental reframe of thinking — a change in the conceptual model itself.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Promoting teamwork:",
+      "options": {
+        "a": "Leadership support",
+        "b": "Establish project objectives",
+        "c": "Provide incentives",
+        "d": "Allocate resources"
+      },
+      "correct_option": "a",
+      "explanation": "The most powerful enabler of teamwork in any healthcare setting is visible, active leadership support. When leaders champion team-based work, protect team time, recognize team achievements, and model collaborative behavior, teamwork becomes embedded in the organizational culture. Establishing project objectives (B) gives teams direction but does not create the collaborative environment in which teamwork thrives. Providing incentives (C) can reinforce teamwork but is an extrinsic motivator — it does not build the intrinsic collaborative culture that sustains teamwork. Allocating resources (D) enables teams to function but is a structural input, not the catalyst for teamwork. Per Tuckman's model, IHI team effectiveness research, and CPHQ Quality Leadership domain standards, leadership support is the primary driver of teamwork promotion.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Leaders want to share important information with the staff. What is the best way to communicate the information?",
+      "options": {
+        "a": "Communicate by email",
+        "b": "Send letters to the individual staff",
+        "c": "Make them sign on paper that they understand",
+        "d": "Attend staff meeting and communicate with them"
+      },
+      "correct_option": "d",
+      "explanation": "For important organizational information, the most effective communication method is in-person, two-way communication at staff meetings. This allows leaders to ensure the message is delivered accurately, answer questions in real time, gauge comprehension, and address concerns — creating genuine understanding rather than passive receipt of information. Email (A) is one-directional and easily overlooked or misunderstood. Individual letters (B) are resource-intensive and do not allow real-time dialogue. Signature on paper (C) documents receipt but confirms nothing about comprehension and creates a compliance dynamic rather than genuine communication. Per CPHQ Quality Leadership communication standards, organizational communication best practices, and Kotter's change communication principles, face-to-face, interactive communication is the most effective method for conveying important organizational information.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the first step in facilitating change in an organization?",
+      "options": {
+        "a": "Review customer satisfaction survey",
+        "b": "Get feedback from staff on the problems to be addressed",
+        "c": "Identify key people in the organization that should be involved",
+        "d": "Develop a performance improvement plan"
+      },
+      "correct_option": "c",
+      "explanation": "The first step in any organizational change initiative is to identify the stakeholders — the key people whose involvement, support, or expertise is essential for the change to succeed. Without knowing who needs to be engaged, all subsequent steps (gathering feedback, developing plans) lack the right participants. This aligns with Kotter's first two steps: establishing urgency and building the guiding coalition — both of which require identifying the right people first. Reviewing customer satisfaction surveys (A) is a data-gathering activity that follows stakeholder identification. Getting staff feedback (B) requires knowing which staff should be consulted. Developing a PI plan (D) is a planning activity — premature before stakeholders and problems are defined. Per Kotter's Eight-Step Change Model, IHI change facilitation frameworks, and CPHQ Quality Leadership domain standards, stakeholder identification is the first step in change facilitation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The best way for the director to convey a message to the organization is:",
+      "options": {
+        "a": "Written order",
+        "b": "Oral order",
+        "c": "Face-to-face communication and feedback",
+        "d": "Inter-office communication"
+      },
+      "correct_option": "c",
+      "explanation": "Face-to-face communication with feedback is the richest and most effective communication channel for conveying important organizational messages. It allows the director to observe reactions, clarify misunderstandings, answer questions, and ensure genuine comprehension — making it bi-directional and interactive. Written orders (A) and inter-office communication (D) are formal but one-directional — they document a message but do not ensure understanding. Oral orders (B) without face-to-face context are easily misinterpreted and lack the non-verbal dimension. Per communication theory (richness theory), organizational communication best practices, and CPHQ Quality Leadership standards, face-to-face communication with feedback is the highest-richness, highest-effectiveness communication channel.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To allow change to be maintained, you should ensure the change in:",
+      "options": {
+        "a": "The culture within the organization",
+        "b": "The hierarchy of the organization",
+        "c": "The values within the organization",
+        "d": "The reward system"
+      },
+      "correct_option": "a",
+      "explanation": "Culture is the correct answer. Culture is the broadest and most encompassing container — it includes values, behaviors, norms, and organizational identity. Embedding change in culture is more comprehensive than embedding it only in values (Q12's correct answer) because culture encompasses values plus the behavioral manifestations of those values. Hierarchy (B) is structural. Reward systems (D) are incentive mechanisms. Per Lewin's refreezing stage, Kotter's sustainability principles, and CPHQ quality leadership standards, cultural embedding is the condition for permanent change maintenance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The responsibility to promote organizational values and commitment among the staff lies within:",
+      "options": {
+        "a": "Nurse executive and CEO",
+        "b": "Nurse staff, senior management",
+        "c": "Medical director, quality manager",
+        "d": "Clinical, non-clinical leaders"
+      },
+      "correct_option": "d",
+      "explanation": "Promoting organizational values and building staff commitment to those values is a responsibility shared by all leaders across the organization — both clinical leaders (physicians, nurse executives, department heads) and non-clinical leaders (administrative directors, quality managers, HR leaders). Restricting this responsibility to any single pair of executives (A, B, or C) understates the scope of leadership accountability for culture. Values are most effectively transmitted when reinforced consistently by every leader the staff encounters — clinical and non-clinical alike. Per CPHQ Quality Leadership domain standards, organizational culture theory, and TJC leadership chapter requirements, values promotion is a shared leadership obligation across all leader categories.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The most important skill in controlling group conflict is:",
+      "options": {
+        "a": "Ignore",
+        "b": "Negotiation",
+        "c": "Assertiveness",
+        "d": "Diplomatic"
+      },
+      "correct_option": "b",
+      "explanation": "When conflict arises within a group, the most important and effective skill for resolution is negotiation — the structured process of facilitating dialogue between parties with competing interests to reach a mutually acceptable resolution. Negotiation addresses the substance of the conflict, engages all parties, and produces durable agreements. Ignoring conflict (A) allows it to escalate and damage team functioning. Assertiveness (C) is a communication skill that may be needed during negotiation but is not the primary conflict control mechanism. Being diplomatic (D) describes a social style — helpful in conflict situations but insufficient as a standalone skill for conflict control. Per conflict resolution theory, IHI team facilitation standards, and CPHQ Quality Leadership domain competencies, negotiation is the central skill for managing group conflict.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Healthcare quality professionals facilitating the assessment of the impact of the organization's culture on quality should evaluate, at the very least, the organization's degree of compliance with:",
+      "options": {
+        "a": "The budget",
+        "b": "Mission and vision statements",
+        "c": "The strategic plan",
+        "d": "Policies and procedures"
+      },
+      "correct_option": "d",
+      "explanation": "When assessing the impact of organizational culture on quality, the most concrete and measurable point of evaluation is the degree to which staff actually comply with established policies and procedures. Policies and procedures represent the operationalized expression of organizational values and quality standards — the degree of compliance reveals whether the culture supports or undermines those standards in practice. Compliance with budget (A) is a financial measure, not a culture-quality indicator. Compliance with mission and vision statements (B) is too abstract to measure directly. Compliance with the strategic plan (C) is a higher-level management accountability measure. Per AHRQ culture assessment frameworks, TJC standards compliance methodology, and CPHQ Quality Leadership domain standards, policy and procedure compliance is the most tangible and measurable indicator of how culture affects quality at the operational level.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The key leadership skills needed for redesign efforts include:",
+      "options": {
+        "a": "Communication, negotiation, systems thinking",
+        "b": "Communication, contacting, democratic style",
+        "c": "Planning, measurement, analysis",
+        "d": "Planning, finance, systems thinking"
+      },
+      "correct_option": "a",
+      "explanation": "Redesign of healthcare systems requires leaders who can communicate the vision and rationale for change effectively, negotiate across competing interests and professional boundaries, and apply systems thinking to understand how changes in one part of the system affect others. These three skills address the interpersonal, political, and analytical dimensions of complex redesign. Option B substitutes \"contacting\" — a vague term — for negotiation, and \"democratic style\" is a leadership style, not a skill set for redesign. Option C (planning, measurement, analysis) describes management competencies, not the leadership skills specific to redesign. Option D includes finance as a primary redesign skill — financial competence is important but is not a primary redesign leadership skill in the same tier as communication, negotiation, and systems thinking. Per IHI redesign methodology, CPHQ Quality Leadership standards, and healthcare transformation competency frameworks, communication, negotiation, and systems thinking are the core leadership skills for redesign.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The organizations involved in the redesign must each commit to:",
+      "options": {
+        "a": "Preserving their culture",
+        "b": "Incremental change",
+        "c": "Fundamental change",
+        "d": "Their own leaders"
+      },
+      "correct_option": "c",
+      "explanation": "Redesign — as opposed to incremental improvement — by definition requires fundamental change: a transformation of core processes, structures, or systems rather than marginal adjustments. Organizations that commit to redesign but expect to preserve their existing culture (A) or accept only incremental change (B) will produce redesign in name only, without achieving the breakthrough improvements that redesign promises. Committing to their own leaders (D) describes an organizational loyalty preference, not a redesign commitment. Per IHI redesign theory, Hammer and Champy's reengineering frameworks, and CPHQ performance and process improvement domain standards, genuine redesign requires commitment to fundamental, not incremental, change.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "All of the following are ways through which any organization leadership can enhance the spread of quality culture within the organization EXCEPT:",
+      "options": {
+        "a": "Develop mission and vision statements",
+        "b": "Assign quality professionals to lead the process of cultural transformation",
+        "c": "Adopt flexible management styles",
+        "d": "Develop quality initiatives"
+      },
+      "correct_option": "b",
+      "explanation": "Cultural transformation cannot be delegated to quality professionals alone — it requires active, visible commitment and leadership from the entire leadership team, particularly senior executives and clinical leaders. Quality professionals support and facilitate cultural change, but assigning them as the sole leaders of cultural transformation removes accountability from where it belongs: with organizational leadership at all levels. Developing mission and vision statements (A) codifies cultural aspirations. Adopting flexible management styles (C) enables responsiveness and inclusivity that support culture change. Developing quality initiatives (D) operationalizes quality culture. All three actively support cultural spread. Only option B creates a false delegation that undermines cultural transformation by removing leadership from its primary change agent role. Per Kotter's change model, CPHQ Quality Leadership standards, and organizational culture transformation research, culture change must be led by the organization's own leadership — not outsourced to quality staff.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Evidence-based quality management promotes:",
+      "options": {
+        "a": "Culture of excellence",
+        "b": "Culture free from medical and medication errors",
+        "c": "Culture of no punishment",
+        "d": "Culture of cooperation"
+      },
+      "correct_option": "a",
+      "explanation": "Evidence-based quality management (EBQM) integrates the best available evidence from research, data, and clinical expertise to drive organizational decisions and quality improvement — its defining cultural output is a culture of excellence, in which the organization continuously strives for the highest standards of care and performance based on evidence. A culture free from errors (B) is an aspiration of patient safety programs — important but narrower than what EBQM promotes. A culture of no punishment (C) describes Just Culture or psychological safety — a related but distinct concept. A culture of cooperation (D) is a teamwork characteristic, not the primary cultural output of evidence-based quality management. Per CPHQ Quality Leadership and performance improvement domain standards, IHI evidence-based improvement frameworks, and quality management theory, EBQM's defining cultural contribution is a culture of excellence.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Just culture means:",
+      "options": {
+        "a": "Culture of no abuse",
+        "b": "Blame-free culture",
+        "c": "Quality culture",
+        "d": "A culture of timeliness"
+      },
+      "correct_option": "b",
+      "explanation": "Just Culture, as developed by David Marx and adopted by AHRQ, TJC, and IHI, is a framework that distinguishes between human error (system-caused), at-risk behavior (individual poor choice that can be coached), and reckless behavior (willful disregard). The central principle is that the system — not individuals — is responsible for most errors, creating a blame-free environment for reporting and learning from mistakes while still maintaining individual accountability for reckless behavior. Culture of no abuse (A) describes a respectful workplace concept, not Just Culture. Quality culture (C) is a broader organizational aspiration. Timeliness culture (D) is a service quality concept. Per AHRQ Just Culture principles, Marx's Just Culture model, and CPHQ patient safety domain standards, Just Culture is defined by its blame-free approach to error, distinguishing it from punitive cultures.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The National Quality Forum (NQF) endorses safe practices to assess and develop organizational patient safety cultures. One of the most important elements needed to create the culture is:",
+      "options": {
+        "a": "Identifying safety risks and interventions to reduce events",
+        "b": "Measuring patient satisfaction after a risk intervention",
+        "c": "Leadership from external suppliers assisting in the culture's structure",
+        "d": "Training patients to abide by the safety culture's requirements"
+      },
+      "correct_option": "a",
+      "explanation": "NQF's endorsed safe practices for creating a patient safety culture are centered on proactive identification of safety risks and implementation of evidence-based interventions to prevent harm. This aligns with the HRO principle of preoccupation with failure — actively seeking out what could go wrong before it does. Patient satisfaction measurement (B) is an outcome measure, not a safety culture-building element. External supplier leadership (C) is not an NQF-endorsed mechanism for internal culture creation. Training patients to comply with safety requirements (D) misassigns safety culture responsibility to patients — safety culture is an organizational and staff construct. Per NQF Safe Practices for Better Healthcare, AHRQ safety culture frameworks, and CPHQ patient safety domain standards, proactive risk identification and intervention is the foundational element of patient safety culture creation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The most effective role of a healthcare quality professional as a facilitator of change to quality culture in the organization is:",
+      "options": {
+        "a": "Education of leaders",
+        "b": "Education of staff",
+        "c": "Evaluation of performance",
+        "d": "Designing processes"
+      },
+      "correct_option": "a",
+      "explanation": "When a healthcare quality professional facilitates cultural change, the highest-leverage intervention is educating leaders — because leaders are the primary agents of culture. Leaders model, reinforce, and transmit culture through their daily decisions and behaviors. Equipping leaders with knowledge of quality principles, change management, and cultural transformation tools creates a multiplicative effect that cascades through the organization. Education of staff (B) is important but has less leverage without leadership alignment. Evaluating performance (C) is a measurement function, not a change facilitation role. Designing processes (D) is a PI function that supports culture but does not directly drive cultural transformation. Per Kotter's change model, CPHQ Quality Leadership domain standards, and leadership development research, educating leaders is the quality professional's most effective lever for facilitating cultural change.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Best to ensure success of quality improvement in the organization:",
+      "options": {
+        "a": "Education level of quality leaders",
+        "b": "People skills of facility leaders",
+        "c": "Culture of the organization",
+        "d": "Number of accreditations/certifications"
+      },
+      "correct_option": "c",
+      "explanation": "The success of quality improvement programs is most powerfully determined by organizational culture — the degree to which values of transparency, continuous learning, data use, and improvement are embedded in the daily environment. A supportive culture enables QI regardless of individual leader education levels or skill sets; a toxic or resistant culture undermines QI regardless of how credentialed or personable its leaders are. Education level (A) contributes to methodology competence but is not the primary determinant of QI success. People skills (B) facilitate engagement but are a subset of cultural enablement. Accreditation count (D) measures compliance achievement, not QI success. Per IHI organizational improvement research, AHRQ safety culture literature, and CPHQ Quality Leadership domain standards, organizational culture is the single most important determinant of sustained QI success.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The way to emphasize the importance of learning from mistakes and near misses in order to reduce errors in the future is known as:",
+      "options": {
+        "a": "Root cause analysis",
+        "b": "Meetings",
+        "c": "Fair and just culture",
+        "d": "Open disclosure policy"
+      },
+      "correct_option": "c",
+      "explanation": "A fair and just culture is the organizational framework specifically designed to emphasize learning from mistakes and near misses as the primary mechanism for future error reduction. It does this by creating psychological safety to report, removing blame as the default response to error, and focusing investigation on system causes rather than individual fault — thereby maximizing the organization's learning from every safety event. Root cause analysis (A) is a retrospective investigation tool that supports learning from specific events, but it is a method, not the overarching cultural framework that emphasizes learning. Meetings (B) are a communication mechanism, not a learning culture approach. Per AHRQ Just Culture framework, Marx's model, IHI safety learning frameworks, and CPHQ patient safety domain standards, fair and just culture is the named approach for institutionalizing learning from mistakes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital generally has a unique structure comprised of a triangle. Which three entities make up the triangle?",
+      "options": {
+        "a": "Governing body, administration, finance",
+        "b": "Administration, department managers, medical staff",
+        "c": "Governing body, administration/management, medical staff",
+        "d": "Administration, medical staff, nursing"
+      },
+      "correct_option": "c",
+      "explanation": "The classic three-legged governance structure of U.S. hospitals is the governing body (board of directors/trustees), administration/management (CEO and executive leadership), and medical/professional staff. This triad is the foundational organizational architecture of hospitals and is described in TJC standards, CMS Conditions of Participation, and healthcare administration literature. Finance (A) is a management function, not a separate structural entity. Department managers (B) are part of the administration structure. Nursing (D) is part of the medical/professional staff and administration structure but does not constitute a separate structural leg. Per TJC governance and leadership standards, CMS CoP, and CPHQ Quality Leadership domain standards, the governing body, administration, and medical staff form the definitive hospital governance triangle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The leadership style that is said to motivate employees and that optimizes the introduction of change is:",
+      "options": {
+        "a": "Autocratic",
+        "b": "Consultative",
+        "c": "Participatory",
+        "d": "Democratic"
+      },
+      "correct_option": "c",
+      "explanation": "Participatory leadership motivates employees by giving them a meaningful voice in decisions that affect their work — this investment in their input creates ownership, commitment, and engagement. It is also the optimal style for change introduction because involving employees in designing and shaping the change dramatically reduces resistance and increases adoption. Autocratic leadership (A) motivates through authority — it is effective in crisis but counterproductive for sustained motivation and change adoption. Consultative leadership (B) seeks input but retains unilateral decision-making — better than autocratic but less motivating than participatory. Democratic (D) implies full majority voting — in organizational change contexts, this can be slow and produce lowest-common-denominator outcomes. Per CPHQ Quality Leadership standards, leadership and motivation research, and change management theory, participatory leadership is the style that simultaneously maximizes motivation and change adoption.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The key to creating sustained value in the organization is to:",
+      "options": {
+        "a": "Delegate policy-making and oversight to the quality council",
+        "b": "Develop a strategy that drives from the vision, strategic goals, and cost-benefit analysis",
+        "c": "Adopt an organizational ethics policy and code linked to mission, vision, and values",
+        "d": "Act on predictive performance measures aligned to strategic goals and department objectives"
+      },
+      "correct_option": "d",
+      "explanation": "Sustained organizational value is created when performance measurement is not merely retrospective but predictive — when organizations use leading indicators to anticipate performance gaps and act before problems manifest. Aligning these predictive measures to strategic goals and departmental objectives ensures that action taken generates value at both the strategic and operational level simultaneously. Delegating policy-making to the quality council (A) is a governance structure decision, not a value creation mechanism. Developing a vision-driven strategy (B) is an important input but strategy alone does not create sustained value without aligned action. Adopting an ethics code (C) is a values alignment activity — important for culture but not the primary mechanism for sustained value creation. Per Balanced Scorecard methodology, CPHQ Quality Leadership and data analytics standards, and strategic management theory, acting on aligned predictive measures is the engine of sustained organizational value.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The person or group legally responsible for maintaining quality patient care is the:",
+      "options": {
+        "a": "Governing body",
+        "b": "Quality improvement council",
+        "c": "Chief executive officer",
+        "d": "Medical/professional staff"
+      },
+      "correct_option": "a",
+      "explanation": "Under U.S. healthcare law and accreditation standards, the governing body (board of directors or board of trustees) bears ultimate legal accountability for the quality and safety of patient care delivered in the institution. This is a non-delegable legal responsibility — while the governing body may delegate operational implementation to the CEO and medical staff, it retains legal accountability. The quality improvement council (B) is an operational governance body for QI activities — it does not bear legal accountability. The CEO (C) is accountable to the governing body but is not the legally responsible entity. Medical/professional staff (D) are responsible for clinical care delivery but the institution's legal accountability rests with the governing body. Per TJC leadership chapter, CMS Conditions of Participation, corporate liability law, and CPHQ Quality Leadership domain standards, the governing body is legally responsible for quality patient care.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Hospital medical/professional staff bylaws:",
+      "options": {
+        "a": "Relate only to members",
+        "b": "Are subject to governing body approval",
+        "c": "Are required only if the staff is departmentalized",
+        "d": "Are required only if the facility is not incorporated"
+      },
+      "correct_option": "b",
+      "explanation": "Medical staff bylaws govern the self-organization, privileges, and conduct of the medical/professional staff. Per TJC Medical Staff standards (MS.01.01.01), medical staff bylaws must be approved by the governing body — the board retains authority over the bylaws even though the medical staff drafts them. Bylaws are not limited to members only (A) — they govern the conduct of all medical staff interactions with the institution. They are required for all hospital medical staffs regardless of whether the staff is departmentalized (C) or the facility is incorporated (D) — these are not conditions for their requirement. Per TJC Medical Staff Standards, CMS CoP, and CPHQ credentialing and privileging domain standards, governing body approval of medical staff bylaws is a universal requirement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Organization-wide functions refer to:",
+      "options": {
+        "a": "Key governance, management, clinical, and support activities",
+        "b": "Functions of the governing body",
+        "c": "Cross-functional team activities",
+        "d": "Legal and fiduciary obligations to patients"
+      },
+      "correct_option": "a",
+      "explanation": "Organization-wide functions — as defined in TJC accreditation standards and quality management frameworks — encompass the full spectrum of activities that span the entire organization: governance (board-level oversight), management (administrative and operational leadership), clinical (patient care delivery), and support (environmental, information, and ancillary services). This comprehensive definition reflects the organization as an integrated system. Functions of the governing body alone (B) are a subset, not the totality. Cross-functional team activities (C) are one mechanism of organizational function, not the definition. Legal and fiduciary obligations (D) describe accountability relationships, not the functions themselves. Per TJC organization-wide quality assessment standards and CPHQ Quality Leadership domain definitions, organization-wide functions encompass governance, management, clinical, and support activities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The authority and responsibility of each level of the organization with respect to quality management mechanisms must be specified in the:",
+      "options": {
+        "a": "Administrative policies and procedures",
+        "b": "Medical/professional staff bylaws",
+        "c": "Corporate bylaws",
+        "d": "Organizational plan for the provision of patient care"
+      },
+      "correct_option": "c",
+      "explanation": "Corporate bylaws are the foundational governance documents that define the structure, authority, and responsibilities of the organization's leadership at each level — including quality management accountability. They establish who is responsible for what at the board, executive, and departmental levels. Administrative policies and procedures (A) define operational processes but not organizational authority structures. Medical staff bylaws (B) govern medical staff self-organization and credentialing, not the broader organizational authority for quality management. The organizational plan for patient care (D) describes care delivery structures, not governance authority allocation. Per corporate governance law, TJC leadership chapter, and CPHQ Quality Leadership domain standards, corporate bylaws are where organizational authority and quality management responsibilities are formally defined.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In participative management, the manager:",
+      "options": {
+        "a": "Relinquishes decision-making responsibility to the staff",
+        "b": "Retains the final decision-making responsibility",
+        "c": "Presents a final decision to the staff",
+        "d": "Permits staff participation only with noncritical issues"
+      },
+      "correct_option": "b",
+      "explanation": "Participative management actively involves staff in the decision-making process — seeking input, encouraging ideas, and building consensus — but the manager retains ultimate accountability for and authority over the final decision. This is the critical distinction between participative management and democratic management (where staff vote) or delegated management (where staff make the decision). Relinquishing decision-making (A) describes delegation or laissez-faire management. Presenting a final decision without input (C) describes autocratic or consultative-at-best management. Restricting participation to noncritical issues (D) describes a limited, pseudo-participative style. Per classical management theory (Tannenbaum and Schmidt's continuum of leadership), CPHQ Quality Leadership standards, and organizational behavior research, participative management is defined by inclusive process with retained managerial accountability for the final decision.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following statements refers only to strategic planning and NOT to the former traditional master planning?",
+      "options": {
+        "a": "Planning focuses primarily on producing new services",
+        "b": "Planning begins with the statement of mission",
+        "c": "Planning is an integral part of management",
+        "d": "Planning ignores the political environment of the organization"
+      },
+      "correct_option": "c",
+      "explanation": "Strategic planning, as it evolved in the 1970s–80s, distinguishes itself from traditional master planning in several ways, but the key distinction is that strategic planning is embedded as an ongoing management function — it is not a periodic standalone exercise but an integral, continuous part of how the organization is managed. Traditional master planning was a periodic, project-based activity conducted by specialists, separate from day-to-day management. Producing new services (A) describes one potential output of either planning type. Beginning with mission (B) is a feature of strategic planning but was also a principle acknowledged in master planning. Ignoring political environment (D) is actually more characteristic of traditional master planning — strategic planning explicitly accounts for the external political environment. Per strategic management literature and CPHQ Quality Leadership planning standards, integration with management is the defining characteristic of strategic planning versus traditional master planning.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The best evidence of the incorporation of quality planning into the organization-wide strategic planning process might be:",
+      "options": {
+        "a": "Successful quality initiatives",
+        "b": "The organization-wide plan for provision of patient care",
+        "c": "The quality management/quality improvement plan",
+        "d": "The quality management/quality improvement budget"
+      },
+      "correct_option": "c",
+      "explanation": "The most direct evidence that quality planning has been incorporated into organizational strategic planning is the existence of a formal QM/QI plan that is explicitly linked to and derived from the strategic plan. This document demonstrates that quality goals are not separate from organizational strategy but are integrated into it. Successful quality initiatives (A) are outcomes that may result from quality planning — they are evidence of effectiveness, not directly of integration into strategic planning. The organization-wide patient care plan (B) is a clinical governance document, not specifically a quality-strategic planning integration artifact. The QM/QI budget (D) demonstrates resource allocation but does not itself show strategic integration. Per TJC quality planning standards, NCQA quality program requirements, and CPHQ Quality Leadership domain standards, the QM/QI plan is the document that best evidences strategic integration of quality planning.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Strategic planning is best described as:",
+      "options": {
+        "a": "A long-term focus, projecting the present into the future",
+        "b": "A set of top-level performance measures",
+        "c": "A statement of mission, vision, and values",
+        "d": "An ongoing look into the future"
+      },
+      "correct_option": "d",
+      "explanation": "Strategic planning is best described as an ongoing, iterative process of looking forward — continuously scanning the environment, reassessing goals, and adjusting direction. It is not a one-time event but a sustained management discipline. Option A (long-term focus projecting present into future) describes traditional master planning — which extrapolates from current state rather than reimagining the future. Option B (top-level performance measures) describes a component of strategic management (the Balanced Scorecard dimension) but not the definition of strategic planning itself. Option C (mission, vision, values statement) describes the foundational documents of strategic planning, not the planning process itself. Per Mintzberg's strategic planning theory, Ansoff's strategic management frameworks, and CPHQ Quality Leadership domain standards, strategic planning is an ongoing, future-oriented management process.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes a vision statement?",
+      "options": {
+        "a": "It is used as a marketing strategy",
+        "b": "It defines the structure of the institution",
+        "c": "It describes the organization's strategic plans",
+        "d": "It reflects the organization's culture"
+      },
+      "correct_option": "d",
+      "explanation": "A vision statement expresses the organization's aspirational future state — the kind of organization it strives to become. This aspiration is inherently a reflection of the organization's culture: its values, ambitions, and identity. A vision statement that is authentic rather than merely decorative will reveal what the organization truly stands for and where its culture is directed. It is not a marketing tool (A) — though it may inform marketing messaging. It does not define structure (B) — that is an organizational chart function. It does not describe strategic plans (C) — those are the detailed roadmaps that flow from the vision. Per organizational theory, CPHQ Quality Leadership domain standards, and strategic planning frameworks, the vision statement reflects and articulates organizational culture and aspirational identity.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The mission statement of the organization describes:",
+      "options": {
+        "a": "Where the organization is going",
+        "b": "The purpose of the organization",
+        "c": "The strategic direction of the organization",
+        "d": "The long-term goals of the organization"
+      },
+      "correct_option": "b",
+      "explanation": "A mission statement answers the fundamental question: \"Why does this organization exist?\" It defines the organization's core purpose — who it serves, what it does, and why it matters. Where the organization is going (A) is the vision statement's domain. Strategic direction (C) is articulated through the strategic plan, not the mission statement. Long-term goals (D) are components of the strategic plan. The mission is a timeless statement of purpose that remains relatively stable across strategic cycles. Per CPHQ Quality Leadership standards, Drucker's management theory, and organizational planning frameworks, the mission statement defines organizational purpose.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In an organization-wide QI model, the person or group usually accountable for continuously assessing and improving performance at the department level is the:",
+      "options": {
+        "a": "Cross-functional QI team",
+        "b": "Quality council",
+        "c": "Department director",
+        "d": "Department team"
+      },
+      "correct_option": "c",
+      "explanation": "In most organization-wide QI models, the department director (also called department manager or department head) is the accountable leader for ongoing performance assessment and improvement within their department. They are responsible for monitoring departmental quality indicators, implementing improvement actions, and reporting results upward. Cross-functional QI teams (A) address issues that span multiple departments — they are not department-level accountability structures. The quality council (B) provides organizational direction and oversight but is not the accountable party at the department level. The department team (D) implements improvement work but accountability rests with the director. Per TJC performance improvement standards, CPHQ Quality Leadership and performance improvement domain standards, and organizational accountability frameworks, department directors hold PI accountability at the department level.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Strategic leadership is linked to success in meeting:",
+      "options": {
+        "a": "Budget requirements",
+        "b": "Intended objectives",
+        "c": "Governing body policy",
+        "d": "Contract requirements"
+      },
+      "correct_option": "b",
+      "explanation": "Strategic leadership is defined by its orientation toward achieving the organization's strategic vision and intended objectives — the outcomes the organization has determined it will pursue. Strategic leaders align resources, culture, and activities toward these objectives and measure success by whether they are achieved. Budget requirements (A) are financial constraints managed through operational leadership — strategic leadership transcends budgetary compliance. Governing body policy (C) is a compliance expectation — meeting policy is a governance requirement, not the measure of strategic leadership success. Contract requirements (D) are legal obligations — again, compliance, not strategic achievement. Per CPHQ Quality Leadership standards, strategic management theory, and organizational leadership research, strategic leadership is fundamentally defined by its commitment to and achievement of intended strategic objectives.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a crisis situation, when a manager must make a rapid decision, the most effective leadership style is:",
+      "options": {
+        "a": "Consultative",
+        "b": "Participatory",
+        "c": "Autocratic",
+        "d": "Democratic"
+      },
+      "correct_option": "c",
+      "explanation": "In crisis situations requiring rapid decision-making, the autocratic leadership style is most effective because it enables immediate, decisive action without the time-consuming process of consultation, participation, or consensus-building. Speed and clarity of command are essential in crises — participatory (B) and democratic (D) processes take time that crisis situations do not allow. Consultative (A) still requires seeking input before deciding — also time-prohibitive in an acute crisis. This is the recognized exception to the general preference for participatory leadership: when time is critical and the situation is acute, autocratic decision-making is both necessary and appropriate. Per situational leadership theory (Hersey and Blanchard), CPHQ Quality Leadership domain standards, and crisis management principles, autocratic leadership is the appropriate style for rapid crisis decision-making.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the quality-based strategic planning model:",
+      "options": {
+        "a": "Representatives from each active QI team form the strategic planning team",
+        "b": "The steering council leads strategic planning as an ongoing activity",
+        "c": "Licensed independent practitioners lead the strategic planning effort and formulate the performance measures",
+        "d": "Input from management staff is the key assessment activity"
+      },
+      "correct_option": "b",
+      "explanation": "In quality-based strategic planning models, the steering council (Quality Council or Quality Steering Committee) serves as the leadership body that maintains strategic planning as a continuous, integrated management activity — not a periodic event. This reflects the principle that quality is a strategic priority requiring ongoing executive-level direction and adjustment. Having QI team representatives form the strategic planning team (A) conflates operational improvement teams with strategic governance. Licensed independent practitioners leading strategy (C) misplaces clinical staff in a governance role. Management input as the key assessment activity (D) is too operationally focused for a strategic planning description. Per CPHQ Quality Leadership standards, TJC governance requirements, and quality-based strategic planning frameworks, the steering council's ongoing leadership of strategic planning is the defining feature of this model.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "As a performance measurement system, the key value of the balanced scorecard concept is its ability to:",
+      "options": {
+        "a": "Serve as a comparative report card with like organizations",
+        "b": "Focus the organization on financial measures of survival and success",
+        "c": "Encompass all the organization's clinical and non-clinical measures",
+        "d": "Align measurement with the vision and strategy of the organization"
+      },
+      "correct_option": "d",
+      "explanation": "The defining and unique value of the Balanced Scorecard is that it links performance measurement directly to the organization's vision and strategy — ensuring that what gets measured reflects what the organization is trying to achieve. This strategic alignment is what makes it more valuable than traditional financial-only dashboards. Serving as a benchmarking comparative (A) is not the BSC's primary purpose — benchmarking can be done with any data. Focusing on financial measures (B) is the limitation that BSC was specifically designed to transcend — it adds customer, process, and learning perspectives to financial measures. Encompassing all measures (C) describes comprehensiveness, not the key value of the BSC, which is alignment. Per Kaplan and Norton's Balanced Scorecard methodology, CPHQ Quality Leadership domain standards, and strategic management research, strategic alignment is the BSC's defining value.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following statements about the balanced scorecard is FALSE?",
+      "options": {
+        "a": "It is a strategic performance management tool",
+        "b": "It presents a mixture of financial and non-financial measures",
+        "c": "The overall score on the balanced scorecard gives a summary of the organization's performance",
+        "d": "Each measure in the balanced scorecard has a target"
+      },
+      "correct_option": "c",
+      "explanation": "The Balanced Scorecard does NOT produce a single overall score. Unlike a composite index or a rating system, the BSC presents performance across its four perspectives (financial, customer, internal process, and learning/growth) as a portfolio of measures — each with its own target and performance indicator. There is no aggregation into a single summary score; the value comes from viewing all perspectives together, not from a combined numerical summary. Options A (strategic management tool), B (mixture of financial and non-financial measures), and D (each measure has a target) are all TRUE statements about the BSC. Per Kaplan and Norton's Balanced Scorecard methodology and CPHQ data analytics and Quality Leadership domain standards, the absence of a single summary score is a defining structural feature of the BSC.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the balanced scorecard, the perspective that measures human, informational, and operational capital is:",
+      "options": {
+        "a": "Operational/internal",
+        "b": "Financial",
+        "c": "Innovation and growth",
+        "d": "Customer"
+      },
+      "correct_option": "c",
+      "explanation": "In Kaplan and Norton's Balanced Scorecard framework, the Learning and Growth perspective (also called Innovation and Growth) measures the organization's capacity to improve and grow — specifically through human capital (employee skills and capabilities), informational capital (data systems and knowledge management), and organizational capital (culture, leadership, and alignment). Financial perspective (B) measures financial outcomes. Internal/operational perspective (A) measures process efficiency and effectiveness. Customer perspective (D) measures patient/stakeholder satisfaction and outcomes. The innovation and growth (learning and growth) perspective is the only BSC perspective that explicitly addresses human, informational, and operational capital as defined in the question. Per Kaplan and Norton's BSC framework and CPHQ data analytics domain standards, innovation and growth is the correct answer.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality program had prepared a balanced scorecard that displayed: patient satisfaction was 98%, financial target has been met, medication error had been increased by 30%, and heart surgery rate decreased 3%. What additional information may the governing body ask for?",
+      "options": {
+        "a": "Type of medication error",
+        "b": "Heart surgery case",
+        "c": "Patient satisfaction data",
+        "d": "Review patient complaint"
+      },
+      "correct_option": "a",
+      "explanation": "The balanced scorecard data shows one significant adverse finding: medication errors increased by 30%. This is the outlier requiring investigation. The governing body's first accountability question would be to understand the nature of the problem — what type of medication errors are increasing, in what settings, and with what harm potential. This is the necessary next step for informed governance oversight. Heart surgery rate decrease (B) is a positive trend — it does not warrant additional governing body inquiry as presented. Patient satisfaction data (C) is already excellent at 98% — no additional inquiry needed. Reviewing patient complaints (D) is a general risk management activity, not the specific targeted inquiry the BSC data demands. Per TJC governing body accountability standards, CPHQ Quality Leadership domain standards, and Balanced Scorecard governance principles, the governing body must follow the adverse signal — the medication error increase — with a request for specific detail on the type of errors.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The best way to facilitate leadership education about the role of ethics in the organization is to understand that:",
+      "options": {
+        "a": "Each leader's personal value system drives decision making",
+        "b": "The organization's written code of ethics drives decision making",
+        "c": "The organization can have both good and bad ethics",
+        "d": "Accountability for organizational ethics is primarily internal, not public"
+      },
+      "correct_option": "a",
+      "explanation": "Leadership ethics education must begin with the recognition that each leader's individual values, beliefs, and moral framework are the primary drivers of their daily decisions — often before any written code is consulted. This is the foundational insight of leadership ethics education: formal codes (B) matter, but they are insufficient without personal value alignment, because leaders cannot be monitored in every decision. If leaders' personal values are misaligned with organizational ethics, the code alone will not govern behavior. Option C (organizations can have both good and bad ethics) is a descriptive observation, not an educational insight. Option D (accountability is primarily internal) is factually incorrect — healthcare organizations have extensive public accountability through accreditation, regulation, and community trust. Per healthcare ethics theory, CPHQ Quality Leadership standards, and leadership development research, personal value systems are the primary driver of ethical decision-making.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Leadership during a lengthy period of crisis in the organization is:",
+      "options": {
+        "a": "Based on the leader's position in the organization",
+        "b": "A participative activity performed by anyone committed to lead",
+        "c": "Dependent on a set of personal characteristics",
+        "d": "An autocratic style with decisions made solely by the leader"
+      },
+      "correct_option": "b",
+      "explanation": "Extended organizational crises — as opposed to acute emergencies requiring rapid autocratic decisions — are sustained challenges that require distributed leadership, broad engagement, and collective commitment. In a lengthy crisis, the organization cannot depend on one autocratic leader making all decisions; it needs many committed individuals at all levels taking initiative, leading within their spheres of influence, and contributing to the collective response. Position-based leadership (A) is insufficient — formal authority alone does not sustain leadership through prolonged crisis. Personal characteristics (C) matter but do not define crisis leadership in the extended sense. Autocratic sole decision-making (D) is appropriate for acute crisis decisions but is unsustainable and counterproductive during a lengthy organizational crisis. Per adaptive leadership theory (Heifetz), CPHQ Quality Leadership domain standards, and crisis leadership research, sustained crisis requires participative, distributed leadership from committed individuals throughout the organization.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "You understand that the most effective quality champions are:",
+      "options": {
+        "a": "The strategic decision makers",
+        "b": "Participants on the QI council",
+        "c": "Committed to the mission, vision, and values",
+        "d": "Governing body members active in the community"
+      },
+      "correct_option": "c",
+      "explanation": "The most effective quality champions are those who are deeply and genuinely committed to the organization's mission, vision, and values — because their advocacy for quality flows from authentic belief in the organization's purpose, not from their positional authority or governance role. This commitment makes them credible, persistent, and effective regardless of their formal title. Strategic decision makers (A) have authority but may not have the commitment and passion that makes a champion effective. QI council participants (B) are operationally engaged but their participation is role-based, not necessarily values-driven. Governing body members active in community (D) have external visibility but the defining characteristic of an effective quality champion is internal values commitment. Per CPHQ Quality Leadership standards, quality champion development frameworks, and organizational change research, values commitment is the defining quality of an effective quality champion.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the clinical area, which of the following criteria is most consistent with your understanding of a key quality champion?",
+      "options": {
+        "a": "Long-term relationship with the organization",
+        "b": "Experience with data analysis",
+        "c": "A leadership position",
+        "d": "Best practices"
+      },
+      "correct_option": "c",
+      "explanation": "In the clinical area, a key quality champion must hold a leadership position — because clinical quality improvement requires the authority, credibility, and organizational influence that comes with formal leadership. A clinical quality champion without a leadership position cannot compel change in practice patterns, allocate resources, or hold colleagues accountable. Long-term relationships (A) provide familiarity but not authority. Data analysis experience (B) is a valuable competency but technical skill alone does not make a clinical champion. Best practices (D) are the standards a champion advocates for — not a characteristic of the champion themselves. Per CPHQ credentialing and clinical leadership standards, and quality champion role definitions in clinical governance literature, a leadership position is the essential structural criterion for an effective clinical quality champion.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The governing body and CEO are being urged to make a commitment to a culture of quality. The ideal role of the healthcare quality professional is to serve as the:",
+      "options": {
+        "a": "Quality champion",
+        "b": "Facilitator",
+        "c": "Visionary",
+        "d": "Data expert"
+      },
+      "correct_option": "b",
+      "explanation": "When the governing body and CEO are being urged toward quality culture commitment, the healthcare quality professional's ideal role is as a facilitator — helping leadership understand what commitment means, structuring the conversation, providing evidence and frameworks, and guiding the process of cultural change without taking ownership away from leadership. The quality professional champions quality (A) throughout the organization, but in this specific context of senior leadership engagement, the facilitator role is most appropriate — it preserves leadership ownership of the culture commitment. Visionary (C) is the CEO and board's role. Data expert (D) is one dimension of the quality professional's role — but in this context, facilitation is the primary value-add. Per CPHQ Quality Leadership domain standards, quality professional role definition, and organizational change facilitation principles, the quality professional serves as facilitator when engaging executive leadership in cultural commitment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "If leadership is the critical success factor for an effective patient safety program, what is the first key responsibility of leaders?",
+      "options": {
+        "a": "Provide resources",
+        "b": "Set strategic goals",
+        "c": "Establish the value system",
+        "d": "Designate a champion"
+      },
+      "correct_option": "c",
+      "explanation": "If leadership is the critical success factor, the first and most foundational leadership responsibility is to establish the value system — defining what the organization stands for with respect to patient safety, and making safety a non-negotiable core value. Without this foundational values commitment, all other leadership actions (providing resources, setting goals, designating champions) are hollow — they lack the cultural anchor that makes patient safety a genuine organizational priority. Providing resources (A) is essential but follows the values declaration. Setting strategic goals (B) requires an established value foundation. Designating a champion (D) is an implementation action that follows values and goal-setting. Per AHRQ safety culture leadership frameworks, IHI safety program design, and CPHQ Quality Leadership domain standards, establishing the organizational value system is the first leadership responsibility for a patient safety program.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The concept of organizational responsibility is most important to the field of healthcare quality because it holds the organization responsible for:",
+      "options": {
+        "a": "Maintaining confidentiality of all documents",
+        "b": "Requiring physicians to carry adequate malpractice insurance",
+        "c": "Maintaining a process to identify deficiencies in the provision of care",
+        "d": "Ensuring that peer review physicians have no conflict of interest in cases being reviewed"
+      },
+      "correct_option": "c",
+      "explanation": "Organizational responsibility (also called corporate responsibility or institutional accountability) in healthcare quality means that the organization — not just individual practitioners — is accountable for systematically identifying, measuring, and correcting deficiencies in care. This is the foundational principle that drove the transition from individual-focused QA to organization-wide CQI, and it underpins TJC, CMS, and AHRQ quality program requirements. Confidentiality of documents (A) is a compliance and privacy obligation, not the core quality accountability principle. Requiring malpractice insurance (B) is a risk management and credentialing requirement. Ensuring peer review independence (D) is a peer review integrity requirement — important but a subset of the broader accountability concept. Per CPHQ Quality Leadership domain standards, corporate responsibility doctrine in healthcare law, and TJC organizational accountability standards, maintaining a systematic process for identifying care deficiencies is the central organizational quality responsibility.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes an organizational vision statement?",
+      "options": {
+        "a": "It is used as a marketing strategy",
+        "b": "It defines the structure of the institution",
+        "c": "It describes the organization's strategic plan",
+        "d": "It reflects the organization's aspirations"
+      },
+      "correct_option": "d",
+      "explanation": "A vision statement is a forward-looking declaration of what the organization aspires to become — its ideal future state. It is aspirational by definition: it articulates a desired condition that has not yet been achieved but that motivates and guides the organization's direction. This question is a more precise version of the vision statement question appearing in Q30 (section A) and B23, with \"aspirations\" as the answer here being the most accurate description. It is not a marketing strategy (A). It does not define structure (B). It does not describe the strategic plan (C) — the plan is the roadmap to achieving the vision. Per CPHQ Quality Leadership domain standards, Senge's organizational learning frameworks, and strategic management theory, the vision statement reflects organizational aspirations.",
+      "difficulty": "medium"
+    }
+  ]
+}
