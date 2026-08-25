@@ -1,0 +1,65 @@
+{
+  "topic": "Performance and Process Improvement",
+  "questions": [
+    {
+      "text": "A hospital implements a new electronic ordering system in the pharmacy department that reduces dispensing errors by 30%. However, nursing units report a significant increase in medication delays. Which systems thinking concept does this scenario best illustrate?",
+      "options": {
+        "a": "Acceptance of fallibility",
+        "b": "Local optimization trap",
+        "c": "High-Reliability Organization principles",
+        "d": "Emergent outcomes from adaptive systems"
+      },
+      "correct_option": "b",
+      "explanation": "The local optimization trap occurs when improving one part of the system creates problems elsewhere. Improving pharmacy efficiency in isolation, without considering how it affects nursing workflows, is a classic example.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality leader investigating a series of patient falls discovers that staff are working under conditions of high cognitive load, interrupted workflows, and inadequate handoff communication. Rather than retrain individual nurses, she redesigns the handoff process and adjusts staffing levels. Which principle of systems thinking guides this approach?",
+      "options": {
+        "a": "Threshold-based quality assurance",
+        "b": "Working conditions as a key focus area",
+        "c": "Acceptance of fallibility as a core concept",
+        "d": "Retrospective audit findings"
+      },
+      "correct_option": "b",
+      "explanation": "Systems thinking examines working conditions — staffing levels, workload, ergonomics, and handoff quality — holistically before designing improvement solutions. Improvement that ignores working conditions treats symptoms, not causes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's quality team reviews incident reports and finds that adverse events occur across multiple departments despite individual unit performance metrics appearing acceptable. The CEO states: \"Our metrics are good, but our system is not safe.\" Which systems thinking benefit does this best illustrate?",
+      "options": {
+        "a": "Preventing groupthink in team decisions",
+        "b": "Understanding the big picture and avoiding tunnel vision on single metrics",
+        "c": "Applying the Balanced Scorecard to quality goals",
+        "d": "Identifying training needs through workforce analysis"
+      },
+      "correct_option": "b",
+      "explanation": "Systems thinking requires understanding how the entire system performs — not just isolated departmental metrics. Individual unit metrics appearing acceptable while system-level harm occurs is the tunnel vision problem that systems thinking directly addresses.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization wants to build a culture where staff actively question current practices, admit uncertainty, and remain open to being wrong. This orientation is essential for safety in complex systems. Which core concept of systems thinking does this describe?",
+      "options": {
+        "a": "Commitment to learning",
+        "b": "Local optimization",
+        "c": "Emergent outcomes",
+        "d": "High-volume process control"
+      },
+      "correct_option": "a",
+      "explanation": "Commitment to learning — combined with acceptance of fallibility and openness to multiple viewpoints — are the three core concepts of systems thinking. Organizations must invest in continuous learning methods and reflection to sustain improvement in complex systems.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team is redesigning the patient discharge process. Before proposing solutions, they map how nursing, pharmacy, social work, and transportation interact throughout the discharge workflow. Which systems thinking principle are they applying?",
+      "options": {
+        "a": "Process-level quality assurance",
+        "b": "Recognize key relationships and dependencies across teams, departments, and settings",
+        "c": "Threshold monitoring for individual departments",
+        "d": "Deploying Six Sigma DMAIC to reduce defects"
+      },
+      "correct_option": "b",
+      "explanation": "One of the key benefits of systems thinking is recognizing dependencies across teams and settings. Mapping how all departments interact before designing a discharge solution reflects whole-system improvement thinking.",
+      "difficulty": "medium"
+    }
+  ]
+}

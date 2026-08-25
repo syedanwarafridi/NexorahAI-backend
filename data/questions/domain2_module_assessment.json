@@ -1,0 +1,1361 @@
+{
+  "domain_order": 2,
+  "questions": [
+    {
+      "text": "After brainstorming, which of the following should a quality improvement team use to identify items that need immediate attention?",
+      "options": {
+        "a": "Cost-benefit analysis",
+        "b": "Multi-voting",
+        "c": "Flow chart",
+        "d": "Histogram"
+      },
+      "correct_option": "b",
+      "explanation": "After a brainstorming session generates a large list of ideas or issues, the team needs a structured method to narrow that list and identify priorities requiring immediate attention. Multi-voting is precisely the tool designed for this: it allows team members to cast multiple votes across the list, quickly surfacing the items that the group collectively considers most important. Cost-benefit analysis (A) is used later in decision-making once options are narrowed. A flow chart (C) maps process steps and is not a prioritization tool. A histogram (D) displays frequency distributions of existing data — it does not help a team prioritize a brainstormed list. Per IHI facilitation tools and CPHQ performance improvement domain standards, multi-voting is the standard post-brainstorming prioritization technique.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "LEAN rapid improvement is best associated with which of the following?",
+      "options": {
+        "a": "Poka yoke",
+        "b": "Kanban",
+        "c": "Kaizen",
+        "d": "Six Sigma"
+      },
+      "correct_option": "c",
+      "explanation": "In the Lean methodology framework, \"rapid improvement\" is the defining characteristic of Kaizen events — structured, time-boxed improvement activities (typically 3–5 days) in which a cross-functional team intensively analyzes and redesigns a specific process to eliminate waste and improve flow. Kaizen is synonymous with rapid improvement in Lean terminology. Poka yoke (A) refers to mistake-proofing — designing processes or equipment to prevent errors — which is a Lean tool but not specifically \"rapid improvement.\" Kanban (B) is a visual workflow management system used to control inventory and work-in-progress — it is a Lean tool but not the rapid improvement methodology. Six Sigma (D) uses the DMAIC methodology, which is a longer-cycle, data-intensive improvement approach — not rapid improvement. Per IHI Lean methodology frameworks and CPHQ performance improvement standards, Kaizen is the Lean rapid improvement event model.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "After the team has executed the plan and implemented it, and data analysis shows the target is not being reached, what is the next step in the PDCA cycle?",
+      "options": {
+        "a": "Plan",
+        "b": "Do",
+        "c": "Check",
+        "d": "Act"
+      },
+      "correct_option": "a",
+      "explanation": "In the PDCA (Plan-Do-Check-Act) cycle, the sequence is iterative. If the team has already planned (P), implemented (D), and analyzed data showing the target is not met (C — Check), the next step is to Act (D — Act) on that finding, which in this cycle means returning to Plan (A) to revise the approach. The question specifies that data analysis has already occurred (Check is complete) and the target is not reached — this triggers the Act phase, which rolls back into a new Plan. Among the options given, the correct next step after a failed Check is to re-Plan. Per IHI Model for Improvement and CPHQ performance improvement standards, a PDCA cycle where targets are not met requires cycling back to the Plan stage to revise the intervention before re-testing. Note: Some versions of this question offer \"Act\" as the answer between Check and re-Plan. The question as worded — \"what is the next step\" after data shows target not reached — means the Check step is done, so Act leads immediately to a new Plan. The answer is Plan because that is where the next cycle begins. If \"Act\" were an option presented as \"return to Act then Plan,\" the sequence would still culminate in Plan as the actionable next stage.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Performance of an RCA for a sentinel event provides all of the following EXCEPT:",
+      "options": {
+        "a": "Identification of why the variance occurred",
+        "b": "Recommendations for actions to prevent recurrence",
+        "c": "Measurement strategies for each factor affecting the outcome",
+        "d": "Continuous measurement to identify opportunities for improvement"
+      },
+      "correct_option": "d",
+      "explanation": "An RCA is a retrospective, event-specific investigation. It provides: identification of why the variance occurred (A) ✅ — this is its primary output; recommendations for actions to prevent recurrence (B) ✅ — this is the action plan component of RCA; and measurement strategies for each contributing factor (C) ✅ — RCA action plans include measures to confirm corrective actions work. However, continuous measurement to identify opportunities for improvement (D) is the function of an ongoing performance monitoring program — not an RCA. RCA is triggered by a specific event and concludes with a corrective action plan. It does not establish a continuous measurement infrastructure. Per TJC Sentinel Event Policy, AHRQ RCA guidance, and CPHQ patient safety standards, continuous measurement is a separate organizational function, not an RCA deliverable.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Leaders of a multi-hospital system are trying to prioritize the services to introduce in the coming year based on their impact on the community. These leaders, who work geographically apart, can arrive at a group consensus without meeting face to face by using:",
+      "options": {
+        "a": "The nominal group technique",
+        "b": "The Delphi technique",
+        "c": "Brainstorming",
+        "d": "A focus group"
+      },
+      "correct_option": "b",
+      "explanation": "The Delphi technique is specifically designed to achieve structured group consensus among experts or leaders who are geographically dispersed and cannot meet in person. It uses iterative rounds of anonymous questionnaires — participants respond, results are compiled and fed back, and participants revise their judgments in subsequent rounds until convergence is reached. The nominal group technique (A) requires participants to be physically present in the same room — it is a face-to-face structured group process. Brainstorming (C) is a group ideation technique, typically conducted in person, and does not achieve structured consensus. A focus group (D) also requires in-person or synchronous participation and is used for qualitative data gathering, not strategic consensus among geographically dispersed leaders. Per CPHQ quality leadership and group decision-making standards, the Delphi technique is the established method for remote, structured consensus among expert leaders.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best demonstrates use of the Plan-Do-Check-Act (PDCA) performance improvement model?",
+      "options": {
+        "a": "Identify a problem, implement change, educate staff about the change and rewrite policies and procedures to augment the change.",
+        "b": "Collect baseline data, form a committee to develop the plan, validate audit data and formalize the change.",
+        "c": "Prioritize opportunities for improvement, pilot the improvement, compare pre and post implementation data, and roll out to the entire organization.",
+        "d": "Review current practice from a multidisciplinary committee, schedule a meeting to develop a plan, and determine actions to be taken."
+      },
+      "correct_option": "c",
+      "explanation": "The PDCA cycle maps as follows — Plan: prioritize the opportunity and develop the improvement; Do: pilot the improvement on a small scale; Check: compare pre and post implementation data to evaluate results; Act: roll out to the entire organization if effective. Option C is the only answer that captures all four phases in correct sequence and with correct content. Option A skips the data analysis phase (Check) entirely. Option B is a committee formation process, not a PDCA execution sequence. Option D describes a meeting and planning process without executing improvement, piloting, or evaluating data. Per IHI Model for Improvement, CPHQ performance improvement domain standards, and Deming's PDCA framework, Option C is the textbook demonstration of the full cycle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an appropriate criterion when using a prioritization matrix to select an Electronic Medical Record (EMR) system?",
+      "options": {
+        "a": "Quick to implement",
+        "b": "Availability of supporting hardware",
+        "c": "Ease of data abstraction",
+        "d": "Integration with existing billing system"
+      },
+      "correct_option": "c",
+      "explanation": "When selecting an EMR system using a prioritization matrix, criteria must reflect quality, functionality, and clinical value — not implementation speed or infrastructure assumptions. Ease of data abstraction is a legitimate and important quality-focused criterion: it directly determines how efficiently clinical data can be extracted for quality reporting, performance measurement, and research — all core healthcare quality functions. Quick to implement (A) is a project management preference, not a quality criterion for system selection. Availability of supporting hardware (B) is an IT infrastructure consideration, not a quality or functionality criterion. Integration with existing billing system (D) is a financial/administrative consideration — relevant to the CFO's priorities, but not the primary quality criterion. Per CPHQ data analytics domain standards and AHRQ health IT selection guidance, data abstraction capability is a primary quality-relevant criterion in EMR evaluation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In developing a performance improvement action plan, the first tool to use is",
+      "options": {
+        "a": "Control chart",
+        "b": "Interrelationship diagram",
+        "c": "Cause and effect diagram",
+        "d": "Pareto chart"
+      },
+      "correct_option": "c",
+      "explanation": "Before an action plan can be developed, the team must first understand the causes of the problem. The cause and effect diagram (Ishikawa/fishbone diagram) is the correct first tool — it organizes potential causes into categories and helps the team identify root causes that the action plan must address. Without cause analysis, action plans are built on assumptions rather than evidence. The control chart (A) monitors process performance over time — it is used during and after implementation, not at the start of action planning. The interrelationship diagram (B) maps complex cause-and-effect relationships among multiple variables — it is used when the situation is complex and interconnected, but the fishbone is the first-line cause analysis tool. The Pareto chart (D) prioritizes known causes by frequency or impact — it comes after causes are identified, not before. Per IHI PI tool sequence standards and CPHQ performance improvement domain guidelines, cause analysis precedes action planning, and the fishbone/cause-and-effect diagram is the foundational first tool.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The senior leaders of a hospital are prioritizing performance improvement initiatives for the coming year. Which of the following tools will be most useful for this purpose?",
+      "options": {
+        "a": "Pareto chart",
+        "b": "Cause-and-effect diagram",
+        "c": "Affinity diagram",
+        "d": "Stratification"
+      },
+      "correct_option": "a",
+      "explanation": "Prioritization among competing improvement initiatives is best accomplished using a Pareto chart, which applies the 80/20 principle — identifying which issues or causes account for the greatest proportion of problems, harm, or waste. Senior leaders use Pareto analysis to allocate resources and attention to the initiatives that will produce the greatest impact. A cause-and-effect diagram (B) identifies causes of a specific problem — it does not prioritize among multiple improvement initiatives. An affinity diagram (C) organizes ideas into categories — useful in brainstorming phases, not strategic prioritization. Stratification (D) separates data into subgroups for analysis — a data analysis technique, not a prioritization tool for strategic initiative selection. Per IHI improvement science, CPHQ performance improvement standards, and Juran's quality management principles, the Pareto chart is the primary tool for priority-setting among improvement opportunities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Process Decision Program Chart (PDPC) is a combination of which two diagrams?",
+      "options": {
+        "a": "Fishbone and flow diagrams",
+        "b": "Fishbone and Gantt diagrams",
+        "c": "Fishbone and tree diagrams",
+        "d": "Gantt and affinity diagrams"
+      },
+      "correct_option": "c",
+      "explanation": "The Process Decision Program Chart (PDPC) is a planning tool that combines the structure of a tree diagram (which breaks a goal down into tasks and sub-tasks) with the cause-and-effect logic of a fishbone diagram (which anticipates what could go wrong at each step). The PDPC helps teams proactively identify potential problems in a plan and develop countermeasures before implementation begins. It is one of the Seven Management and Planning Tools used in quality improvement. Options A, B, and D do not correctly identify the two component diagrams. A Gantt chart is a scheduling tool and is not a component of PDPC. Per CPHQ performance improvement tool standards and the Seven Management and Planning Tools framework, the PDPC combines fishbone and tree diagram logic.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To minimize the chance of an adverse event reoccurring, including determining the contributing factors, the most appropriate tool is:",
+      "options": {
+        "a": "RCA",
+        "b": "FMEA",
+        "c": "Clinical pathway",
+        "d": "Force field analysis"
+      },
+      "correct_option": "a",
+      "explanation": "Root cause analysis (RCA) is explicitly designed to investigate an adverse event after it occurs — identifying the contributing factors, system failures, and process gaps that allowed the event to happen — and to generate corrective actions to prevent recurrence. This is its defining purpose. FMEA (B) is proactive — it is used before an event to identify potential failure modes, not after an event has occurred. A clinical pathway (C) standardizes care processes for specific conditions but does not investigate adverse event causation. Force field analysis (D) is a change management tool that identifies driving and restraining forces for a proposed change — it has no role in post-event adverse event analysis. Per TJC Sentinel Event Policy, AHRQ patient safety standards, and CPHQ patient safety domain competencies, RCA is the definitive retrospective tool for adverse event investigation and recurrence prevention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is considering changing the process of admission from the emergency department. To support patient safety when this new process is deployed, what should the healthcare quality professional do during the redesign process?",
+      "options": {
+        "a": "Complete an FMEA of the new process",
+        "b": "Analyze incident reports of the last year using Pareto",
+        "c": "Examine the stability and variation of the new process by using a control chart",
+        "d": "Conduct an RCA to predict errors of the new process"
+      },
+      "correct_option": "a",
+      "explanation": "When redesigning a process — before it goes live — the appropriate patient safety tool is FMEA (Failure Mode and Effects Analysis). FMEA is a proactive, prospective risk assessment that systematically identifies what could go wrong in the new process, estimates the likelihood and severity of each failure mode, and guides the design team to build safeguards before deployment. This is precisely the scenario: a new process being designed, with the goal of supporting patient safety from the outset. Analyzing past incident reports using Pareto (B) is a retrospective activity useful for understanding the old process — it does not proactively assess the new one. A control chart (C) examines process stability over time — it requires the process to already be running, so it cannot be applied during redesign. Conducting an RCA to predict errors (D) is a contradiction in terms: RCA is retrospective and cannot predict errors — that is FMEA's function. Per TJC proactive risk assessment standards, AHRQ FMEA guidance, and CPHQ performance improvement domain standards, FMEA is the mandated tool for proactive safety assessment of redesigned processes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "After making a brainstorming session, the next tool to be used is:",
+      "options": {
+        "a": "Flow chart",
+        "b": "Multi-voting",
+        "c": "Delphi technique",
+        "d": "Affinity diagram"
+      },
+      "correct_option": "d",
+      "explanation": "The standard sequence of quality improvement tools places the affinity diagram immediately after brainstorming. Brainstorming generates a large, unorganized list of ideas. The affinity diagram is then used to organize and categorize those ideas into natural groupings or themes — making the data manageable and meaningful before prioritization begins. Multi-voting (B) comes after the affinity diagram has organized the ideas, as the team then votes on which categories or items to prioritize. A flow chart (A) maps process steps and is used at a different stage of analysis. The Delphi technique (C) is a structured remote consensus method — it is not a post-brainstorming organizational tool. Per IHI improvement tool sequencing, the Seven Quality Tools framework, and CPHQ performance improvement domain standards, the affinity diagram is the correct immediate next step after brainstorming.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Of the following, sharing which data best supports risk prevention?",
+      "options": {
+        "a": "Annual practitioner profiling",
+        "b": "Monthly event/occurrence reporting",
+        "c": "Root cause analysis",
+        "d": "FMEA"
+      },
+      "correct_option": "d",
+      "explanation": "Risk prevention — stopping adverse events before they occur — is best supported by proactive data sharing from FMEA processes. FMEA identifies potential failure modes and their likelihood, severity, and detectability before harm occurs, enabling targeted preventive action. Annual practitioner profiling (A) identifies performance patterns retrospectively — useful for credentialing, not proactive risk prevention. Monthly occurrence reporting (B) captures events that have already happened — it is retrospective, not preventive. RCA (C) investigates events after they have occurred — also retrospective. FMEA is the only option that is inherently prospective and therefore directly supports risk prevention by design. Per AHRQ proactive risk assessment tools, TJC patient safety standards, and CPHQ patient safety domain competencies, FMEA data is the primary proactive risk prevention data type.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality council has created a Failure Mode and Effects Analysis (FMEA) team to examine the best method of preventing medication errors after the installation of a new medication dispensing system. The team's first major task should be to:",
+      "options": {
+        "a": "Identify ways to detect the likelihood of the equipment breaking down",
+        "b": "Brainstorm on potential failure modes associated with equipment breakdowns",
+        "c": "Multi-vote on the severity of the potential equipment breakdowns",
+        "d": "Develop a flow chart of how the equipment will be installed"
+      },
+      "correct_option": "b",
+      "explanation": "The FMEA process follows a defined sequence. The very first step is to identify all the ways in which the process or equipment could fail — i.e., the failure modes. This is done through brainstorming: the team generates every possible way the new medication dispensing system could fail that could lead to a medication error. Only after failure modes are identified can the team assess likelihood of occurrence (A), severity, and detectability — and only then can multi-voting on severity (C) be meaningful. Developing a flow chart of equipment installation (D) maps the deployment process, not the failure analysis. Per IHI FMEA for healthcare, TJC proactive risk assessment methodology, and CPHQ FMEA standards, brainstorming failure modes is always the first step of the FMEA process.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Quality improvement initiative progress is best evaluated by which of the following?",
+      "options": {
+        "a": "Team leader",
+        "b": "Senior leadership",
+        "c": "PDCA process",
+        "d": "Nominal group technique"
+      },
+      "correct_option": "c",
+      "explanation": "The PDCA (Plan-Do-Check-Act) cycle is both a PI methodology and an evaluation framework. The \"Check\" phase of PDCA is explicitly designed to evaluate whether the improvement initiative is achieving its intended results — comparing actual data against targets and determining whether the change is effective. This makes PDCA the systematic mechanism through which progress is continuously assessed. The team leader (A) may report progress but is not an evaluation method. Senior leadership (B) receives reports on progress but is not itself an evaluation mechanism. The nominal group technique (D) is a structured group decision-making tool — not an evaluation method for initiative progress. Per IHI Model for Improvement and CPHQ performance improvement domain standards, PDCA is the evaluative framework for quality improvement progress.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following diagrams is appropriate for categorizing the needs of customers?",
+      "options": {
+        "a": "Kano Model",
+        "b": "Histogram",
+        "c": "Flow chart",
+        "d": "Matrix diagram"
+      },
+      "correct_option": "a",
+      "explanation": "The Kano Model is specifically designed to categorize customer needs and expectations into distinct categories — basic needs (must-be quality), performance needs (one-dimensional quality), and excitement needs (attractive quality). It is a customer satisfaction framework that helps organizations understand which features or services will satisfy, delight, or disappoint customers. A histogram (B) displays frequency distributions of quantitative data — not customer needs categorization. A flow chart (C) maps process steps. A matrix diagram (D) shows relationships between two or more sets of factors — it does not categorize customer needs per se. Per CPHQ customer/stakeholder analysis standards and quality management theory, the Kano Model is the recognized framework for categorizing and analyzing customer needs and expectations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the Ishikawa Fishbone Diagram, users label methods, materials, and measurements with an M and people, prices, and policies with a P. An S label represents:",
+      "options": {
+        "a": "Substitutions",
+        "b": "Submissions",
+        "c": "Surroundings",
+        "d": "Statements"
+      },
+      "correct_option": "c",
+      "explanation": "The Ishikawa fishbone diagram organizes potential causes of a problem into standard categories. In the healthcare version of the 6M/8P framework, \"Surroundings\" (also rendered as \"Environment\") is the recognized category that begins with S — representing the physical and organizational environment in which a process operates. The other S-labeled categories sometimes used include \"Systems.\" Substitutions (A), submissions (B), and statements (D) are not recognized cause categories in any standard fishbone diagram framework. Per CPHQ performance improvement tools, IHI fishbone diagram methodology, and standard quality management frameworks, Surroundings/Environment is the S-category in the fishbone structure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An acute care facility has found that the incidence rate of pressure ulcer cases, although low, is not as low as the incidence rate reported by comparable organizations. Because the incidence of pressure ulcers may detract from the organization's reputation for giving good care, management decides to take this matter seriously and assigns a project manager and analyst. On review of the records, the project team decides that existing policy is the right one and something is going wrong in the implementation. Which of the following options is most appropriate?",
+      "options": {
+        "a": "Develop a new policy",
+        "b": "Failure modes and effect analysis",
+        "c": "Root cause analysis",
+        "d": "Review the data on pressure ulcers"
+      },
+      "correct_option": "c",
+      "explanation": "The team has already determined two critical facts: (1) the policy is correct and does not need revision, and (2) something is going wrong in the implementation. This is precisely the scenario that calls for a root cause analysis — to investigate why the correct policy is not being implemented as intended, identify the system and process failures causing the implementation gap, and develop targeted corrective actions. Developing a new policy (A) is explicitly ruled out — the team has already confirmed the existing policy is appropriate. FMEA (B) is proactive — used before failures occur, not to investigate an existing implementation problem. Reviewing the data on pressure ulcers (D) has already been done — the data review is what revealed the implementation problem. The next step is to investigate the root cause of the implementation failure. Per AHRQ RCA methodology, IHI improvement science, and CPHQ performance improvement domain standards, RCA is the correct tool when an implementation gap (not a policy gap) is identified.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In failure mode and effects analysis, what does the Risk Priority Number refer to?",
+      "options": {
+        "a": "Each failure mode and the process",
+        "b": "Each failure mode and its effects",
+        "c": "The potential causes of each failure mode only",
+        "d": "None of the above"
+      },
+      "correct_option": "b",
+      "explanation": "The Risk Priority Number (RPN) in FMEA is calculated for each failure mode and is a composite score reflecting: the likelihood of occurrence of that failure mode, the severity of its effects on the patient or process, and the ease of detection. The RPN therefore characterizes each failure mode and its effects — both the failure and what happens as a consequence. Option A (failure mode and the process) is too vague and does not capture the effects dimension. Option C (potential causes only) is incomplete — RPN is not about causes alone; it is about the failure mode's probability, effect severity, and detectability. Option D is incorrect. Per IHI FMEA for healthcare, TJC proactive risk assessment standards, and CPHQ performance improvement domain definitions, the RPN is the numerical summary of each failure mode and its effects across the three scoring dimensions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The criticality index in failure mode and effect analysis is:",
+      "options": {
+        "a": "A measure of the effectiveness of control measures",
+        "b": "A product of the estimated likelihood of occurrence of the failure mode and the severity of effect",
+        "c": "A measure of anticipated severity of the effect of the failure mode",
+        "d": "Reflected in the Risk Priority Number"
+      },
+      "correct_option": "d",
+      "explanation": "The criticality index in FMEA is operationalized through the Risk Priority Number (RPN), which is the product of three scores: occurrence (frequency/likelihood), severity (impact of the failure's effect), and detectability (ease of detection). The RPN is the numeric expression of criticality — the higher the RPN, the more critical the failure mode. Option A (effectiveness of control measures) is not what the criticality index measures — it measures risk, not control effectiveness. Option B describes only two of the three factors (occurrence × severity) — this is incomplete, as detectability is also a required component. Option C (severity alone) is only one dimension of criticality. The full criticality index = occurrence × severity × detectability = RPN. Per IHI FMEA methodology, TJC risk assessment standards, and CPHQ performance improvement standards, the criticality index is fully expressed in the RPN.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In evaluating long waiting times, a healthcare quality professional best demonstrates components related to staffing, methods, measures, material, and equipment by utilizing:",
+      "options": {
+        "a": "A run chart",
+        "b": "A histogram",
+        "c": "A pie chart",
+        "d": "An Ishikawa diagram"
+      },
+      "correct_option": "d",
+      "explanation": "The Ishikawa (fishbone/cause-and-effect) diagram is organized around cause categories that include staffing (people), methods, measurements, materials, and equipment — which are precisely the standard fishbone categories (the 5M/6M framework). When a quality professional needs to analyze a problem by examining contributing factors across these multiple dimensions simultaneously, the Ishikawa diagram is the definitive tool. A run chart (A) displays data trends over time — it does not organize causes by category. A histogram (B) shows frequency distributions — not cause categorization. A pie chart (C) shows proportional composition of a dataset — not cause analysis. Per CPHQ performance improvement tool standards, IHI cause analysis frameworks, and the Seven Basic Quality Tools, the Ishikawa diagram is the instrument for multi-category cause analysis.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Delphi technique is a form of what type of sampling?",
+      "options": {
+        "a": "Convenience",
+        "b": "Expert",
+        "c": "Purposive",
+        "d": "Quota"
+      },
+      "correct_option": "b",
+      "explanation": "The Delphi technique is a structured consensus method that specifically relies on a panel of experts — the process selects participants based on their domain expertise, not on availability (convenience), population representation (purposive), or predetermined proportions (quota). The defining characteristic of Delphi sampling is that participants are chosen because of their specialized knowledge and judgment, making expert sampling the correct classification. Convenience sampling (A) selects based on accessibility. Purposive sampling (C) selects participants based on specific characteristics relevant to the research question — this is closer but does not capture the expert-judgment-based consensus function of Delphi. Quota sampling (D) ensures predetermined proportions from subgroups. Per CPHQ data analytics and group decision-making standards, and standard research methodology, Delphi is classified as a form of expert sampling.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Benchmarking is a tool that compares current performance with:",
+      "options": {
+        "a": "Performance of industry leaders",
+        "b": "Performance in similar organizations",
+        "c": "Performance goals",
+        "d": "All of the above"
+      },
+      "correct_option": "d",
+      "explanation": "Benchmarking is a systematic process of comparing an organization's performance against external reference points. In healthcare quality, benchmarking can legitimately compare against: industry leaders (A) — best-in-class benchmarking; similar organizations (B) — peer benchmarking; and performance goals or standards (C) — goal-based benchmarking. None of these is more correct than the others — all three are recognized forms of benchmarking used in healthcare quality improvement. Per IHI benchmarking frameworks, NQF performance measurement standards, and CPHQ data analytics domain competencies, benchmarking encompasses comparison against all three reference types, making D the comprehensive and correct answer.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To identify root cause, the correct sequence of tools is:",
+      "options": {
+        "a": "Flow chart, cause and effect, tree diagram",
+        "b": "Flow chart, tree diagram, cause and effect",
+        "c": "Tree diagram, cause and effect, flow chart",
+        "d": "Tree diagram, flow chart, cause and effect"
+      },
+      "correct_option": "a",
+      "explanation": "The standard root cause analysis tool sequence follows logical investigative progression. First, a flow chart maps the process as it currently exists — identifying the steps, decision points, and where the failure likely occurred. Second, a cause and effect (fishbone/Ishikawa) diagram identifies the categories of potential causes contributing to the problem. Third, a tree diagram (also called a \"why-why\" or fault tree) drills down into the specific root causes within each category, branching from general causes to specific contributing factors. This sequence moves from process mapping → cause categorization → root cause drilling. Option B places the tree diagram before cause and effect, which reverses the logical order. Options C and D begin with the tree diagram before process understanding is established — incorrect sequence. Per IHI root cause investigation methodology, AHRQ RCA guidance, and CPHQ performance improvement tool sequencing standards, flow chart → cause and effect → tree diagram is the correct order.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Comparing outcomes in services with two similar hospitals is an example of:",
+      "options": {
+        "a": "Peer review",
+        "b": "Benchmarking",
+        "c": "Best practice",
+        "d": "Competitive analysis"
+      },
+      "correct_option": "b",
+      "explanation": "Comparing outcome data between two similar hospitals is the textbook definition of peer benchmarking — using a comparable organization's performance as a reference standard against which to measure your own. Peer review (A) is a clinical process in which practitioners review each other's clinical decisions and outcomes — it is individual practitioner-level review, not organizational comparison. Best practice (C) refers to evidence-based methods proven to achieve superior outcomes — it is a standard, not a comparison process. Competitive analysis (D) is a business strategy concept focused on market positioning, not quality outcome comparison. Per NQF benchmarking standards, IHI improvement science, and CPHQ data analytics domain competencies, organizational outcome comparison between similar hospitals is peer benchmarking.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Multivoting is a procedure to help prioritize and reach consensus when selecting process improvement activities. Which one of the following is NOT a component of multivoting?",
+      "options": {
+        "a": "Review the list of items for redundancies and similarities",
+        "b": "Select a voting method, vote, and tally the results",
+        "c": "Develop cross-streamed priorities for discussion and voting",
+        "d": "Repeat voting and discussion until the list is narrowed to important priorities"
+      },
+      "correct_option": "c",
+      "explanation": "The standard multivoting process includes: reviewing the list for redundancies and similarities (A) ✅ — a legitimate first step to consolidate overlapping items; selecting a voting method and tallying results (B) ✅ — the core voting mechanism; and repeating voting rounds until the list is narrowed to the most important priorities (D) ✅ — the iterative narrowing feature of multivoting. \"Develop cross-streamed priorities for discussion and voting\" (C) is not a recognized component of multivoting methodology — this phrase does not correspond to any standard step in the multivoting process and appears to be a fabricated distractor. Per IHI facilitation tools, Scholtes' Team Handbook, and CPHQ performance improvement facilitation standards, multivoting does not include a step of developing cross-streamed priorities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Brainstorming is best used to:",
+      "options": {
+        "a": "Identify or refine cause and effect relationships",
+        "b": "Perform intensive analysis or peer review",
+        "c": "Subdivide or organize a large number of ideas",
+        "d": "Identify, analyze, or plan solutions to problems"
+      },
+      "correct_option": "c",
+      "explanation": "Brainstorming is a divergent thinking technique used to generate a large number of ideas quickly and without judgment. Of the options presented, C — \"subdivide or organize a large number of ideas\" — is the closest to the core function. However, the most precise purpose of brainstorming is idea generation, not organization (organization is the affinity diagram's function). Options A (cause-and-effect relationships) describes the fishbone diagram's purpose. Option B (intensive analysis or peer review) describes RCA or peer review processes — not brainstorming. Option D (identify, analyze, and plan solutions) is too comprehensive — brainstorming generates ideas but does not analyze or plan. Among the given options, C is the best available answer as it comes closest to capturing brainstorming's function of generating and working with a large set of ideas. Per IHI brainstorming methodology and CPHQ performance improvement tool standards, brainstorming's primary use is generating a large volume of ideas for further processing.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An affinity diagram is best used when:",
+      "options": {
+        "a": "Information is clearly connected to one issue",
+        "b": "There is inadequate information",
+        "c": "The volume of information is very large",
+        "d": "Brainstorming is not an option"
+      },
+      "correct_option": "c",
+      "explanation": "The affinity diagram is specifically designed for situations where a team has generated a large, disorganized volume of information, ideas, or data — typically following brainstorming — and needs to organize that information into natural groupings or themes. The larger and more complex the dataset, the more valuable the affinity diagram becomes. When information is clearly connected to one issue (A), simpler tools suffice and an affinity diagram adds unnecessary complexity. Inadequate information (B) is the opposite condition — the affinity diagram requires sufficient data to organize. Brainstorming not being an option (D) is irrelevant — the affinity diagram's value is not contingent on brainstorming. Per IHI Seven Management and Planning Tools, CPHQ performance improvement domain standards, and standard quality tool selection criteria, the affinity diagram is optimal when the volume of information is large and organization into themes is needed.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The aim of Six Sigma is:",
+      "options": {
+        "a": "Patient safety",
+        "b": "Improve of process",
+        "c": "Decrease variation",
+        "d": "Eliminate waste"
+      },
+      "correct_option": "c",
+      "explanation": "Six Sigma's defining aim is the reduction of process variation to achieve near-perfect quality — specifically, fewer than 3.4 defects per million opportunities. The name \"Six Sigma\" itself refers to achieving a process capability where outputs fall within six standard deviations of the mean, representing extremely low variation and defect rates. Patient safety (A) may be an outcome of Six Sigma in healthcare but is not its defining aim. Improving processes (B) is a general quality goal — too broad and not Six Sigma-specific. Eliminating waste (D) is the aim of Lean methodology — not Six Sigma. This is a critical distinction tested on the CPHQ exam: Lean = eliminate waste; Six Sigma = reduce variation; Lean Six Sigma = both. Per CPHQ performance improvement domain standards, IASSC Six Sigma framework, and IHI quality improvement methodology guides, decreasing variation is the primary aim of Six Sigma.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "According to Deming, continuous quality improvement applied in HR involves:",
+      "options": {
+        "a": "Storyboard outcome of quality improvement",
+        "b": "Abolishing the traditional annual performance appraisal",
+        "c": "Practicing in community improvement projects",
+        "d": "Automatic annual wage pay increases"
+      },
+      "correct_option": "b",
+      "explanation": "Deming's 14 Points for Management explicitly includes the elimination of annual performance appraisals and management by objective as a key principle — Point 12 states that organizations should remove barriers that rob people of pride of workmanship, and in his writings, Deming specifically identifies the annual performance appraisal as a tool that destroys teamwork, creates fear, and focuses on the individual rather than the system. Applied to HR, Deming's CQI principles call for replacing annual appraisals with continuous coaching, system-focused feedback, and collaborative goal-setting. Storyboarding (A) is a QI communication technique. Community improvement (C) is not a Deming HR principle. Automatic pay increases (D) are not part of Deming's framework. Per Deming's Out of the Crisis and CPHQ quality leadership domain standards, abolishing the traditional annual appraisal is Deming's most well-known HR application of CQI principles.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Quality Management Cycle, based on Juran's Quality Trilogy (quality planning, quality control, quality improvement):",
+      "options": {
+        "a": "Excludes lab activities to monitor equipment",
+        "b": "Requires a departmentalized approach to quality management",
+        "c": "Encompasses only the nonclinical aspects of QM",
+        "d": "Incorporates information from strategic planning"
+      },
+      "correct_option": "d",
+      "explanation": "Juran's Quality Trilogy — planning, control, and improvement — is an integrated organizational quality management framework. Quality planning, the first element, is explicitly linked to strategic planning: it involves identifying customers, determining their needs, and designing processes to meet those needs in alignment with organizational strategy. The trilogy is designed to be organization-wide, crossing all departments and functions — it does not exclude lab activities (A is wrong), does not require departmentalization (B is wrong), and encompasses clinical as well as nonclinical aspects (C is wrong). Per Juran's Quality Handbook, CPHQ quality leadership domain standards, and standard quality management theory, the Quality Trilogy is strategically anchored and organization-wide.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The function in the Juran Quality Management cycle that includes the initial analysis of data and information is:",
+      "options": {
+        "a": "Quality planning",
+        "b": "Quality initiatives",
+        "c": "Quality control/measurement",
+        "d": "Quality improvement"
+      },
+      "correct_option": "c",
+      "explanation": "In Juran's Quality Trilogy, quality control/measurement is the phase in which actual performance is evaluated — data and information are collected and analyzed, current performance is compared to goals, and gaps are identified. This initial data analysis is the defining function of the control phase. Quality planning (A) involves setting goals and designing processes — it precedes data analysis. Quality initiatives (B) is not a recognized phase of Juran's Trilogy. Quality improvement (D) occurs after control identifies a performance gap and a project is launched to close it. Per Juran's Quality Handbook and CPHQ quality leadership domain competencies, quality control/measurement is the Juran Trilogy phase that encompasses initial performance data analysis.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "One advantage of the Kaizen approach to DMAIC implementation is that:",
+      "options": {
+        "a": "It replicates the project-team approach",
+        "b": "All of the team members are involved in all phases of the process",
+        "c": "It can be performed while employees complete their normal tasks",
+        "d": "It is accomplished in about a week"
+      },
+      "correct_option": "c",
+      "explanation": "A key advantage of Kaizen events in the context of DMAIC implementation is that they are structured to be executed rapidly and practically — team members participate in improvement activities within or adjacent to their normal workflow, without requiring extended absence from their responsibilities. This is the operational efficiency advantage of Kaizen over longer project-team approaches. Replicating the project-team approach (A) is not an advantage — it would make Kaizen redundant with DMAIC's existing team structure. Involving all members in all phases (B) is not accurate — Kaizen events have defined roles, not universal all-phase participation. Being accomplished in about a week (D) is partially true of Kaizen events but is not identified as an advantage of Kaizen over DMAIC — it is a feature, not a comparative advantage in the context stated. Per CPHQ performance improvement standards and Lean Six Sigma methodology, the ability to execute improvement while maintaining normal operations is the distinctive Kaizen advantage.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the Lean enterprise model, what is the first step toward improving quality?",
+      "options": {
+        "a": "Establishing performance metrics",
+        "b": "Reviewing product design",
+        "c": "Understanding the expectations of the customer",
+        "d": "Identifying potential defects"
+      },
+      "correct_option": "c",
+      "explanation": "Lean enterprise philosophy places the customer at the center of all value determination. The foundational first step in any Lean improvement effort is to understand what the customer values — because \"value\" in Lean is defined entirely from the customer's perspective. Everything that does not contribute to customer value is waste (muda). Without first defining what the customer expects, performance metrics (A) cannot be meaningfully set, product design (B) cannot be evaluated for value-add, and defect identification (D) has no standard of comparison. Per Lean enterprise principles as defined by the Lean Enterprise Institute, IHI Lean healthcare frameworks, and CPHQ performance improvement domain standards, customer expectation understanding is the non-negotiable first step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The general intent of the PDSA cycle is to:",
+      "options": {
+        "a": "Optimize a process",
+        "b": "Reduce bottlenecks",
+        "c": "Incorporate new technology",
+        "d": "Automate processes"
+      },
+      "correct_option": "a",
+      "explanation": "The PDSA (Plan-Do-Study-Act) cycle, developed by W. Edwards Deming from Shewhart's earlier work, is designed to test and learn from small-scale changes to iteratively optimize a process. Its general intent is process optimization through rapid, evidence-based cycles of testing and learning. Reducing bottlenecks (B) is a Lean-specific concern — while PDSA could be applied to bottleneck problems, it is not the cycle's general intent. Incorporating new technology (C) and automating processes (D) are implementation strategies — neither captures the evaluative, iterative improvement purpose of PDSA. Per IHI Model for Improvement, Deming's quality management philosophy, and CPHQ performance improvement domain standards, the PDSA cycle's general intent is the continuous optimization of processes through structured learning cycles.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The PDCA performance improvement model is a method of continuous quality improvement to resolve specific situations rather than organization-wide problems. The acronym stands for:",
+      "options": {
+        "a": "Plan, Do, Check, Act",
+        "b": "Plan, Delegate, Chart, Account",
+        "c": "Plan, Do, Check, Account",
+        "d": "Plan, Delegate, Check, Act"
+      },
+      "correct_option": "a",
+      "explanation": "PDCA stands for Plan, Do, Check, Act — this is the standard, universally accepted expansion of the acronym as defined by Deming and applied across all quality management frameworks. Options B, C, and D introduce incorrect terms (Delegate, Chart, Account) that have no basis in quality management methodology. The second part of the question stem — describing PDCA as a method for specific rather than organization-wide problems — is a characterization of one application mode of PDCA (rapid-cycle, unit-level testing) but does not alter the definition of the acronym. Per IHI Model for Improvement, Deming's Out of the Crisis, and CPHQ performance improvement domain standards, Plan-Do-Check-Act is the definitive expansion of PDCA.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The FOCUS performance improvement model is an incomplete process if it is not combined with:",
+      "options": {
+        "a": "The mission and vision statements",
+        "b": "The PDCA performance improvement model",
+        "c": "Internal and external customer-supplier relationship evaluations",
+        "d": "An evaluation of the fiscal benefits of the quality improvement program"
+      },
+      "correct_option": "b",
+      "explanation": "FOCUS stands for Find a process to improve, Organize a team, Clarify current knowledge, Understand variation, and Select improvements. FOCUS is a planning and analysis framework — it identifies what to improve and how. However, it does not include the implementation and evaluation cycle. FOCUS is explicitly designed to be used in conjunction with PDCA, which provides the Do-Check-Act phases: implementing the improvement, studying results, and acting on findings. Without PDCA, FOCUS produces a plan with no structured execution or evaluation mechanism — rendering it incomplete. Mission and vision (A) are strategic documents, not implementation tools. Customer-supplier evaluations (C) may inform FOCUS but do not complete it. Fiscal evaluation (D) is a post-hoc assessment, not the missing operational cycle. Per CPHQ performance improvement methodology standards, the FOCUS-PDCA model is the recognized combined framework, with PDCA being the essential completion of FOCUS.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The scientific method in quality improvement is represented by:",
+      "options": {
+        "a": "Failure mode and effect analysis",
+        "b": "Statistical process control",
+        "c": "Sequential problem solving",
+        "d": "The PDCA cycle"
+      },
+      "correct_option": "d",
+      "explanation": "The PDCA cycle is explicitly rooted in the scientific method — it mirrors the hypothesis-experiment-observation-conclusion structure of empirical science. Plan = formulate a hypothesis and design the test; Do = run the experiment; Check/Study = observe and analyze the results; Act = draw conclusions and apply learning. Deming described PDCA as the operationalization of the scientific method in organizational improvement. FMEA (A) is a risk assessment tool, not the scientific method representation. Statistical process control (B) is a data analysis methodology — a component of quality improvement, not its scientific method representation. Sequential problem solving (C) is a vague descriptor, not a recognized quality methodology. Per Deming's quality management philosophy, IHI improvement science, and CPHQ performance improvement domain standards, the PDCA cycle is the quality improvement expression of the scientific method.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following statements about Six Sigma is TRUE?",
+      "options": {
+        "a": "Six Sigma is based on the premise that getting the process right will eventually lead to the desired outcomes.",
+        "b": "Six Sigma aims to achieve 6 errors per million opportunities or less.",
+        "c": "Six Sigma focuses on achieving the desired outcomes from the outset.",
+        "d": "Six Sigma projects are suitable for redesigning processes only."
+      },
+      "correct_option": "c",
+      "explanation": "Six Sigma is outcome-focused from the beginning — its DMAIC methodology starts with defining the problem and the desired outcome (Define phase) and works backward to understand what process changes will achieve that outcome. Option A is a description of a different quality philosophy — the idea that getting the process right will eventually lead to good outcomes describes a process-centered approach, not Six Sigma's outcome-from-the-outset orientation. Option B contains a factual error: Six Sigma aims to achieve 3.4 defects per million opportunities — not 6 errors per million. This is a critical CPHQ exam fact. Option D is incorrect: Six Sigma (via DMAIC) is used for improving existing processes; DMADV is used for designing new ones — Six Sigma is not limited to redesign. Per CPHQ performance improvement standards, IASSC Six Sigma body of knowledge, and IHI quality methodology references, Six Sigma's defining characteristic is outcome-focused improvement from the outset.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which quality expert is known for the admonition \"Do it right the first time\"?",
+      "options": {
+        "a": "Crosby",
+        "b": "Deming",
+        "c": "Juran",
+        "d": "Shewhart"
+      },
+      "correct_option": "a",
+      "explanation": "Philip Crosby is the quality theorist most closely associated with the concept of \"Do it right the first time\" and his related principle of \"Zero Defects.\" Crosby's quality philosophy emphasized conformance to requirements and the prevention of defects rather than inspection and correction after the fact. His landmark work, Quality is Free, articulated that the cost of poor quality far exceeds the cost of doing things correctly from the start. Deming (B) is known for his 14 Points and Systems Thinking. Juran (C) is known for the Quality Trilogy and the Pareto Principle applied to quality. Shewhart (D) is known for statistical process control and the Shewhart cycle (PDCA precursor). Per CPHQ quality leadership domain standards and quality management history, \"Do it right the first time\" and Zero Defects are Crosby's signature contributions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which quality expert is known for indicating that slogans, exhortations, and targets should be eliminated?",
+      "options": {
+        "a": "Crosby",
+        "b": "Deming",
+        "c": "Juran",
+        "d": "Shewhart"
+      },
+      "correct_option": "b",
+      "explanation": "W. Edwards Deming's Point 10 of his 14 Points for Management explicitly states: \"Eliminate slogans, exhortations, and targets for the workforce asking for zero defects and new levels of productivity.\" Deming argued that slogans create adversarial relationships and do not help workers improve — problems are caused by the system, not by lack of effort or motivation. Crosby (A) advocated for Zero Defects — he would not eliminate targets. Juran (C) focused on project-by-project improvement and the Quality Trilogy — not specifically this anti-slogan principle. Shewhart (D) focused on statistical control — not management philosophy about slogans. Per Deming's Out of the Crisis and CPHQ quality leadership domain standards, elimination of slogans and exhortations is Deming's Point 10.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which quality expert believes that beyond a certain point the cost of providing quality exceeds the value of the incremental improvement in quality?",
+      "options": {
+        "a": "Crosby",
+        "b": "Deming",
+        "c": "Juran",
+        "d": "Shewhart"
+      },
+      "correct_option": "c",
+      "explanation": "Joseph Juran introduced the concept of the \"cost of quality\" and specifically articulated the economic trade-off point at which additional investment in quality improvement yields diminishing returns — where the marginal cost of providing further quality improvement exceeds the marginal value gained. This concept is formalized in Juran's cost of poor quality (COPQ) framework, which distinguishes between prevention costs, appraisal costs, and failure costs, and recognizes an optimal quality level beyond which investment becomes economically inefficient. Crosby (A) argued that quality is free — he believed the cost of non-conformance always exceeds the cost of prevention, with no diminishing returns point. Deming (B) did not articulate this specific economic trade-off. Shewhart (D) focused on statistical process control, not cost of quality economics. Per Juran's Quality Handbook and CPHQ quality leadership domain standards, Juran is the expert associated with the cost-of-quality optimization concept.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Donabedian's model of quality includes:",
+      "options": {
+        "a": "Input, process, output",
+        "b": "Plan, do, check, act",
+        "c": "Structure, process, outcome",
+        "d": "Yield, think, do"
+      },
+      "correct_option": "c",
+      "explanation": "Avedis Donabedian's triad of Structure-Process-Outcome is one of the most foundational frameworks in healthcare quality measurement. Structure refers to the conditions under which care is provided (facilities, staffing, equipment, policies). Process refers to what is done in giving and receiving care (clinical interventions, procedures, documentation). Outcome refers to the effects of care on the health status of patients and populations (mortality, morbidity, satisfaction, functional status). Option A (input, process, output) is a generic systems model — not Donabedian's specific framework. Option B (PDCA) is an improvement cycle, not a quality measurement model. Option D is not a recognized quality framework. Per Donabedian's seminal work \"Evaluating the Quality of Medical Care\" (1966), CPHQ health data analytics domain standards, and all major healthcare quality frameworks, structure-process-outcome is the definitive Donabedian triad.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Evaluating actual quality performance, comparing it to quality goals, and acting on differences are the quality parts of the Juran Trilogy that describe:",
+      "options": {
+        "a": "Assurance",
+        "b": "Control",
+        "c": "Improvement",
+        "d": "Planning"
+      },
+      "correct_option": "b",
+      "explanation": "In Juran's Quality Trilogy, quality control is specifically defined as the operational activity of: evaluating actual quality performance, comparing performance to quality goals, and acting on the difference. This three-part sequence — measure, compare, act — is the textbook definition of the control phase. Quality planning (D) involves establishing goals and designing processes. Quality improvement (C) involves breakthrough projects to close chronic performance gaps. Quality assurance (A) is a broader compliance-oriented concept that Juran does not feature as a Trilogy element. Per Juran's Quality Handbook, CPHQ quality leadership domain standards, and standard quality management theory, the evaluate-compare-act sequence is the definition of quality control in Juran's framework.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best demonstrates use of the Plan-Do-Check-Act (PDCA) performance improvement model?",
+      "options": {
+        "a": "Identify a problem, implement change, educate staff about the change and rewrite policies and procedures to augment the change.",
+        "b": "Collect baseline data, form a committee to develop the plan, validate audit data and formalize the change.",
+        "c": "Prioritize opportunities for improvement, pilot the improvement, compare pre and post implementation data, and roll out to the entire organization.",
+        "d": "Review current practice from a multidisciplinary committee, schedule a meeting to develop a plan, and determine actions to be taken."
+      },
+      "correct_option": "c",
+      "explanation": "The PDCA cycle maps as follows — Plan: prioritize the opportunity and develop the improvement; Do: pilot the improvement on a small scale; Check: compare pre and post implementation data to evaluate results; Act: roll out to the entire organization if effective. Option C is the only answer that captures all four phases in correct sequence and with correct content. Option A skips the data analysis phase (Check) entirely — it moves from implementation directly to policy rewriting without evaluating whether the change worked. Option B is a committee formation process, not a PDCA execution sequence — it describes planning activities without piloting, checking, or acting. Option D describes a meeting and planning process without executing improvement, piloting a change, or evaluating data — it stops at the beginning of the Plan phase and never completes the cycle. Per IHI Model for Improvement, CPHQ performance improvement domain standards, and Deming's PDCA framework, Option C is the textbook demonstration of the full PDCA cycle executed in correct sequence.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In any quality management approach, how can you best evaluate the effectiveness of action taken?",
+      "options": {
+        "a": "Use the same performance measures to re-monitor the process",
+        "b": "Formulate a new special study to monitor the action",
+        "c": "Interview the staff involved in implementing the action plan",
+        "d": "Do nothing. Effectiveness is expected with well-planned action."
+      },
+      "correct_option": "a",
+      "explanation": "Evaluating the effectiveness of an action taken requires using the same performance measures that identified the problem originally — re-monitoring with the same indicators allows valid before-and-after comparison, confirming whether the intervention produced measurable improvement. Using different measures (B — a new special study) introduces measurement inconsistency and prevents valid comparison. Interviewing staff (C) provides qualitative input but is not a systematic effectiveness evaluation. Doing nothing (D) assumes effectiveness without evidence — this violates the fundamental quality management principle that all improvement actions must be evaluated. Per IHI Model for Improvement (the \"Check\" phase of PDSA), AHRQ quality measurement standards, and CPHQ performance improvement domain competencies, re-monitoring with the same measures is the definitive method for evaluating action effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A continuous quality improvement team has proposed a major change in the billing process for home health service. Staff acceptance of the change is best facilitated by:",
+      "options": {
+        "a": "Immediate implementation",
+        "b": "Medical staff education",
+        "c": "Long-range planning",
+        "d": "A pilot project"
+      },
+      "correct_option": "d",
+      "explanation": "Staff acceptance of a major process change is best facilitated by first piloting the change on a small scale. A pilot project allows staff to experience the new process in a low-stakes environment, provide feedback, develop familiarity, and build confidence in the change before full implementation. This is the \"Do\" phase of PDSA — testing on a small scale to reduce resistance and build evidence. Immediate implementation (A) forces change without allowing staff adaptation time, maximizing resistance. Medical staff education (B) is relevant but insufficient on its own to facilitate acceptance — education without practice does not build comfort. Long-range planning (C) is a preparatory activity, not an acceptance-facilitation mechanism. Per IHI change management principles, Kotter's change leadership framework, and CPHQ performance improvement standards, piloting is the evidence-based method for building staff acceptance of significant process changes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Responsibilities of quality improvement teams include all of the following EXCEPT:",
+      "options": {
+        "a": "Defining the roles and duties of the members",
+        "b": "Communicating results",
+        "c": "Setting goals and timetable for the steps of the process",
+        "d": "Establishing the need for the team"
+      },
+      "correct_option": "d",
+      "explanation": "The responsibilities that belong to the PI team itself — once it is formed and chartered — include defining member roles and duties (A) ✅, communicating results to stakeholders (B) ✅, and setting goals and timetables for improvement steps (C) ✅. However, establishing the need for the team (D) is not the team's own responsibility — it is the responsibility of the Quality Council or senior leadership, who identify performance problems, determine that a team is needed, and charter the team to address the issue. The team does not determine its own reason for existence — that decision is made upstream by leadership before the team is formed. Per CPHQ team management standards, IHI improvement team structure guides, and standard quality governance principles, team chartering and need identification are leadership functions, not team functions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following could be used as an outcome measure during indicator development?",
+      "options": {
+        "a": "Staff adherence to a standard of practice",
+        "b": "Compliance rate for specific surgical procedure",
+        "c": "Required diagnostic testing performed before medication was prescribed",
+        "d": "Laboratory compliance with policy and procedure for drawing peak and trough levels"
+      },
+      "correct_option": "a",
+      "explanation": "Using Donabedian's SPO framework to classify each option: Staff adherence to a standard of practice (A) — this is a process measure, as it describes what staff do in delivering care. Compliance rate for a surgical procedure (B) — also a process measure. Required diagnostic testing before medication (C) — a process measure (tests performed before prescribing). Laboratory compliance with policy for drawing levels (D) — a process/structure measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An ambulatory outpatient care facility identifies an opportunity to improve the turnaround time for reports of X-rays performed at a local hospital. Which of the following groups should be involved in the team to improve the process?",
+      "options": {
+        "a": "Primary care physician, clinic nurse and clinic administrator",
+        "b": "Radiologist, primary care physician, and clinical medical record",
+        "c": "Clerical, clinical, and administrative staff from both facilities",
+        "d": "Administrative representation from both facilities"
+      },
+      "correct_option": "c",
+      "explanation": "The X-ray report turnaround process spans two organizations (the ambulatory facility and the hospital) and involves multiple functions: the clinical function of interpreting and dictating the report (radiologist, clinical staff), the administrative function of transcription and routing, and the clerical function of receiving and filing the report at the clinic. To improve a cross-organizational, multi-functional process, the team must include representatives of every function involved in the process — clinical, clerical, and administrative — from both facilities. Option A (only clinic-side staff) excludes the hospital entirely. Option B (radiologist, primary care physician, and medical record) excludes clerical and administrative staff who manage the physical/electronic routing of reports. Option D (administrative only) excludes clinical and clerical staff who are central to the process. Per IHI cross-functional team design principles and CPHQ performance improvement standards, process improvement teams must represent all functions and all organizations involved in the process under study.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following statements best defines a quality problem?",
+      "options": {
+        "a": "The gap between what is and what is expected by the customer.",
+        "b": "The gap between what is and what is desired by the organization.",
+        "c": "The gap between what is and what is the benchmark.",
+        "d": "The gap between what is and what is expected by accreditation bodies."
+      },
+      "correct_option": "a",
+      "explanation": "In quality management theory — particularly in the Total Quality Management and customer-centered quality frameworks — a quality problem is defined as the gap between actual performance (what is) and customer expectations (what the customer expects). This customer-expectation-centered definition is foundational to TQM, Juran's quality planning framework, and the Kano model. The organization's desires (B) may align with customer expectations but are internally defined — a quality problem is ultimately a failure to meet the customer, not just the organization. Benchmarks (C) are external performance references — important, but benchmarks are tools for measuring the gap, not the definition of the gap itself. Accreditation body expectations (D) are regulatory and standards-based, not customer-centered. Per Juran's Quality Handbook, IHI patient-centered care frameworks, and CPHQ quality leadership domain standards, a quality problem is the gap between current performance and customer expectations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A small rural hospital wishes to evaluate customer satisfaction using a survey; the organization has four patient care units, emergency department and ambulatory unit. Which of the following survey methods provides the most reliable information?",
+      "options": {
+        "a": "A random sample of 5% of all annual discharge/visits",
+        "b": "A random sample of 20% of annual discharges/visits per unit",
+        "c": "All discharges/visits of customers with a last name beginning with the letters A-F",
+        "d": "All discharges/visits in January and July"
+      },
+      "correct_option": "b",
+      "explanation": "The most reliable sampling method for evaluating satisfaction across multiple units is a random sample stratified by unit — ensuring adequate representation from all four units (including the ED and ambulatory unit). A 20% random sample per unit ensures that no unit is underrepresented, which is essential when unit-specific performance comparisons are needed. A 5% sample of total discharges (A) is random but not stratified — small units with low volume could be severely underrepresented or excluded entirely. Selecting by last name A-F (C) introduces systematic bias — there is no evidence that surname distribution correlates with satisfaction, but it creates an unrepresentative sample. Surveying only January and July (D) introduces seasonal bias — satisfaction may differ significantly by season, staffing patterns, or patient mix at different times of year. Per AHRQ survey methodology guidance, NQF patient experience measurement standards, and CPHQ data analytics domain competencies, stratified random sampling by unit is the method that provides the most reliable, representative information for multi-unit comparison.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization's strategic plan includes a customer satisfaction rating of at least 85% in each unit. The overall customer satisfaction rating for the past quarter in three units are: Unit A — 88%, Unit B — 80%, Unit C — 62%. Which of the following should the quality professional recommend?",
+      "options": {
+        "a": "Provide incentives to the staff of Unit B and Unit C",
+        "b": "Share Unit A's practice with the other units",
+        "c": "Review the performance of the manager of Unit C",
+        "d": "Change the target for customer satisfaction rating to 90%"
+      },
+      "correct_option": "b",
+      "explanation": "Unit A is the only unit meeting the 85% target at 88%. Units B (80%) and C (62%) are below target. The quality improvement response is to identify what Unit A is doing right and spread those practices to the underperforming units — this is internal best practice sharing, a core QI strategy. Providing incentives to B and C (A) is a motivational intervention that assumes the problem is effort-based rather than system-based — this violates CQI principles (systems, not individuals, cause most problems). Reviewing the manager of Unit C (C) is premature and individual-blame-focused — cause analysis must precede individual performance review. Changing the target to 90% (D) is perverse — two of three units are already below the current 85% target; raising the bar without improving performance is counterproductive. Per IHI spread and scale frameworks, CPHQ performance improvement standards, and Deming's systems improvement principles, sharing effective practices from high-performing units to struggling ones is the evidence-based first response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The following information about falls is obtained from a facility with units that have similar average daily census: Unit A — 6%, Unit B — 4%, Unit C — 9%, Unit D — 8%. What additional information is most important to evaluate the cause of the falls?",
+      "options": {
+        "a": "Time of day",
+        "b": "Compliance with fall protocol",
+        "c": "Number of falls",
+        "d": "Medication education"
+      },
+      "correct_option": "b",
+      "explanation": "Since all units have similar census (eliminating volume as a confounding variable), the variation in fall rates across units most likely reflects differences in process compliance — specifically, how consistently each unit is implementing the fall prevention protocol. Units with lower compliance rates would be expected to have higher fall rates. Identifying protocol compliance gaps is the most direct and actionable piece of additional information for cause evaluation. Time of day (A) is a useful secondary variable for identifying high-risk periods but does not explain the unit-level variation as directly as compliance data. Number of falls (C) — raw numbers — are already captured in the rates given; adding raw counts without rate adjustment adds little analytical value. Medication education (D) may be a contributing factor in some falls but is too narrow to be the most important initial additional variable. Per AHRQ fall prevention research, IHI Falls Prevention Program, and CPHQ patient safety domain standards, protocol compliance is the primary variable that explains unit-level variation in fall rates when census is controlled.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement manager received the results from the most recent customer survey. Sixty percent of the residents in the nursing home have rated the temperature of foods as poor. Which of the following actions should be taken first?",
+      "options": {
+        "a": "Call the dietitian and ask for an explanation",
+        "b": "Set up a continuous monitor for review",
+        "c": "Ignore the results and assess next quarter",
+        "d": "Review previous results and assess trends"
+      },
+      "correct_option": "d",
+      "explanation": "When a significant quality finding emerges from a survey, the first step is to contextualize the finding by reviewing historical data and assessing whether this represents a new problem, a worsening trend, or a chronic issue. Trend analysis determines the urgency and nature of the response — a single data point cannot tell you whether the problem is acute (sudden drop in food temperature quality requiring immediate intervention) or chronic (persistent low-level complaint that has been ignored). Calling the dietitian immediately (A) may be appropriate after trend review but is premature as a first step without historical context. Setting up continuous monitoring (B) is a useful downstream action but not the immediate first step. Ignoring the results (C) is never appropriate when 60% of residents rate a service as poor. Per CPHQ data analytics domain standards, IHI measurement science, and Donabedian's outcome evaluation framework, trend analysis is the foundational first step when interpreting a quality finding from periodic survey data.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The team approach in quality improvement activities is preferred when:",
+      "options": {
+        "a": "Financial resources are scarce",
+        "b": "The solution is evident",
+        "c": "Data management is required",
+        "d": "The process has many owners"
+      },
+      "correct_option": "d",
+      "explanation": "Team-based approaches are preferred in quality improvement when a process crosses multiple departments, disciplines, or roles — i.e., when the process has many owners. In such cases, no single person or department has the authority, knowledge, or control to improve the entire process alone — a team representing all owners is necessary to diagnose problems accurately and implement solutions across organizational boundaries. When financial resources are scarce (A), team formation adds cost and time — teams are not the preferred default when resources are constrained. When the solution is evident (B), a team is unnecessary — a clear, known solution can be implemented without the overhead of team formation. Data management requirements (C) are handled by analytics functions — they do not specifically necessitate a team. Per IHI cross-functional team design principles, CPHQ team management standards, and Deming's systems thinking, multi-owner processes are the definitive indication for team-based improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The medical record manager reports that authentication of verbal orders occurs 25% of the time, as compared to a reported 85% in similar situations. Which of the following is the initial action for the manager to take?",
+      "options": {
+        "a": "Recommend continued measurement of the indicator",
+        "b": "Share the data with the medical staff",
+        "c": "Organize a PI team",
+        "d": "Recommend improvement strategies"
+      },
+      "correct_option": "b",
+      "explanation": "The authentication of verbal orders is a medical staff responsibility — physicians are required to authenticate (sign) verbal orders within defined timeframes per TJC medical record standards. A 25% compliance rate compared to an 85% benchmark is a significant gap. The appropriate first action is to share this data directly with the medical staff, since they are the practitioners whose behavior must change and who need to understand the magnitude of the compliance problem. Recommending continued measurement (A) is passive and insufficient — the gap is identified and action is needed, not more data collection. Organizing a PI team (C) is premature as a first step before the data has been shared with the responsible party. Recommending improvement strategies (D) requires understanding why compliance is low, which comes after the data is shared and the medical staff has had an opportunity to respond. Per TJC medical record standards, CPHQ performance improvement domain principles, and physician feedback research, direct data sharing with the responsible practitioners is always the first step when clinical compliance data reveals a significant gap.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When a surveyor reaches an organization for a regulatory visit, the first question that the quality professional will ask for is:",
+      "options": {
+        "a": "\"Please let me see your identification.\"",
+        "b": "\"Let us sit to schedule for your visits.\"",
+        "c": "\"Which area of compliance would you like to review?\"",
+        "d": "\"Agenda.\""
+      },
+      "correct_option": "a",
+      "explanation": "The first and most important action when a surveyor arrives for a regulatory visit is to verify the surveyor's identity and credentials — confirming that the individual is who they claim to be and is authorized to conduct the survey. This is both a security best practice and an organizational protection measure. Scheduling the visit (B) is inappropriate once the surveyor has arrived unannounced — scheduling happens in advance of planned surveys, not at arrival. Asking which area to review (C) is a later step — after identity is verified, the surveyor sets the agenda, not the organization. Requesting an agenda (D) may be appropriate but comes after identification verification. Per TJC survey readiness standards, CMS survey protocols, and CPHQ regulatory and accreditation domain competencies, identity verification is the mandated first step upon surveyor arrival.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "One way to measure clinical outcomes is through:",
+      "options": {
+        "a": "Aggregate data review",
+        "b": "Pareto charts",
+        "c": "Pre-admission review",
+        "d": "The number of healthcare contracts"
+      },
+      "correct_option": "a",
+      "explanation": "Clinical outcomes are measured by systematically collecting and analyzing patient data across cases — this is aggregate data review. Aggregate data (mortality rates, complication rates, readmission rates, infection rates) captures the actual results of care delivery across a population of patients and reflects clinical outcome performance. Pareto charts (B) are prioritization tools that display frequency data — they are used to analyze data already collected, not to measure outcomes directly. Pre-admission review (C) is a utilization management activity that occurs before care begins — it assesses appropriateness of admission but does not measure clinical outcomes. The number of healthcare contracts (D) is an administrative/business metric with no relationship to clinical outcomes. Per Donabedian's outcomes framework, AHRQ clinical outcome measurement standards, and CPHQ health data analytics domain competencies, aggregate clinical data review is the foundational method for outcome measurement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The dimension of quality/performance that is addressed by introducing a rapid response team in a hospital is:",
+      "options": {
+        "a": "Continuity of care",
+        "b": "Efficiency",
+        "c": "Effectiveness",
+        "d": "Prevention and early detection"
+      },
+      "correct_option": "d",
+      "explanation": "Rapid response teams (RRTs) are deployed to identify and respond to patients showing early signs of clinical deterioration — before they progress to cardiac arrest or other life-threatening events. The dimension of quality being addressed is prevention and early detection: intercepting deterioration early to prevent adverse outcomes. This directly maps to the IHI 100,000 Lives Campaign rationale for RRTs, which demonstrated that early recognition and intervention prevent preventable in-hospital deaths. Continuity of care (A) refers to coordination across care settings and over time — not the function of an RRT. Efficiency (B) relates to resource utilization — not the primary dimension addressed by rapid response. Effectiveness (C) is about achieving desired outcomes from care — important but too broad to be the specific dimension addressed by RRTs. Per IHI Rapid Response Team implementation guide, AHRQ patient safety standards, and CPHQ patient safety domain competencies, prevention and early detection is the quality dimension directly addressed by rapid response teams.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When developing department-specific performance measures and indicators, the quality manager as a consultant should:",
+      "options": {
+        "a": "Prioritize the quality indicators for selection by the department leader",
+        "b": "Ensure that the numerator and denominator are clearly defined",
+        "c": "Review the mission statement and seek physician input",
+        "d": "Conduct a literature search and select quality indicators"
+      },
+      "correct_option": "b",
+      "explanation": "When developing performance indicators, the quality manager's most critical technical responsibility is to ensure that each indicator is precisely defined — specifically that the numerator (what is being counted) and denominator (the population at risk or total eligible events) are unambiguously specified. Without clear numerator and denominator definitions, the indicator cannot be measured consistently, validly, or comparably across time or facilities. Prioritizing indicators for selection (A) is the department leader's responsibility — the quality manager facilitates, not decides. Reviewing mission statements and seeking physician input (C) are appropriate contextual steps but are not the definitive technical responsibility in indicator development. Conducting a literature search and selecting indicators (D) may be a supporting activity, but selecting indicators is a collaborative decision — not the quality manager's unilateral role as consultant. Per NQF measure development standards, AHRQ indicator specification guidance, and CPHQ health data analytics domain competencies, numerator/denominator definition is the essential technical core of valid indicator development.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the most appropriate question to ask when reviewing an organization's performance improvement plan?",
+      "options": {
+        "a": "Has the organization been successful in communicating the intent and message of the PI plan to employees?",
+        "b": "Are there sufficient organizational resources to support the PI plan?",
+        "c": "Does the PI plan include statistical methods for monitoring change?",
+        "d": "Is the PI plan consistent with the organization's mission and strategic priorities?"
+      },
+      "correct_option": "d",
+      "explanation": "When reviewing a PI plan at the organizational level, the most fundamental question is whether the plan is strategically aligned — whether the improvement priorities it identifies are consistent with what the organization has committed to achieving through its mission and strategic plan. A PI plan that pursues improvement in areas disconnected from strategic priorities wastes resources and fails to advance organizational goals. Communication of the plan (A) is an implementation question — important but secondary to strategic alignment. Resource sufficiency (B) is an operational feasibility question — also important but dependent on first establishing that the plan is strategically sound. Statistical methods (C) are a technical quality consideration — relevant, but the most important review question is strategic alignment. Per CPHQ quality leadership domain standards, Balanced Scorecard methodology, and Hoshin planning principles, strategic alignment is the primary evaluative criterion for any organizational PI plan.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of an outcome measure?",
+      "options": {
+        "a": "Mortality rate",
+        "b": "Average LOS",
+        "c": "Medication dispensing rate",
+        "d": "Lab specimen"
+      },
+      "correct_option": "a",
+      "explanation": "Using Donabedian's SPO framework: Mortality rate (A) — this is a direct outcome measure: it reflects what happened to the patient as a result of care (death). Average LOS (B) — this is a utilization/process measure: it reflects how long a patient was in the hospital, which is a function of care processes and discharge planning, not a direct health outcome. Medication dispensing rate (C) — this is a process measure: it captures what was done (medications dispensed) rather than what happened to the patient. Lab specimen (D) — this is not a measure at all; it is a clinical sample. Per Donabedian's framework, CPHQ health data analytics domain standards, and NQF measure classification criteria, mortality rate is the definitive outcome measure in this set.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "One of the aims in the treatment of severe community-acquired pneumonia is to maintain an oxygen saturation of >94% (or 88-92% in patients with chronic obstructive airway disease). Ensuring adequate oxygenation for this condition is a:",
+      "options": {
+        "a": "Process and outcome measure",
+        "b": "Structure measure",
+        "c": "Process measure",
+        "d": "Outcome measure"
+      },
+      "correct_option": "c",
+      "explanation": "Maintaining oxygen saturation targets is a clinical process — it describes what is being done in the delivery of care (monitoring and titrating oxygen therapy to achieve defined saturation targets). It is a measurable clinical intervention standard. It is not a structure measure (B) — which would describe staffing, equipment, or organizational characteristics. It is not an outcome measure (D) — which would describe what happened to the patient as a result of care (e.g., mortality, ventilator days, hospital discharge). It is not both process and outcome (A) — maintaining a saturation level is an in-process clinical action, not an end-state health result. Per Donabedian's SPO framework, AHRQ process measure definitions, and CPHQ health data analytics domain competencies, maintaining a clinical parameter target during treatment is a process measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In an improvement project to reduce wait times in an Emergency Room, the time taken to be assessed by a physician is:",
+      "options": {
+        "a": "A process measure",
+        "b": "An outcome measure",
+        "c": "A structure measure",
+        "d": "Not a suitable measure"
+      },
+      "correct_option": "a",
+      "explanation": "The time from ED arrival to physician assessment is a measure of what happens during the care delivery process — specifically, how efficiently the triage and assessment workflow operates. It captures a step within the care process, not a health outcome of the patient. It is not a structure measure (C) — which would describe beds available, staffing ratios, or physical layout. It is not an outcome measure (B) — which would reflect the patient's health status result (e.g., left without being seen rate, mortality, complication). It is absolutely a suitable measure (D is wrong) — it is one of the most commonly used ED process performance indicators. Per Donabedian's framework, CMS Emergency Department throughput measures, and CPHQ data analytics domain standards, physician assessment time in the ED is a process measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In implementing a care bundle for the management of acute myocardial infarction, the recording of the extent to which smoking cessation counseling is provided is a measure of:",
+      "options": {
+        "a": "Structure",
+        "b": "Process",
+        "c": "Outcome",
+        "d": "Process and outcome"
+      },
+      "correct_option": "b",
+      "explanation": "Recording whether and to what extent smoking cessation counseling is provided to AMI patients is a measure of the care process — it captures what was done during care delivery (whether a specific evidence-based intervention was performed). Structure (A) would describe whether counseling resources or trained staff are available — not whether counseling was actually provided. Outcome (C) would describe the result of the counseling — such as quit rates at 6 months or recurrent cardiac events. Process and outcome (D) is not supported — provision of counseling is purely a process capture. Per Donabedian's SPO framework, ACC/AHA AMI quality measure specifications, and CPHQ health data analytics domain competencies, delivery of a clinical intervention (counseling provided) is a process measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Monitoring phlebitis associated with IV insertions by nurses in the Surgical Intensive Care Unit addresses which focus?",
+      "options": {
+        "a": "Outcome of care",
+        "b": "Process of care",
+        "c": "Structure of care",
+        "d": "Administrative procedure"
+      },
+      "correct_option": "a",
+      "explanation": "Phlebitis is a complication — an adverse clinical result — that develops as a consequence of IV insertion. Monitoring the rate of phlebitis associated with IV insertions is measuring what happened to the patient as a result of a nursing procedure. This is an outcome measure: it captures the health consequence (inflammation/phlebitis) of the care process (IV insertion). Process of care (B) would be monitoring whether IV insertion technique followed protocol steps. Structure of care (C) would assess staffing, training qualifications, or equipment used. Administrative procedure (D) is not a Donabedian category. Per Donabedian's SPO framework, AHRQ nursing-sensitive outcome measures, and CPHQ health data analytics domain competencies, phlebitis rate is an outcome measure of nursing care quality.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Monitoring the specific organization and content requirements of a medical record system is a review of which focus?",
+      "options": {
+        "a": "Outcome of care",
+        "b": "Process of care",
+        "c": "Structure of care",
+        "d": "Administration of care"
+      },
+      "correct_option": "c",
+      "explanation": "The organization and content requirements of a medical record system describe the structural characteristics of the healthcare environment — the systems, policies, and organizational arrangements that enable care delivery. Medical record requirements (what fields must be completed, how records must be organized, what documentation is mandated) are structural standards — they describe the framework within which care processes operate, not the processes themselves or the outcomes they produce. Per Donabedian's SPO model, TJC medical record standards, and CPHQ quality review domain competencies, medical record system organization and content requirements are structural measures.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Review of the timeliness of high-risk screening for diabetes addresses which focus?",
+      "options": {
+        "a": "Outcome of care",
+        "b": "Process of care",
+        "c": "Structure of care",
+        "d": "Administrative procedure"
+      },
+      "correct_option": "b",
+      "explanation": "The timeliness of high-risk diabetes screening is a process measure — it captures whether and how promptly a clinical process (screening) is being performed for patients who meet defined risk criteria. It measures what is being done in delivering care, not the structural conditions that enable it or the health outcomes that result from it. Outcome of care (A) would be whether screened patients had lower rates of undiagnosed diabetes, better HbA1c control, or delayed onset of complications. Structure (C) would address the availability of screening tools, trained staff, or testing equipment. Per Donabedian's SPO framework, HEDIS diabetes care measures, and CPHQ health data analytics domain competencies, screening timeliness is a process measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Under the quality improvement paradigm, which statement is INCORRECT?",
+      "options": {
+        "a": "The focus is on the competency of individual practitioners.",
+        "b": "The focus is on the efficacy and effectiveness of processes.",
+        "c": "The focus is on the patient.",
+        "d": "The focus is on organization performance."
+      },
+      "correct_option": "a",
+      "explanation": "The quality improvement paradigm — as opposed to quality assurance — explicitly shifts focus away from the competency of individual practitioners and toward the performance of systems, processes, and organizations. Deming's foundational principle that 85-94% of quality problems are system-caused underpins this paradigm shift. Options B (efficacy and effectiveness of processes), C (the patient), and D (organizational performance) are all correct statements under the QI paradigm — they accurately describe where QI directs its attention. The incorrect statement — the one that contradicts the QI paradigm — is A, because individual practitioner competency evaluation is a quality assurance/credentialing function, not the focus of quality improvement. Per CPHQ quality leadership domain standards, Deming's 14 Points, and IHI systems improvement frameworks, QI focuses on systems and organizations, not individual competency.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Within the context of total quality management philosophy, communication of quality is:",
+      "options": {
+        "a": "The responsibility of top management leaders",
+        "b": "Delegated to the Quality Management Department",
+        "c": "An internal organizational, not community, issue",
+        "d": "Independent of process budgets or costs"
+      },
+      "correct_option": "a",
+      "explanation": "Total Quality Management (TQM) philosophy — as articulated by Deming, Juran, and Crosby — places the responsibility for quality leadership, including communication of quality vision, values, and expectations, squarely on top management. Quality cannot be delegated to a department (B) — Deming explicitly stated that quality begins at the top and cannot be outsourced to a quality department. TQM also recognizes that quality communication has community dimensions (C is incorrect) — organizations communicate quality externally to patients, payers, and communities. Quality communication is not independent of budget considerations (D) — resources must be allocated to support quality systems. Per Deming's 14 Points (Point 1: Create constancy of purpose; Point 2: Adopt the new philosophy — both CEO responsibilities), Juran's Quality Handbook, and CPHQ quality leadership domain standards, top management is accountable for quality communication.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A team working on an improvement plan using Rapid Cycle finds that after piloting the program and analyzing data, the action is effective. What is the next step?",
+      "options": {
+        "a": "Spread the change among staff",
+        "b": "Set goals",
+        "c": "Change the aim of the project",
+        "d": "Implement QIP"
+      },
+      "correct_option": "a",
+      "explanation": "In IHI's Rapid Cycle Improvement model (PDSA), when a pilot demonstrates that a change is effective — data confirms the intervention achieves the intended improvement — the next step is to scale and spread the successful change more broadly. This is the \"Act\" phase of the PDSA cycle when the result is positive: adopt and spread. Setting goals (B) occurs at the beginning of the improvement work — before the pilot. Changing the aim (C) would be appropriate if the pilot failed or revealed a different problem — not when the pilot succeeds. Implementing a QIP (D) is vague and circular — the team is already mid-improvement; implementing an undefined QIP is not a next step. Per IHI Rapid Cycle Improvement methodology, CPHQ performance improvement standards, and Deming's PDSA framework, spreading a confirmed effective change to the broader staff population is the Act step following a successful pilot.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "For CQI to be successful, who must be included in staff?",
+      "options": {
+        "a": "Department supervisor",
+        "b": "Administrator",
+        "c": "Facilitator",
+        "d": "Staff"
+      },
+      "correct_option": "d",
+      "explanation": "Identical principle to Q29 (master bank). CQI requires the people who actually perform the process — the frontline staff — as essential team members. Department supervisors, administrators, and facilitators all play supporting roles but do not own the process knowledge that frontline staff possess. Per Deming's principles, IHI improvement science, and CPHQ team management standards, frontline staff inclusion is non-negotiable for CQI success.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Who is responsible for providing CQI direction?",
+      "options": {
+        "a": "Facilitator",
+        "b": "Quality council",
+        "c": "Leader",
+        "d": "Team"
+      },
+      "correct_option": "b",
+      "explanation": "In a CQI organizational structure, the Quality Council provides strategic direction for the CQI program — establishing priorities, approving PI projects, allocating resources, removing barriers, and monitoring progress. The Quality Council is the governance body that directs the overall CQI effort. The facilitator (A) provides process support to teams — they do not set strategic direction. A leader (C) may sponsor specific projects but does not provide organization-wide CQI direction. The team (D) executes specific improvement projects under the Council's direction. Per CPHQ quality leadership domain standards, IHI quality governance frameworks, and standard quality management organizational structures, the Quality Council is the body responsible for directing the CQI program.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Who is responsible for quality improvement within the organization?",
+      "options": {
+        "a": "Quality manager",
+        "b": "Frontline staff",
+        "c": "Everyone within the organization",
+        "d": "Chief executive officer"
+      },
+      "correct_option": "c",
+      "explanation": "Total Quality Management and modern quality improvement philosophy hold that quality is everyone's responsibility — not a department, not a manager, not an executive alone. Deming, Juran, and Crosby all articulated that quality requires organization-wide participation: from the CEO who sets the vision and provides resources, to frontline staff who execute processes and identify problems. Limiting responsibility to the quality manager (A), frontline staff (B), or CEO (D) alone contradicts the fundamental TQM principle of universal participation. Per CPHQ quality leadership domain standards, TQM theory, and IHI organizational improvement frameworks, quality improvement is a shared responsibility of all organizational members.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Who is responsible for creating and monitoring the implementation of an improvement project work plan and timeline?",
+      "options": {
+        "a": "Sponsor",
+        "b": "Team leader",
+        "c": "Team facilitator",
+        "d": "Quality council"
+      },
+      "correct_option": "b",
+      "explanation": "The team leader is accountable for the operational management of the improvement project — including creating the project work plan, setting the timeline, monitoring progress against milestones, and ensuring deliverables are completed on schedule. The sponsor (A) provides organizational authority and resources — they champion the project at the executive level but do not manage day-to-day implementation planning. The team facilitator (C) manages group process and meeting dynamics — they do not own the work plan or timeline. The Quality Council (D) approves projects and receives progress reports — it does not create or monitor individual project work plans. Per CPHQ team management standards, project management best practices, and IHI improvement team role definitions, the team leader owns the work plan and timeline.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Who is ultimately responsible for the effective implementation of the quality program?",
+      "options": {
+        "a": "Governing body",
+        "b": "CEO",
+        "c": "All staff",
+        "d": "The CFO"
+      },
+      "correct_option": "a",
+      "explanation": "Under TJC governance standards and healthcare quality governance principles, the governing body (Board of Directors/Trustees) bears ultimate accountability for the quality of care provided by the organization. While the CEO (B) leads operational implementation and all staff (C) participate in quality activities, the governing body is the legally and ethically accountable entity — it sets the quality agenda, holds leadership accountable for quality results, and is responsible to the public and regulatory bodies for organizational quality. The CFO (D) has no specific quality governance accountability. Per TJC Leadership standards, CMS Conditions of Participation, and CPHQ quality leadership domain competencies, the governing body holds ultimate responsibility for quality program effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Most effective way to integrate performance improvement throughout the organization:",
+      "options": {
+        "a": "Continuous monitoring",
+        "b": "Quality teams",
+        "c": "Employees",
+        "d": "Champions"
+      },
+      "correct_option": "b",
+      "explanation": "Quality teams are the structural mechanism through which performance improvement is operationalized and integrated across an organization. Teams bring together representatives from multiple departments and disciplines, create shared ownership of improvement goals, and build PI capacity at the unit and service line level — making improvement an embedded organizational activity rather than a centralized quality department function. Continuous monitoring (A) is a measurement activity — essential, but monitoring alone does not drive integration of improvement efforts. Individual employees (C) working in isolation cannot integrate improvement across departmental boundaries. Champions (D) are influential advocates — they support integration but are individuals, not the structural mechanism. Per IHI spread and scale frameworks, CPHQ quality leadership standards, and Deming's organizational quality principles, quality teams are the primary vehicle for enterprise-wide PI integration.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In an integrated delivery system, the success of the quality strategy is most dependent on the effectiveness of the:",
+      "options": {
+        "a": "Information system",
+        "b": "QI team process",
+        "c": "Case management process",
+        "d": "Patient care management system"
+      },
+      "correct_option": "a",
+      "explanation": "In an integrated delivery system — spanning multiple care settings, providers, and organizations — the information system is the foundational enabler of quality strategy success. Without a robust, interoperable information system, clinical data cannot be shared across settings, performance cannot be measured consistently, care transitions cannot be coordinated, and improvement interventions cannot be tracked across the continuum. The QI team process (B) is important but depends on having reliable data from the information system to function. Case management (C) is a care coordination function — valuable, but not the foundational success determinant for the quality strategy. Patient care management (D) is an operational function. Per IHI integrated care system design, AHRQ health IT effectiveness research, and CPHQ health data analytics domain standards, the information system is the infrastructure upon which all integrated quality strategy depends.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following elements must be present in order to evaluate the effectiveness of a healthcare organization's quality improvement program?",
+      "options": {
+        "a": "Integrated data collection",
+        "b": "Quantified objective",
+        "c": "Well-defined organizational culture",
+        "d": "Well-educated medical staff"
+      },
+      "correct_option": "b",
+      "explanation": "To evaluate the effectiveness of any QI program, you must have a measurable, quantified objective — a specific target against which actual performance can be compared. Without a quantified objective, there is no benchmark to evaluate against, and \"effectiveness\" cannot be determined. Integrated data collection (A) is important for measurement but is a tool, not the defining evaluation requirement — you could collect data without knowing what target you are measuring against. A well-defined organizational culture (C) supports quality but cannot be directly evaluated against a numeric target. Well-educated medical staff (D) is a structural input, not an evaluation element. Per IHI improvement measurement framework, NQF quality measure development standards, and CPHQ performance improvement domain competencies, a quantified objective is the non-negotiable prerequisite for evaluating program effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a healthcare organization, the quality department developed an indicator to measure the commitment of the staff to myocardial infarction guidelines. This indicator measures:",
+      "options": {
+        "a": "Process",
+        "b": "Structure",
+        "c": "Culture",
+        "d": "Outcome"
+      },
+      "correct_option": "a",
+      "explanation": "Staff compliance with myocardial infarction clinical guidelines is a process measure — it captures whether evidence-based care steps are being performed as specified in the guidelines. \"Commitment of staff to guidelines\" operationalizes as whether guideline-specified actions are being carried out during care delivery — this is the definition of a process measure. Structure (B) would address the availability of the guidelines, training programs, or AMI protocols. Culture (C) is not a recognized Donabedian measurement category. Outcome (D) would measure what happened to the patient as a result of care (e.g., 30-day AMI mortality, readmission rate). Per Donabedian's SPO framework, ACC/AHA AMI quality indicators, and CPHQ health data analytics domain standards, guideline adherence/compliance is a process measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The phrase \"intensive analysis\" as used in quality/performance improvement:",
+      "options": {
+        "a": "Applies only to peer review",
+        "b": "Is an automatic indication of a problem",
+        "c": "Means the trigger is never set at 0%",
+        "d": "Includes all defined sentinel events"
+      },
+      "correct_option": "d",
+      "explanation": "In quality monitoring, \"intensive analysis\" (also called focused review or in-depth review) is triggered when specific events occur that warrant case-level investigation rather than aggregate statistical monitoring. Sentinel events — as defined by TJC — always require intensive analysis (specifically, an RCA). The statement that intensive analysis includes all defined sentinel events is therefore accurate and complete. Option A (only peer review) is too restrictive — intensive analysis is triggered by sentinel events, significant adverse outcomes, and other defined triggers, not only peer review situations. Option B (automatic indication of a problem) — intensive analysis is triggered by specific events, not automatically by any threshold breach; it is the investigation that determines whether a problem exists. Option C (trigger never set at 0%) is incorrect — triggers for intensive analysis on sentinel events are set at zero tolerance, meaning every occurrence triggers review. Per TJC Sentinel Event Policy, AHRQ intensive review methodology, and CPHQ quality review domain standards, intensive analysis always applies to all defined sentinel events.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is NOT a requirement for an organization-wide QM program?",
+      "options": {
+        "a": "Quality management activities include the use of performance measures in peer review activities.",
+        "b": "Peer review problems are resolved and opportunities for improvement are taken.",
+        "c": "Reports to the governing body include the findings from peer review activities.",
+        "d": "The effectiveness of the program, including peer review, is evaluated."
+      },
+      "correct_option": "c",
+      "explanation": "Peer review proceedings and findings are protected under state peer review protection statutes and are generally not disclosed in individually identifiable form — particularly to the governing body in case-specific detail. The governing body receives aggregate quality performance summaries and is accountable for the overall quality program, but it does not receive individual peer review case findings, as this would violate peer review confidentiality protections and due process rights. Options A (using performance measures in peer review) , B (resolving peer review problems and acting on improvement opportunities) , and D (evaluating program effectiveness including peer review) are all legitimate organizational QM program requirements. Reporting individual peer review findings to the governing body (C) is not a requirement — and in most states, doing so would violate peer review privilege statutes. Per TJC Medical Staff Standards, CPHQ credentialing and peer review domain standards, and state peer review protection laws, this is not a requirement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When the surgeons at Sunrise Ambulatory Surgery Center determine that action must be taken to resolve scheduling problems in the operating room, the first task should be to:",
+      "options": {
+        "a": "Write a letter to each surgeon involved",
+        "b": "Form a team of interested surgeons",
+        "c": "Refer the issue to administration",
+        "d": "Refer the issue to an interdisciplinary QI team"
+      },
+      "correct_option": "d",
+      "explanation": "Operating room scheduling problems are inherently cross-functional — they involve surgeons, anesthesiologists, nursing staff, scheduling coordinators, administrative staff, and facility management. A problem of this complexity and multi-stakeholder nature requires an interdisciplinary QI team that brings together all parties involved in the scheduling process. Writing letters to individual surgeons (A) is an individual-focused, non-systemic approach that will not resolve a systems problem. Forming a team of only interested surgeons (B) creates a single-discipline team that excludes the other stakeholders whose cooperation is essential. Referring to administration (C) passes the problem up the chain without engaging the process owners. Per IHI cross-functional team design, CPHQ performance improvement standards, and Deming's systems thinking principles, complex, multi-stakeholder process problems require interdisciplinary team-based improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Action by the quality professional is an example of which type of data activity?",
+      "options": {
+        "a": "Collection",
+        "b": "Analysis",
+        "c": "Tabulation",
+        "d": "Reporting"
+      },
+      "correct_option": "b",
+      "explanation": "The question asks what type of data activity \"action by the quality professional\" represents. In the data utilization cycle — collect, tabulate, analyze, report, act — the quality professional's action represents the analysis phase: interpreting data, drawing conclusions, identifying patterns, and determining appropriate responses. Collection (A) is gathering raw data. Tabulation (C) is organizing data into tables or summary formats. Reporting (D) is communicating findings to stakeholders. Analysis is the interpretive step that bridges data to action — the quality professional exercises judgment and expertise to determine what the data means and what should be done. Per CPHQ health data analytics domain competencies and standard data management frameworks, professional interpretation and decision-making based on data constitutes analysis.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "For a quality improvement team to deal effectively with conflict, it is important to appoint which of the following to its membership?",
+      "options": {
+        "a": "Risk manager",
+        "b": "Human resources representative",
+        "c": "Facilitator",
+        "d": "Senior leader"
+      },
+      "correct_option": "c",
+      "explanation": "A facilitator is specifically trained to manage group process, including conflict — they are skilled in creating productive dialogue, ensuring all voices are heard, navigating disagreements constructively, and keeping the team focused on its goals rather than interpersonal tensions. The facilitator's role is to maintain team effectiveness by managing the human dynamics of the group, including conflict. A risk manager (A) manages organizational liability — not team dynamics. An HR representative (B) handles employment relations — not PI team process. A senior leader (D) provides authority and resources — their presence may actually inhibit open dialogue and exacerbate conflict by creating power imbalances. Per IHI team facilitation standards, Scholtes' Team Handbook, and CPHQ team management domain competencies, the facilitator is the designated team member for managing group dynamics and conflict.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Meaningful quality process measures must be:",
+      "options": {
+        "a": "Relevant and valid",
+        "b": "Publicly reported and explainable",
+        "c": "Relevant and explainable",
+        "d": "Valid and publicly reported"
+      },
+      "correct_option": "a",
+      "explanation": "For a quality process measure to be meaningful, it must meet two fundamental criteria: relevance (the measure must address a dimension of care that matters — it must be connected to important clinical processes or outcomes) and validity (the measure must actually measure what it claims to measure — it must be accurately and consistently captured). Without relevance, a measure may be technically valid but meaningless for improvement purposes. Without validity, a measure cannot be trusted to represent reality. Public reporting (B, D) is a transparency function — many valid and relevant measures are not publicly reported. Explainability (B, C) is a communication attribute — important for stakeholder engagement but not a defining criterion of measure meaningfulness. Per NQF measure endorsement criteria, AHRQ measurement science standards, and CPHQ health data analytics domain competencies, relevance and validity are the foundational requirements for meaningful quality measures.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality council has started a performance improvement team to reduce medication errors. The team has been meeting for several months and progress has been very low. Which of the following is the most important factor for the quality council to assess with the team leader?",
+      "options": {
+        "a": "Composition of the team",
+        "b": "Number of medication errors since the team was started",
+        "c": "Team members' ability to interpret graphs",
+        "d": "Length of team meetings"
+      },
+      "correct_option": "a",
+      "explanation": "When a PI team has been meeting for months with very low progress, the most important factor to investigate is team composition — whether the right people are on the team. A medication error reduction team requires members who own the relevant processes: pharmacists, nurses, physicians, pharmacy technicians, and IT/informatics staff. If key process owners are absent, the team cannot fully diagnose the problem, cannot obtain necessary information, and cannot implement changes across all necessary domains. The number of errors (B) is outcome data — important to track, but it tells the council how big the problem is, not why the team is failing to make progress. Graph interpretation ability (C) is a skill gap concern — addressable through education, not the primary driver of low progress. Meeting length (D) is a process efficiency consideration — not the primary cause of substantive progress failure. Per IHI improvement team design principles and CPHQ team management standards, team composition is the foundational determinant of team effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To reduce the incidence of ventilator-associated pneumonia (VAP) in a critical care unit, who should be included on a quality improvement team?",
+      "options": {
+        "a": "Intensivist, ICU nurse, and respiratory therapist",
+        "b": "Primary care physician, infection control nurse, and surgeon",
+        "c": "ICU manager, respiratory therapist, and pharmacist",
+        "d": "Pharmacist, intensivist, and infection control nurse"
+      },
+      "correct_option": "a",
+      "explanation": "VAP prevention is accomplished through implementation of the VAP bundle — a set of evidence-based care practices performed at the bedside. The team responsible for VAP reduction must include the practitioners who directly deliver ventilator care: the intensivist (who manages the patient and orders ventilator management), the ICU nurse (who performs direct patient care including positioning, oral hygiene, and cuff pressure monitoring), and the respiratory therapist (who manages the ventilator circuit, performs weaning assessments, and executes spontaneous breathing trials). Option B includes a primary care physician and surgeon — neither is typically involved in ICU ventilator management. Option C includes the ICU manager (administrative, not bedside) — not a direct care provider for VAP bundle components. Option D includes a pharmacist — relevant for sedation management, but not a core VAP bundle team member; the pharmacist replaces the ICU nurse, who is the most essential bedside VAP prevention provider. Per IHI VAP prevention bundle, AHRQ ICU quality improvement standards, and CPHQ patient safety domain competencies, intensivist-nurse-respiratory therapist is the core clinical team for VAP reduction.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Implementation of a quality management approach requires:",
+      "options": {
+        "a": "All staff",
+        "b": "Quality manager",
+        "c": "Leader",
+        "d": "Front line staff"
+      },
+      "correct_option": "a",
+      "explanation": "Implementation of a quality management approach is an organization-wide endeavor that requires participation from all levels of staff — from executive leaders who set vision and allocate resources, to middle managers who align departmental activities with quality goals, to frontline staff who execute care processes and identify improvement opportunities. Limiting implementation to the quality manager (B), leaders (C), or frontline staff (D) alone contradicts the fundamental TQM principle of universal participation. Per Deming's 14 Points, Juran's organization-wide quality management, and CPHQ quality leadership domain standards, quality management implementation is a responsibility shared by all staff.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "One major difference between traditional quality assurance and quality improvement is that quality improvement:",
+      "options": {
+        "a": "Stresses peer review, while QA focuses on the customer",
+        "b": "Focuses on the individual while QA focuses on the process",
+        "c": "Stresses management by objective while QA stresses team management",
+        "d": "Focuses on the process while QA focuses on individual performance"
+      },
+      "correct_option": "d",
+      "explanation": "The defining difference between QA and QI is the shift from individual-focused evaluation (QA) to systems- and process-focused improvement (QI). Traditional QA identified outlier individuals whose performance did not meet thresholds and took corrective action against those individuals. Modern QI recognizes that most quality problems are system- and process-caused, and directs attention to redesigning processes to produce better outcomes for everyone. Option A is incorrect — QI focuses on the patient and system, while QA focused on compliance; peer review is a QA-era activity. Option B inverts the correct relationship. Option C does not accurately describe either QA or QI. Per CPHQ quality leadership domain standards, Deming's 14 Points, and the foundational QA-to-QI paradigm shift literature, process focus versus individual focus is the defining distinction.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The physical difference between quality assurance and continuous quality improvement is a shift in focus from:",
+      "options": {
+        "a": "Retrospective review to concurrent screening",
+        "b": "Individual faults to focus on customer satisfaction",
+        "c": "Identifying poor performance to good performance",
+        "d": "Short-term gain to long-term one"
+      },
+      "correct_option": "c",
+      "explanation": "The operational shift from QA to CQI is most accurately captured as moving from the identification and elimination of poor performance (QA's threshold-based, outlier-removal approach) to the continuous pursuit of good and better performance across the entire distribution (CQI's systems improvement approach). This is consistent with Q16 in the master bank, which identifies the QA-to-QI shift as moving from \"identifying poor performers to improving group performance.\" Retrospective to concurrent (A) describes a timing shift in data collection — a partial element, not the defining difference. Individual faults to customer satisfaction (B) captures part of the shift but is not the most precise operational description. Short-term to long-term (D) is a general improvement orientation — not specific to QA versus CQI. Per CPHQ quality leadership domain standards and the foundational QA/QI literature, the operational shift from poor-performance identification to continuous performance improvement is the defining difference.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In preparing for a meeting, what should be sent to the team members in advance?",
+      "options": {
+        "a": "Agenda with all attachments",
+        "b": "Agenda with key information requiring a decision at the meeting",
+        "c": "Just the agenda, because members will lose the other information",
+        "d": "Agenda and the confidential information, because guests will attend the meeting"
+      },
+      "correct_option": "b",
+      "explanation": "Effective meeting management requires that participants receive the agenda plus any information they need to review in advance in order to make informed decisions at the meeting. Sending all attachments (A) without regard to relevance creates information overload — not all supporting materials need advance review. Sending only the agenda (C) leaves decision-makers unprepared — if they haven't reviewed relevant data in advance, meetings become data presentation sessions rather than decision-making sessions, wasting time. Sending confidential information broadly when guests will attend (D) is a confidentiality breach — confidential materials should not be distributed to guests. The precise answer is agenda plus decision-relevant information — enough to prepare participants without overwhelming or inappropriately disclosing. Per CPHQ team management and meeting facilitation standards, and standard organizational effectiveness principles, decision-support materials accompanying the agenda is the best practice.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization's data demonstrates an increase in the number of patient falls. The healthcare quality professional should recommend:",
+      "options": {
+        "a": "Convening a focus group of medical staff to discuss fall risk",
+        "b": "Revising the fall risk assessment tool",
+        "c": "Sharing the data with the staff to provide feedback",
+        "d": "Increasing staffing on weekends and nights"
+      },
+      "correct_option": "c",
+      "explanation": "When fall data shows an increasing trend, the first action is to make that data visible to the frontline staff — the nurses, aides, and therapists who are closest to the problem and whose daily actions most directly affect fall rates. Data sharing creates awareness, urgency, and ownership. It is the prerequisite for any subsequent improvement effort. Convening a focus group of medical staff (A) engages physicians — who are important stakeholders but not the primary frontline responders to fall prevention at the bedside. Revising the fall risk assessment tool (B) assumes the problem is with assessment, which is unproven without analysis. Increasing staffing on weekends and nights (D) assumes the problem is staffing-related, which is also unproven and is a resource-intensive intervention to take without cause analysis. Per IHI falls prevention research, AHRQ patient safety standards, and CPHQ performance improvement principles, data transparency to frontline staff is the evidence-based first step in a falls improvement initiative.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following monitors provides patient outcome information?",
+      "options": {
+        "a": "Healthcare-acquired infection rate",
+        "b": "Nursing care documentation compliance",
+        "c": "Antibiotic therapy discontinuation compliance",
+        "d": "Equipment malfunction rate"
+      },
+      "correct_option": "a",
+      "explanation": "Using Donabedian's SPO framework: Healthcare-acquired infection rate (A) — this measures what happened to the patient as a result of care (a complication developed during hospitalization) — a direct patient outcome measure. Nursing care documentation compliance (B) — this is a process measure: whether documentation steps are being completed. Antibiotic therapy discontinuation compliance (C) — this is a process measure: whether the clinical process of discontinuing antibiotics is being followed per protocol. Equipment malfunction rate (D) — this is a structure/administrative measure reflecting the condition of physical resources. Per Donabedian's framework, NQF outcome measure classification, and CPHQ health data analytics domain standards, HAI rate is the outcome measure in this set.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In order to introduce performance improvement concepts throughout the organization, a healthcare quality professional should consider implementing all of the following steps EXCEPT:",
+      "options": {
+        "a": "Distributing a newsletter containing applicable quality topics",
+        "b": "Providing lectures regarding quality topics",
+        "c": "Meeting with each department head on a regular basis",
+        "d": "Mandating staff participation in self-study activities on quality"
+      },
+      "correct_option": "d",
+      "explanation": "Effective PI education integrates quality concepts into organizational culture through engaging, accessible, and interactive methods. Distributing newsletters (A) — appropriate awareness-building tool. Providing lectures (B)— direct educational delivery. Meeting with department heads (C) — leadership engagement and alignment. Mandating self-study (D) — while self-study can be valuable, mandating it as a standalone requirement without facilitation or discussion is among the least effective educational strategies. Self-directed, mandatory compliance-style learning produces minimal engagement and poor knowledge transfer. More critically, mandating self-study on quality concepts may generate resistance rather than genuine adoption of quality culture. Per CPHQ quality leadership education standards, adult learning theory (andragogy), and IHI quality culture development frameworks, mandated isolated self-study is the least effective approach among the options presented.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The major drawback of using raw numbers to present the results of quality monitoring is that they:",
+      "options": {
+        "a": "Lack proper reference points for interpretation",
+        "b": "Cannot be graphed",
+        "c": "May be used for focused review",
+        "d": "Only measure compliance to established criteria"
+      },
+      "correct_option": "a",
+      "explanation": "Raw numbers without rates, ratios, or denominators cannot be meaningfully interpreted — they provide no context for understanding whether a number is good, bad, improving, or worsening. For example, \"20 medication errors\" is meaningless without knowing whether that occurred in 100 patients or 10,000 patients, and whether it represents an increase or decrease from prior periods. Raw numbers lack the reference points (comparison data, rates, benchmarks, trends) needed for valid quality interpretation. Raw numbers can absolutely be graphed (B is wrong) — they can be displayed in bar charts, run charts, etc. Using data for focused review (C) is not a drawback — it is a valid use. Measuring compliance to criteria (D) is also not a drawback — it describes a legitimate monitoring function. Per AHRQ data quality standards, NQF performance measurement guidance, and CPHQ health data analytics domain competencies, absence of reference points for interpretation is the primary limitation of raw numbers in quality monitoring.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Primary purpose of integration of financial and quality management:",
+      "options": {
+        "a": "Develop physician profiles",
+        "b": "Identify potential cash flow problems",
+        "c": "Identify problems in resource management",
+        "d": "Determine medical necessity of treatment"
+      },
+      "correct_option": "c",
+      "explanation": "The primary purpose of integrating financial and quality management systems is to create a unified view of organizational performance that identifies where resource utilization problems intersect with quality problems — i.e., where care is both costly and poor quality, or where resource constraints are affecting care outcomes. Resource management problems (over- or under-utilization of staff, supplies, beds, and services) are simultaneously financial and quality issues. Developing physician profiles (A) is a credentialing and performance measurement function — not the primary integration purpose. Identifying cash flow problems (B) is a purely financial function that does not require quality integration. Determining medical necessity (D) is a utilization management function, not the primary purpose of the financial-quality integration. Per CPHQ quality leadership and health data analytics domain standards, the financial-quality management integration is primarily aimed at identifying resource management problems that affect both cost and quality.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Continuous education programs are usually a function of which of the following:",
+      "options": {
+        "a": "Human resources",
+        "b": "Quality improvement",
+        "c": "Utilization management",
+        "d": "Budgeting"
+      },
+      "correct_option": "a",
+      "explanation": "Continuing education programs — including staff development, professional education, and ongoing competency programs — are organizationally housed within the Human Resources (HR) function in most healthcare organizations. HR manages employee development, training calendars, competency verification, and educational compliance. Quality improvement (B) may identify educational needs as part of corrective actions, but it does not typically own or administer the education programs themselves. Utilization management (C) manages appropriateness of care decisions — not staff education. Budgeting (D) finances programs but does not run them. Per CPHQ organizational structure standards and standard healthcare organizational design, continuing education programs are a Human Resources function.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization implementing ongoing performance improvement — which of the following would most likely benefit the PI goals of the organization?",
+      "options": {
+        "a": "A system selected by middle and senior management resulting from proposals by consultants",
+        "b": "Cross-functional processes evaluated by multidisciplinary teams with support of management",
+        "c": "Discrete systems relevant to, monitored by individual departments",
+        "d": "Comprehensive process developed, implemented, and monitored by the QM department"
+      },
+      "correct_option": "b",
+      "explanation": "The most effective PI approach for ongoing organizational improvement is one that engages cross-functional, multidisciplinary teams with management support. This model ensures that improvement efforts span departmental boundaries (where most quality problems reside), bring diverse expertise to complex problems, and have the organizational backing to implement and sustain changes. Option A (consultant-proposed, management-selected system) is top-down and lacks frontline ownership. Option C (discrete systems by individual departments) is siloed — it cannot address cross-departmental process failures. Option D (centralized QM department approach) contradicts the fundamental principle that quality is everyone's responsibility — a QM-only model cannot sustain organization-wide improvement. Per IHI organizational improvement design, Deming's system of profound knowledge, and CPHQ performance improvement standards, cross-functional multidisciplinary teams with management support is the most effective structure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The annual evaluation of QI process must:",
+      "options": {
+        "a": "Be accomplished by the healthcare quality professional",
+        "b": "Document all problems identified in care and service",
+        "c": "Be based on organizational objectives",
+        "d": "Survey all departments and teams"
+      },
+      "correct_option": "c",
+      "explanation": "The annual evaluation of the QI process must be grounded in the organization's stated objectives — assessing whether the QI program has advanced the organization toward its strategic goals, improved performance on priority indicators, and fulfilled its quality commitments. Without this alignment, the evaluation is internally circular rather than strategically meaningful. Option A (accomplished by the quality professional alone) is incorrect — annual evaluation is a leadership and governance function, not a solo quality professional activity. Option B (document all problems) is too comprehensive and operationally unrealistic — annual evaluations summarize key themes and priorities, not every identified problem. Option D (survey all departments) is a data collection method — comprehensive surveying may support the evaluation but is not what the evaluation must be. Per TJC Leadership standards, CPHQ quality leadership domain competencies, and standard QM program evaluation principles, organizational objective alignment is the foundational requirement for annual QI program evaluation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Developing an educational training program in QI — what component should be included?",
+      "options": {
+        "a": "Quality definition and principles",
+        "b": "Performance appraisal results",
+        "c": "Discussion of incidents",
+        "d": "Individual focus of activities"
+      },
+      "correct_option": "a",
+      "explanation": "An educational training program in quality improvement must begin with and center on quality definitions and principles — the conceptual foundation that gives participants the shared vocabulary, theoretical understanding, and philosophical framework needed to engage meaningfully in QI work. Without this foundation, training in tools and techniques is context-free and less effective. Performance appraisal results (B) are individual HR data — they are not appropriate content for a group QI education program. Discussion of specific incidents (C) is a risk management or peer review activity — not appropriate as a training component without careful framing, and not the core curriculum element. Individual focus of activities (D) contradicts the systems-thinking foundation of QI, which focuses on processes and teams, not individuals. Per IHI QI education frameworks, CPHQ quality leadership domain standards, and adult learning principles, quality definitions and principles are the essential first component of any QI training program.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Quality improvement activities should be considered for all EXCEPT:",
+      "options": {
+        "a": "Compatibility with facility's mission",
+        "b": "Ease of development of data collection tool",
+        "c": "Processes that are high volume for the facility",
+        "d": "Findings from patient satisfaction surveys"
+      },
+      "correct_option": "b",
+      "explanation": "Quality improvement activities are prioritized based on meaningful criteria that reflect clinical importance, organizational alignment, and patient impact — not based on the convenience or ease of data collection. Compatibility with mission (A) — a legitimate and important criterion: QI activities should align with organizational priorities. High-volume processes (C)— high volume means greater potential impact of improvement (Pareto principle). Patient satisfaction findings (D) — patient feedback is a legitimate driver of QI activity selection. Ease of developing a data collection tool (B) — this is an operational convenience criterion — it would bias activity selection toward easy-to-measure problems rather than important-to-fix problems. Per CPHQ priority-setting standards, IHI improvement selection criteria, and Juran's project selection methodology, ease of data collection is not a valid criterion for selecting quality improvement activities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "What can the Quality Council provide to ensure highest efficiency of a performance improvement team?",
+      "options": {
+        "a": "Facilitator and recorder",
+        "b": "Indicators and data analysis",
+        "c": "Empowerment and training",
+        "d": "Standards and procedures"
+      },
+      "correct_option": "c",
+      "explanation": "The Quality Council's most powerful contribution to PI team efficiency is empowerment — giving the team the authority, resources, and organizational backing to act on its findings — and training — ensuring team members have the skills, knowledge, and methodological tools to conduct effective improvement work. Without empowerment, teams make recommendations that go nowhere. Without training, teams cannot analyze data or design effective interventions. Providing a facilitator and recorder (A) is a logistical support function — useful but not the highest-efficiency driver. Providing indicators and data (B) is also valuable but positions the Council as a data supplier rather than a capability-builder. Standards and procedures (D) are organizational tools — they support the team but do not build its internal capacity or authority. Per IHI team effectiveness research, CPHQ quality leadership standards, and organizational behavior literature, empowerment and training are the Council's most impactful contributions to team performance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The appropriateness of care is:",
+      "options": {
+        "a": "Primary focus of utilization management",
+        "b": "A key dimension of quality care",
+        "c": "Equivalent to case management",
+        "d": "The degree to which healthcare services are coherent and unbroken"
+      },
+      "correct_option": "b",
+      "explanation": "Appropriateness of care is one of the recognized dimensions of healthcare quality — defined as the degree to which the correct care is provided, to the right patient, at the right time, given the patient's condition and current medical evidence. It is a core quality dimension alongside safety, effectiveness, efficiency, equity, and patient-centeredness (IOM's six aims). Appropriateness is a focus of utilization management (A) — but it is not the primary focus of UM alone; it is a broader quality dimension. It is not equivalent to case management (C) — case management coordinates care but does not define appropriateness. It is not the definition of continuity of care (D) — which describes care that is coherent and unbroken across time and settings. Per IOM quality framework, IHI dimensions of quality, and CPHQ quality leadership domain standards, appropriateness is a key dimension of quality care.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A medication is ordered for a diabetic patient. Its capacity to improve health status, as a dimension of quality or performance, is its:",
+      "options": {
+        "a": "Effectiveness",
+        "b": "Potential",
+        "c": "Appropriateness",
+        "d": "Efficacy"
+      },
+      "correct_option": "a",
+      "explanation": "Effectiveness is defined as the degree to which a healthcare intervention achieves its intended health benefit under real-world conditions — specifically, its capacity to improve health status for patients who need it. This is the dimension of quality being described in the question. Efficacy (D) is closely related but specifically refers to performance under ideal or controlled conditions (clinical trial setting) — not real-world capacity. Appropriateness (C) refers to whether the medication is the right intervention for this patient — not its capacity to improve health status per se. Potential (B) is not a recognized quality dimension. Per IOM quality dimensions, Donabedian's quality framework, and CPHQ quality measurement domain standards, the capacity of an intervention to improve health status under real-world conditions is effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "If, in the continuous quality improvement process, we increase our emphasis on customer satisfaction and outcomes of care, which two dimensions of quality/performance must be incorporated into all quality management activities?",
+      "options": {
+        "a": "Availability and respect/caring",
+        "b": "Respect/caring and competency",
+        "c": "Effectiveness and respect/caring",
+        "d": "Continuity and competency"
+      },
+      "correct_option": "c",
+      "explanation": "When an organization increases emphasis on customer satisfaction and care outcomes simultaneously, the two quality dimensions that must be incorporated are: Effectiveness (the ability of care to achieve improved health outcomes — capturing the outcomes emphasis) and Respect/Caring (reflecting the patient experience dimension — capturing the customer satisfaction emphasis). Respect and caring encompasses how patients are treated — communication, dignity, responsiveness — which is the primary driver of patient satisfaction. Availability (A) addresses access — important but not the specific response to an outcomes-plus-satisfaction emphasis. Competency (B, D) relates to practitioner capability — important across all quality activities but not specifically the dimension added by a customer satisfaction and outcomes emphasis. Continuity (D) addresses coordination of care over time — relevant but not specifically the two dimensions that must be added when both satisfaction and outcomes are emphasized. Per IHI dimensions of quality, CPHQ quality leadership standards, and standard healthcare quality frameworks, effectiveness and respect/caring are the correct pair.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The quality professional can best facilitate the development of a quality culture in an organization by:",
+      "options": {
+        "a": "Assessing the organization's readiness to commit to change",
+        "b": "Designing a long-range plan for cultural transformation",
+        "c": "Encouraging leaders to commit to a culture of excellence",
+        "d": "Leading the cultural transformation redesign team"
+      },
+      "correct_option": "c",
+      "explanation": "Quality culture development is fundamentally a leadership phenomenon — culture is set, modeled, and sustained by organizational leaders. The quality professional's most powerful lever for cultural transformation is to engage, inspire, and encourage leaders to personally commit to and model a culture of excellence. Without leadership commitment, quality culture initiatives remain surface-level compliance exercises. Assessing readiness (A) is a diagnostic step — useful as a starting point but not the most powerful facilitation action. Designing a long-range plan (B) is a planning activity — necessary but insufficient without leadership engagement. Leading the redesign team (D) positions the quality professional as the cultural driver — which is unsustainable; culture must be led by organizational leaders, not the quality department. Per IHI organizational culture change frameworks, Kotter's leadership change model, and CPHQ quality leadership domain standards, securing and encouraging leadership commitment is the quality professional's highest-leverage cultural development action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The task of setting up an ambulatory care QM/QI program that focuses on outcomes as a measure of treatment effectiveness is difficult because:",
+      "options": {
+        "a": "The patient remains in control of treatment",
+        "b": "Patient care outcomes are determined by the payer",
+        "c": "There are no required medical records",
+        "d": "Expected outcomes for ambulatory conditions are too obvious"
+      },
+      "correct_option": "a",
+      "explanation": "Measuring treatment effectiveness through outcomes in an ambulatory setting is particularly challenging because patients are not under continuous clinical supervision — they go home and make their own decisions about medication adherence, lifestyle modifications, follow-up appointments, and self-care activities. The outcome is therefore co-determined by the patient's own behavior outside the clinical setting, making it difficult to attribute outcomes solely to the clinical care provided. Patient care outcomes are not determined by payers (B) — payers determine coverage, not outcomes. Medical records are required in ambulatory settings (C is false) — documentation requirements exist across all care settings. Expected outcomes for ambulatory conditions are not \"too obvious\" (D) — many ambulatory outcomes are complex and difficult to predict. Per AHRQ ambulatory quality measurement research, IHI outpatient improvement frameworks, and CPHQ health data analytics domain standards, patient control over self-care behavior outside the clinical setting is the primary barrier to outcomes-based ambulatory QM.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In developing a program to evaluate the effectiveness of physician care, a primary care clinic would select which of the following indicators?",
+      "options": {
+        "a": "The patients will express overall satisfaction with clinic facilities",
+        "b": "The contract lab will provide results within 24 hours of sample delivery",
+        "c": "The staff complies with all infection control policies and procedures",
+        "d": "Newly diagnosed hypertensive patients are controlled within 6 months"
+      },
+      "correct_option": "d",
+      "explanation": "This question asks for an indicator of physician care effectiveness — specifically, an outcome that reflects whether physician clinical management is achieving the intended health benefit. Newly diagnosed hypertensive patients being controlled within 6 months is a direct clinical outcome measure of physician management quality: it requires correct diagnosis, appropriate pharmacological and lifestyle management, effective patient education, and timely follow-up — all physician care functions. Option A (patient satisfaction with facilities) measures the patient experience of the physical environment — not physician care effectiveness. Option B (lab turnaround time) measures a lab service process — not physician clinical management. Option C (infection control compliance) is a process/structure measure for the clinical environment — not specific to physician care effectiveness. Per HEDIS clinical effectiveness measures, NCQA physician performance standards, and CPHQ health data analytics domain competencies, blood pressure control in hypertensive patients is the textbook clinical effectiveness indicator for primary care.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The perception of quality by a patient receiving care in an ambulatory healthcare center is influenced most by:",
+      "options": {
+        "a": "The physical environment",
+        "b": "Caring staff and physician",
+        "c": "New technology",
+        "d": "The physician's technical competence"
+      },
+      "correct_option": "b",
+      "explanation": "Patient perception of quality in ambulatory care is most powerfully influenced by the interpersonal and relational dimensions of the care experience — specifically, whether staff and physicians are caring, attentive, respectful, and responsive. Research on patient satisfaction consistently demonstrates that the human dimensions of care (communication, empathy, respect, responsiveness) have a greater impact on perceived quality than physical environment (A), technology (C), or technical competence (D) — even though technical competence is critically important for actual quality. Patients are largely unable to evaluate technical competence directly; they judge quality primarily through the care and respect they experience in interactions. Per AHRQ patient experience research, IHI patient-centered care frameworks, Press Ganey satisfaction data, and CPHQ customer satisfaction domain standards, caring interpersonal behavior by staff and physicians is the dominant driver of perceived quality in ambulatory settings.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Total quality management philosophy assumes that:",
+      "options": {
+        "a": "Most problems with service delivery result from systems difficulties",
+        "b": "Frequent inspection is necessary to improve quality",
+        "c": "Most problems with service delivery result from difficulties with individuals",
+        "d": "Top management leadership in quality activities disenfranchises employees"
+      },
+      "correct_option": "a",
+      "explanation": "The foundational assumption of TQM is that the vast majority of quality and service delivery problems are caused by system and process failures — not by individual worker inadequacy. This is Deming's principle: 85–94% of quality problems are system-caused. TQM assumes that workers want to do good work but are often prevented by poor systems, inadequate processes, and insufficient resources — not personal failure. Frequent inspection (B) is the antithesis of TQM — Deming's Point 3 explicitly states to cease dependence on mass inspection. Blaming individuals (C) is the QA paradigm that TQM replaced. Top management engagement in quality (D) is exactly what TQM requires — it does not disenfranchise employees; it aligns leadership with frontline staff toward common quality goals. Per Deming's 14 Points, Juran's TQM framework, and CPHQ quality leadership domain standards, systems causation of problems is the foundational TQM assumption.",
+      "difficulty": "medium"
+    }
+  ]
+}

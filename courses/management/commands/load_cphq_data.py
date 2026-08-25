@@ -55,8 +55,8 @@ QUESTION_FILES = [
     ("performance_improvement_mock.json",     "Performance and Process Improvement", "mock"),
     ("information_management_quiz.json",      "Information Management",            "quiz"),
     ("information_management_mock.json",      "Information Management",            "mock"),
-    ("patient_experience_quiz.json",          "Patient/Member Experience",         "quiz"),
-    ("patient_experience_mock.json",          "Patient/Member Experience",         "mock"),
+    ("patient_experience_quiz.json",          "Population Health and Care Transitions", "quiz"),
+    ("patient_experience_mock.json",          "Population Health and Care Transitions", "mock"),
     ("regulatory_accreditation_quiz.json",    "Regulatory and Accreditation",      "quiz"),
     ("regulatory_accreditation_mock.json",    "Regulatory and Accreditation",      "mock"),
     ("quality_leadership_quiz.json",          "Quality Leadership and Integration", "quiz"),
@@ -72,7 +72,14 @@ CHAPTER_QUIZ_FILES = [
     ("domain1_chapter4_quick_quiz.json", 1, 4),
     ("domain1_chapter5_quick_quiz.json", 1, 5),
     ("domain2_chapter1_quick_quiz.json", 2, 1),
+    ("domain2_chapter2_quick_quiz.json", 2, 2),
+    ("domain2_chapter3_quick_quiz.json", 2, 3),
+    ("domain2_chapter4_quick_quiz.json", 2, 4),
     ("domain3_chapter1_quick_quiz.json", 3, 1),
+    ("domain3_chapter2_quick_quiz.json", 3, 2),
+    ("domain3_chapter3_quick_quiz.json", 3, 3),
+    ("domain3_chapter4_quick_quiz.json", 3, 4),
+    ("domain3_chapter5_quick_quiz.json", 3, 5),
     ("domain4_chapter1_quick_quiz.json", 4, 1),
     ("domain5_chapter1_quick_quiz.json", 5, 1),
     ("domain6_chapter1_quick_quiz.json", 6, 1),
@@ -82,6 +89,8 @@ CHAPTER_QUIZ_FILES = [
 # Full Module MCQ Assessment files: (filename, domain_order)
 MODULE_ASSESSMENT_FILES = [
     ("domain1_module_assessment.json", 1),
+    ("domain2_module_assessment.json", 2),
+    ("domain3_module_assessment.json", 3),
 ]
 
 # Course structure: Course → Domains → Chapters
@@ -122,27 +131,62 @@ COURSE_STRUCTURE = [
     },
     {
         "order": 2,
-        "title": "Module 2: Quality Review & Accountability",
-        "description": "Covers quality review processes, accountability structures, and performance improvement.",
-        "topic_name": "Quality Review & Accountability",
-        "chapters": [
-            {
-                "order": 1,
-                "title": "Chapter 1: Quality Review & Accountability",
-                "video_filename": "Quality Review and Accountability.mp4",
-            },
-        ],
-    },
-    {
-        "order": 3,
-        "title": "Module 3: Performance and Process Improvement",
+        "title": "Module 2: Performance and Process Improvement",
         "description": "Covers quality improvement methodologies including PDSA, Lean, Six Sigma, and data-driven improvement tools.",
         "topic_name": "Performance and Process Improvement",
         "chapters": [
             {
                 "order": 1,
-                "title": "Chapter 1: Performance and Process Improvement",
-                "video_filename": "",
+                "title": "Chapter 1: Evolution of Performance Improvement in Healthcare",
+                "video_filename": "Performance and Process Improvement - Chapter 1.mp4",
+            },
+            {
+                "order": 2,
+                "title": "Chapter 2: Performance Improvement Approaches",
+                "video_filename": "Performance and Process Improvement - Chapter 2.mp4",
+            },
+            {
+                "order": 3,
+                "title": "Chapter 3: Systems Thinking",
+                "video_filename": "Performance and Process Improvement - Chapter 3.mp4",
+            },
+            {
+                "order": 4,
+                "title": "Chapter 4: Quality Indicators & Value in Healthcare",
+                "video_filename": "Performance and Process Improvement - Chapter 4.mp4",
+            },
+        ],
+    },
+    {
+        "order": 3,
+        "title": "Module 3: Population Health and Care Transitions",
+        "description": "Covers population health strategy, care transitions, health equity, social determinants of health, and value-based care.",
+        "topic_name": "Population Health and Care Transitions",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Strategic Frameworks for Population Health",
+                "video_filename": "Population Health and Care Transitions - Chapter 1.mp4",
+            },
+            {
+                "order": 2,
+                "title": "Chapter 2: Core Components of Population Health Management",
+                "video_filename": "Population Health and Care Transitions - Chapter 2.mp4",
+            },
+            {
+                "order": 3,
+                "title": "Chapter 3: Data, Analytics & Multi-Sector Collaboration",
+                "video_filename": "Population Health and Care Transitions - Chapter 3.mp4",
+            },
+            {
+                "order": 4,
+                "title": "Chapter 4: Health Equity & Social Determinants of Health",
+                "video_filename": "Population Health and Care Transitions - Chapter 4.mp4",
+            },
+            {
+                "order": 5,
+                "title": "Chapter 5: Value-Based Care & Population Health",
+                "video_filename": "Population Health and Care Transitions - Chapter 5.mp4",
             },
         ],
     },
@@ -161,14 +205,14 @@ COURSE_STRUCTURE = [
     },
     {
         "order": 5,
-        "title": "Module 5: Patient/Member Experience",
-        "description": "Covers patient-centered care, HCAHPS measurement, engagement strategies, and improving patient experience.",
-        "topic_name": "Patient/Member Experience",
+        "title": "Module 5: Quality Review & Accountability",
+        "description": "Covers quality review processes, accountability structures, and performance improvement.",
+        "topic_name": "Quality Review & Accountability",
         "chapters": [
             {
                 "order": 1,
-                "title": "Chapter 1: Patient and Member Experience",
-                "video_filename": "",
+                "title": "Chapter 1: Quality Review & Accountability",
+                "video_filename": "Quality Review and Accountability.mp4",
             },
         ],
     },

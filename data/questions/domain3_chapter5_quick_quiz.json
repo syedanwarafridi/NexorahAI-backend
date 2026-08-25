@@ -1,0 +1,65 @@
+{
+  "topic": "Population Health and Care Transitions",
+  "questions": [
+    {
+      "text": "A health plan reports that its HEDIS follow-up after hospitalization for mental illness (FUH) measure rate has dropped below the 25th percentile nationally. Which of the following best describes the consequence of this performance for a Medicare Advantage plan?",
+      "options": {
+        "a": "The plan will be required to submit a corrective action plan to the state insurance commissioner",
+        "b": "The plan's CMS Medicare Advantage Star Rating may decrease, directly affecting plan revenue and market competitiveness",
+        "c": "The plan will lose its NCQA accreditation for the following year",
+        "d": "The plan must reduce premiums for affected members as a penalty"
+      },
+      "correct_option": "b",
+      "explanation": "HEDIS performance directly drives CMS Medicare Advantage Star Ratings. Plans with lower Star Ratings receive reduced quality bonus payments and face competitive disadvantage in plan selection — directly impacting revenue. NCQA accreditation (C) uses HEDIS data as input but is a separate determination.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An Accountable Care Organization participates in the Medicare Shared Savings Program under a two-sided risk arrangement. What does this mean for the ACO?",
+      "options": {
+        "a": "The ACO shares in savings only if quality benchmarks are met, with no exposure to losses",
+        "b": "The ACO shares in savings when performance exceeds benchmarks and is liable for losses when costs exceed the benchmark",
+        "c": "The ACO receives a fixed payment per member per month regardless of quality performance",
+        "d": "The ACO is permitted to reduce Medicare benefits for members who do not meet care plan compliance thresholds"
+      },
+      "correct_option": "b",
+      "explanation": "Two-sided risk means the ACO participates in shared savings when it achieves cost and quality benchmarks AND is financially liable for losses when costs exceed the benchmark. One-sided risk provides savings sharing without loss exposure. Two-sided risk creates stronger financial incentives for population health investment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital quality director reviews the HRRP penalties applied to the organization for the current year. The penalty results in a 2.5% reduction in all Medicare DRG payments. What does this indicate?",
+      "options": {
+        "a": "The hospital had above-average patient safety events under the Patient Safety Indicator program",
+        "b": "The hospital's readmission rates for targeted conditions exceeded expected benchmarks, triggering financial penalties",
+        "c": "The hospital failed to submit HEDIS data to NCQA for the reporting period",
+        "d": "The hospital's value-based purchasing score fell below the national median"
+      },
+      "correct_option": "b",
+      "explanation": "The Hospital Readmissions Reduction Program imposes penalties — up to 3% reduction in all Medicare DRG payments — when a hospital's readmission rates for targeted conditions exceed risk-adjusted benchmarks. The penalty is readmission-specific, not tied to PSI scores (A), HEDIS (C), or VBP scoring (D).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A bundled payment model covers all services from surgery through hospital stay through post-acute rehabilitation for a total hip replacement episode. A quality professional's primary responsibility in this model is which of the following?",
+      "options": {
+        "a": "Negotiating individual physician payment rates within the bundle",
+        "b": "Tracking quality metrics, closing care gaps, and designing episode-level quality improvement to reduce readmissions and complications",
+        "c": "Approving post-acute facility placement decisions for all joint replacement patients",
+        "d": "Submitting episode cost data to CMS on behalf of the participating providers"
+      },
+      "correct_option": "b",
+      "explanation": "In bundled payment models, the HQP's role is to ensure quality performance across the full episode — tracking metrics, closing care gaps, preventing readmissions, and designing improvement initiatives that coordinate care from surgery through recovery. Financial and administrative functions belong to operations and finance teams.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the six domains covered by HEDIS measures?",
+      "options": {
+        "a": "Quality, safety, efficiency, equity, patient-centeredness, and timeliness",
+        "b": "Effectiveness of care, access/availability, patient experience, utilization/risk, health plan descriptive information, and e-clinical data",
+        "c": "Clinical outcomes, preventive care, behavioral health, pharmacy, member satisfaction, and financial performance",
+        "d": "Primary, secondary, tertiary, quaternary, palliative, and rehabilitative care"
+      },
+      "correct_option": "b",
+      "explanation": "HEDIS organizes its measures across six domains: Effectiveness of Care, Access/Availability of Care, Experience of Care, Utilization and Risk Adjusted Utilization, Health Plan Descriptive Information, and Measures Reported Using Electronic Clinical Data. These domains collectively enable comprehensive assessment of health plan quality across a population.",
+      "difficulty": "medium"
+    }
+  ]
+}

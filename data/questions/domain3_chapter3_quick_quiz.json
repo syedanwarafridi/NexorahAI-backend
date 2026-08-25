@@ -1,0 +1,65 @@
+{
+  "topic": "Population Health and Care Transitions",
+  "questions": [
+    {
+      "text": "A non-profit hospital is planning its Community Health Needs Assessment. Under the Affordable Care Act, which of the following requirements is most critical to maintain the hospital's tax-exempt status?",
+      "options": {
+        "a": "Conducting the CHNA every five years and reporting to the state health department",
+        "b": "Conducting the CHNA every three years, making it publicly available, and developing a written Implementation Strategy within the same cycle",
+        "c": "Submitting CHNA findings to CMS annually as part of Medicare certification",
+        "d": "Partnering with at least three community-based organizations before beginning data collection"
+      },
+      "correct_option": "b",
+      "explanation": "The ACA requires non-profit hospitals to conduct a CHNA every three years, make it publicly available, and develop a written Implementation Strategy addressing identified needs within the same 3-year cycle. These three requirements together constitute the ACA compliance standard for maintaining tax-exempt status.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A population health analytics team receives data from EHRs, claims records, remote monitoring devices, and SDOH screening tools. What is the primary purpose of integrating these data sources into a unified population health analytics platform?",
+      "options": {
+        "a": "To satisfy CMS reporting requirements for Medicare Advantage plans",
+        "b": "To enable risk stratification, care gap identification, and targeted intervention at the population level",
+        "c": "To replace clinical decision-making with automated predictive tools",
+        "d": "To reduce documentation burden for frontline clinical staff"
+      },
+      "correct_option": "b",
+      "explanation": "Integrated population health analytics exists to enable three core functions: stratifying patients by risk, identifying care gaps across the population, and supporting targeted intervention design. The integration is what moves population health management from reactive to proactive.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system identifies that its SDOH screening data is collected at the point of care but is not integrated with EHR clinical data or claims data. What is the most likely consequence of this data siloing?",
+      "options": {
+        "a": "Screening rates will decrease due to staff burden",
+        "b": "Fragmented insights and ineffective interventions that fail to address the full social and clinical picture",
+        "c": "HIPAA compliance violations will occur when data is shared with community partners",
+        "d": "Claims reimbursement will be denied for SDOH-related services"
+      },
+      "correct_option": "b",
+      "explanation": "When SDOH data is siloed from clinical and claims data, the population health analytics picture is incomplete. Clinicians making care decisions cannot see social barriers; care managers cannot connect social needs to clinical risk; and intervention targeting lacks the full patient context needed for effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A community health improvement coalition wants to prioritize intervention areas for a large urban county. Which data source would be most useful for benchmarking the county's health determinants against peer counties and identifying priority areas?",
+      "options": {
+        "a": "HEDIS performance reports from local health plans",
+        "b": "County Health Rankings data from the UW Population Health Institute and RWJF",
+        "c": "CMS quality benchmarks from the Medicare Shared Savings Program",
+        "d": "URAC accreditation standards for population health programs"
+      },
+      "correct_option": "b",
+      "explanation": "County Health Rankings are specifically designed for county-level benchmarking of health outcomes and determinants, enabling direct comparison with peer counties and state rankings. This makes it the most appropriate tool for geographic priority setting. HEDIS (A) measures health plan performance, not county-level determinants.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During a CHNA process, a hospital quality team discovers that the highest-priority unmet need identified by community members is food insecurity — a need the hospital does not currently address in its Implementation Strategy. According to CPHQ-aligned practice, what is the most appropriate response?",
+      "options": {
+        "a": "Document the finding but exclude it from the Implementation Strategy since it is outside clinical scope",
+        "b": "Include food insecurity in the Implementation Strategy with specific community partner referral pathways and measurable goals",
+        "c": "Defer the finding to the next CHNA cycle for further study",
+        "d": "Report the finding to the state health department and request guidance before acting"
+      },
+      "correct_option": "b",
+      "explanation": "The CPHQ and ACA frameworks require that the Implementation Strategy address significant unmet health needs identified during the CHNA. Food insecurity is a SDOH with direct impact on health outcomes. Excluding it because it is outside clinical scope contradicts the cross-sector, community-anchored design of the CHNA process.",
+      "difficulty": "medium"
+    }
+  ]
+}

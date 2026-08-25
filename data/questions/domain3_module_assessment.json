@@ -1,0 +1,605 @@
+{
+  "domain_order": 3,
+  "questions": [
+    {
+      "text": "A care manager is working with a patient recently discharged from the hospital following a heart failure exacerbation. The patient lives alone, has limited English proficiency, and has no transportation. Which of the following interventions best addresses the social determinants of health affecting this patient's recovery?",
+      "options": {
+        "a": "Schedule a follow-up cardiology appointment within seven days.",
+        "b": "Provide written discharge instructions in English for the patient to review.",
+        "c": "Coordinate transportation assistance and arrange for a language interpreter for follow-up care.",
+        "d": "Enroll the patient in a remote monitoring program for daily weight tracking."
+      },
+      "correct_option": "c",
+      "explanation": "This patient presents with two clear SDOH barriers: social isolation (lives alone), language barrier (limited English proficiency), and lack of transportation. The intervention that directly addresses the identified social determinants is C — it targets the two structural barriers that will prevent this patient from accessing care at all. Option A (scheduling a cardiology appointment) is clinically appropriate but does not remove the barriers that would prevent the patient from attending. Option B (written English instructions) actively fails a patient with limited English proficiency. Option D (remote monitoring) is a clinical tool that does not address social barriers. Per CMS Transitions of Care standards, AHRQ care transition guidelines, and Healthy People 2030 SDOH framework, effective post-discharge care management must address transportation and language as structural barriers before clinical interventions can be effective.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is working to reduce 30-day readmission rates for patients with chronic obstructive pulmonary disease (COPD). Which of the following interventions has the strongest evidence base for reducing readmissions?",
+      "options": {
+        "a": "Providing patients with a written list of symptoms to watch for.",
+        "b": "Conducting a structured telephone follow-up call within 48 hours of discharge.",
+        "c": "Implementing a comprehensive transitional care program including home visits and medication reconciliation.",
+        "d": "Scheduling a pulmonology follow-up appointment within 30 days of discharge."
+      },
+      "correct_option": "c",
+      "explanation": "The evidence base for reducing COPD readmissions consistently identifies multi-component transitional care programs as the most effective intervention. Naylor's Transitional Care Model and Coleman's Care Transitions Intervention both demonstrate that home visits combined with medication reconciliation, patient education, and care coordination produce the greatest and most sustained reductions in readmission rates. A telephone call within 48 hours (B) is a component of transitional care but is insufficient alone. Written symptom lists (A) are educational tools with limited standalone impact on readmission rates. A 30-day follow-up appointment (D) is too delayed and too isolated an intervention to meaningfully reduce early readmissions. Per CMS Hospital Readmissions Reduction Program (HRRP) standards, AHRQ care transitions evidence review, and IHI reducing readmissions frameworks, comprehensive multi-component programs are the gold standard.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best description of the Triple Aim framework as applied to population health?",
+      "options": {
+        "a": "Improving patient experience, reducing per capita cost, and improving population health simultaneously.",
+        "b": "Improving clinical outcomes, reducing medication errors, and increasing patient throughput.",
+        "c": "Expanding access to care, improving staff satisfaction, and reducing patient wait times.",
+        "d": "Reducing hospital-acquired infections, improving documentation compliance, and decreasing length of stay."
+      },
+      "correct_option": "a",
+      "explanation": "The IHI Triple Aim, developed by Don Berwick and colleagues, identifies three simultaneous dimensions of healthcare optimization: improving the individual experience of care, improving the health of populations, and reducing the per capita cost of healthcare. These three aims are interdependent and must be pursued together — optimizing one at the expense of the others defeats the purpose. Option B describes clinical quality and operational metrics but does not constitute the Triple Aim. Option C addresses access and operational performance — not the Triple Aim framework. Option D lists patient safety and operational measures — entirely outside the Triple Aim definition. Per IHI Triple Aim framework, CMS value-based purchasing strategy, and CPHQ Population Health and Care Transitions domain standards, option A is the precise definition of the Triple Aim as applied to population health management.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A population health program identifies a cohort of patients with uncontrolled hypertension in a low-income urban neighborhoods. Which of the following is the most appropriate first intervention?",
+      "options": {
+        "a": "Refer all patients to a cardiologist for specialist evaluation.",
+        "b": "Conduct a community needs assessment to understand barriers to blood pressure control.",
+        "c": "Enroll all patients in a hypertension disease management program immediately.",
+        "d": "Distribute antihypertensive medications to all identified patients."
+      },
+      "correct_option": "b",
+      "explanation": "Before designing or deploying any intervention, a population health program must understand why the problem exists in this specific community. A community needs assessment identifies the actual barriers — whether they are medication cost, dietary factors, lack of primary care access, cultural mistrust of the healthcare system, health literacy limitations, or structural SDOH factors — so that the intervention is targeted to real, identified root causes rather than assumed ones. Referring all patients to a cardiologist (A) assumes specialist access exists and addresses the clinical issue without understanding the social context. Immediate enrollment in a disease management program (C) may be appropriate after needs are understood but not before. Distributing medications (D) without assessment, medication reconciliation, or patient education is clinically unsafe. Per AHRQ community needs assessment methodology, CDC hypertension control program guidelines, and IHI population health program development frameworks, community needs assessment is the correct first step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The care transitions model developed by Dr. Eric Coleman focuses primarily on which of the following?",
+      "options": {
+        "a": "Training hospitalists to coordinate post-discharge care plans.",
+        "b": "Empowering patients and caregivers to take an active role in managing their own transitions.",
+        "c": "Standardizing discharge documentation across all hospital units.",
+        "d": "Assigning a case manager to every patient admitted for more than three days."
+      },
+      "correct_option": "b",
+      "explanation": "The Care Transitions Intervention (CTI), developed by Dr. Eric Coleman at the University of Colorado, is built on the philosophy of patient and caregiver activation — equipping individuals with the skills, tools, and confidence to manage their own health transitions rather than making them passive recipients of care. The model uses a transition coach (not a case manager) who works with patients over a 30-day period, focusing on four pillars: medication self-management, use of a personal health record, timely follow-up with physicians, and knowledge of red-flag symptoms. Training hospitalists (A) is not the focus of the CTI model. Standardizing documentation (C) is a systems improvement activity. Assigning a case manager to every patient (D) describes a different model (intensity-based case management) — not Coleman's CTI. Per Coleman's CTI program design, AHRQ care transitions evidence, and CMS community-based care transitions program standards, patient and caregiver empowerment is the defining principle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is reviewing data on a population of patients with type 2 diabetes. HbA1c levels are being tracked quarterly. Which of the following statistical displays is most appropriate for monitoring population-level HbA1c trends over time?",
+      "options": {
+        "a": "Pie chart",
+        "b": "Scatter diagram",
+        "c": "Control chart",
+        "d": "Affinity diagram"
+      },
+      "correct_option": "c",
+      "explanation": "A control chart is the optimal tool for displaying clinical data tracked over time because it not only shows the trend but also distinguishes between expected process variation (common cause) and signals of true change (special cause variation). For a population-level diabetes management program tracking HbA1c quarterly, the control chart will reveal whether improvements in glycemic control represent genuine, sustained program effects or merely random fluctuation. A pie chart (A) shows proportional composition at a single point in time — not longitudinal trends. A scatter diagram (B) shows the relationship between two variables — not time-series trends. An affinity diagram (D) is a qualitative brainstorming organization tool — not a data display for clinical outcomes. Per IHI statistical process control methodology, NCQA HEDIS diabetes measurement standards, and CPHQ data analytics domain competencies, the control chart is the appropriate tool for longitudinal population health monitoring.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the concept of risk stratification in population health management?",
+      "options": {
+        "a": "Identifying patients who have filed complaints against their providers.",
+        "b": "Categorizing patients by their level of health risk to prioritize the intensity of care management interventions.",
+        "c": "Assigning all patients with chronic conditions to a specialist care team.",
+        "d": "Ranking hospitals by their safety scores to determine accreditation status."
+      },
+      "correct_option": "b",
+      "explanation": "Risk stratification is the foundational analytical process of population health management. It uses clinical data, claims data, and increasingly SDOH data to classify individuals within a population into risk tiers — typically low, moderate, high, and very high risk — so that the most intensive care management resources are directed to those with the greatest need and the highest likelihood of benefit. Lower-risk individuals receive lighter-touch interventions (preventive care, self-management education), while high-risk individuals receive intensive case management, home visits, and multidisciplinary team support. Option A describes complaint tracking — not risk stratification. Option C (assigning all chronic disease patients to specialists) is indiscriminate and not risk-stratified. Option D describes accreditation scoring — entirely unrelated. Per CMSA Standards of Practice for Case Management, NCQA population health management standards, IHI risk stratification frameworks, and CMS population health initiatives, option B is the definition of risk stratification.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system is implementing a program to improve care coordination for patients transitioning from hospital to skilled nursing facility (SNF). Which of the following represents the most critical element of an effective hospital-to-SNF transition?",
+      "options": {
+        "a": "Ensuring the patient's room at the SNF is available on the day of discharge.",
+        "b": "Transmitting a complete, accurate, and timely medical record to the SNF before or at the time of transfer.",
+        "c": "Providing the patient with a satisfaction survey at the point of discharge.",
+        "d": "Scheduling a hospital follow-up appointment within 90 days of SNF admission."
+      },
+      "correct_option": "b",
+      "explanation": "The most common and dangerous failure in hospital-to-SNF transitions is information loss — the receiving facility does not have the clinical information needed to safely continue the patient's care. An incomplete or delayed transfer of records leads to medication errors, duplication of diagnostic testing, failure to continue critical treatments, and preventable adverse events. A complete, accurate, and timely medical record — including current medications, diagnoses, functional status, advance directives, and pending follow-up items — is the foundation of a safe handoff. Room availability (A) is a logistical concern that cannot override clinical safety. Patient satisfaction surveys (C) are measurement tools, not care transition elements. A 90-day follow-up (D) is too delayed to prevent early transition failures. Per TJC National Patient Safety Goal on handoff communication, AHRQ care transitions toolkit, and CMS Conditions of Participation for discharge planning, complete information transfer is the most critical element.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A nurse care manager is using the Chronic Care Model to guide a patient's diabetes management. Which of the following is a core component of the Chronic Care Model?",
+      "options": {
+        "a": "Mandatory specialist referral for all patients with HbA1c above 8.",
+        "b": "Self-management support provided to patients and their families.",
+        "c": "Restriction of care management to inpatient settings only.",
+        "d": "Delegation of all chronic disease management to pharmacists."
+      },
+      "correct_option": "b",
+      "explanation": "The Chronic Care Model (CCM), developed by Edward Wagner at the MacColl Institute, identifies six core components of effective chronic illness care: the health system (organization of healthcare), delivery system design, decision support, clinical information systems, self-management support, and community resources and policies. Of these, self-management support is the component that is most central to population health management — it emphasizes equipping patients and families with the knowledge, skills, and confidence to manage their conditions in daily life. Mandatory specialist referral (A) is not a CCM component and would create access barriers. Restricting management to inpatient settings (C) is contrary to the CCM's emphasis on community and outpatient-based proactive care. Delegating entirely to pharmacists (D) misrepresents a team-based care model as a single-discipline model. Per Wagner's Chronic Care Model, AHRQ chronic disease management evidence, IHI population health frameworks, and CMSA case management standards, self-management support is a defining CCM element.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following scenarios best represents a care gap in population health management?",
+      "options": {
+        "a": "A patient with asthma who receives an annual flu vaccine as recommended.",
+        "b": "A 55-year-old patient with no history of colorectal cancer who has never had a colonoscopy.",
+        "c": "A diabetic patient whose HbA1c is measured every six months per protocol.",
+        "d": "A hypertensive patient whose blood pressure is measured at every primary care visit."
+      },
+      "correct_option": "b",
+      "explanation": "A care gap is defined as the difference between recommended evidence-based care that a patient should receive and the care they have actually received. The USPSTF recommends colorectal cancer screening beginning at age 45–50, with colonoscopy being one accepted modality. A 55-year-old with no history of colorectal cancer who has never undergone any colorectal cancer screening represents a clear, measurable care gap — a failure to deliver recommended preventive care to an eligible patient. Options A, C, and D all describe patients who are receiving appropriate, protocol-compliant care — these are closed care gaps, not open ones. Per NCQA HEDIS care gap measures, USPSTF colorectal cancer screening guidelines, CMS preventive care quality measures, and IHI population health management frameworks, an unscreened 55-year-old is the textbook definition of an open care gap requiring outreach.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A community health worker is conducting outreach in a neighbourhood with high rates of childhood asthma. Which of the following SDOH factors is most likely contributing to elevated asthma prevalence in this community?",
+      "options": {
+        "a": "Inadequate health insurance coverage for pediatrics specialist visits.",
+        "b": "Limited availability of pediatrics pulmonologists within 50 miles.",
+        "c": "Substandard housing conditions with mould and indoor air quality problems.",
+        "d": "Parental non-compliance with prescribed asthma controller medications."
+      },
+      "correct_option": "c",
+      "explanation": "The relationship between substandard housing and childhood asthma is one of the most robustly documented SDOH associations in the medical literature. Mould, cockroach allergens, tobacco smoke, poor ventilation, and pest infestations — all more prevalent in low-income housing — are potent asthma triggers and sensitizers. This is an upstream structural determinant: the physical environment of the home directly causes the disease burden. Insurance coverage (A) affects access to care but does not cause asthma. Specialist availability (B) is a healthcare access issue — a downstream access barrier, not a disease cause. Parental non-compliance (D) frames a complex problem as individual behavior and ignores the structural conditions that make compliance difficult — this is not an SDOH factor. Per CDC childhood asthma control program, HUD healthy homes initiative, AHRQ SDOH research, and WHO social determinants of health framework, substandard housing is the primary structural SDOH driver of childhood asthma disparities.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the purpose of a patient registry in population health management?",
+      "options": {
+        "a": "To document adverse events experienced by patients during hospitalization.",
+        "b": "To maintain a list of patients who have filed grievances against providers.",
+        "c": "To systematically track a defined population of patients with a shared condition or risk factor to ensure they receive recommended care.",
+        "d": "To record the credentials and licensure status of all providers caring for a specific patient."
+      },
+      "correct_option": "c",
+      "explanation": "A patient registry is a structured, longitudinal database that identifies all patients within a practice or system who share a defined characteristic — a diagnosis (diabetes, heart failure, asthma), a risk factor (hypertension, obesity), or a demographic (patients over 65) — and tracks their care over time to identify care gaps, prompt outreach, and monitor outcomes. The registry is the operational backbone of population health management: it makes the invisible population visible. Option A describes an adverse event reporting system. Option B describes a grievance tracking system. Option D describes a credentialing database. None of these are patient registries. Per AHRQ patient registry guide, NCQA patient-centered medical home standards, IHI population health management tools, and CMSA care management standards, systematic population tracking is the defining function of a patient registry.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team is working to reduce hospital-acquired pressure injuries. The team decides to stratify data by unit, shift, and patient risk score. This approach is an example of which of the following?",
+      "options": {
+        "a": "Benchmarking against national standards.",
+        "b": "Disaggregating data to identify variation and target interventions.",
+        "c": "Conducting a root cause analysis of individual events.",
+        "d": "Applying Lean methodology to eliminate waste in nursing workflows."
+      },
+      "correct_option": "b",
+      "explanation": "Data disaggregation is the process of breaking down aggregate data into subgroups — by unit, shift, patient demographics, risk level, provider, or other variables — to reveal patterns and variation that are hidden in the overall numbers. In this scenario, stratifying pressure injury data by unit, shift, and risk score allows the team to identify where the problem is concentrated, during which operational periods, and for which patient populations — enabling targeted, evidence-based interventions rather than uniform solutions applied to a heterogeneous population. Benchmarking (A) compares performance against external standards — not the same as internal data disaggregation. RCA (C) investigates individual events — not population-level variation. Lean methodology (D) focuses on waste elimination in processes — not data stratification. Per AHRQ data stratification for equity and quality improvement, IHI improvement science methodology, and CPHQ health data analytics standards, disaggregating data is the correct description.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the role of a transitional care nurse in reducing readmissions?",
+      "options": {
+        "a": "Conducting quality audits of discharge documentation after patients leave the hospital.",
+        "b": "Providing clinical oversight of nursing staff on medical-surgical units.",
+        "c": "Following patients across care settings, conducting home visits, reconciling medications, and coordinating follow-up care.",
+        "d": "Scheduling all outpatient appointments for patients before discharge."
+      },
+      "correct_option": "c",
+      "explanation": "The transitional care nurse (TCN) role, as defined by Dr. Mary Naylor's Transitional Care Model, is fundamentally cross-setting: the same nurse who knows the patient in the hospital accompanies them through the transition, conducts home visits, performs comprehensive medication reconciliation, identifies early warning signs of deterioration, and coordinates with the outpatient team to ensure continuity. The continuity of the nurse-patient relationship across settings is what makes this model effective. Auditing documentation after discharge (A) is a retrospective quality function — not transitional care. Providing oversight of unit nursing staff (B) is a nurse manager function. Scheduling appointments (D) is a single component of transition support — not the comprehensive TCN role. Per Naylor's Transitional Care Model evidence, AHRQ care transitions toolkit, and CMS transitional care management billing requirements, option C defines the TCN role.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A population health analyst is comparing diabetes-related hospitalization rates across five zip codes served by a health system. After adjusting for age and sex, rates remain significantly higher in two zip codes. The most appropriate next step is to",
+      "options": {
+        "a": "Implement a diabetes disease management program across all five zip codes equally.",
+        "b": "Investigate SDOH factors — including food access, housing, and income — in the two high-rate zip codes.",
+        "c": "Refer all diabetic patients in the two high-rate zip codes to an endocrinologist.",
+        "d": "Increase the frequency of HbA1c testing in all five zip codes."
+      },
+      "correct_option": "b",
+      "explanation": "When clinical and demographic adjustment fails to explain geographic variation in health outcomes, social determinants of health must be examined as the explanatory variables. The two zip codes with persistently elevated hospitalization rates likely have structural SDOH differences — food deserts, poverty concentration, inadequate housing, lack of transportation to healthcare — that drive the disparity. The appropriate analytical next step is to characterize these SDOH factors in the affected areas before designing targeted interventions. Implementing a uniform program across all five zip codes (A) ignores the identified variation and wastes resources. Specialist referral (C) is a clinical intervention that does not address structural drivers. Increasing HbA1c testing frequency (D) is a monitoring intensification — useful but not targeted to the identified geographic disparity. Per CDC health equity analytics guidelines, AHRQ SDOH and health outcomes research, and IHI population health equity frameworks, SDOH investigation is the correct next step when geographic health disparities persist after clinical adjustment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of secondary prevention in population health?",
+      "options": {
+        "a": "Administering HPV vaccines to adolescents before exposure to the virus.",
+        "b": "Screening adults aged 45 and over for colorectal cancer using colonoscopy.",
+        "c": "Providing cardiac rehabilitation to patients following a myocardial infarction.",
+        "d": "Fluoridating the community water supply to prevent dental caries."
+      },
+      "correct_option": "b",
+      "explanation": "Prevention is classified into three levels. Primary prevention prevents the disease from occurring in the first place (vaccination, fluoridation). Secondary prevention detects disease in its earliest, most treatable stage before symptoms develop (screening). Tertiary prevention manages established disease to minimize complications and disability (rehabilitation). Colorectal cancer screening in asymptomatic adults detects early-stage cancer or precancerous polyps before symptoms appear — this is the defining characteristic of secondary prevention. HPV vaccination (A) and water fluoridation (D) are primary prevention — they prevent the disease from occurring. Cardiac rehabilitation following a myocardial infarction (C) is tertiary prevention — managing an established disease to prevent further complications. Per CDC levels of prevention framework, USPSTF prevention classification, and CPHQ Population Health domain standards, colonoscopy screening is secondary prevention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital has a 30-day all-cause readmission rate of 18% for heart failure patients. The national benchmark is 12%. Which of the following is the most appropriate initial quality improvement action?",
+      "options": {
+        "a": "Implement penalties for physicians whose patients are readmitted.",
+        "b": "Conduct a root cause analysis of a sample of heart failure readmission cases to identify contributing factors.",
+        "c": "Reduce the length of stay for heart failure patients to free up beds.",
+        "d": "Require all heart failure patients to follow up with cardiology within 48 hours."
+      },
+      "correct_option": "b",
+      "explanation": "When performance is significantly below benchmark (18% vs. 12% national benchmark — a 50% relative excess), the first step is to understand why before designing interventions. A case-level RCA of readmitted patients will reveal the common contributing factors — medication non-adherence, inadequate discharge education, absence of timely follow-up, unaddressed SDOH barriers, early deterioration not detected, or care coordination failures. Without this understanding, any intervention is a guess. Penalizing physicians (A) is punitive and counterproductive without understanding the system causes. Reducing length of stay (C) may worsen readmissions by discharging patients before they are clinically stable. Requiring 48-hour follow-up (D) may be part of the eventual solution but cannot be the first action without understanding what is actually driving readmissions. Per AHRQ re-engineered discharge (RED) toolkit, CMS HRRP improvement guidance, and IHI readmission reduction frameworks, RCA of readmission cases is the correct first investigative step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In population health management, which of the following best describes the concept of health equity?",
+      "options": {
+        "a": "Ensuring that all patients receive the same clinical treatment regardless of their diagnosis.",
+        "b": "Distributing healthcare resources equally among all patients in a system.",
+        "c": "Ensuring that every individual has a fair opportunity to attain their highest level of health, with particular focus on removing disadvantages.",
+        "d": "Providing access to the same number of preventive care visits to all insured patients."
+      },
+      "correct_option": "c",
+      "explanation": "Health equity is not about sameness — it is about fairness. Equity recognizes that different people have different needs and face different barriers, and that achieving fair health outcomes requires distributing resources and support proportionally to need, not uniformly. The WHO and CDC define health equity as the state in which everyone has a fair and just opportunity to be as healthy as possible — which requires removing obstacles to health such as poverty, discrimination, and their consequences. Equal treatment (A) and equal resource distribution (B) describe equality, not equity — giving everyone the same thing ignores differential need. Equal visit counts (D) is a superficial equality metric. Per WHO Social Determinants of Health framework, CDC health equity definition, AHRQ health disparities research, and Healthy People 2030 health equity goals, option C is the correct definition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following care settings is specifically designed to serve patients who require short-term, intensive rehabilitation following an acute hospital stay?",
+      "options": {
+        "a": "Long-term acute care hospital (LTACH)",
+        "b": "Skilled nursing facility (SNF)",
+        "c": "Inpatient rehabilitation facility (IRF)",
+        "d": "Adult day health program"
+      },
+      "correct_option": "c",
+      "explanation": "An inpatient rehabilitation facility provides intensive, multidisciplinary rehabilitation — typically three or more hours of therapy per day — to patients recovering from acute events such as stroke, joint replacement, traumatic brain injury, or major orthopaedic surgery. IRFs are specifically designed for patients who are medically stable but require intensive rehabilitation before returning home or to a lower level of care. LTACHs (A) serve patients with complex medical needs requiring prolonged acute-level care (average stay greater than 25 days) — not rehabilitation-focused. SNFs (B) provide post-acute care including skilled nursing and therapy, but at a lower intensity than IRFs and for a broader range of conditions. Adult day health programs (D) are community-based daytime programs for individuals with functional impairment — not post-acute rehabilitation settings. Per CMS post-acute care definitions, AHRQ care transitions across settings, and CMSA case management standards, the IRF is the correct answer for intensive short-term rehabilitation post-hospitalization.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health plan is designing a program to reduce avoidable emergency department visits. Which of the following patient populations should be targeted first?",
+      "options": {
+        "a": "Patients who have had one ED visit in the past 12 months.",
+        "b": "Patients who are enrolled in Medicare Part A only.",
+        "c": "Patients with five or more ED visits in the past six months with no documented primary care provider.",
+        "d": "Patients who have been denied prior authorization for specialist care."
+      },
+      "correct_option": "c",
+      "explanation": "The target population for an avoidable ED utilization reduction program should be the individuals at highest risk for continued avoidable utilization — those who are already demonstrating a high-frequency, high-cost pattern of ED use in the absence of a primary care home. Five or more ED visits in six months is a severe high-utilizer pattern, and the absence of a primary care provider identifies a correctable structural gap (lack of a medical home) that is likely driving the ED dependency. These patients have both the highest burden and the greatest potential for improvement through care management and primary care linkage. One ED visit in 12 months (A) is within a normal range and not a priority target. Medicare Part A enrollment (B) does not define ED utilization risk. Prior authorization denial (D) identifies an access barrier but does not define an ED high-utilizer cohort. Per IHI hot-spotting methodology, CMS high-utilizer program design, and CMSA care management targeting standards, this cohort is the correct priority target.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A case manager is conducting a post-discharge follow-up call with a patient who was hospitalized for a hip fracture. The patient reports that she cannot afford her prescribed medications. Which of the following is the most appropriate next step?",
+      "options": {
+        "a": "Document the patient's statement and notify the discharging physician.",
+        "b": "Advise the patient to contact her insurance company directly.",
+        "c": "Connect the patient with a social worker and explore pharmaceutical assistance programs and generic medication options.",
+        "d": "Recommend that the patient visit the emergency department if her condition worsens."
+      },
+      "correct_option": "c",
+      "explanation": "Medication non-affordability is a social determinant of health and a leading cause of post-discharge medication non-adherence, which in turn drives readmissions. The appropriate care management response is to actively address the barrier — not to document and defer (A), which is passive, not to redirect to the insurance company (B), which places the burden on a potentially overwhelmed patient, and certainly not to direct her to the ED (D), which is inappropriate and costly. Connecting the patient with a social worker who can navigate pharmaceutical assistance programs (manufacturer patient assistance programs, state pharmaceutical programs, generic substitution) directly removes the identified barrier. Per AHRQ medication adherence research, CMS transitional care management standards, CMSA case management standards, and IHI readmission prevention frameworks, proactive SDOH barrier removal is the appropriate care management response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the primary goal of care coordination in population health management?",
+      "options": {
+        "a": "Ensuring that all patient care is delivered by a single provider to reduce fragmentation.",
+        "b": "Organizing patient care activities and sharing information among all participants concerned with a patient's care to achieve safer and more effective care.",
+        "c": "Reducing the number of specialists involved in a patient's care to decrease costs.",
+        "d": "Standardizing clinical pathways so that all patients receive identical treatment regardless of individual needs."
+      },
+      "correct_option": "b",
+      "explanation": "The AHRQ definition of care coordination is the deliberate organization of patient care activities between two or more participants — including the patient — involved in the patient's care to facilitate the appropriate delivery of healthcare services. Coordination requires communication, shared information, explicit accountability, and proactive planning across providers, settings, and time. Consolidating care to a single provider (A) is not care coordination — it simply eliminates the complexity that coordination is designed to manage. Reducing specialists (C) may sometimes be appropriate but is a utilization management strategy, not the goal of care coordination. Standardizing pathways (D) is a quality improvement strategy — useful within a setting but not the definition of coordination across settings. Per AHRQ care coordination measure development, NQF care coordination framework, CMSA standards of practice, and IHI care coordination improvement frameworks, option B is the authoritative definition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient with diabetes, congestive heart failure, and chronic kidney disease is being discharged from the hospital. Which of the following discharge planning actions is most critical for preventing a medication-related readmission?",
+      "options": {
+        "a": "Providing the patient with a printed copy of the hospital formulary.",
+        "b": "Conducting a comprehensive medication reconciliation comparing preadmission, inpatient, and discharge medication lists.",
+        "c": "Scheduling a follow-up appointment with the patient's primary care provider within 30 days.",
+        "d": "Educating the patient about the general importance of taking medications as prescribed."
+      },
+      "correct_option": "b",
+      "explanation": "Medication reconciliation is the process of comparing a patient's medication orders to all medications the patient has been taking — across the entire continuum of the hospitalization — to identify and resolve discrepancies such as omissions, duplications, dosing errors, and drug interactions. For a patient with three complex chronic conditions, the risk of medication discrepancy is extremely high. Research consistently shows that unreconciled medications are one of the leading causes of adverse drug events and readmissions in the post-discharge period. Providing the formulary (A) is an administrative function with no direct safety impact. A 30-day follow-up (C) is too delayed to catch medication errors that manifest in the first week post-discharge. General medication education (D) is insufficient without ensuring the regimen itself is accurate. Per TJC National Patient Safety Goal 03.06.01 (medication reconciliation), AHRQ medication safety research, IHI medication reconciliation guide, and CMS discharge planning standards, comprehensive reconciliation across all transitions is the critical action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system is analyzing the root causes of high readmission rates among patients with heart failure. The team identifies that 60% of readmitted patients had no follow-up appointment scheduled at the time of discharge. This finding represents a failure in which of the following?",
+      "options": {
+        "a": "Clinical documentation compliance.",
+        "b": "Discharge planning and care transitions processes.",
+        "c": "Medical staff credentialing and privileging.",
+        "d": "Utilization management and prior authorization."
+      },
+      "correct_option": "b",
+      "explanation": "The failure to schedule a follow-up appointment at the time of discharge is a direct failure of the discharge planning process — one of the most well-documented and modifiable risk factors for heart failure readmission. Effective discharge planning, as defined by CMS Conditions of Participation, requires that patients leave the hospital with a confirmed plan for follow-up care, not merely an instruction to \"call your doctor.\" The absence of a scheduled appointment is a systems failure in the transition of care from inpatient to outpatient settings. Clinical documentation (A) is a separate compliance domain. Credentialing and privileging (C) concern provider qualifications — unrelated to this finding. Utilization management (D) addresses appropriateness and duration of care — not the transition planning process. Per CMS discharge planning Conditions of Participation, AHRQ care transitions evidence, IHI heart failure readmission prevention bundle, and TJC discharge planning standards, this is a care transitions process failure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best example of a community-clinical linkage in population health?",
+      "options": {
+        "a": "A hospital employing a quality director to oversee inpatient safety programs.",
+        "b": "A primary care clinic partnering with a local YMCA to refer patients with obesity to structured exercise programs.",
+        "c": "A health system credentialing community health workers as clinical staff.",
+        "d": "A pharmacy benefit manager negotiating drug prices with pharmaceutical companies."
+      },
+      "correct_option": "b",
+      "explanation": "Community-clinical linkages are formal connections between clinical care settings (hospitals, clinics, physician offices) and community-based organizations (CBOs), social service agencies, and public health programs that enable clinical providers to connect patients to community resources that address their health and social needs. A primary care clinic referring obese patients to a structured YMCA exercise program is the textbook example: the clinical encounter identifies the health need, and the formal community partnership provides the evidence-based intervention in a non-clinical setting. A hospital employing a quality director (A) is an internal staffing decision. Credentialing community health workers (C) is a workforce development decision. PBM drug price negotiation (D) is a pharmaceutical benefits function. Per CDC community-clinical linkage framework, IHI community partnerships in population health, Healthy People 2030 community health goals, and HRSA community health integration standards, option B is the defining example.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A population health program is evaluating its effectiveness. Which of the following outcome measures is most appropriate for demonstrating the impact of a diabetes disease management program?",
+      "options": {
+        "a": "Number of diabetes education classes offered per quarter.",
+        "b": "Percentage of enrolled diabetic patients with HbA1c less than 8 at 12 months.",
+        "c": "Number of care managers assigned to the diabetes program.",
+        "d": "Patient satisfaction scores for diabetes-related educational materials."
+      },
+      "correct_option": "b",
+      "explanation": "An outcome measure directly captures the clinical result the program is designed to achieve — in this case, glycemic control in patients with diabetes. HbA1c less than 8 is a widely accepted clinical threshold for adequate diabetes management and is used as a HEDIS quality measure (Comprehensive Diabetes Care). Measuring what percentage of enrolled patients achieve this threshold at 12 months directly evaluates program effectiveness at the patient outcome level. Number of education classes offered (A) is a process measure — it counts program activity, not results. Number of care managers (C) is a structural measure — it describes resources, not outcomes. Patient satisfaction with educational materials (D) is a patient experience measure — valuable, but does not assess clinical outcomes. Per Donabedian's structure-process-outcome framework, NCQA HEDIS diabetes outcome measures, IHI population health outcome measurement standards, and CMS diabetes quality measures, option B is the appropriate outcome measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes syndromic surveillance in the context of population health?",
+      "options": {
+        "a": "Monitoring individual patients with known infectious diseases through weekly clinic visits.",
+        "b": "Tracking patterns of symptoms and health indicators in real time to detect potential disease outbreaks before they are confirmed by laboratory testing.",
+        "c": "Reviewing death certificates to identify trends in cause-specific mortality.",
+        "d": "Conducting annual surveys of community members about their perceived health status."
+      },
+      "correct_option": "b",
+      "explanation": "Syndromic surveillance is a public health intelligence system that monitors pre-diagnostic health data — emergency department chief complaints, over-the-counter medication sales, school absenteeism, and other early signals — in real time to detect unusual health events or emerging outbreaks before laboratory confirmation is available. The defining feature is its prospective, real-time, pre-diagnostic nature. It is designed to provide early warning, not to track known cases. Individual patient monitoring (A) is clinical management, not surveillance. Death certificate review (C) is mortality surveillance — retrospective and post-diagnostic. Annual health surveys (D) are cross-sectional epidemiological tools — not real-time surveillance. Per CDC BioSense syndromic surveillance platform documentation, AHRQ public health surveillance frameworks, and CPHQ Population Health domain standards, option B is the authoritative definition of syndromic surveillance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A care manager is assigned to a patient with multiple chronic conditions who has been hospitalized three times in the past year. During the initial assessment, the patient discloses that she often skips meals because she cannot afford food. Which of the following is the most appropriate immediate action?",
+      "options": {
+        "a": "Notify the attending physician of the patient's dietary non-compliance.",
+        "b": "Provide the patient with a list of low-cost healthy recipes.",
+        "c": "Connect the patient with a social worker to assess eligibility for food assistance programs such as SNAP.",
+        "d": "Document the finding and include it in the next quarterly care management report."
+      },
+      "correct_option": "c",
+      "explanation": "Food insecurity is a critical social determinant of health with direct, documented effects on chronic disease management — patients who cannot afford adequate food cannot manage conditions such as diabetes, heart failure, or kidney disease regardless of clinical intervention quality. The appropriate care management response to an identified SDOH need is immediate active linkage to community resources — in this case, SNAP (Supplemental Nutrition Assistance Program) and potentially food bank referrals. Framing the issue as dietary non-compliance (A) pathologizes a structural economic barrier. Providing low-cost recipes (B) does not address the fundamental affordability barrier. Deferring to a quarterly report (D) is entirely inappropriate when a patient is actively experiencing food insecurity. Per CMSA care management standards, AHRQ SDOH intervention guidelines, CMS social needs screening and intervention frameworks, and IHI population health equity tools, immediate social worker linkage is the correct action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In population health management, the term \"burden of disease\" refers to",
+      "options": {
+        "a": "The financial cost incurred by a hospital for treating a specific patient population.",
+        "b": "The impact of a health condition on a population, measured in terms of mortality, morbidity, and disability.",
+        "c": "The regulatory requirements placed on health systems for reporting chronic disease rates.",
+        "d": "The administrative workload generated by managing patients with complex conditions."
+      },
+      "correct_option": "b",
+      "explanation": "Burden of disease is a public health and epidemiological concept that quantifies the total impact of a health condition on a population — encompassing deaths (mortality), illness and suffering (morbidity), and long-term functional impairment (disability). It is typically measured using metrics such as disability-adjusted life years (DALYs) or years of life lost (YLL). This information is used to prioritize population health resources, policy, and interventions toward conditions that impose the greatest total harm on communities. Financial cost (A) is an economic burden metric — related but distinct from burden of disease as defined in public health. Regulatory reporting requirements (C) are a compliance concept. Administrative workload (D) is an operational concept. Per WHO Global Burden of Disease study framework, CDC burden of disease measurement standards, and CPHQ Population Health domain standards, option B is the authoritative definition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital quality team is designing a care transitions program for high-risk patients. Which of the following patient characteristics would identify an individual as high-risk for readmission?",
+      "options": {
+        "a": "Age 30, single diagnosis, no prior hospitalizations.",
+        "b": "Age 72, three chronic conditions, low health literacy, lives alone, and was hospitalized twice in the past six months.",
+        "c": "Age 55, well-controlled hypertension, strong family support, and reliable transportation.",
+        "d": "Age 40, post-surgical patient with no complications, discharged to home with follow-up scheduled."
+      },
+      "correct_option": "b",
+      "explanation": "Validated readmission risk tools — including LACE (Length of stay, Acuity of admission, Comorbidities, Emergency visits), HOSPITAL score, and others — consistently identify the following as the strongest predictors of 30-day readmission: advanced age, multiple comorbidities, prior hospitalizations, low health literacy, social isolation, and lack of social support. The patient in option B presents with five major risk factors simultaneously: age 72 (advanced age), three chronic conditions (high comorbidity burden), low health literacy (self-management risk), lives alone (social isolation), and two prior hospitalizations in six months (the strongest single predictor of readmission). Options A, C, and D describe patients with few or no readmission risk factors. Per CMS readmission risk stratification guidelines, AHRQ readmission prevention evidence review, and IHI care transitions program design standards, option B is the high-risk profile.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A population health program tracks preventable hospitalizations for ambulatory care-sensitive conditions (ACSCs). Which of the following is the best example of an ACSC?",
+      "options": {
+        "a": "Appendicitis requiring emergency appendectomy.",
+        "b": "Traumatic hip fracture in an elderly patient following a fall.",
+        "c": "Uncontrolled asthma resulting in hospitalization.",
+        "d": "Acute myocardial infarction requiring coronary intervention."
+      },
+      "correct_option": "c",
+      "explanation": "Ambulatory care-sensitive conditions are conditions for which timely and effective outpatient care can prevent the need for hospitalization or significantly reduce the likelihood of a hospitalization. AHRQ's Prevention Quality Indicators (PQIs) define a standard set of ACSCs, which include uncontrolled asthma, uncontrolled diabetes, congestive heart failure exacerbations, hypertension, and vaccine-preventable diseases. Asthma hospitalization is preventable through effective outpatient management — appropriate controller medications, patient education, trigger avoidance, and regular follow-up. Appendicitis (A) is an acute surgical emergency that cannot be prevented through outpatient care. Traumatic hip fracture (B) results from a fall — it is a physical injury, not an ambulatory care-sensitive condition. Acute MI (D) is an acute cardiac emergency requiring urgent intervention — not a condition preventable through routine outpatient management. Per AHRQ Prevention Quality Indicators technical specifications, CMS quality reporting ACSC measures, and CPHQ Population Health domain standards, uncontrolled asthma hospitalization is the correct ACSC example.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system is implementing a universal social determinants of health screening program in its primary care clinics. Which of the following is the most appropriate validated tool for this purpose?",
+      "options": {
+        "a": "The Charlson Comorbidity Index.",
+        "b": "The PRAPARE (Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences).",
+        "c": "The APACHE II severity scoring system.",
+        "d": "The CAGE questionnaire."
+      },
+      "correct_option": "b",
+      "explanation": "PRAPARE is a nationally recognized, validated SDOH screening tool developed by the National Association of Community Health Centers (NACHC) in collaboration with the Association of Asian Pacific Community Health Organizations and others. It is specifically designed for use in primary care and community health center settings to systematically screen patients for a comprehensive set of social determinants including housing instability, food insecurity, transportation barriers, social isolation, education, employment, and income. The Charlson Comorbidity Index (A) measures clinical comorbidity burden — not social determinants. APACHE II (C) is an ICU severity of illness scoring system. The CAGE questionnaire (D) screens for alcohol use disorder — not social determinants. Per NACHC PRAPARE implementation guide, CMS SDOH screening framework, AHRQ social needs screening tools, and Healthy People 2030 SDOH measurement standards, PRAPARE is the correct validated SDOH screening tool.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best description of \"warm handoff\" in care transitions?",
+      "options": {
+        "a": "A written care plan transferred between two providers via secure electronic messaging.",
+        "b": "A real-time verbal introduction and information transfer between a discharging provider and the receiving provider or community resource, often with the patient present.",
+        "c": "A 30-day post-discharge telephone call from a nurse to a recently discharged patient.",
+        "d": "A standardized discharge summary sent from a hospital to a patient's primary care provider within 72 hours."
+      },
+      "correct_option": "b",
+      "explanation": "A warm handoff is a direct, real-time communication — typically in person or by phone — in which the transferring provider personally introduces the patient to the receiving provider or community resource and transfers key clinical and social information in a conversational, humanizing exchange rather than through documentation alone. The patient is ideally present, which supports their engagement and ensures continuity of relationship. This contrasts with a \"cold handoff\" in which information is simply transmitted through written documentation with no direct provider-to-provider communication. A written care plan (A) and a discharge summary (D) describe cold handoffs — documentation-based information transfer without direct communication. A post-discharge phone call (C) is a transitional support intervention, not a handoff. Per IHI care transitions tools, AHRQ SBAR and handoff communication standards, and CMSA care transitions best practices, option B defines a warm handoff.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A managed care organization is designing a program to improve adherence to preventive care services among its enrolled population. Which of the following strategies is most likely to be effective?",
+      "options": {
+        "a": "Mailing a general health newsletter to all members quarterly.",
+        "b": "Sending targeted, personalized outreach to members who have documented care gaps in specific preventive services.",
+        "c": "Posting preventive care guidelines on the organization's public website.",
+        "d": "Requiring all members to complete a health risk assessment annually as a condition of enrollment."
+      },
+      "correct_option": "b",
+      "explanation": "The evidence base for closing preventive care gaps consistently demonstrates that targeted, personalized outreach to individuals with identified care gaps is far more effective than mass communication strategies. Generic newsletters (A) and website postings (C) are low-engagement, low-specificity communications that reach everyone equally and are therefore particularly effective at reaching no one specifically. Targeted outreach that names the specific service the individual is missing — in a channel and language appropriate to that person — produces dramatically higher response rates. Mandatory health risk assessments (D) may generate data but do not themselves close care gaps. Per NCQA HEDIS quality improvement methodology, IHI population health management frameworks, CMS quality improvement organization (QIO) strategies, and managed care population health evidence, targeted individualized outreach is the evidence-based approach.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following represents the highest level of patient activation in the Patient Activation Measure (PAM) framework?",
+      "options": {
+        "a": "The patient is aware that their health condition requires attention but feels overwhelmed by managing it.",
+        "b": "The patient understands their role in managing their health but lacks confidence in their ability to make changes.",
+        "c": "The patient is beginning to take action on their health management goals but struggles with sustaining behaviors.",
+        "d": "The patient is proactively maintaining healthy behaviors and working to prevent health decline even when faced with challenges."
+      },
+      "correct_option": "d",
+      "explanation": "The Patient Activation Measure (PAM), developed by Judith Hibbard and colleagues, is a validated 13-item instrument that measures patient knowledge, skill, and confidence for self-management across a spectrum of four activation levels. Level 1: Patient is passive and overwhelmed. Level 2: Patient lacks confidence despite some knowledge. Level 3: Patient is beginning to take action. Level 4: Patient is proactively self-managing and preventing deterioration even under stress. Option D precisely describes PAM Level 4 — the highest level of patient activation — characterized by proactive health maintenance and resilience in the face of challenges. Options A, B, and C describe PAM Levels 1, 2, and 3, respectively. Per Hibbard's PAM validation research, IHI patient engagement frameworks, AHRQ patient activation and self-management evidence, and CMSA care management standards, option D is the highest activation level.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is reviewing data on emergency department visits by members of a health plan. The data shows that 5% of members account for 55% of all ED visits. This finding is best described as an example of",
+      "options": {
+        "a": "The bell curve distribution of healthcare utilization.",
+        "b": "The 80/20 rule (Pareto Principle) applied to healthcare utilization.",
+        "c": "Regression to the mean in patient utilization patterns.",
+        "d": "Random variation in emergency department demand."
+      },
+      "correct_option": "b",
+      "explanation": "The Pareto Principle states that approximately 80% of effects come from 20% of causes. In healthcare utilization, this principle manifests as a small proportion of the population accounting for a disproportionately large share of healthcare utilization and costs. The finding that 5% of members account for 55% of ED visits is a more extreme but conceptually identical manifestation of the Pareto distribution — a small, identifiable minority drives the majority of utilization. This is the empirical foundation of hot-spotting and high-utilizer programs. A bell curve (A) would show utilization normally distributed across the population — the opposite of what is described. Regression to the mean (C) describes the statistical tendency for extreme values to move toward the average over time — a different concept. Random variation (D) implies no identifiable pattern — contradicted by the clustering of visits in 5% of members. Per Pareto Principle application in healthcare quality, IHI hot-spotting methodology, and CPHQ performance improvement standards, option B is correct.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the context of population health, which of the following best describes the concept of \"upstream\" interventions?",
+      "options": {
+        "a": "Interventions delivered in outpatient settings rather than inpatient settings.",
+        "b": "Interventions targeting the social, economic, and environmental conditions that determine health outcomes before disease develops.",
+        "c": "Interventions delivered earlier in the disease course, before complications develop.",
+        "d": "Interventions coordinated by primary care providers rather than specialists."
+      },
+      "correct_option": "b",
+      "explanation": "The \"upstream-downstream\" metaphor in population health, derived from a classic public health parable, distinguishes between rescuing people from the river (treating disease — downstream) versus going upstream to find out why they are falling in and fixing the problem at its source (addressing social, economic, and environmental determinants that cause disease). Upstream interventions address the root structural causes of poor health — poverty, inadequate housing, food insecurity, pollution, lack of education — before health conditions develop. Options A, C, and D describe care setting preferences, disease stage timing, and provider type — these are all clinical system characteristics, not the SDOH structural definition of upstream. Per WHO Commission on Social Determinants of Health, CDC health in all policies framework, Healthy People 2030 SDOH framework, and IHI population health upstream intervention models, option B is the correct definition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient is being discharged after hospitalization for a COPD exacerbation. The discharge plan includes instructions to avoid smoking. The patient has smoked for 40 years and states she is \"not ready to quit.\" Which stage of the Transtheoretical Model (Stages of Change) does this patient represent?",
+      "options": {
+        "a": "Contemplation",
+        "b": "Preparation",
+        "c": "Precontemplation",
+        "d": "Action"
+      },
+      "correct_option": "c",
+      "explanation": "Prochaska and DiClemente's Transtheoretical Model (TTM) describes five stages of behavior change: Precontemplation (not considering change, no intention to change in the next six months), Contemplation (aware of the problem, considering change in the next six months), Preparation (intending to take action in the next 30 days, beginning to make small changes), Action (actively modifying behavior), and Maintenance (sustaining the behavior change). A patient who states she is \"not ready to quit\" after 40 years of smoking is in Precontemplation — she does not intend to change her behavior and may not perceive it as a problem requiring change. Contemplation (A) would involve acknowledging the problem and considering quitting. Preparation (B) would involve planning to quit. Action (D) would involve actively attempting cessation. Per Prochaska's TTM framework, AHRQ smoking cessation guidelines, and CPHQ Population Health and Care Transitions domain standards, this patient is in the precontemplation stage.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A community health needs assessment (CHNA) is required for which of the following organizations under the Affordable Care Act?",
+      "options": {
+        "a": "For-profit specialty hospitals.",
+        "b": "Investor-owned managed care organizations.",
+        "c": "Nonprofit hospitals with 501(c)(3) tax-exempt status.",
+        "d": "Federally qualified health centers only."
+      },
+      "correct_option": "c",
+      "explanation": "Section 9007 of the Affordable Care Act (ACA) requires all nonprofit hospitals with 501(c)(3) tax-exempt status to conduct a Community Health Needs Assessment (CHNA) every three years and develop an implementation strategy to meet the identified community health needs. Failure to comply results in a $50,000 excise tax penalty. This requirement does not apply to for-profit hospitals (A), investor-owned managed care organizations (B), or exclusively to FQHCs (D) — though FQHCs have their own federal requirements under HRSA. The CHNA must involve input from community members, public health experts, and medically underserved populations. Per ACA Section 9007, IRS Form 990 Schedule H community benefit requirements, CMS nonprofit hospital community benefit standards, and AHRQ community health needs assessment guidance, option C is the legally correct answer.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team is using the IHI Model for Improvement to design a diabetes disease management program. Which of the following correctly represents the three fundamental questions of the Model for Improvement?",
+      "options": {
+        "a": "What is the problem? Who is responsible? How will we measure success?",
+        "b": "What are we trying to accomplish? How will we know that a change is an improvement? What changes can we make that will result in improvement?",
+        "c": "What is the current state? What is the desired state? How do we close the gap?",
+        "d": "What is the root cause? What is the corrective action? How will we monitor recurrence?"
+      },
+      "correct_option": "b",
+      "explanation": "The IHI Model for Improvement, developed by Associates in Process Improvement (API) and widely disseminated by IHI, structures quality improvement work around three fundamental questions that must be answered before the PDSA (Plan-Do-Study-Act) cycle is applied: (1) What are we trying to accomplish? — defines the improvement goal with measurable aims; (2) How will we know that a change is an improvement? — defines the measures that will determine success; (3) What changes can we make that will result in improvement? — identifies the specific changes to test. Options A, C, and D describe problem-solving frameworks, gap analysis, and RCA methodology respectively — none of these are the IHI Model for Improvement's three fundamental questions. Per IHI Model for Improvement framework, PDSA cycle methodology, and CPHQ performance improvement domain standards, option B is the correct and precise answer.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient who was discharged after a total knee replacement is readmitted within seven days with a wound infection. A root cause analysis reveals that the patient did not receive written wound care instructions at discharge. This represents a failure in which quality domain?",
+      "options": {
+        "a": "Patient safety — failure to prevent a healthcare-acquired infection.",
+        "b": "Effectiveness — failure to apply evidence-based discharge education practices.",
+        "c": "Efficiency — failure to reduce unnecessary hospital days through proper discharge planning.",
+        "d": "Timeliness — failure to provide post-discharge follow-up within the required timeframe."
+      },
+      "correct_option": "b",
+      "explanation": "The IOM/NQF six domains of healthcare quality are: Safety, Effectiveness, Patient-Centeredness, Timeliness, Efficiency, and Equity. Effectiveness is defined as providing services based on scientific knowledge to all who could benefit — and avoiding care to those not likely to benefit. Providing written wound care instructions is an evidence-based best practice for post-surgical discharge — there is clear scientific evidence that patients who receive proper wound care education have lower rates of post-operative wound complications. Failure to provide these instructions is a failure of effectiveness — a failure to apply evidence-based practice. This is not primarily a safety failure (A) because the wound infection was a downstream consequence of a care process omission, not a direct safety violation. Efficiency (C) addresses resource waste — not the focus here. Timeliness (D) addresses delays in care — not this scenario. Per IOM quality domains, NQF quality measurement framework, and CPHQ performance improvement standards, this is a failure of effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system is developing a quality improvement initiative to address health disparities in hypertension control among African American patients in its primary care network. Which of the following data disaggregation strategies is essential for monitoring progress?",
+      "options": {
+        "a": "Tracking overall hypertension control rates for all patients in the practice.",
+        "b": "Stratifying blood pressure control data by race and ethnicity to identify and close the disparity gap.",
+        "c": "Monitoring the number of hypertension-related hospitalizations system-wide.",
+        "d": "Comparing the organization's hypertension rates to national HEDIS benchmarks without stratification."
+      },
+      "correct_option": "b",
+      "explanation": "To address a health disparity, the data must be disaggregated by the very characteristic that defines the disparity — in this case, race and ethnicity. Without stratification, overall performance data may look acceptable even while a subgroup continues to experience significantly worse outcomes. Disparity cannot be seen in aggregate data, and it cannot be closed without measurement. Tracking overall rates (A) masks the disparity. Monitoring hospitalizations system-wide (C) is too aggregate and too indirect to measure hypertension control disparities. Comparing to national benchmarks without stratification (D) compounds the masking problem by using an aggregate comparison. Per NQF health equity measures framework, AHRQ National Healthcare Quality and Disparities Report methodology, CMS health equity data collection requirements, and IHI health equity improvement frameworks, race and ethnicity stratification is essential for disparity monitoring and elimination.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is developing a program to reduce 30-day readmissions for patients with heart failure. Which of the following elements is a component of the Project RED (Re-Engineered Discharge) toolkit?",
+      "options": {
+        "a": "Assigning a hospitalist to manage all post-discharge follow-up calls.",
+        "b": "Providing the patient with an after-hospital care plan that includes a medication list, follow-up appointments, and warning signs.",
+        "c": "Requiring all heart failure patients to be seen in a specialty heart failure clinic within 48 hours.",
+        "d": "Conducting an FMEA of the discharge process to identify potential failure modes."
+      },
+      "correct_option": "b",
+      "explanation": "Project RED (Re-Engineered Discharge), developed by Dr. Brian Jack and colleagues at Boston University and supported by AHRQ, is a structured, evidence-based discharge program with 12 defined components. One of the core elements is providing the patient with a written, personalized After Hospital Care Plan (AHCP) — a patient-friendly document that includes their medication list, a scheduled follow-up appointment, pending test results, and specific warning signs that should prompt them to seek care. This document is co-created with the patient and reinforced through a post-discharge follow-up phone call. Hospitalist-led post-discharge calls (A) is a staffing model choice — not a specific Project RED component. A mandatory 48-hour heart failure clinic visit (C) may be appropriate but is not a Project RED component. FMEA of the discharge process (D) is a proactive risk tool — also not a Project RED component. Per AHRQ Project RED toolkit, Boston University Center for Healthcare Organization research, and CMS transitional care management standards, option B is correct.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A care manager is assessing a 68-year-old patient with diabetes who lives alone and reports difficulty preparing meals following a recent hospitalization. Which of the following community resources is most appropriate to address this need?",
+      "options": {
+        "a": "Meals on Wheels or a similar home-delivered meal program.",
+        "b": "A diabetic cooking class at the local hospital.",
+        "c": "Referral to an outpatient dietitian for medical nutrition therapy.",
+        "d": "Provision of a list of low-sodium restaurant options in the patient's neighbourhood."
+      },
+      "correct_option": "a",
+      "explanation": "The patient has two specific barriers: she lives alone (limiting meal preparation support) and has recently been hospitalized (limiting physical capacity for meal preparation). The appropriate intervention must address both the social isolation and the functional limitation — which means bringing meals to the patient rather than requiring the patient to attend a program or prepare their own food. Meals on Wheels delivers nutritionally appropriate meals to homebound individuals and also provides a daily wellness check for those living alone. A cooking class (B) requires the patient to travel and have the physical capacity to participate — both are barriers in the current context. Outpatient dietitian referral (C) is clinically appropriate for long-term nutrition management but does not address the immediate practical problem. A restaurant list (D) does not address functional limitations in meal access. Per CMSA community resource linkage standards, CMS social needs intervention frameworks, AHRQ care transition guidelines, and Healthy People 2030 food access goals, Meals on Wheels is the appropriate immediate resource.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A population health program reports that 78% of its enrolled diabetic patients had a foot examination documented in the past 12 months. This metric is best classified as which type of quality measure?",
+      "options": {
+        "a": "Outcome measure.",
+        "b": "Structure measure.",
+        "c": "Process measure.",
+        "d": "Balancing measure."
+      },
+      "correct_option": "c",
+      "explanation": "Using Donabedian's structure-process-outcome framework, process measures capture what was done to or for the patient — the specific care activities and services provided. Whether a diabetic foot examination was performed and documented is a process measure: it measures the delivery of a specific evidence-based clinical activity, not the clinical result of that activity. An outcome measure (A) would capture the result of care — for example, the rate of diabetic foot ulcers or amputations. A structure measure (B) would capture the resources, facilities, or organizational characteristics in place — for example, whether the clinic has a podiatrist on staff. A balancing measure (D) monitors unintended consequences of an improvement effort. Diabetic foot examination rate is a HEDIS process measure within the Comprehensive Diabetes Care measure set. Per Donabedian's quality framework, NCQA HEDIS Comprehensive Diabetes Care specifications, NQF measure classification standards, and CPHQ data analytics domain competencies, option C is correct.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health plan is tracking the percentage of members who received a colorectal cancer screening in accordance with USPSTF guidelines. This is an example of which type of population health metric?",
+      "options": {
+        "a": "Utilization rate.",
+        "b": "Care gap measure.",
+        "c": "Sentinel event indicator.",
+        "d": "Efficiency measure."
+      },
+      "correct_option": "b",
+      "explanation": "A care gap measure quantifies the proportion of a population that is not receiving a recommended evidence-based service to which they are entitled based on their age, diagnosis, or risk profile. Tracking the percentage of members who have received colorectal cancer screening measures the inverse of the care gap: those who have not received screening represent the gap — the difference between recommended care and actual care delivered. This is the foundational measure of population-level preventive care performance and is the basis for HEDIS colorectal cancer screening quality measures. Utilization rate (A) measures how often a service or setting is used — a different concept. Sentinel event indicator (C) tracks specific serious adverse events — unrelated to preventive care screening. Efficiency measure (D) tracks resource utilization relative to outcomes. Per NCQA HEDIS colorectal cancer screening measure, IHI care gap identification methodology, CMS preventive care quality measures, and CPHQ Population Health domain standards, option B is the correct classification.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is asked to evaluate the effectiveness of a care management program for patients with congestive heart failure. Which of the following represents the most direct outcome measure for evaluating program effectiveness?",
+      "options": {
+        "a": "The number of care management telephone calls completed per month.",
+        "b": "Patient satisfaction scores related to care management interactions.",
+        "c": "The 30-day all-cause readmission rate for enrolled heart failure patients.",
+        "d": "The percentage of enrolled patients who have a documented care plan."
+      },
+      "correct_option": "c",
+      "explanation": "The 30-day all-cause readmission rate is the definitive outcome measure for evaluating the effectiveness of a heart failure care management program because it directly captures the primary adverse outcome the program is designed to prevent — return to the hospital. It measures the end result of all care management activities in terms of patient health outcomes, not program activity. Telephone calls completed (A) is a process measure — it counts activity, not results. Patient satisfaction scores (B) measure experience of care — valuable, but not a clinical outcome. Percentage with a documented care plan (C) is also a process measure — documentation does not equal effectiveness. Per CMS HRRP outcome measurement standards, AHRQ care management evaluation frameworks, IHI heart failure readmission bundle outcome measurement, and NQF outcome measure specifications, the 30-day readmission rate is the gold standard outcome measure for this program type.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system is working to reduce disparities in breast cancer screening rates among women aged 50–74 in underserved communities. Which of the following interventions is most likely to be effective?",
+      "options": {
+        "a": "Increasing the number of mammography machines at the main hospital campus.",
+        "b": "Deploying mobile mammography units with community health worker outreach and navigation support to underserved neighbourhoods.",
+        "c": "Mailing informational brochures about the importance of mammography to all female members over age 50.",
+        "d": "Offering a financial incentive to primary care providers for each mammography referral completed."
+      },
+      "correct_option": "b",
+      "explanation": "Disparities in breast cancer screening are driven by structural access barriers — transportation limitations, geographic distance from screening facilities, cultural and linguistic barriers, distrust of the healthcare system, and competing social priorities. The most effective intervention is one that brings the screening to the community (mobile mammography), pairs it with trusted community health workers who can engage and educate community members in culturally appropriate ways, and provides navigation support to overcome follow-up barriers. Increasing hospital-based mammography capacity (A) does not address geographic or transportation barriers for underserved communities. Mailing informational brochures (C) is a low-intensity, high-reach strategy with limited effectiveness for populations facing structural access barriers. Provider financial incentives (D) may increase referrals but do not address the patient-level access barriers that prevent screening completion. Per CDC breast cancer screening equity programs, AHRQ health disparities intervention evidence, IHI health equity improvement frameworks, and CMS breast cancer screening quality measures, option B is the most effective equity-focused intervention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient with schizophrenia is being discharged from an acute psychiatric unit. To prevent readmission, the most critical element of the discharge plan is",
+      "options": {
+        "a": "Providing the patient with a 30-day supply of antipsychotic medication and a prescription for refills.",
+        "b": "Ensuring the patient has a confirmed outpatient mental health appointment scheduled before discharge, along with a warm handoff to the outpatient provider.",
+        "c": "Educating the patient about the importance of medication adherence using written materials.",
+        "d": "Notifying the patient's family members of the discharge and providing them with a medication schedule."
+      },
+      "correct_option": "b",
+      "explanation": "The most dangerous period for patients discharged from acute psychiatric care is the first 30 days — particularly the first week — after discharge. The risk of readmission, self-harm, and crisis is highest during this window. Research consistently demonstrates that having a confirmed outpatient mental health appointment prior to discharge, combined with a warm handoff that connects the patient relationally to the receiving provider, is the most powerful protective factor against psychiatric readmission. A medication supply (A) is necessary but insufficient — many psychiatric readmissions occur due to engagement failure, not medication supply failure. Written education (C) has very limited impact without a relational connection to ongoing care. Family notification (D) is appropriate when clinically indicated and consented to, but does not substitute for a confirmed clinical follow-up. Per SAMHSA psychiatric discharge planning guidelines, AHRQ behavioral health care transitions evidence, CMS psychiatric readmission reduction initiatives, and TJC behavioral health care standards, a confirmed and connected outpatient appointment is the critical element.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional at a community health center reviews data showing that Latina women in the catchment area have the lowest rates of cervical cancer screening in the region. Which of the following approaches best reflects a culturally competent, SDOH-informed quality improvement strategy?",
+      "options": {
+        "a": "Translating the clinic's existing cervical cancer screening brochure into Spanish.",
+        "b": "Partnering with community promotoras (lay health educators) to conduct outreach, education, and patient navigation in the community using a culturally and linguistically appropriate approach.",
+        "c": "Requiring all Latina patients to complete a cervical cancer screening at their next primary care visit as a condition of continued care.",
+        "d": "Sending a letter in English and Spanish to all Latina patients over age 21 reminding them that cervical cancer screening is recommended."
+      },
+      "correct_option": "b",
+      "explanation": "The promotora (community health worker) model is a well-validated, evidence-based approach for addressing health disparities in Latino communities. Promotoras are trusted members of the community who share the cultural background and language of the population they serve — this trust is the fundamental asset that overcomes the cultural, linguistic, and systemic barriers that prevent Latina women from accessing preventive screening services. This approach addresses the upstream SDOH barriers (distrust, cultural barriers, language, navigation challenges) rather than simply providing information in a different language. Translating a brochure (A) removes only the language barrier while leaving cultural and navigational barriers intact — it is a necessary but grossly insufficient intervention. Making screening a condition of continued care (C) is coercive and ethically inappropriate — it may deter care-seeking entirely. A bilingual letter (D) is a passive outreach strategy with minimal effectiveness for populations with deep structural barriers to care. Per CDC promotora/community health worker evidence base, AHRQ health disparities interventions, Healthy People 2030 health equity goals, and HRSA community health worker program standards, the promotora model is the evidence-based culturally competent QI strategy.",
+      "difficulty": "medium"
+    }
+  ]
+}

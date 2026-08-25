@@ -1,66 +1,64 @@
 {
-  "domain_order": 3,
-  "chapter_order": 1,
-  "topic": "Performance and Process Improvement",
+  "topic": "Population Health and Care Transitions",
   "questions": [
     {
-      "text": "In the PDSA (Plan-Do-Study-Act) cycle, what is the primary purpose of the 'Study' phase?",
+      "text": "A health system is using the IHI Triple Aim to guide its population health strategy. A board member asks why some organizations have shifted to a \"Quadruple Aim.\" What is the most accurate explanation?",
       "options": {
-        "a": "To implement the improvement intervention on a large scale",
-        "b": "To analyze results and determine whether the change led to improvement",
-        "c": "To plan the next improvement project",
-        "d": "To assign tasks to the improvement team"
+        "a": "The Quadruple Aim replaces cost reduction with patient satisfaction as a core aim",
+        "b": "The Quadruple Aim adds clinician well-being because burnout undermines the other three aims",
+        "c": "The Quadruple Aim expands population health to include community benefit requirements",
+        "d": "The Quadruple Aim incorporates health equity as an explicit fourth domain"
       },
       "correct_option": "b",
-      "explanation": "The Study (or Check) phase involves analyzing the data collected during the Do phase to determine if the change produced the expected improvement, and identifying what was learned.",
-      "difficulty": "easy"
-    },
-    {
-      "text": "A Pareto chart is used in quality improvement to:",
-      "options": {
-        "a": "Show the normal distribution of patient wait times",
-        "b": "Identify the 'vital few' causes that account for the majority of problems",
-        "c": "Map every step in a clinical process",
-        "d": "Compare two groups of patients in a clinical trial"
-      },
-      "correct_option": "b",
-      "explanation": "A Pareto chart is a bar chart where causes are ordered by frequency. It applies the 80/20 rule — typically 80% of problems stem from 20% of causes — helping teams prioritize improvement efforts.",
+      "explanation": "The Quadruple Aim, developed as an extension of the IHI Triple Aim, adds clinician well-being as a fourth aim, recognizing that provider burnout directly undermines patient experience, population health, and cost reduction. It does not replace any existing aim or add equity as a formal fourth domain (though equity is increasingly discussed as a fifth aim in more recent literature).",
       "difficulty": "medium"
     },
     {
-      "text": "Which Lean concept focuses on eliminating activities that do not add value from the patient's perspective?",
+      "text": "A federally qualified health center is implementing the NACHC Community Health Center perspective. Which of the following best describes its distinguishing feature compared to the IHI Triple Aim?",
       "options": {
-        "a": "Kaizen",
-        "b": "Muda (waste) reduction",
-        "c": "Six Sigma DMAIC",
-        "d": "Statistical Process Control"
+        "a": "It focuses on financial performance for hospital systems",
+        "b": "It operationalizes population health at the community level, addressing vulnerable populations and social risk factors",
+        "c": "It provides a framework for specialty care coordination across provider networks",
+        "d": "It replaces HEDIS measures with community-defined quality indicators"
       },
       "correct_option": "b",
-      "explanation": "Muda is the Japanese term for waste. Lean methodology identifies seven types of waste (e.g., waiting, overproduction, defects) and focuses on eliminating activities that consume resources without adding value for the patient.",
+      "explanation": "The NACHC perspective operationalizes population health at the ground level through community health centers, specifically targeting vulnerable populations and social risk factors. Unlike the Triple Aim, which is a broad strategic framework applicable across settings, the NACHC model is community-anchored and equity-focused in its implementation design.",
       "difficulty": "medium"
     },
     {
-      "text": "A run chart that shows data points consistently above the median for eight or more consecutive points indicates:",
+      "text": "Wagner's Chronic Care Model is best described as which of the following?",
       "options": {
-        "a": "Random variation — no action required",
-        "b": "A special cause signal suggesting a non-random shift in the process",
-        "c": "The process is statistically out of control in both directions",
-        "d": "The data collection method is incorrect"
+        "a": "A payment reform model that links reimbursement to chronic disease outcomes",
+        "b": "A system-level framework that restructures care delivery to support productive interactions between prepared teams and informed patients",
+        "c": "A population stratification tool that segments patients by chronic condition severity",
+        "d": "A national accreditation standard for disease management programs"
       },
       "correct_option": "b",
-      "explanation": "Eight or more consecutive data points on the same side of the median is a run chart rule violation indicating special cause variation — a signal that something in the process has systematically changed.",
-      "difficulty": "hard"
+      "explanation": "Wagner's CCM is a systems model, not a payment or accreditation framework. Its central concept is the productive interaction — the clinical encounter that results from prepared, proactive practice teams meeting informed, activated patients. Its six components enable this interaction at the system level.",
+      "difficulty": "medium"
     },
     {
-      "text": "The Six Sigma methodology defines a process as 'in control' when the defect rate is:",
+      "text": "The CDC 6|18 Initiative is primarily designed to achieve which of the following?",
       "options": {
-        "a": "Less than 1% defect rate",
-        "b": "No more than 3.4 defects per million opportunities",
-        "c": "Zero defects at all times",
-        "d": "Below the industry average defect benchmark"
+        "a": "Standardize quality measures across six categories of chronic disease",
+        "b": "Accelerate adoption of eighteen evidence-based interventions across six high-burden conditions at scale",
+        "c": "Establish a national registry for tracking six priority population health metrics",
+        "d": "Create financial penalties for health plans that fail to meet eighteen performance benchmarks"
       },
       "correct_option": "b",
-      "explanation": "Six Sigma aims to achieve no more than 3.4 defects per million opportunities (DPMO), representing 99.99966% accuracy — a very high standard of process performance.",
+      "explanation": "The 6|18 Initiative targets six conditions (tobacco, hypertension, asthma, diabetes, teen pregnancy, HAIs) with three proven interventions each — 18 total. Its core purpose is scaling proven interventions, not studying them. It challenges payers and health systems to adopt what works rather than waiting for further evidence.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is comparing the County Health Rankings Model to the IHI Triple Aim when selecting a framework for a rural health improvement initiative. What is the most significant advantage of the County Health Rankings Model for this purpose?",
+      "options": {
+        "a": "It provides a national reimbursement structure for rural health improvement",
+        "b": "It makes health determinants visible at the local county level, enabling benchmarking and priority setting",
+        "c": "It offers accreditation recognition for rural health centers meeting its criteria",
+        "d": "It directly integrates HEDIS measures into community health planning"
+      },
+      "correct_option": "b",
+      "explanation": "The County Health Rankings Model's key contribution is translating national health determinant data into county-specific, actionable rankings. This local visibility — showing where a county stands on health factors and outcomes relative to peers — supports evidence-based priority setting and CHNA processes. It does not provide reimbursement structures, accreditation, or HEDIS integration.",
       "difficulty": "medium"
     }
   ]

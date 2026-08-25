@@ -1,0 +1,65 @@
+{
+  "topic": "Performance and Process Improvement",
+  "questions": [
+    {
+      "text": "A hospital has identified that medication errors continue to recur despite repeated corrective action memos. The quality team proposes moving from a reactive, threshold-based review process to a continuous process improvement model. Which shift does this represent?",
+      "options": {
+        "a": "From Lean to Six Sigma",
+        "b": "From Quality Assurance to Quality Improvement",
+        "c": "From Retrospective Audit to Prospective Monitoring",
+        "d": "From PDSA to DMAIC"
+      },
+      "correct_option": "b",
+      "explanation": "QA is reactive and threshold-based — it flags problems only when a standard is breached and corrects after the fact. QI is proactive and continuous, focusing on preventing problems through process improvement rather than inspecting outcomes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare system's emergency department has experienced persistent patient flow failures despite multiple incremental improvement cycles. Leadership decides to fundamentally redesign the entire triage and registration process from the ground up. Which improvement approach best describes this decision?",
+      "options": {
+        "a": "Rapid Cycle Improvement",
+        "b": "Lean Enterprise",
+        "c": "Reengineering and System Redesign",
+        "d": "Six Sigma DMAIC"
+      },
+      "correct_option": "c",
+      "explanation": "Reengineering involves fundamental rethinking and radical redesign of core processes — starting from a blank slate — when incremental improvement has repeatedly failed. It is whole-system transformation, not incremental process improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team wants to reduce medication dispensing errors in a high-volume pharmacy. They choose a methodology that uses statistical analysis to reduce defects to no more than 3.4 per million opportunities. Which methodology are they applying?",
+      "options": {
+        "a": "Lean Enterprise",
+        "b": "Rapid Cycle Improvement",
+        "c": "Six Sigma",
+        "d": "Strategic Management Systems"
+      },
+      "correct_option": "c",
+      "explanation": "Six Sigma's defining goal is reducing defects to 3.4 per million opportunities (DPMO), using statistical analysis and the DMAIC model. It is best suited for high-volume, high-variation, defect-sensitive processes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team is testing a new discharge checklist. They implement it on one unit for two weeks, review the results, and decide to modify and re-test before full rollout. Which improvement methodology does this best represent?",
+      "options": {
+        "a": "Six Sigma DMAIC",
+        "b": "Reengineering",
+        "c": "Rapid Cycle Improvement using PDSA",
+        "d": "Strategic Management Systems"
+      },
+      "correct_option": "c",
+      "explanation": "RCI uses multiple small PDSA cycles to test, learn, and adapt changes quickly and iteratively — \"learn fast, fail small, improve continuously.\" The key principle is small-scale testing before full implementation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's quality council uses a Balanced Scorecard to align improvement priorities with organizational strategy, connecting quality metrics to financial, operational, and patient experience goals simultaneously. Which improvement approach does this represent?",
+      "options": {
+        "a": "Lean Enterprise",
+        "b": "Strategic Management Systems",
+        "c": "Retrospective Audit",
+        "d": "Quality Assurance"
+      },
+      "correct_option": "b",
+      "explanation": "Strategic Management Systems align quality improvement with organizational strategy and mission using frameworks such as the Balanced Scorecard and Baldrige Excellence Framework. They ensure improvement is driven by strategic impact rather than convenience or habit.",
+      "difficulty": "medium"
+    }
+  ]
+}

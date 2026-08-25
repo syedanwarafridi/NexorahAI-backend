@@ -1,0 +1,65 @@
+{
+  "topic": "Performance and Process Improvement",
+  "questions": [
+    {
+      "text": "A hospital's readmission rate rises above the national benchmark. The quality director states that this is a signal that requires investigation rather than immediate corrective action. Which characteristic of quality indicators does this reflect?",
+      "options": {
+        "a": "Quality indicators confirm the root cause of a problem",
+        "b": "Quality indicators are absolute standards of acceptable care",
+        "c": "Quality indicators signal potential quality problems that require deeper investigation",
+        "d": "Quality indicators replace the need for process review"
+      },
+      "correct_option": "c",
+      "explanation": "Quality indicators SIGNAL potential problems — they do not confirm or diagnose them. A poor result triggers deeper investigation: root cause analysis and process review. Misusing indicators as absolute judgments leads to poor decisions and staff demoralization.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team successfully reduces door-to-balloon time in their cardiac catheterization lab. However, they later discover that their focus on this metric led to premature patient discharges, increasing readmissions. Which concept does this scenario best illustrate?",
+      "options": {
+        "a": "The need for balancing measures alongside primary indicators",
+        "b": "The application of HRRP financial penalties",
+        "c": "The use of AHRQ quality indicators for benchmarking",
+        "d": "The Donabedian structure-process-outcome framework"
+      },
+      "correct_option": "a",
+      "explanation": "Balancing measures ensure that fixing one area does not break another part of the system. When only one indicator is optimized, behavior follows the metric — balancing measures prevent unintended consequences from single-metric focus.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital receives a financial penalty from CMS because its 30-day all-cause readmission rate for heart failure patients exceeds the national average. Under which value-based program is this penalty applied?",
+      "options": {
+        "a": "Hospital Value-Based Purchasing (HVBP)",
+        "b": "Merit-Based Incentive Payment System (MIPS)",
+        "c": "Hospital Readmissions Reduction Program (HRRP)",
+        "d": "Skilled Nursing Facility Value-Based Program (SNFVBP)"
+      },
+      "correct_option": "c",
+      "explanation": "HRRP applies financial penalties to hospitals with excess preventable readmissions for specified conditions including heart failure, pneumonia, and COPD. It is distinct from HVBP, which rewards performance across multiple domains.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization is evaluating its performance using Porter's value equation. Their outcomes have improved but costs have risen proportionally. According to this framework, what has happened to value?",
+      "options": {
+        "a": "Value has increased because outcomes improved",
+        "b": "Value has remained unchanged because the ratio of outcomes to cost is the same",
+        "c": "Value has decreased because costs rose",
+        "d": "Value cannot be measured without patient satisfaction data"
+      },
+      "correct_option": "b",
+      "explanation": "Porter's value equation is Value = Outcomes ÷ Cost. If both outcomes and cost rise proportionally, the ratio remains constant and value is unchanged. Value improves only when outcomes improve relative to cost, or cost decreases while outcomes are maintained.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality committee is designing a performance measurement system and wants to ensure it captures all dimensions of care quality without allowing any single metric to drive gaming behavior. Which design principle should guide their approach?",
+      "options": {
+        "a": "Use only outcome indicators to ensure patient-centered measurement",
+        "b": "Use structure indicators only, as they are the most reliable",
+        "c": "Pair multiple indicator types — structure, process, outcome, and balancing measures — with patient experience data",
+        "d": "Rely on AHRQ indicators exclusively to ensure standardization"
+      },
+      "correct_option": "c",
+      "explanation": "No single indicator captures quality comprehensively. Balanced scorecards combining clinical, financial, patient experience, and operational metrics prevent gaming and ensure improvement is balanced, ethical, and system-wide.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "Population Health and Care Transitions",
+  "questions": [
+    {
+      "text": "A quality team is reviewing its patient population and identifies that 5% of patients are responsible for 48% of total healthcare costs. Which population health management component should be prioritized for this group?",
+      "options": {
+        "a": "Panel management with preventive care protocols",
+        "b": "Self-management support and patient activation",
+        "c": "Complex care management with intensive multidisciplinary intervention",
+        "d": "Community engagement and SDOH screening"
+      },
+      "correct_option": "c",
+      "explanation": "The 5% of patients driving disproportionate costs are the target population for complex care management — intensive, team-based, multidisciplinary coordination designed specifically for high-cost, high-need patients. Panel management (A) addresses the full assigned population at a population level. Self-management (B) is appropriate for moderate-risk patients. SDOH screening (D) is a component of assessment, not the primary management strategy for this tier.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A primary care practice implements the Patient Activation Measure (PAM) and finds that 40% of its diabetic patients score at Level 1. What does this finding indicate, and what type of intervention is most appropriate?",
+      "options": {
+        "a": "Patients are highly engaged; motivational interviewing to maintain behavior is indicated",
+        "b": "Patients are overwhelmed and disengaged; intensive structured support addressing confidence and basic knowledge is needed",
+        "c": "Patients have knowledge gaps but are taking action; education reinforcement is sufficient",
+        "d": "Patients are beginning to self-manage; consistency coaching is the priority"
+      },
+      "correct_option": "b",
+      "explanation": "PAM Level 1 indicates patients who are overwhelmed and disengaged from their own health management. They lack the confidence, knowledge, and readiness to act independently. Interventions must begin at a foundational level — addressing basic health literacy, building confidence, and providing structured support — before progressing to behavioral coaching.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital quality department uses geographic utilization data to identify a ZIP code with frequent emergency department visits and high rates of preventable hospitalizations. This analysis represents which population health strategy?",
+      "options": {
+        "a": "Cold spotting to identify underserved populations",
+        "b": "Panel management to track assigned patient outcomes",
+        "c": "Hot spotting to direct intensive resources to high-utilization areas",
+        "d": "Risk stratification to categorize patients by chronic condition severity"
+      },
+      "correct_option": "c",
+      "explanation": "Hot spotting identifies patients or geographic areas with high healthcare utilization, frequent ED use, and disproportionate costs. The objective is to concentrate intensive care management resources where utilization is concentrated. Cold spotting (A) addresses the opposite — areas with low utilization and hidden unmet need. Risk stratification (D) is an individual-level clinical process.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the distinction between care management and complex care management in population health?",
+      "options": {
+        "a": "Care management is delivered by physicians; complex care management is delivered by nurses",
+        "b": "Care management serves a broader patient population; complex care management targets only the highest-risk, highest-cost patients with intensive multidisciplinary support",
+        "c": "Care management focuses on acute episodes; complex care management addresses preventive care only",
+        "d": "Care management uses telehealth; complex care management requires in-person visits"
+      },
+      "correct_option": "b",
+      "explanation": "Care management supports patients with chronic physical and mental health conditions broadly across the population. Complex care management is a subset targeting the highest-risk, highest-cost patients — typically the top 5% — with intensive, 24/7 access, multidisciplinary team coordination, and proactive engagement. The distinction is scope and intensity, not setting or professional role.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is setting population health goals for a Medicaid managed care population. Which goal structure best reflects CPHQ-aligned goal-setting practice?",
+      "options": {
+        "a": "Setting a single system-wide HbA1c control target applied uniformly to all patients",
+        "b": "Establishing organizational goals that cascade to population benchmarks, subgroup targets, and individual patient precision goals",
+        "c": "Using patient satisfaction scores as the primary measure of population health goal achievement",
+        "d": "Adopting state Medicaid benchmarks directly as organizational goals without local modification"
+      },
+      "correct_option": "b",
+      "explanation": "CPHQ-aligned population health goal setting requires a cascade structure: organizational mandates define strategic direction, population-level benchmarks address distinct demographic or geographic groups, subgroup targets identify high-risk cohorts, and individual patient goals support precision care engagement. A single uniform target (A) ignores population heterogeneity.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "Population Health and Care Transitions",
+  "questions": [
+    {
+      "text": "A quality improvement team is reviewing emergency department utilization data and finds that non-English-speaking patients are twice as likely to return within 72 hours of discharge. Which SDOH-related factor most directly explains this pattern?",
+      "options": {
+        "a": "Non-English-speaking patients have more complex diagnoses on average",
+        "b": "Health literacy barriers prevent understanding of discharge instructions, increasing the likelihood of avoidable return visits",
+        "c": "Language barriers reduce the number of preventive screenings conducted",
+        "d": "Non-English-speaking patients have lower PAM activation scores by definition"
+      },
+      "correct_option": "b",
+      "explanation": "Low health literacy — disproportionately affecting non-English-speaking populations — directly impairs the ability to understand, process, and act on discharge instructions. This leads to medication errors, missed follow-up appointments, and symptom misinterpretation — all drivers of 72-hour returns.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A federally qualified health center implements the PRAPARE screening tool at all primary care visits. What is the primary population health purpose of this screening?",
+      "options": {
+        "a": "Documenting SDOH data for CMS billing compliance",
+        "b": "Systematically identifying individual social needs at the point of care to enable proactive intervention before social barriers worsen clinical outcomes",
+        "c": "Replacing clinical assessment tools with SDOH screening in high-risk populations",
+        "d": "Satisfying Joint Commission requirements for social need documentation"
+      },
+      "correct_option": "b",
+      "explanation": "PRAPARE is a standardized SDOH screening tool designed to identify individual social needs at the point of care — enabling proactive intervention before those needs escalate into clinical deterioration. Systematic SDOH screening is a population health equity strategy, not primarily a billing or regulatory compliance tool.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital quality team discovers that a significant proportion of high-risk patients are not accessing preventive care or screenings despite being assigned to the health system. This population is best described using which population health concept?",
+      "options": {
+        "a": "A high-utilization hot spot requiring complex care management",
+        "b": "A cold spot — a population with high need but low utilization due to access barriers",
+        "c": "A rising-risk panel requiring standard care management",
+        "d": "A population with low activation levels requiring motivational interviewing"
+      },
+      "correct_option": "b",
+      "explanation": "Cold spotting identifies patients or areas with low utilization despite high need — often invisible to utilization-based analytics because they do not appear in ED or hospital data. This population typically faces transportation, insurance, language, or cultural barriers. The appropriate response is outreach, access expansion, and targeted engagement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Healthy People 2030 organizes social determinants of health into five domains. Which of the following correctly identifies those domains?",
+      "options": {
+        "a": "Healthcare access, clinical outcomes, patient safety, health behaviors, and mental health",
+        "b": "Economic stability, education, social/community context, health and healthcare, and neighborhood/built environment",
+        "c": "Income, race, housing, employment, and nutrition",
+        "d": "Primary prevention, secondary prevention, tertiary prevention, rehabilitation, and palliative care"
+      },
+      "correct_option": "b",
+      "explanation": "Healthy People 2030 organizes SDOH into five domains: Economic Stability, Education Access and Quality, Social and Community Context, Health and Healthcare, and Neighborhood and Built Environment. These five domains represent the upstream structural factors that quality professionals must incorporate into population health strategy for meaningful equity improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional wants to ensure that a new patient education program is health-literacy appropriate. Which combination of strategies best reflects organizational health literacy principles?",
+      "options": {
+        "a": "Providing translated materials and conducting teach-back with all patients",
+        "b": "Hiring bilingual staff and offering after-hours phone support",
+        "c": "Designing system-level communications, signage, and care navigation that all patients can understand regardless of literacy level, alongside individual teach-back and plain-language materials",
+        "d": "Requiring physicians to document health literacy level in the EHR for all new patients"
+      },
+      "correct_option": "c",
+      "explanation": "Organizational health literacy goes beyond individual interactions — it requires designing entire systems (communications, signage, care pathways, discharge processes) to be navigable by patients at all literacy levels. This systemic design, combined with individual strategies like teach-back and plain language, constitutes the complete health literacy response.",
+      "difficulty": "medium"
+    }
+  ]
+}
