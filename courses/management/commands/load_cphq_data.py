@@ -53,8 +53,8 @@ QUESTION_FILES = [
     ("quality_review_mock.json",              "Quality Review & Accountability",   "mock"),
     ("performance_improvement_quiz.json",     "Performance and Process Improvement", "quiz"),
     ("performance_improvement_mock.json",     "Performance and Process Improvement", "mock"),
-    ("information_management_quiz.json",      "Information Management",            "quiz"),
-    ("information_management_mock.json",      "Information Management",            "mock"),
+    ("information_management_quiz.json",      "Health Data Analytics",             "quiz"),
+    ("information_management_mock.json",      "Health Data Analytics",             "mock"),
     ("patient_experience_quiz.json",          "Population Health and Care Transitions", "quiz"),
     ("patient_experience_mock.json",          "Population Health and Care Transitions", "mock"),
     ("regulatory_accreditation_quiz.json",    "Regulatory and Accreditation",      "quiz"),
@@ -62,6 +62,10 @@ QUESTION_FILES = [
     ("quality_leadership_quiz.json",          "Quality Leadership and Integration", "quiz"),
     ("quality_leadership_mock.json",          "Quality Leadership and Integration", "mock"),
     ("cphq_global_mock.json",                 None,                                "mock"),
+    ("pre_assessment_bank.json",               None,                                "pre_assessment"),
+    ("practice_test_bank.json",                None,                                "practice_test"),
+    ("mock_exam_bank.json",                    None,                                "mock"),
+    ("final_exam_bank.json",                   None,                                "final_exam"),
 ]
 
 # Chapter quick quiz files: (filename, domain_order, chapter_order)
@@ -81,9 +85,25 @@ CHAPTER_QUIZ_FILES = [
     ("domain3_chapter4_quick_quiz.json", 3, 4),
     ("domain3_chapter5_quick_quiz.json", 3, 5),
     ("domain4_chapter1_quick_quiz.json", 4, 1),
+    ("domain4_chapter2_quick_quiz.json", 4, 2),
+    ("domain4_chapter3_quick_quiz.json", 4, 3),
+    ("domain4_chapter4_quick_quiz.json", 4, 4),
+    ("domain4_chapter5_quick_quiz.json", 4, 5),
     ("domain5_chapter1_quick_quiz.json", 5, 1),
+    ("domain5_chapter2_quick_quiz.json", 5, 2),
+    ("domain5_chapter3_quick_quiz.json", 5, 3),
+    ("domain5_chapter4_quick_quiz.json", 5, 4),
+    ("domain5_chapter5_quick_quiz.json", 5, 5),
     ("domain6_chapter1_quick_quiz.json", 6, 1),
+    ("domain6_chapter2_quick_quiz.json", 6, 2),
+    ("domain6_chapter3_quick_quiz.json", 6, 3),
+    ("domain6_chapter4_quick_quiz.json", 6, 4),
+    ("domain6_chapter5_quick_quiz.json", 6, 5),
+    ("domain6_chapter6_quick_quiz.json", 6, 6),
     ("domain7_chapter1_quick_quiz.json", 7, 1),
+    ("domain7_chapter2_quick_quiz.json", 7, 2),
+    ("domain7_chapter3_quick_quiz.json", 7, 3),
+    ("domain7_chapter4_quick_quiz.json", 7, 4),
 ]
 
 # Full Module MCQ Assessment files: (filename, domain_order)
@@ -91,6 +111,10 @@ MODULE_ASSESSMENT_FILES = [
     ("domain1_module_assessment.json", 1),
     ("domain2_module_assessment.json", 2),
     ("domain3_module_assessment.json", 3),
+    ("domain4_module_assessment.json", 4),
+    ("domain5_module_assessment.json", 5),
+    ("domain6_module_assessment.json", 6),
+    ("domain7_module_assessment.json", 7),
 ]
 
 # Course structure: Course → Domains → Chapters
@@ -192,53 +216,133 @@ COURSE_STRUCTURE = [
     },
     {
         "order": 4,
-        "title": "Module 4: Information Management",
-        "description": "Covers healthcare data management, analytics, EHR systems, regulatory data requirements, and quality measurement.",
-        "topic_name": "Information Management",
+        "title": "Module 4: Health Data Analytics",
+        "description": "Covers healthcare data management, analytics, sampling, and the Donabedian structure-process-outcome framework.",
+        "topic_name": "Health Data Analytics",
         "chapters": [
             {
                 "order": 1,
-                "title": "Chapter 1: Information Management",
-                "video_filename": "",
+                "title": "Chapter 1: Data & Decision Support System",
+                "video_filename": "Health Data Analytics - Chapter 1.mp4",
+            },
+            {
+                "order": 2,
+                "title": "Chapter 2: From Data to Decision",
+                "video_filename": "Health Data Analytics - Chapter 2.mp4",
+            },
+            {
+                "order": 3,
+                "title": "Chapter 3: Sampling in Healthcare Quality Measurement",
+                "video_filename": "Health Data Analytics - Chapter 3.mp4",
+            },
+            {
+                "order": 4,
+                "title": "Chapter 4: The Chain of Quality — Donabedian & Finding the Right Data",
+                "video_filename": "Health Data Analytics - Chapter 4.mp4",
+            },
+            {
+                "order": 5,
+                "title": "Chapter 5: Health Data Analytics",
+                "video_filename": "Health Data Analytics - Chapter 5.mp4",
             },
         ],
     },
     {
         "order": 5,
-        "title": "Module 5: Quality Review & Accountability",
-        "description": "Covers quality review processes, accountability structures, and performance improvement.",
-        "topic_name": "Quality Review & Accountability",
-        "chapters": [
-            {
-                "order": 1,
-                "title": "Chapter 1: Quality Review & Accountability",
-                "video_filename": "Quality Review and Accountability.mp4",
-            },
-        ],
-    },
-    {
-        "order": 6,
-        "title": "Module 6: Regulatory and Accreditation",
-        "description": "Covers accreditation standards, regulatory compliance, survey readiness, and CMS requirements.",
-        "topic_name": "Regulatory and Accreditation",
-        "chapters": [
-            {
-                "order": 1,
-                "title": "Chapter 1: Regulatory and Accreditation",
-                "video_filename": "",
-            },
-        ],
-    },
-    {
-        "order": 7,
-        "title": "Module 7: Patient Safety",
+        "title": "Module 5: Patient Safety",
         "description": "Covers patient safety principles, risk reduction, and safety culture in healthcare.",
         "topic_name": "Patient Safety",
         "chapters": [
             {
                 "order": 1,
-                "title": "Chapter 1: Introduction to Patient Safety",
-                "video_filename": "Patient Safety.mp4",
+                "title": "Chapter 1: Concepts, Principles and Practices",
+                "video_filename": "Patient Safety - Chapter 1.mp4",
+            },
+            {
+                "order": 2,
+                "title": "Chapter 2: Leadership",
+                "video_filename": "Patient Safety - Chapter 2.mp4",
+            },
+            {
+                "order": 3,
+                "title": "Chapter 3: Tools and Techniques",
+                "video_filename": "Patient Safety - Chapter 3.mp4",
+            },
+            {
+                "order": 4,
+                "title": "Chapter 4: Evaluating and Improving Patient Safety",
+                "video_filename": "Patient Safety - Chapter 4.mp4",
+            },
+            {
+                "order": 5,
+                "title": "Chapter 5: Patient Safety and Learning Organizations",
+                "video_filename": "Patient Safety - Chapter 5.mp4",
+            },
+        ],
+    },
+    {
+        "order": 6,
+        "title": "Module 6: Quality Review and Accountability",
+        "description": "Covers quality review processes, accountability structures, payment models, and performance measurement infrastructure.",
+        "topic_name": "Quality Review & Accountability",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Current & Emerging Payment Models",
+                "video_filename": "Quality Review and Accountability - Chapter 1.mp4",
+            },
+            {
+                "order": 2,
+                "title": "Chapter 2: External Quality Organizations & Compliance",
+                "video_filename": "Quality Review and Accountability - Chapter 2.mp4",
+            },
+            {
+                "order": 3,
+                "title": "Chapter 3: Transparency & Performance Measurement",
+                "video_filename": "Quality Review and Accountability - Chapter 3.mp4",
+            },
+            {
+                "order": 4,
+                "title": "Chapter 4: Physician & Clinician Performance",
+                "video_filename": "Quality Review and Accountability - Chapter 4.mp4",
+            },
+            {
+                "order": 5,
+                "title": "Chapter 5: Quality Review and Accountability",
+                "video_filename": "Quality Review and Accountability - Chapter 5.mp4",
+            },
+            {
+                "order": 6,
+                "title": "Chapter 6: Performance Measurement & Improvement Infrastructure",
+                "video_filename": "Quality Review and Accountability - Chapter 6.mp4",
+            },
+        ],
+    },
+    {
+        "order": 7,
+        "title": "Module 7: Regulatory and Accreditation",
+        "description": "Covers healthcare laws, federal agencies, accreditation, certification, and accrediting bodies.",
+        "topic_name": "Regulatory and Accreditation",
+        "chapters": [
+            {
+                "order": 1,
+                "title": "Chapter 1: Healthcare Laws & Regulations",
+                "video_filename": "Regulatory and Accreditation - Chapter 1.mp4",
+            },
+            {
+                "order": 2,
+                "title": "Chapter 2: Federal Agencies",
+                "video_filename": "Regulatory and Accreditation - Chapter 2.mp4",
+            },
+            {
+                "order": 3,
+                "title": "Chapter 3: Accreditation, Certification & Recognition",
+                "video_filename": "Regulatory and Accreditation - Chapter 3.mp4",
+            },
+            {
+                "order": 4,
+                "title": "Chapter 4: Accrediting Bodies",
+                "video_filename": "Regulatory and Accreditation - Chapter 4.mp4",
             },
         ],
     },
@@ -464,7 +568,7 @@ class Command(BaseCommand):
             if not text or not options or correct not in "abcd" or len(options) < 4:
                 skipped += 1
                 continue
-            if Question.objects.filter(text=text).exists():
+            if Question.objects.filter(text=text, question_type="chapter_quiz").exists():
                 skipped += 1
                 continue
             Question.objects.create(
@@ -502,7 +606,7 @@ class Command(BaseCommand):
             if not text or not options or correct not in "abcd" or len(options) < 4:
                 skipped += 1
                 continue
-            if Question.objects.filter(text=text).exists():
+            if Question.objects.filter(text=text, question_type="module_assessment").exists():
                 skipped += 1
                 continue
             Question.objects.create(
@@ -547,8 +651,11 @@ class Command(BaseCommand):
                 skipped += 1
                 continue
 
-            # Deduplicate by question text
-            if Question.objects.filter(text=text).exists():
+            # Deduplicate by question text within the same question type - the
+            # same CPHQ question can legitimately appear in multiple assessment
+            # pools (e.g. both a mock exam and the final exam) without being a
+            # true duplicate of that specific pool's content.
+            if Question.objects.filter(text=text, question_type=q_type).exists():
                 skipped += 1
                 continue
 

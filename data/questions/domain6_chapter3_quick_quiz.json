@@ -1,0 +1,65 @@
+{
+  "topic": "Quality Review & Accountability",
+  "questions": [
+    {
+      "text": "A hospital in the worst-performing quartile of hospitals nationally on Hospital-Acquired Condition measures will face which of the following financial consequences under the HACRP?",
+      "options": {
+        "a": "A 2% reduction on payments for only those discharges where the HAC occurred",
+        "b": "A 1% reduction on ALL Medicare discharges regardless of where the HAC occurred",
+        "c": "Mandatory enrollment in the Hospital Value-Based Purchasing Program",
+        "d": "A 3% reduction applied only to surgical discharges"
+      },
+      "correct_option": "b",
+      "explanation": "A 1% reduction on ALL Medicare discharges regardless of where the HAC occurred The HACRP applies a 1% payment reduction to all Medicare discharges — not just those cases where the HAC occurred. This is the key distinction that makes HACRP financially impactful and a strong organizational motivator for system-wide safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A physician group practice participates in MIPS under MACRA. In which of the following scenarios is the group most at risk for a negative payment adjustment?",
+      "options": {
+        "a": "They score above the performance threshold on all four MIPS categories",
+        "b": "They submit data late and score below the performance threshold",
+        "c": "They qualify as an Advanced APM participant and opt out of MIPS",
+        "d": "They use a Qualified Clinical Data Registry (QCDR) for reporting"
+      },
+      "correct_option": "b",
+      "explanation": "They submit data late and score below the performance threshold MIPS scoring governs payment adjustments under MACRA — poor performance results in negative payment adjustments. Late submission reduces the score. Qualifying as an Advanced APM participant exempts a practice from MIPS entirely.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following CAHPS instruments would be most appropriate for measuring patient experience in an emergency department setting?",
+      "options": {
+        "a": "HCAHPS",
+        "b": "CG-CAHPS",
+        "c": "ED CAHPS",
+        "d": "HCBS CAHPS"
+      },
+      "correct_option": "c",
+      "explanation": "ED CAHPS ED CAHPS measures emergency department patient experience — specifically access, communication, and care coordination. HCAHPS measures inpatient hospital experience; CG-CAHPS measures outpatient clinic experience; HCBS CAHPS measures Medicaid home and community-based services.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Hospital Value-Based Purchasing Program (HVBP) uses a budget-neutral methodology. What does this mean in practice?",
+      "options": {
+        "a": "CMS funds incentive payments using additional appropriations from Congress",
+        "b": "High-performing hospitals earn bonuses funded entirely by penalties withheld from lower performers",
+        "c": "All hospitals receive equal payments regardless of performance under HVBP",
+        "d": "HVBP payments are offset against HRRP penalties to create a net neutral effect"
+      },
+      "correct_option": "b",
+      "explanation": "High-performing hospitals earn bonuses funded entirely by penalties withheld from lower performers Incentive payments are funded by penalties captured from lower performers — making HVBP budget-neutral. CMS withholds up to 2% of base Medicare payments and redistributes them based on Total Performance Score.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "According to the IOM/HMD Six Domains of Healthcare Quality, a patient who receives a necessary medication that is evidence-based but must wait 4 hours for it to be administered has experienced a failure in which domain?",
+      "options": {
+        "a": "Safe",
+        "b": "Effective",
+        "c": "Timely",
+        "d": "Equitable"
+      },
+      "correct_option": "c",
+      "explanation": "Timely Timely is defined as reducing waits and harmful delays for both receiving and giving care. The medication is evidence-based (Effective domain met) and appropriate (Safe domain met) — but the 4-hour delay represents a failure in the Timely domain.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "Quality Review & Accountability",
+  "questions": [
+    {
+      "text": "A hospital grants a surgeon new privileges to perform robotic-assisted procedures. Which of the following correctly describes the required evaluation process under Joint Commission standards?",
+      "options": {
+        "a": "The surgeon must complete OPPE for the first six months before performing any procedures",
+        "b": "An FPPE is required — a time-limited, focused evaluation of performance in the new privilege area",
+        "c": "No formal evaluation is required if the surgeon has existing privileges in open surgical techniques",
+        "d": "A peer review panel must observe the first 10 procedures before privileges are activated"
+      },
+      "correct_option": "b",
+      "explanation": "An FPPE is required — a time-limited, focused evaluation of performance in the new privilege area FPPE is required when new privileges are requested by an existing provider. It is time-limited and focused on the specific privilege area. OPPE is the continuous evaluation of all privileged practitioners — it does not replace FPPE for new privilege grants.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's peer review committee is reviewing a case involving a senior surgeon with an otherwise excellent performance record. The committee is concerned that the surgeon's reputation may influence the review outcome. Which principle of effective peer review is most relevant?",
+      "options": {
+        "a": "Confidentiality — protecting review findings from external disclosure",
+        "b": "Defensibility — ensuring findings can withstand legal scrutiny",
+        "c": "Consistency — applying the same standards regardless of rank or reputation",
+        "d": "Balance — incorporating minority opinions before final judgment"
+      },
+      "correct_option": "c",
+      "explanation": "Consistency — applying the same standards regardless of rank or reputation Consistency is defined as applying the same standards and procedures to every provider regardless of rank, specialty, or reputation. This is the principle most directly violated when a senior surgeon's reputation influences the review process.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient dies unexpectedly following a routine elective procedure with no identifiable natural cause. Under The Joint Commission's sentinel event policy, what is the required organizational response?",
+      "options": {
+        "a": "Voluntary self-report to TJC within 5 business days and a 60-day RCA completion",
+        "b": "Mandatory immediate disclosure to the state health department only",
+        "c": "Conduct a Root Cause Analysis and develop a corrective action plan",
+        "d": "Suspend the privileges of all staff involved pending external investigation"
+      },
+      "correct_option": "c",
+      "explanation": "Conduct a Root Cause Analysis and develop a corrective action plan Sentinel events trigger mandatory RCA and corrective action plan. Self-reporting to TJC is strongly encouraged but NOT technically required. The mandatory organizational response is the RCA process — increasingly conducted as RCA² per IHI standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following correctly describes the scope of OPPE as distinct from FPPE?",
+      "options": {
+        "a": "OPPE applies only to providers with documented performance concerns",
+        "b": "OPPE is time-limited and triggered by specific events or privilege requests",
+        "c": "OPPE applies continuously to all privileged practitioners throughout their tenure",
+        "d": "OPPE is required only at the time of initial medical staff appointment"
+      },
+      "correct_option": "c",
+      "explanation": "OPPE applies continuously to all privileged practitioners throughout their tenure OPPE is CONTINUOUS — not time-limited — and applies to ALL privileged practitioners, not just new ones or those with concerns. This is the core distinction from FPPE which is triggered and time-limited.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A practitioner's quality profile is inadvertently filed with HR personnel records by administrative staff. What is the primary risk this creates?",
+      "options": {
+        "a": "The profile becomes subject to mandatory NPDB reporting",
+        "b": "The profile may become discoverable in litigation, losing its quality review protection",
+        "c": "The profile triggers an automatic FPPE review under Joint Commission standards",
+        "d": "The profile must be re-created from scratch with updated data"
+      },
+      "correct_option": "b",
+      "explanation": "The profile may become discoverable in litigation, losing its quality review protection Profiles must be stored separately — profiles filed with personnel records may become discoverable. Mixing quality review documentation with HR records can strip the quality data of its peer review privilege protection.",
+      "difficulty": "medium"
+    }
+  ]
+}

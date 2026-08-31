@@ -1,0 +1,257 @@
+{
+  "domain_order": 7,
+  "questions": [
+    {
+      "text": "A 300-bed healthcare organization has decided to apply for accreditation with a new accreditation body. The accreditation readiness coordinator should first",
+      "options": {
+        "a": "Review the standards required for accreditation.",
+        "b": "Establish an operating budget for staff accreditation education.",
+        "c": "Obtain accreditation results from other facilities.",
+        "d": "Assess staff education needs related to accreditation."
+      },
+      "correct_option": "a",
+      "explanation": "Review the standards required for accreditation. Before any budget, education, or benchmarking activity can be meaningfully planned, the organization must first understand what it is being measured against. Reviewing the accreditation body's standards is the foundational first step — it defines scope, identifies gaps, and informs every subsequent action. This aligns with the CPHQ domain of Quality Review and Accountability and is consistent with JCI and TJC accreditation readiness frameworks, which emphasize standards comprehension as the prerequisite to gap analysis and corrective planning.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The expectation to maintain continuous survey readiness must be supported and driven by the",
+      "options": {
+        "a": "Executive team.",
+        "b": "Quality team.",
+        "c": "Risk manager.",
+        "d": "Compliance officer."
+      },
+      "correct_option": "a",
+      "explanation": "Executive team. Continuous survey readiness is not a departmental function — it is a leadership imperative. TJC, DNV GL, and CMS accreditation frameworks consistently assert that sustained compliance requires visible, active commitment from senior executive leadership. The executive team sets organizational priorities, allocates resources, and drives accountability structures. Quality teams, risk managers, and compliance officers support and operationalize readiness, but the driving force must originate at the executive level. This is also consistent with the CPHQ domain of Quality Leadership and Integration.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare system has multiple medical clinics across a large geographic area. What is the best way to deliver education to assure continuous survey readiness?",
+      "options": {
+        "a": "Train the trainer sessions with clinic managers.",
+        "b": "Mandatory modules on accreditation standards.",
+        "c": "One-on-one sessions with noncompliant employees.",
+        "d": "Just-in-time training to the highest risk clinics."
+      },
+      "correct_option": "a",
+      "explanation": "Train the trainer sessions with clinic managers. In a geographically dispersed multi-site organization, a train-the-trainer model is the most scalable, sustainable, and cost-effective approach to education. Clinic managers become local champions who reinforce standards continuously — not just before surveys. Mandatory modules (B) lack local contextual application; one-on-one sessions (C) are resource-intensive and reactive; just-in-time training to high-risk sites (D) is reactive rather than system-wide. The train-the-trainer model aligns with IHI and AHRQ dissemination frameworks for spreading quality education across large organizations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following regulatory agencies oversees development of electronic clinical quality measures (eCQMs)?",
+      "options": {
+        "a": "Centers for Medicare and Medicaid Services (CMS)",
+        "b": "DNV GL Healthcare",
+        "c": "Occupational Safety and Health Association (OSHA)",
+        "d": "The Joint Commission (TJC)"
+      },
+      "correct_option": "a",
+      "explanation": "Centers for Medicare and Medicaid Services (CMS) eCQMs are standardized performance measures that use data from electronic health records and health information technology systems. CMS is the federal agency responsible for developing, maintaining, and mandating eCQMs through programs such as the Hospital Inpatient Quality Reporting (IQR) Program and the Merit-based Incentive Payment System (MIPS). DNV GL and TJC are accreditation bodies, not regulatory developers of eCQMs. OSHA governs workplace safety — entirely outside the eCQM domain.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "One of the first steps in preparing for an organizational accreditation survey is to have a quality professional",
+      "options": {
+        "a": "Identify the root causes of the most recent adverse events that have occurred.",
+        "b": "Submit an electronic application to the organization identifying a date for survey.",
+        "c": "Conduct a gap analysis of the identified standards against current practices.",
+        "d": "Complete a competency examination on the process of writing action plans."
+      },
+      "correct_option": "c",
+      "explanation": "Conduct a gap analysis of the identified standards against current practices. After standards have been reviewed (the prerequisite step), the logical first operational step is a structured gap analysis — systematically comparing current organizational practice against the accreditation body's requirements. This produces an evidence-based picture of where the organization stands and drives prioritized corrective action. Identifying adverse event root causes (A) is an ongoing quality process, not an accreditation-specific first step. Submitting an application (B) follows readiness work, not precedes it. Writing action plans (D) comes after the gap analysis identifies what needs to be addressed.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which management accountability action should be implemented to ensure continuous readiness for accreditation survey?",
+      "options": {
+        "a": "Identify variation between policy and practice.",
+        "b": "Convene multidisciplinary workgroups prior to the survey.",
+        "c": "Initiate rounding on units previously cited.",
+        "d": "Delegate survey coordination to subject matter experts."
+      },
+      "correct_option": "a",
+      "explanation": "Identify variation between policy and practice. The cornerstone of continuous accreditation readiness is closing the gap between what is written (policy) and what actually happens (practice). This is a sustained management accountability function — not a pre-survey activity. Options B, C, and D are reactive, episodic, or pre-survey-specific actions, which contradict the principle of continuous readiness. TJC's standards and CMS Conditions of Participation both emphasize that organizations must demonstrate consistent compliance at all times, not just during survey windows. Identifying policy-practice variation is the core mechanism to achieve this.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following should be a part of an organization's program of continuous readiness for accreditation?",
+      "options": {
+        "a": "Conduct quarterly training on accreditation standards.",
+        "b": "Schedule the accreditation survey when the organization's CEO is available.",
+        "c": "Maintain detailed agendas for environment of care rounding.",
+        "d": "Perform periodic audits to ensure standards for accreditation are met."
+      },
+      "correct_option": "d",
+      "explanation": "Perform periodic audits to ensure standards for accreditation are met. A program of continuous readiness requires an ongoing, systematic mechanism to verify compliance — and periodic audits are precisely that mechanism. They identify gaps before surveyors do, allow for timely corrective action, and create a documented culture of accountability. Quarterly training (A) is supportive but insufficient alone. Scheduling surveys around CEO availability (B) is operationally irrelevant to readiness and reflects a compliance mindset rather than a continuous improvement mindset. Maintaining rounding agendas (C) is an administrative task, not a readiness program element. This aligns with AHRQ and TJC continuous compliance frameworks.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality professional has identified a gap in practice from regulatory requirements. The quality professional should",
+      "options": {
+        "a": "Meet with staff to determine the barriers to compliance.",
+        "b": "Provide educational training to the manager on the regulatory requirements.",
+        "c": "Inform the staff that the current practice is not compliant with regulatory requirements.",
+        "d": "Initiate an audit collection tool to determine the rate of noncompliance."
+      },
+      "correct_option": "a",
+      "explanation": "Meet with staff to determine the barriers to compliance. When a practice gap is identified, the quality professional's first role is to understand why it exists — not to educate, inform, or measure before understanding root cause. Meeting with staff to identify barriers is a diagnostic step that respects frontline knowledge, aligns with the IHI Model for Improvement's emphasis on understanding the system before intervening, and prevents the common error of applying the wrong solution (e.g., education when the real barrier is a workflow or resource issue). Options B, C, and D all represent subsequent actions that depend on understanding the barriers first.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best approach to prepare care team members for interacting with accreditation surveyors?",
+      "options": {
+        "a": "Review patient records proactively.",
+        "b": "Summarize and discuss past survey findings.",
+        "c": "Brief them on survey activities and what questions to expect.",
+        "d": "Provide techniques to defer surveyor questions to leaders."
+      },
+      "correct_option": "c",
+      "explanation": "Brief them on survey activities and what questions to expect. The most effective preparation for surveyor interaction is equipping staff with practical knowledge of the survey process itself — what surveyors will observe, how tracer methodology works, and what types of questions are typically posed. This builds confidence and competence in real-time responses. Option A (proactive record review) is important but not the best approach specifically for staff interaction readiness. Option B (reviewing past findings) provides context but not preparation for interaction. Option D is counterproductive — TJC explicitly expects frontline staff to answer surveyor questions directly; deflecting to leaders raises compliance concerns and signals a lack of staff knowledge.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The main purpose of conducting tracers as a part of continuous readiness is to",
+      "options": {
+        "a": "Identify current gaps in processes of quality and patient safety that need correcting.",
+        "b": "Prepare staff to be able to speak to the surveyors in a comfortable and easy manner.",
+        "c": "Teach quality improvement professionals how to prepare for accreditation surveys.",
+        "d": "Minimize the number of recommendations for improvement during an actual survey."
+      },
+      "correct_option": "a",
+      "explanation": "Identify current gaps in processes of quality and patient safety that need correcting. Tracer methodology — developed by TJC — follows a patient's care journey through the organization to evaluate whether systems and processes support safe, quality care. The primary purpose of conducting internal tracers as part of continuous readiness is to proactively surface gaps in care delivery systems before an external survey identifies them. While staff comfort (B) and surveyor preparation (C and D) may be secondary benefits, they are not the purpose of the tracer tool itself. The tracer is fundamentally a quality and safety diagnostic instrument, consistent with AHRQ patient safety frameworks and TJC's own tracer methodology documentation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In deciding to submit an application for an external quality award, the first step to determine if award criteria:",
+      "options": {
+        "a": "Are aligned with organization strategic plan",
+        "b": "Are well written",
+        "c": "Demonstrate excellence in quality",
+        "d": "Are approved by the chief executive officer"
+      },
+      "correct_option": "a",
+      "explanation": "Are aligned with organization strategic plan Before investing organizational resources in pursuing an external quality award (such as the Baldrige Performance Excellence Award or a state quality award), the primary determination must be whether the award's criteria align with the organization's existing strategic priorities. Pursuing an award whose criteria conflict with or are tangential to strategic direction wastes resources and produces no lasting organizational value. Whether criteria are well-written (B) is irrelevant. Whether they demonstrate excellence (C) is assumed — all quality awards do. CEO approval (D) comes after strategic alignment is confirmed, not before. This reflects the CPHQ domain of Quality Leadership and Integration.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which is best to do during the accreditation survey (about staff knowledge):",
+      "options": {
+        "a": "To assign a team to answer the questions asked by surveyors",
+        "b": "To have a departmental director who knows 3 standards about their concerned departments",
+        "c": "To educate all staff members the FAQ by the surveyors",
+        "d": "Employee survey report"
+      },
+      "correct_option": "c",
+      "explanation": "To educate all staff members the FAQ by the surveyors During an actual accreditation survey, every staff member may be approached by surveyors. The best strategy is ensuring that all staff — not just directors or designated teams — are knowledgeable and prepared to respond to commonly asked questions. Option A (assign a team to answer) is a common and problematic error — surveyors specifically seek to speak with frontline staff, and routing responses through a designated team raises immediate red flags about authentic staff knowledge. Option B (director knowing only 3 standards) is wholly inadequate. Option D (employee survey report) is not a survey preparation strategy. This is consistent with TJC's tracer and staff interview methodology, which explicitly targets frontline knowledge.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization asks a CPHQ to help in preparedness to survey of accrediting body. The quality manager will first:",
+      "options": {
+        "a": "Assign a team for the survey",
+        "b": "Arrange for mock survey",
+        "c": "Educate staff about types of questions that may be asked",
+        "d": "Review the adherence of the organization to quality standard of accreditation"
+      },
+      "correct_option": "d",
+      "explanation": "Review the adherence of the organization to quality standard of accreditation The first action of a quality manager engaged to support accreditation preparedness is to conduct an assessment of the organization's current state of compliance — that is, reviewing how well the organization adheres to the accrediting body's standards. This is functionally equivalent to a gap analysis and must precede all other actions. You cannot meaningfully assign teams (A), plan mock surveys (B), or design staff education (C) without first knowing where the organization stands relative to the standards. This sequencing logic is embedded in every structured accreditation readiness framework, including those published by TJC, DNV GL, and CMS.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization is seeking accreditation. The first step the healthcare quality professional should take is to",
+      "options": {
+        "a": "Review the organization's bylaws, rules and regulations",
+        "b": "Become familiar with the appropriate standards",
+        "c": "Establish a quality assessment committee",
+        "d": "Review the organization's policies and procedures"
+      },
+      "correct_option": "b",
+      "explanation": "Become familiar with the appropriate standards This question reinforces the same foundational principle as Questions 1 and 13 — standards comprehension is always the first step. Before reviewing bylaws (A), establishing committees (C), or reviewing policies (D), the quality professional must know what they are preparing the organization to meet. Familiarity with the accrediting body's standards provides the framework through which all subsequent organizational review becomes meaningful. This is consistent with TJC, DNV GL, and NCQA accreditation preparation guidance and the CPHQ domain of Quality Review and Accountability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "CEO decides to have accreditation to the hospital after 18 months. What should he do?",
+      "options": {
+        "a": "Communicate accreditation process to all staff",
+        "b": "Hire external quality expert to give lectures",
+        "c": "Make monthly newspaper",
+        "d": "Town hall meeting"
+      },
+      "correct_option": "a",
+      "explanation": "Communicate accreditation process to all staff When a CEO commits to an accreditation timeline, the first and most critical action is organization-wide communication. Staff at every level must understand what accreditation means, why it matters, what will be expected of them, and what the timeline looks like. This creates shared ownership and readiness momentum across the organization. Hiring an external expert (B) may be part of the plan but is a tactical step, not the first priority. A monthly newspaper (C) is a communication vehicle, not a strategy. A town hall meeting (D) is a useful tactic within a communication strategy but is not the strategy itself. Broad staff communication aligns with the CPHQ leadership principle of organizational alignment and engagement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The accreditation process in healthcare",
+      "options": {
+        "a": "Is mandatory",
+        "b": "Requires annual resurvey",
+        "c": "Is voluntary",
+        "d": "Is contingent on the need for full compliance with all standards"
+      },
+      "correct_option": "c",
+      "explanation": "Is voluntary In the United States, accreditation by bodies such as TJC, DNV GL, NCQA, or HFAP is fundamentally a voluntary process — organizations choose to pursue it. However, it is important to note the nuance: while accreditation itself is voluntary, it carries significant practical consequences (e.g., CMS deemed status, payer contracts, state licensure linkages), making it effectively essential for most hospitals. Option A (mandatory) is factually incorrect. Option B (annual resurvey) is incorrect — survey cycles are typically triennial (every 3 years) for TJC. Option D conflates the conditions of maintaining accreditation with the nature of accreditation itself. This is a core CPHQ regulatory knowledge point.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which acts promote the meaningful use of health information technology?",
+      "options": {
+        "a": "HIPAA",
+        "b": "HITECH",
+        "c": "PSQIA",
+        "d": "CMS"
+      },
+      "correct_option": "b",
+      "explanation": "HITECH The Health Information Technology for Economic and Clinical Health (HITECH) Act, enacted as part of the American Recovery and Reinvestment Act of 2009, specifically created the Meaningful Use program — now known as the Promoting Interoperability Program — which incentivizes healthcare providers to adopt and meaningfully use certified electronic health record (EHR) technology. HIPAA (A) governs privacy and security of health information. PSQIA (C) — the Patient Safety and Quality Improvement Act — governs patient safety organizations and protects safety data. CMS (D) is an agency, not an act. HITECH is the definitive legislative answer here.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Clinical Laboratory Improvement Amendments (CLIA) established quality standards for",
+      "options": {
+        "a": "Laboratories",
+        "b": "Health Information",
+        "c": "CMS program",
+        "d": "Social Security Act"
+      },
+      "correct_option": "a",
+      "explanation": "Laboratories CLIA, enacted in 1988 and regulated jointly by CMS, CDC, and FDA, established comprehensive quality standards specifically for all laboratory testing performed on humans in the United States — ensuring the accuracy, reliability, and timeliness of patient test results regardless of where testing occurs. CLIA covers certificate categories based on test complexity and mandates quality control, proficiency testing, and personnel standards for clinical laboratories. It has no regulatory scope over health information systems (B), general CMS programs (C), or Social Security policy (D).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which act created national standards to protect sensitive patient health information from being disclosed without the patient's consent or knowledge?",
+      "options": {
+        "a": "HIPAA",
+        "b": "HITECH",
+        "c": "PSQIA",
+        "d": "CMS"
+      },
+      "correct_option": "a",
+      "explanation": "HIPAA The Health Insurance Portability and Accountability Act (HIPAA) of 1996 — specifically its Privacy Rule (2003) and Security Rule (2005) — established the national framework for protecting individually identifiable health information (Protected Health Information, or PHI). It sets standards for who may access, use, and disclose patient health information and grants patients rights over their own data. HITECH (B) strengthened HIPAA's enforcement and extended its reach to business associates but did not create the original privacy standard. PSQIA (C) protects patient safety work product, not general PHI. CMS (D) is an agency, not a legislative act.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which Healthcare Accreditation Organization is focused on improving quality in managed care?",
+      "options": {
+        "a": "The Joint Commission",
+        "b": "DNV GL Healthcare",
+        "c": "International Organization for Standardization (ISO)",
+        "d": "National Committee for Quality Assurance (NCQA)"
+      },
+      "correct_option": "d",
+      "explanation": "National Committee for Quality Assurance (NCQA) NCQA was established specifically to improve healthcare quality in managed care settings. It accredits health plans, managed behavioral health organizations, and physician practices, and administers HEDIS (Healthcare Effectiveness Data and Information Set) — the most widely used tool for measuring managed care plan performance. TJC (A) focuses on hospitals and healthcare facilities. DNV GL (B) accredits hospitals using ISO 9001 quality management principles. ISO (C) is an international standards body, not a healthcare accreditation organization per se. NCQA's specific managed care focus makes it the unambiguous correct answer.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "CIHQ (Center for Improvement in Healthcare Quality) comprised primarily of",
+      "options": {
+        "a": "Peer-based accreditation program",
+        "b": "Acute care and critical access hospitals",
+        "c": "Health Information",
+        "d": "Rehabilitation facilities"
+      },
+      "correct_option": "b",
+      "explanation": "Acute care and critical access hospitals CIHQ is a CMS-deemed accreditation organization that focuses specifically on acute care hospitals and critical access hospitals. It was established to provide an alternative accreditation pathway to TJC and DNV GL, with an emphasis on practical, education-based survey methodology. Its membership and accreditation programs are designed around hospital-based settings — not peer-based programs (A), health information systems (C), or rehabilitation facilities (D). Understanding the distinct scope of each accreditation body is a tested knowledge area in the CPHQ exam's Regulatory and Accreditation domain.",
+      "difficulty": "medium"
+    }
+  ]
+}

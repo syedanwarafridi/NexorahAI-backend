@@ -1,0 +1,65 @@
+{
+  "topic": "Quality Review & Accountability",
+  "questions": [
+    {
+      "text": "A hospital's quality dashboard shows readmission rates from 90 days ago due to claims processing lag. Which of the following best describes the impact of this limitation on quality improvement?",
+      "options": {
+        "a": "The lag prevents any meaningful quality measurement from taking place",
+        "b": "The hospital must rely exclusively on clinical judgment without data support",
+        "c": "Quality improvement interventions may be directed at problems that have already changed or resolved",
+        "d": "The hospital should switch from claims data to EHR data for all quality reporting"
+      },
+      "correct_option": "c",
+      "explanation": "Quality improvement interventions may be directed at problems that have already changed or resolved Quality improvement is only as fast as the slowest data feed. A 90-day lag means the organization is responding to historical conditions — interventions may miss the current performance reality. This illustrates why IT speed and data currency matter for effective QI.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A Healthcare Quality Professional is reviewing EHR vendor proposals. Which of the following factors should be weighted most heavily from a quality improvement perspective?",
+      "options": {
+        "a": "The vendor's brand recognition among clinical staff",
+        "b": "The vendor's analytics, interoperability, and reporting capabilities that support quality measurement goals",
+        "c": "The vendor's competitive pricing compared to other EHR systems on the market",
+        "d": "The vendor's history of implementation in hospitals of similar size"
+      },
+      "correct_option": "b",
+      "explanation": "The vendor's analytics, interoperability, and reporting capabilities that support quality measurement goals EHR vendor selection is itself a quality decision — vendor capabilities directly limit or enable quality reporting, analytics, and interoperability. The HQP's role is to ensure the vendor can support the organization's quality goals.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which analytics capability allows a quality team to identify patients at high risk of readmission before they are discharged?",
+      "options": {
+        "a": "Descriptive analytics",
+        "b": "Diagnostic analytics",
+        "c": "Prescriptive analytics",
+        "d": "Predictive analytics"
+      },
+      "correct_option": "d",
+      "explanation": "Predictive analytics Predictive analytics answers \"What will happen?\" — forecasting, risk stratification, and early warning. Identifying patients at readmission risk before discharge is a classic application of predictive analytics in quality improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital uses three different EHR systems that cannot share patient data between departments. This represents which specific quality infrastructure challenge?",
+      "options": {
+        "a": "Alert fatigue",
+        "b": "Documentation burden",
+        "c": "Interoperability gaps",
+        "d": "Analytics maturity deficit"
+      },
+      "correct_option": "c",
+      "explanation": "Interoperability gaps Interoperability gaps are defined as the inability of EHR systems to easily share data across different systems. HL7 FHIR standards are designed to address this challenge — but implementation varies significantly across vendors and organizations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional argues that marketing is outside the scope of a Healthcare Quality Professional's role. Which of the following best challenges this position?",
+      "options": {
+        "a": "Marketing is exclusively the responsibility of the communications department",
+        "b": "HQPs must ensure that marketing claims about quality are accurate and compliant with regulatory standards",
+        "c": "Marketing data can be used as a proxy for patient experience measurement",
+        "d": "HQPs should develop marketing campaigns to attract higher-acuity patients"
+      },
+      "correct_option": "b",
+      "explanation": "HQPs must ensure that marketing claims about quality are accurate and compliant with regulatory standards HQPs must ensure marketing claims about quality are accurate and compliant. Quality results drive brand and patient choice — but inaccurate quality claims create regulatory and reputational risk.",
+      "difficulty": "medium"
+    }
+  ]
+}

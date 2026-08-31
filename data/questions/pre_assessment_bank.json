@@ -1,0 +1,1504 @@
+{
+  "questions": [
+    {
+      "text": "An organization's annual quality plan should be approved by [R]",
+      "options": {
+        "a": "The quality department director",
+        "b": "The governing body",
+        "c": "The medical executive committee",
+        "d": "The chief operating officer"
+      },
+      "correct_option": "b",
+      "explanation": "The governing body Under CMS Conditions of Participation §482.21, the governing body must ensure that an ongoing program for quality improvement and patient safety is defined, implemented, and maintained — which requires board approval of the plan itself. Medical staff and executive leadership contribute to development and execution, but final approval authority rests with the body holding ultimate accountability. Delegating approval downward severs the accountability chain that the CoP is designed to establish.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is building the case for two additional data analyst positions. Which argument is most likely to succeed with executive leadership? [App]",
+      "options": {
+        "a": "Peer organizations of similar size employ more analysts",
+        "b": "Quantified analysis showing which strategic measures currently go unmonitored and the payment and safety exposure that creates",
+        "c": "The quality department staff are working excessive overtime",
+        "d": "Analytics is a growing field within healthcare"
+      },
+      "correct_option": "b",
+      "explanation": "Quantified analysis showing which strategic measures currently go unmonitored and the payment and safety exposure that creates Task 1.B.1 requires identifying resource needs to improve quality, and resource requests compete against every other organizational priority. The argument that wins connects the gap to consequences leadership already owns — unmonitored measures in payment programs, undetected safety signals. Options A and D are external comparisons that do not establish internal need; option C describes a workload symptom without linking it to organizational risk.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Kotter's first step in leading organizational change is to [R]",
+      "options": {
+        "a": "Form a guiding coalition",
+        "b": "Establish a sense of urgency",
+        "c": "Develop a vision and strategy",
+        "d": "Generate short-term wins"
+      },
+      "correct_option": "b",
+      "explanation": "Establish a sense of urgency Kotter's eight-step model begins with urgency because change efforts fail most often when the organization does not believe the status quo is unacceptable. Complacency defeats even well-designed change. The guiding coalition (A) is step two, vision (C) is step three, and short-term wins (D) is step six. Sequence matters — attempting to build a coalition without urgency produces membership without commitment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Middle managers are frequently the most resistant group during quality initiatives primarily because they [An]",
+      "options": {
+        "a": "Lack understanding of quality methods",
+        "b": "Bear the operational burden of the change while having had the least input into its design",
+        "c": "Are protecting their departments from scrutiny",
+        "d": "Have less job security than frontline staff"
+      },
+      "correct_option": "b",
+      "explanation": "Bear the operational burden of the change while having had the least input into its design Middle managers are structurally squeezed — accountable for execution, held to unchanged productivity targets, and typically consulted after design decisions are made. Framing their resistance as a knowledge deficit (A) or self-protection (C) produces interventions that miss the cause. The remedy is early involvement in design and explicit adjustment of competing expectations, both of which convert the resistant layer into the implementing layer.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In Lewin's change model, the \"unfreezing\" stage is characterized by [R]",
+      "options": {
+        "a": "Implementing the new process",
+        "b": "Creating readiness by disrupting the equilibrium that sustains current practice",
+        "c": "Reinforcing the change so it becomes standard",
+        "d": "Measuring the results of the change"
+      },
+      "correct_option": "b",
+      "explanation": "Creating readiness by disrupting the equilibrium that sustains current practice Lewin described organizational behavior as held in equilibrium by driving and restraining forces. Unfreezing destabilizes that equilibrium — typically by making current performance visible and unacceptable — so movement becomes possible. Option A describes the moving stage; option C describes refreezing. Change efforts that begin at the moving stage encounter resistance that unfreezing exists to dissolve.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's board is establishing a quality committee. Which composition best supports its oversight function? [App]",
+      "options": {
+        "a": "Exclusively physician board members",
+        "b": "A mix of board members with defined quality accountability, supported by clinical and quality leadership as staff to the committee",
+        "c": "The full board sitting as a committee of the whole",
+        "d": "Quality department staff with board members as observers"
+      },
+      "correct_option": "b",
+      "explanation": "A mix of board members with defined quality accountability, supported by clinical and quality leadership as staff to the committee A board quality committee must be composed of board members, because it exercises governance authority that cannot be delegated to management. Clinical and quality leaders serve as staff resources providing expertise and data, not as voting members. Option D inverts the relationship and converts oversight into self-report. Option A unnecessarily narrows governance perspective to a single discipline.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which statement best distinguishes an organization's mission from its vision? [R]",
+      "options": {
+        "a": "Mission describes the desired future state; vision describes current purpose",
+        "b": "Mission describes current purpose and who is served; vision describes the aspirational future state",
+        "c": "Mission and vision are interchangeable statements",
+        "d": "Mission is internal; vision is external"
+      },
+      "correct_option": "b",
+      "explanation": "Mission describes current purpose and who is served; vision describes the aspirational future state Mission answers why the organization exists now and for whom; vision answers what it intends to become. Strategic quality objectives derive from both — mission constrains what improvement work is appropriate, vision sets its direction and ambition. Option A reverses the definitions, a reversal tested frequently because the terms are used loosely in practice.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is asked to recommend which of thirty available measures should appear on the organizational strategic scorecard. The primary selection criterion should be [App]",
+      "options": {
+        "a": "Availability of reliable data with minimal collection burden",
+        "b": "Direct linkage to strategic objectives, with the measure sensitive to organizational action",
+        "c": "Inclusion in national public reporting programs",
+        "d": "Favorable current performance to demonstrate progress"
+      },
+      "correct_option": "b",
+      "explanation": "Direct linkage to strategic objectives, with the measure sensitive to organizational action A strategic scorecard exists to tell leadership whether strategy is working. Measures must therefore connect to strategic objectives and must move when the organization acts — a measure the organization cannot influence produces monitoring without management. Data availability (A) is a practical constraint, not a selection criterion. Option D biases the scorecard toward comfort rather than signal.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which best describes the role of a project sponsor, as distinct from a project champion? [R]",
+      "options": {
+        "a": "The sponsor provides enthusiasm; the champion provides resources",
+        "b": "The sponsor holds authority to allocate resources and remove barriers; the champion advocates for the change among peers",
+        "c": "The sponsor leads the improvement team; the champion collects the data",
+        "d": "The two terms describe the same role"
+      },
+      "correct_option": "b",
+      "explanation": "The sponsor holds authority to allocate resources and remove barriers; the champion advocates for the change among peers The sponsor is typically an executive with positional authority — the person who can free up staff time, fund the work, and resolve cross-departmental obstruction. The champion carries influence rather than authority, often a respected clinician who legitimizes the change among adopters. Projects commonly fail when a champion is mistaken for a sponsor and the team discovers no one can actually clear its barriers.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization's culture of quality is most accurately reflected in [App]",
+      "options": {
+        "a": "The content of its written quality policies",
+        "b": "What the organization does when quality and production pressure conflict",
+        "c": "The size and reporting level of its quality department",
+        "d": "Its accreditation status"
+      },
+      "correct_option": "b",
+      "explanation": "What the organization does when quality and production pressure conflict Culture is revealed under pressure, not in policy. An organization that halts a procedure when a safety concern is raised, accepts the schedule delay, and does not penalize the person who raised it has a demonstrably different culture from one whose written policy says the same thing. Options A, C, and D describe artifacts and structures that can be identical across organizations with opposite cultures.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A RACI matrix is used in quality improvement primarily to [R]",
+      "options": {
+        "a": "Rank improvement opportunities by priority",
+        "b": "Clarify who is responsible, accountable, consulted, and informed for each project element",
+        "c": "Display project tasks against a timeline",
+        "d": "Analyze root causes across categories"
+      },
+      "correct_option": "b",
+      "explanation": "Clarify who is responsible, accountable, consulted, and informed for each project element RACI resolves the most common cause of stalled improvement work — diffuse ownership. Distinguishing the single accountable party from those responsible for execution prevents both duplicated effort and unclaimed tasks. Prioritization (A) uses a decision matrix, timelines (C) use a Gantt chart, and cause analysis (D) uses a fishbone diagram.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Ground rules established at an improvement team's first meeting most directly support [App]",
+      "options": {
+        "a": "Compliance with organizational meeting policy",
+        "b": "Psychological safety and predictable team process, reducing conflict later in the project",
+        "c": "Accurate documentation of attendance",
+        "d": "Efficient scheduling of subsequent meetings"
+      },
+      "correct_option": "b",
+      "explanation": "Psychological safety and predictable team process, reducing conflict later in the project Ground rules established before disagreement arises — how decisions get made, how dissent is voiced, whether rank governs discussion — give the team a pre-agreed mechanism for handling the storming stage. Teams that negotiate these norms mid-conflict negotiate from positions rather than principles. This is foundational team facilitation practice under Task 1.B.5.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system operating in a matrix structure assigns a quality professional to both a service line and the central quality department. The most significant risk of this arrangement is [An]",
+      "options": {
+        "a": "Excessive travel between locations",
+        "b": "Conflicting priorities and unclear accountability when the two reporting lines disagree",
+        "c": "Reduced access to organizational data",
+        "d": "Limited opportunity for professional development"
+      },
+      "correct_option": "b",
+      "explanation": "Conflicting priorities and unclear accountability when the two reporting lines disagree Matrix structures create value through dual perspective but introduce a structural failure mode: when the service line and the central function want different things, the individual has no defined resolution path. Effective matrix design pre-specifies which line governs which decision type and establishes an escalation route. Recognizing formal and informal structure is an explicit expectation under Task 1.B.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Baldrige Excellence Framework evaluates an organization across categories that begin with [R]",
+      "options": {
+        "a": "Results",
+        "b": "Leadership",
+        "c": "Workforce",
+        "d": "Strategy"
+      },
+      "correct_option": "b",
+      "explanation": "Leadership Baldrige orders its seven categories deliberately: Leadership, Strategy, Customers, Measurement/Analysis/Knowledge Management, Workforce, Operations, and Results. Leadership comes first because the framework treats it as the driver of every downstream category, and Results comes last because it is treated as the consequence of the preceding six. The sequence encodes the framework's causal logic.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional notices that improvement results are reported to the board only when performance is favorable. The most appropriate action is to [App]",
+      "options": {
+        "a": "Continue current practice to maintain board confidence",
+        "b": "Recommend a standardized reporting format presenting all strategic measures regardless of performance direction",
+        "c": "Report unfavorable results directly to the board without informing executive leadership",
+        "d": "Report unfavorable results only when required by regulation"
+      },
+      "correct_option": "b",
+      "explanation": "Recommend a standardized reporting format presenting all strategic measures regardless of performance direction Selective reporting disables governance — a board cannot exercise oversight over performance it cannot see, and its fiduciary accountability persists regardless. The professional response is to change the structure so completeness is automatic rather than discretionary. Option C bypasses leadership and damages the working relationship needed to sustain the change; options A and D perpetuate the defect.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Succession planning for quality leadership is most important because [App]",
+      "options": {
+        "a": "Regulatory requirements mandate a designated successor",
+        "b": "Institutional knowledge of measure specifications, data systems, and improvement history is difficult to reconstruct",
+        "c": "It reduces recruitment costs",
+        "d": "Accrediting bodies review succession plans during survey"
+      },
+      "correct_option": "b",
+      "explanation": "Institutional knowledge of measure specifications, data systems, and improvement history is difficult to reconstruct Quality functions accumulate undocumented knowledge — why a measure is defined a particular way, which data field is unreliable, what was tried three years ago and failed. Unplanned departure of a long-tenured quality leader routinely sets an organization back years. This is an organizational continuity risk rather than a regulatory one; options A and D misstate requirements.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A dyad leadership model in a clinical service line typically pairs [R]",
+      "options": {
+        "a": "Two administrative leaders with complementary skills",
+        "b": "A physician leader with an administrative leader sharing accountability for the service line",
+        "c": "A senior leader with a junior leader for mentorship",
+        "d": "A quality professional with a data analyst"
+      },
+      "correct_option": "b",
+      "explanation": "A physician leader with an administrative leader sharing accountability for the service line The dyad model pairs clinical credibility with operational and financial expertise under shared accountability for the same results. It has become common in service line and quality structures because clinical change requires physician legitimacy while execution requires operational authority — and neither leader alone reliably holds both.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization evaluates its annual quality plan at year end. The most meaningful evaluation criterion is [App]",
+      "options": {
+        "a": "Whether all planned activities were completed",
+        "b": "Whether the plan's objectives produced measurable improvement in the targeted outcomes",
+        "c": "Whether the plan was submitted to the board on schedule",
+        "d": "Whether staff were aware the plan existed"
+      },
+      "correct_option": "b",
+      "explanation": "Whether the plan's objectives produced measurable improvement in the targeted outcomes A quality plan is evaluated on effect, not activity. Completion of every planned activity with no change in the targeted outcomes indicates that the plan selected the wrong interventions or the wrong problems — a finding that should reshape the following year's plan. Options A, C, and D measure execution and process compliance, all of which can be perfect on an ineffective plan.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which action best demonstrates that leadership has aligned quality and safety activities with strategic goals? [App]",
+      "options": {
+        "a": "The quality department mission statement references the organizational mission",
+        "b": "Executive incentive compensation includes performance on strategic quality measures",
+        "c": "Quality staff attend strategic planning meetings",
+        "d": "The quality plan is written after the strategic plan is finalized"
+      },
+      "correct_option": "b",
+      "explanation": "Executive incentive compensation includes performance on strategic quality measures Task 1.A.5 requires aligning quality and safety activities with strategic goals, and alignment is demonstrated where consequences attach. When executive compensation depends on quality performance, quality competes on equal footing with financial and volume objectives for leadership attention. Options A, C, and D are alignment gestures that carry no consequence and can coexist with complete strategic subordination of quality.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A SIPOC diagram is used at which point in an improvement project? [R]",
+      "options": {
+        "a": "During the Control phase, to establish monitoring",
+        "b": "At project initiation, to define process boundaries and high-level scope",
+        "c": "During root cause analysis, to identify causal categories",
+        "d": "At project closure, to document results"
+      },
+      "correct_option": "b",
+      "explanation": "At project initiation, to define process boundaries and high-level scope SIPOC — suppliers, inputs, process, outputs, customers — provides a one-page, high-level view that establishes where the process starts and stops before detailed mapping begins. Its primary value is scope control: teams that skip SIPOC routinely expand into adjacent processes and lose focus. It is a Define-phase tool in DMAIC.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A team applies the 5 Whys technique to a delayed discharge. The technique's purpose is to [R]",
+      "options": {
+        "a": "Identify five separate contributing causes",
+        "b": "Move past the immediate symptom toward an underlying system cause through iterative questioning",
+        "c": "Assign responsibility for the delay to a specific department",
+        "d": "Quantify the frequency of each delay type"
+      },
+      "correct_option": "b",
+      "explanation": "Move past the immediate symptom toward an underlying system cause through iterative questioning The 5 Whys drives beneath the presenting symptom by repeatedly asking why the prior answer occurred. The number five is a heuristic, not a requirement — the endpoint is a cause the organization can actually act on. The technique's known limitation is that it follows a single causal chain and may miss parallel contributors, which is why it is often paired with a fishbone diagram.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In Lean, takt time refers to [R]",
+      "options": {
+        "a": "The total time a process requires from start to finish",
+        "b": "The rate at which work must be completed to meet customer demand",
+        "c": "The time a work item spends waiting between steps",
+        "d": "The time required for a single staff member to complete a task"
+      },
+      "correct_option": "b",
+      "explanation": "The rate at which work must be completed to meet customer demand Takt time is calculated as available working time divided by customer demand for that period, establishing the pace the process must sustain. It differs from cycle time (D, the actual time to complete one unit) and lead time (A, total elapsed time including waiting). When cycle time exceeds takt time, demand cannot be met and backlog accumulates.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An emergency department is open 12 hours per day and sees an average of 96 patients daily. What is the takt time? [An]",
+      "options": {
+        "a": "6.5 minutes per patient",
+        "b": "7.5 minutes per patient",
+        "c": "8.0 minutes per patient",
+        "d": "12.5 minutes per patient"
+      },
+      "correct_option": "b",
+      "explanation": "7.5 minutes per patient Calculation: Available time = 12 hours × 60 minutes = 720 minutes. Takt time = available time ÷ demand = 720 ÷ 96 = 7.5 minutes per patient. This means the department must complete one patient every 7.5 minutes on average to meet demand without accumulating backlog. If measured cycle time exceeds 7.5 minutes, waiting will grow regardless of staff effort — a capacity constraint, not a performance problem.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A kaizen event is best characterized as [R]",
+      "options": {
+        "a": "A long-term improvement program spanning multiple years",
+        "b": "A short, intensive, focused improvement effort typically lasting three to five days with a dedicated team",
+        "c": "A daily huddle to review unit performance",
+        "d": "An annual review of departmental quality metrics"
+      },
+      "correct_option": "b",
+      "explanation": "A short, intensive, focused improvement effort typically lasting three to five days with a dedicated team Kaizen events, also called rapid improvement events, remove a cross-functional team from normal duties to analyze and redesign a bounded process within days rather than months. Their value is speed and dedicated focus; their limitation is that gains erode without a control plan and assigned ownership at event conclusion.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An A3 report is structured to [App]",
+      "options": {
+        "a": "Provide a detailed financial analysis of an improvement project",
+        "b": "Present problem background, current state, analysis, countermeasures, and follow-up plan on a single page",
+        "c": "Document the results of a root cause analysis for regulatory purposes",
+        "d": "List all improvement projects underway in a department"
+      },
+      "correct_option": "b",
+      "explanation": "Present problem background, current state, analysis, countermeasures, and follow-up plan on a single page The A3 — named for the paper size — forces problem-solving discipline through space constraint. The single page cannot accommodate unsupported assertions, so it functions simultaneously as a thinking tool, a communication tool, and a coaching mechanism. Its structure mirrors PDCA and makes gaps in reasoning immediately visible to a reviewer.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Poka-yoke refers to [R]",
+      "options": {
+        "a": "Continuous incremental improvement",
+        "b": "Error-proofing a process so that mistakes become difficult or impossible to make",
+        "c": "Standardizing workplace organization",
+        "d": "Visual management of process performance"
+      },
+      "correct_option": "b",
+      "explanation": "Error-proofing a process so that mistakes become difficult or impossible to make Poka-yoke designs the error path out of the process — connectors that fit only one way, systems that will not advance without a required field. It sits at the strong end of the intervention hierarchy because it does not depend on vigilance. Option A describes kaizen; option C describes 5S; option D describes visual management.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The 5S methodology addresses [R]",
+      "options": {
+        "a": "The five stages of team development",
+        "b": "Workplace organization: sort, set in order, shine, standardize, sustain",
+        "c": "Five categories of process waste",
+        "d": "The five phases of DMAIC"
+      },
+      "correct_option": "b",
+      "explanation": "Workplace organization: sort, set in order, shine, standardize, sustain 5S creates a workspace where everything needed is present and located predictably and everything unnecessary is removed. In healthcare it reduces search time, expired stock, and supply-related delay. The fifth S, sustain, is where most implementations fail — without audit and ownership, the workspace reverts within months.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which technique is most appropriate for generating a large volume of ideas from a team without early evaluation suppressing contribution? [App]",
+      "options": {
+        "a": "Multivoting",
+        "b": "Nominal group technique",
+        "c": "Decision matrix",
+        "d": "Force field analysis"
+      },
+      "correct_option": "b",
+      "explanation": "Nominal group technique Nominal group technique has participants generate ideas silently and independently before any group discussion, then share in round-robin fashion. This structure neutralizes the two dominant suppressors of contribution — hierarchy and early criticism. Multivoting (A) narrows an existing list; a decision matrix (C) scores options; force field analysis (D) maps driving and restraining forces.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "After generating 34 ideas, a team needs to narrow to a manageable number for evaluation. The most appropriate next tool is [App]",
+      "options": {
+        "a": "Affinity diagram followed by multivoting",
+        "b": "Control chart",
+        "c": "Value stream map",
+        "d": "Histogram"
+      },
+      "correct_option": "a",
+      "explanation": "Affinity diagram followed by multivoting The affinity diagram groups a large idea set into natural themes, collapsing redundancy and revealing structure. Multivoting then narrows the grouped set through distributed prioritization without extended debate. This generate-organize-narrow sequence is standard team practice. The remaining options are data analysis and process mapping tools, none of which reduce an idea list.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A check sheet is used primarily to [R]",
+      "options": {
+        "a": "Display the distribution of a continuous variable",
+        "b": "Collect data in a structured, real-time format at the point of observation",
+        "c": "Compare performance against an external benchmark",
+        "d": "Identify the root cause of a defect"
+      },
+      "correct_option": "b",
+      "explanation": "Collect data in a structured, real-time format at the point of observation The check sheet is a simple data collection instrument with predefined categories, designed so observers can record occurrences immediately with minimal effort and consistent definitions. It is a collection tool, not an analysis tool — the resulting tally typically feeds a Pareto chart. Real-time capture at the point of observation avoids the recall error inherent in retrospective reconstruction.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The three questions of the IHI Model for Improvement are [R]",
+      "options": {
+        "a": "What is the problem, who owns it, and when will it be fixed",
+        "b": "What are we trying to accomplish, how will we know a change is an improvement, and what change can we make that will result in improvement",
+        "c": "What went wrong, why did it happen, and how do we prevent recurrence",
+        "d": "What does the customer value, where is the waste, and how do we eliminate it"
+      },
+      "correct_option": "b",
+      "explanation": "What are we trying to accomplish, how will we know a change is an improvement, and what change can we make that will result in improvement These three questions correspond to aim, measurement, and change ideas respectively, and precede the PDSA cycles that test them. The ordering is deliberate: teams that start with change ideas before establishing aim and measurement cannot determine whether their changes improved anything. Option C describes RCA logic; option D describes Lean logic.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A driver diagram is used to [App]",
+      "options": {
+        "a": "Display the frequency of defect categories in rank order",
+        "b": "Link an aim to the primary and secondary drivers and change ideas expected to achieve it",
+        "c": "Show the flow of materials and information through a process",
+        "d": "Track project milestones against a schedule"
+      },
+      "correct_option": "b",
+      "explanation": "Link an aim to the primary and secondary drivers and change ideas expected to achieve it The driver diagram makes the team's theory of improvement explicit — if we change these things, these drivers will move, and the aim will be achieved. Its value is testability: when results do not follow, the diagram identifies which link in the causal theory failed. It is a core IHI improvement tool and increasingly appears in improvement project documentation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A process improvement team identifies that a single CT scanner constrains the throughput of the entire imaging department. According to theory of constraints, the team should [An]",
+      "options": {
+        "a": "Increase staffing across all imaging modalities equally",
+        "b": "Focus improvement effort on the CT scanner, since system throughput cannot exceed the constraint",
+        "c": "Reduce demand for imaging services organization-wide",
+        "d": "Improve the fastest step in the process first"
+      },
+      "correct_option": "b",
+      "explanation": "Focus improvement effort on the CT scanner, since system throughput cannot exceed the constraint Goldratt's theory of constraints holds that a system's output is governed by its bottleneck, so improvement anywhere else produces no throughput gain and often increases work-in-progress ahead of the constraint. Option D is the classic error — optimizing a non-constraint step accelerates arrival at the same bottleneck. Improving the constraint, then re-identifying the new constraint, is the prescribed cycle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A spaghetti diagram is most useful for identifying [App]",
+      "options": {
+        "a": "Communication failures between departments",
+        "b": "Excess motion and inefficient physical layout",
+        "c": "The root causes of clinical errors",
+        "d": "Variation in a measured outcome over time"
+      },
+      "correct_option": "b",
+      "explanation": "Excess motion and inefficient physical layout The spaghetti diagram traces the physical movement of a person or item through a workspace over a defined period, making travel distance visually undeniable. It is the standard evidence base for layout redesign and point-of-use supply placement. Options A, C, and D require communication mapping, cause analysis, and control charts respectively.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During spread of a successful change, the most important element to preserve is [App]",
+      "options": {
+        "a": "The exact implementation steps used at the pilot site",
+        "b": "The core components essential to the change's effect, while permitting local adaptation of non-essential elements",
+        "c": "The original team membership",
+        "d": "The identical measurement frequency"
+      },
+      "correct_option": "b",
+      "explanation": "The core components essential to the change's effect, while permitting local adaptation of non-essential elements Successful spread requires distinguishing the active ingredients — without which the change does not work — from contextual details that can and should vary by setting. Demanding exact replication (A) generates resistance and fails where local context differs; permitting unrestricted adaptation dilutes the change until it no longer produces effect. Defining core components explicitly is a prerequisite to spread.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A control plan developed at the conclusion of an improvement project should specify [R]",
+      "options": {
+        "a": "The project's total cost and resource consumption",
+        "b": "What will be measured, how often, by whom, the expected range, and the response when performance falls outside it",
+        "c": "The names of all team members and their contributions",
+        "d": "The improvement methodology that was applied"
+      },
+      "correct_option": "b",
+      "explanation": "What will be measured, how often, by whom, the expected range, and the response when performance falls outside it The control plan is the mechanism that transfers a completed improvement to operations without loss. Each element is necessary: without a named owner, monitoring lapses; without an expected range, deviation is not recognized; without a response plan, deviation is recognized but not corrected. This is the operational substance of the DMAIC Control phase.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A daily improvement huddle at the unit level is most effective when it [App]",
+      "options": {
+        "a": "Reviews all organizational quality metrics",
+        "b": "Focuses on a small number of unit-specific measures with visible countermeasures and named owners",
+        "c": "Is led by the quality department",
+        "d": "Is conducted monthly to reduce staff time burden"
+      },
+      "correct_option": "b",
+      "explanation": "Focuses on a small number of unit-specific measures with visible countermeasures and named owners Tiered daily huddles work through immediacy and specificity — staff see their own unit's recent performance and the specific actions in progress, in a session brief enough to sustain daily. Organizational metrics (A) are too distant to drive unit behavior. Quality department leadership (C) undermines local ownership, and monthly frequency (D) forfeits the mechanism entirely.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A team observes that 30% of laboratory specimens require redraw. In Lean terms, redraw work represents [App]",
+      "options": {
+        "a": "Value-added activity",
+        "b": "Defect waste",
+        "c": "Necessary non-value-added activity",
+        "d": "Overproduction waste"
+      },
+      "correct_option": "b",
+      "explanation": "Defect waste Redraw is rework performed because the first attempt produced an unusable output — the definition of defect waste. It consumes staff time, supplies, patient tolerance, and turnaround time while adding nothing the patient values. Option C would apply to a required verification step; redraw is not required by design, it is caused by failure. Defect waste is typically the highest-cost waste category in clinical processes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which criterion is most important when selecting a pilot site for a new process? [App]",
+      "options": {
+        "a": "The site with the best current performance, to ensure success",
+        "b": "A site representative enough for findings to generalize, with leadership willing to engage in testing and learning",
+        "c": "The site with the worst current performance, to demonstrate the largest improvement",
+        "d": "The site geographically closest to administrative offices"
+      },
+      "correct_option": "b",
+      "explanation": "A site representative enough for findings to generalize, with leadership willing to engage in testing and learning Pilot site selection balances two requirements: the site must be typical enough that results predict what will happen elsewhere, and it must be willing to iterate through failed early cycles. Selecting only the highest performer (A) produces results that do not replicate. Selecting only the worst performer (C) risks failure attributable to site conditions rather than the change itself.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "PDCA and PDSA differ primarily in that PDSA [R]",
+      "options": {
+        "a": "Requires statistical analysis at each cycle",
+        "b": "Substitutes \"Study\" for \"Check,\" emphasizing learning against a prediction rather than verification against a standard",
+        "c": "Applies only to healthcare settings",
+        "d": "Includes an additional fifth step"
+      },
+      "correct_option": "b",
+      "explanation": "Substitutes \"Study\" for \"Check,\" emphasizing learning against a prediction rather than verification against a standard Deming's revision from Check to Study was deliberate. \"Check\" implies confirming conformance to a standard; \"Study\" requires comparing results against what the team predicted would happen, which surfaces gaps in the underlying theory. This distinction matters in practice — teams that check merely record whether the change worked, while teams that study learn why.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An improvement project's scope has expanded from reducing surgical site infections in colorectal surgery to reducing all hospital-acquired infections. The quality professional should [App]",
+      "options": {
+        "a": "Support the expansion to maximize project impact",
+        "b": "Return the team to its charter and recommend the expansion be evaluated as a separate project",
+        "c": "Extend the project timeline to accommodate the larger scope",
+        "d": "Add additional team members to cover the expanded scope"
+      },
+      "correct_option": "b",
+      "explanation": "Return the team to its charter and recommend the expansion be evaluated as a separate project Scope creep is among the most reliable predictors of improvement project failure — the expanded aim exceeds the team's authority, resources, and analytical foundation, and the original problem is left unsolved. Options C and D accommodate the creep rather than correcting it. The charter exists precisely to make this boundary explicit and enforceable.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Benchmarking supports improvement work primarily by [App]",
+      "options": {
+        "a": "Establishing that current performance is acceptable",
+        "b": "Identifying the size of the performance gap and demonstrating what level of performance is achievable",
+        "c": "Satisfying accreditation documentation requirements",
+        "d": "Determining the statistical significance of internal changes"
+      },
+      "correct_option": "b",
+      "explanation": "Identifying the size of the performance gap and demonstrating what level of performance is achievable Benchmarking answers two questions internal data cannot: how far from best performance is the organization, and is the target realistic. Demonstrated achievement elsewhere converts an aspirational target into an evidenced one, which materially changes stakeholder willingness to engage. Functional and best-practice benchmarking additionally reveal how the gap was closed, not only that it was.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which finding on a process map most strongly suggests an improvement opportunity? [An]",
+      "options": {
+        "a": "A step performed by a licensed clinician",
+        "b": "Multiple decision points requiring the same information to be re-verified",
+        "c": "A step required by regulation",
+        "d": "A step that takes longer than the process average"
+      },
+      "correct_option": "b",
+      "explanation": "Multiple decision points requiring the same information to be re-verified Repeated verification of the same information indicates that the process does not trust its own earlier steps — a signature of upstream defect, poor information transfer, or accumulated defensive workarounds. Each repetition is non-value-added. Option D may simply reflect the most complex step; option C is constrained; option A describes appropriate skill deployment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A change was tested through four PDSA cycles, each producing improvement smaller than predicted. The team should [An]",
+      "options": {
+        "a": "Abandon the change and select a different intervention",
+        "b": "Examine whether the underlying theory linking the change to the aim is correct before continuing to test",
+        "c": "Increase the scale of testing to organization-wide",
+        "d": "Extend each cycle to a longer duration"
+      },
+      "correct_option": "b",
+      "explanation": "Examine whether the underlying theory linking the change to the aim is correct before continuing to test Consistent underperformance against prediction across multiple cycles is a signal about the theory, not the execution. The Study phase exists to detect exactly this. Continuing to test a change built on a flawed causal theory (options C and D) expends resources without resolving the gap. Returning to the driver diagram to re-examine the causal links is the disciplined response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which measure best demonstrates that improvement capability has been built within an organization? [App]",
+      "options": {
+        "a": "The number of improvement projects led by the quality department",
+        "b": "The number of improvement projects initiated and completed by operational units without quality department leadership",
+        "c": "The total dollars saved through improvement projects",
+        "d": "The number of staff who completed improvement training"
+      },
+      "correct_option": "b",
+      "explanation": "The number of improvement projects initiated and completed by operational units without quality department leadership Capability is demonstrated by independent action. Projects led by the quality department (A) reflect department capacity; training completion (D) reflects exposure rather than capability. Savings (C) measure outcome without indicating who produced it. Distributed, self-initiated improvement is the endpoint that Task 2.A training exists to reach.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A team completes a value stream map showing total lead time of 340 minutes with 47 minutes of value-added time. The process cycle efficiency is [An]",
+      "options": {
+        "a": "7.2%",
+        "b": "13.8%",
+        "c": "24.6%",
+        "d": "86.2%"
+      },
+      "correct_option": "b",
+      "explanation": "13.8% Calculation: Process cycle efficiency = value-added time ÷ total lead time × 100 = 47 ÷ 340 × 100 = 0.1382 × 100 = 13.8%. This means roughly 86% of elapsed time adds no value from the patient's perspective — predominantly waiting. Healthcare processes commonly fall between 5% and 20%, which is why waiting reduction typically yields larger gains than accelerating value-added steps.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Care coordination differs from case management in that care coordination [R]",
+      "options": {
+        "a": "Is provided only by registered nurses",
+        "b": "Organizes care activities and information sharing across all participants for a broad population, while case management provides intensive individualized management for selected high-need patients",
+        "c": "Applies only to inpatient settings",
+        "d": "Requires physician supervision"
+      },
+      "correct_option": "b",
+      "explanation": "Organizes care activities and information sharing across all participants for a broad population, while case management provides intensive individualized management for selected high-need patients Per AHRQ and the Case Management Society of America, care coordination is a broad function applied across a population to ensure information and activities align among all participants. Case management is a targeted intensive service delivered to a selected subset identified through risk stratification. The distinction determines resource allocation — coordination scales, case management does not.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient with limited health literacy is most effectively supported by [App]",
+      "options": {
+        "a": "Providing additional written educational materials",
+        "b": "Using teach-back to confirm the patient can explain the plan in their own words",
+        "c": "Increasing the length of the discharge conversation",
+        "d": "Involving a family member in all discussions"
+      },
+      "correct_option": "b",
+      "explanation": "Using teach-back to confirm the patient can explain the plan in their own words Teach-back verifies comprehension rather than assuming it, and it places the burden of clear communication on the clinician rather than on the patient's disclosure of confusion. AHRQ's Health Literacy Universal Precautions Toolkit identifies it as a core practice. Additional written material (A) compounds the problem when literacy is the barrier; longer conversation (C) adds volume without verification.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Transitional Care Model's defining feature is [R]",
+      "options": {
+        "a": "Telephone follow-up within 48 hours of discharge",
+        "b": "A dedicated advanced practice clinician who follows the patient across settings, including home visits",
+        "c": "Automated discharge instruction generation",
+        "d": "Scheduling all follow-up appointments before discharge"
+      },
+      "correct_option": "b",
+      "explanation": "A dedicated advanced practice clinician who follows the patient across settings, including home visits Naylor's Transitional Care Model achieves its readmission reductions through continuity of a single clinician relationship spanning the hospital-to-home transition, including in-home assessment. This distinguishes it from lighter-touch models such as Coleman's Care Transitions Intervention, which uses a coach to build patient self-management capability. Options A, C, and D are components of many transition programs but define none of them.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A discharge readiness assessment should evaluate [App]",
+      "options": {
+        "a": "Clinical stability only",
+        "b": "Clinical stability, patient and caregiver understanding, medication access, follow-up arrangements, and home support",
+        "c": "Insurance authorization status only",
+        "d": "Bed availability at the receiving facility"
+      },
+      "correct_option": "b",
+      "explanation": "Clinical stability, patient and caregiver understanding, medication access, follow-up arrangements, and home support Task 3.F requires identifying opportunities for improvement in care transitions. Readmissions frequently occur in patients who were clinically ready but functionally unready — unable to afford a prescription, without transportation to follow-up, or without a caregiver at home. Assessing only clinical parameters produces discharges that are medically defensible and practically unsupportable.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Risk stratification of a population typically results in [App]",
+      "options": {
+        "a": "A single intervention applied uniformly to all members",
+        "b": "Tiered intervention intensity matched to predicted need, from self-management support through intensive case management",
+        "c": "Exclusion of the highest-risk members from quality measurement",
+        "d": "Referral of all members to specialty care"
+      },
+      "correct_option": "b",
+      "explanation": "Tiered intervention intensity matched to predicted need, from self-management support through intensive case management Risk stratification exists to allocate finite intensive resources where they produce the most benefit. Typical pyramids assign the low-risk majority to prevention and self-management support, rising-risk members to targeted disease management, and the high-risk minority to intensive case management. Uniform intervention (A) either overspends on the healthy or underserves the complex.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A community-wide influenza vaccination campaign represents which level of prevention? [R]",
+      "options": {
+        "a": "Primary",
+        "b": "Secondary",
+        "c": "Tertiary",
+        "d": "Quaternary"
+      },
+      "correct_option": "a",
+      "explanation": "Primary Primary prevention acts before disease occurs, reducing incidence by removing risk or increasing resistance — immunization is its clearest example. Secondary prevention detects existing asymptomatic disease through screening; tertiary limits complications in established disease; quaternary protects patients from unnecessary intervention. Distinguishing among these levels is tested consistently in this domain.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system screens patients for food insecurity using a validated two-question tool. The most important element to establish alongside the screening is [App]",
+      "options": {
+        "a": "A billing code for the screening encounter",
+        "b": "A referral pathway to community resources that can respond to identified need",
+        "c": "A target screening completion rate",
+        "d": "Documentation of the screening in a structured field"
+      },
+      "correct_option": "b",
+      "explanation": "A referral pathway to community resources that can respond to identified need Screening without a response pathway identifies need and delivers nothing, which is both ethically problematic and erodes patient trust in disclosure. Task 3.H requires incorporating SDOH concepts into improvement activities, and incorporation implies action. Options A, C, and D are operational elements that matter only once the response capability exists.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In an accountable care organization, patient attribution determines [R]",
+      "options": {
+        "a": "Which physicians may join the organization",
+        "b": "Which patients the organization is financially and clinically accountable for",
+        "c": "The organization's quality measure specifications",
+        "d": "The organization's governance structure"
+      },
+      "correct_option": "b",
+      "explanation": "Which patients the organization is financially and clinically accountable for Attribution methodology assigns beneficiaries to an ACO, typically based on where the plurality of primary care services was received, and thereby defines the denominator for both quality performance and total cost of care. Because attribution can shift year to year without patient awareness, ACOs must manage populations that include patients who do not know they are attributed — a distinctive population health challenge.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A telehealth expansion increases overall visit completion rates but analysis shows utilization is markedly lower among patients over 75 and those in rural ZIP codes. The most appropriate response is [An]",
+      "options": {
+        "a": "Discontinue the telehealth program",
+        "b": "Identify and address the specific barriers — device access, broadband, digital literacy — affecting the underutilizing groups",
+        "c": "Report only the overall improvement, which is favorable",
+        "d": "Require telehealth for all follow-up visits to increase uptake"
+      },
+      "correct_option": "b",
+      "explanation": "Identify and address the specific barriers — device access, broadband, digital literacy — affecting the underutilizing groups An intervention that improves aggregate performance while widening a gap between subpopulations has produced improvement and disparity simultaneously. Task 3.D requires incorporating techniques to address disparities. Option C conceals the finding; option D would convert a partial access barrier into a total one for the affected groups; option A discards a benefit that most patients received.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Palliative care differs from hospice care in that palliative care [R]",
+      "options": {
+        "a": "Is provided only in the final six months of life",
+        "b": "May be provided concurrently with curative treatment at any stage of serious illness",
+        "c": "Requires discontinuation of disease-directed therapy",
+        "d": "Is available only in inpatient settings"
+      },
+      "correct_option": "b",
+      "explanation": "May be provided concurrently with curative treatment at any stage of serious illness Palliative care addresses symptom burden, communication, and goals of care alongside disease-directed treatment, appropriate from diagnosis onward. Hospice is a specific benefit requiring a prognosis of six months or less and generally the election to forgo curative treatment for the terminal condition. Conflating the two delays palliative referral, a documented quality gap.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which data source best supports identifying health disparities within an organization's patient population? [App]",
+      "options": {
+        "a": "Aggregate organizational performance rates",
+        "b": "Quality measure results stratified by race, ethnicity, language, and social risk factors",
+        "c": "Total patient volume by service line",
+        "d": "Payer mix analysis"
+      },
+      "correct_option": "b",
+      "explanation": "Quality measure results stratified by race, ethnicity, language, and social risk factors Task 3.E requires analyzing clinical, cost, equity, and SDOH data to drive improvement. Disparity is invisible in aggregate data by definition — stratification is the only mechanism that reveals differential performance. This requires that demographic data be collected with reasonable completeness and accuracy, itself a common organizational gap that must be addressed before stratified analysis is meaningful.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which control chart is appropriate for monitoring the proportion of patients receiving VTE prophylaxis, where the number of eligible patients varies each month? [App]",
+      "options": {
+        "a": "c-chart",
+        "b": "p-chart",
+        "c": "X-bar and R chart",
+        "d": "u-chart"
+      },
+      "correct_option": "b",
+      "explanation": "p-chart The p-chart plots proportions of defective units from attribute data with a variable subgroup size, adjusting control limits to reflect each period's denominator. The c-chart (A) requires counts over a constant area of opportunity; the u-chart (D) handles counts per unit with variable area; the X-bar and R chart (C) applies to continuous variable data. Chart selection follows from data type and denominator behavior.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Attribute data are distinguished from variable data in that attribute data [R]",
+      "options": {
+        "a": "Are measured on a continuous scale",
+        "b": "Are counted and fall into discrete categories, such as pass/fail or present/absent",
+        "c": "Always follow a normal distribution",
+        "d": "Require larger sample sizes to analyze"
+      },
+      "correct_option": "b",
+      "explanation": "Are counted and fall into discrete categories, such as pass/fail or present/absent Attribute data are counted — compliant or not, infected or not. Variable data are measured on a continuous scale — minutes, milligrams, degrees. The distinction governs chart selection, the applicable statistical tests, and required sample size. Attribute data generally require larger samples to detect change, since each observation carries less information than a measurement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A unit had 6 pressure injuries in a month with 890 patient days. Express this as a rate per 1,000 patient days. [An]",
+      "options": {
+        "a": "0.67",
+        "b": "6.74",
+        "c": "14.8",
+        "d": "67.4"
+      },
+      "correct_option": "b",
+      "explanation": "6.74 Calculation: Rate = (6 ÷ 890) × 1,000 = 0.006742 × 1,000 = 6.74 per 1,000 patient days. Note that with a numerator of 6, this rate is statistically unstable — a single additional event would shift it to 7.87, a 17% change driven by one case. Small-numerator measures require extended observation periods or aggregation before trend conclusions are drawn.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A standardized infection ratio (SIR) of 0.72 indicates that the observed number of infections was [An]",
+      "options": {
+        "a": "72% higher than predicted",
+        "b": "28% lower than predicted based on national baseline data and facility characteristics",
+        "c": "72 infections above the national average",
+        "d": "Statistically insignificant"
+      },
+      "correct_option": "b",
+      "explanation": "28% lower than predicted based on national baseline data and facility characteristics Calculation: SIR = observed ÷ predicted. A SIR of 0.72 means observed infections were 72% of predicted, a reduction of 1 − 0.72 = 28% below prediction. The predicted value is risk-adjusted using NHSN national baseline data and facility characteristics. A SIR above 1.0 indicates more infections than predicted; below 1.0, fewer. SIR is used in CMS payment programs and public reporting.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The mode of the data set 4, 7, 7, 9, 12, 12, 12, 15 is [An]",
+      "options": {
+        "a": "7",
+        "b": "9.75",
+        "c": "10.5",
+        "d": "12"
+      },
+      "correct_option": "d",
+      "explanation": "12 The mode is the most frequently occurring value; 12 appears three times, 7 appears twice, and all others once. For reference, the mean = 78 ÷ 8 = 9.75 and the median = (9 + 12) ÷ 2 = 10.5. The mode is the only measure of central tendency applicable to nominal data — it is the appropriate choice when reporting the most common diagnosis or most frequent error type.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A dashboard differs from a scorecard in that a dashboard typically [R]",
+      "options": {
+        "a": "Displays only financial measures",
+        "b": "Presents near-real-time operational performance for monitoring, while a scorecard presents periodic performance against strategic targets",
+        "c": "Is reviewed annually rather than monthly",
+        "d": "Contains more measures than a scorecard"
+      },
+      "correct_option": "b",
+      "explanation": "Presents near-real-time operational performance for monitoring, while a scorecard presents periodic performance against strategic targets The distinction is one of purpose and cadence. Dashboards support operational management — current status, frequent refresh, action-oriented. Scorecards support strategic evaluation — periodic, target-referenced, trend-focused. Task 4.A.6 requires designing both for different audiences, and confusing the two produces displays that serve neither purpose well.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a run chart, the center line should be the [R]",
+      "options": {
+        "a": "Mean",
+        "b": "Median",
+        "c": "Target value",
+        "d": "Benchmark value"
+      },
+      "correct_option": "b",
+      "explanation": "Median Run charts use the median as the center line because the standard run rules — shift, trend, number of runs — are constructed on the probability of points falling above or below the median, and because the median resists distortion by outliers. Control charts, by contrast, use the mean as the center line with limits derived from the standard deviation. Substituting the mean invalidates run chart interpretation rules.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A screening test correctly identifies 92 of 100 patients who have a condition. This describes the test's [R]",
+      "options": {
+        "a": "Specificity",
+        "b": "Sensitivity",
+        "c": "Positive predictive value",
+        "d": "Reliability"
+      },
+      "correct_option": "b",
+      "explanation": "Sensitivity Sensitivity is the proportion of those with the condition who test positive — true positives ÷ (true positives + false negatives) = 92 ÷ 100 = 92%. Specificity (A) is the proportion without the condition who test negative. Positive predictive value (C) is the proportion of positive tests that are true positives, which depends on disease prevalence. High sensitivity is prioritized when missing a case carries serious consequence.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A confidence interval around a measured rate indicates [R]",
+      "options": {
+        "a": "The range within which all individual observations fall",
+        "b": "The range of values within which the true population value is likely to lie, at a stated level of confidence",
+        "c": "The difference between the highest and lowest observed values",
+        "d": "The threshold for statistical significance"
+      },
+      "correct_option": "b",
+      "explanation": "The range of values within which the true population value is likely to lie, at a stated level of confidence The confidence interval expresses precision. A 95% confidence interval means that if the sampling were repeated many times, 95% of the resulting intervals would contain the true value. Wide intervals — common with small numerators — indicate that the point estimate is imprecise, which is why overlapping intervals between two organizations mean the apparent difference may not be real.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A t-test would be used to [R]",
+      "options": {
+        "a": "Determine whether the means of two groups differ more than would be expected by chance",
+        "b": "Display the distribution of a continuous variable",
+        "c": "Establish a causal relationship between two variables",
+        "d": "Calculate control limits for a process"
+      },
+      "correct_option": "a",
+      "explanation": "Determine whether the means of two groups differ more than would be expected by chance The t-test compares means between two groups — pre-intervention versus post-intervention, or unit A versus unit B — and reports the probability that the observed difference arose by chance. It does not establish causation (C), which requires study design rather than statistical test. Task 4.B.4 explicitly names the t-test among the statistical techniques within scope.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Increasing the sample size in a study primarily [R]",
+      "options": {
+        "a": "Eliminates bias in the results",
+        "b": "Increases precision and the ability to detect true differences",
+        "c": "Guarantees the results will be clinically significant",
+        "d": "Removes the need for risk adjustment"
+      },
+      "correct_option": "b",
+      "explanation": "Increases precision and the ability to detect true differences Larger samples narrow confidence intervals and increase statistical power. They do not correct bias (A) — a systematically flawed sampling method produces a precisely wrong answer at any size. They also do not confer clinical significance (C); large samples make trivially small differences statistically detectable, which is why effect size must be interpreted alongside p-values.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization's data governance program is primarily responsible for [R]",
+      "options": {
+        "a": "Purchasing analytics software",
+        "b": "Establishing accountability for data definitions, quality, access, and stewardship across the organization",
+        "c": "Producing the monthly quality dashboard",
+        "d": "Conducting statistical analysis for improvement teams"
+      },
+      "correct_option": "b",
+      "explanation": "Establishing accountability for data definitions, quality, access, and stewardship across the organization Data governance addresses the structural questions that determine whether analytics can be trusted: who owns each data element, what the authoritative definition is, who may access it, and who is accountable for its quality. Without governance, organizations produce multiple conflicting values for the same measure — the most common cause of lost credibility in quality reporting.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Clinical registry data generally offer which advantage over administrative claims data for quality measurement? [R]",
+      "options": {
+        "a": "Lower cost of collection",
+        "b": "Greater clinical detail and specificity, supporting more precise risk adjustment",
+        "c": "Broader population coverage",
+        "d": "Faster availability after the encounter"
+      },
+      "correct_option": "b",
+      "explanation": "Greater clinical detail and specificity, supporting more precise risk adjustment Registries capture clinical variables — ejection fraction, tumor stage, laboratory values — that claims data cannot, permitting risk adjustment that reflects clinical severity rather than coded comorbidity. The tradeoff is cost: registry data require dedicated abstraction. Claims data are inexpensive and broadly available but were designed for payment, not clinical measurement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A measure's data completeness is 63%. The most significant implication is [An]",
+      "options": {
+        "a": "The measure should be reported with a footnote",
+        "b": "The reported result may not represent the full population, and the direction of the resulting error is unknown",
+        "c": "The sample size is adequate for analysis",
+        "d": "The measure is invalid and should be discontinued"
+      },
+      "correct_option": "b",
+      "explanation": "The reported result may not represent the full population, and the direction of the resulting error is unknown With 37% of cases missing, the reported value describes only the captured subset. If missingness correlates with performance — for example, if incomplete documentation clusters in the busiest units — the result is biased in an unknown direction. Task 4.A.4 requires validation before analysis. The remedy is investigating why data are missing, not annotating the deficiency.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A weighted average is most appropriate when [App]",
+      "options": {
+        "a": "All data points contribute equally to the result",
+        "b": "Component values represent groups of differing size and should influence the result proportionally",
+        "c": "The distribution contains outliers",
+        "d": "Data are collected at irregular intervals"
+      },
+      "correct_option": "b",
+      "explanation": "Component values represent groups of differing size and should influence the result proportionally Averaging unit-level rates without weighting by each unit's denominator gives a 12-bed unit equal influence to a 60-bed unit, producing a figure that does not describe the organization. Weighting by volume yields the true organizational rate. This is a frequent error in rolled-up quality reporting and materially misstates performance when unit sizes differ substantially.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A run chart shows a single point dramatically distant from all other observations. This is termed [R]",
+      "options": {
+        "a": "A shift",
+        "b": "A trend",
+        "c": "An astronomical point",
+        "d": "A run"
+      },
+      "correct_option": "c",
+      "explanation": "An astronomical point An astronomical point is a visually obvious outlier — the one point that is unmistakably different from the rest. It is one of the four standard run chart rules alongside shift, trend, and number of runs, and it warrants investigation for special cause. Note that this rule is judgment-based rather than calculated; the point must be obvious to any observer, not merely the highest value present.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is asked to compare readmission performance across five hospitals in a system. The most valid comparison requires [App]",
+      "options": {
+        "a": "Reporting raw readmission counts for each hospital",
+        "b": "Identical measure specifications with risk adjustment for case mix and patient population differences",
+        "c": "Adjusting each hospital's results to the system average",
+        "d": "Comparing only hospitals of similar bed size"
+      },
+      "correct_option": "b",
+      "explanation": "Identical measure specifications with risk adjustment for case mix and patient population differences Internal comparison faces the same validity requirements as external benchmarking — common definitions and case-mix adjustment. Without them, a tertiary referral hospital will appear to underperform a community hospital because of patient complexity rather than care quality. Raw counts (A) ignore volume entirely. Bed size (D) is a poor proxy for case mix.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The interquartile range describes [R]",
+      "options": {
+        "a": "The difference between the highest and lowest values",
+        "b": "The range containing the middle 50% of observations",
+        "c": "The average distance of observations from the mean",
+        "d": "The most frequently occurring value"
+      },
+      "correct_option": "b",
+      "explanation": "The range containing the middle 50% of observations The interquartile range spans the 25th to 75th percentile, capturing the central half of the distribution while excluding the tails. Like the median, it resists outlier distortion, making it the preferred dispersion measure for skewed healthcare data such as length of stay and cost. Option A describes the range; option C describes standard deviation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital reports that 88% of patients received a required assessment. The 12% who did not were excluded from the denominator because of documented contraindications. This exclusion is [App]",
+      "options": {
+        "a": "Inappropriate, since all patients should be counted",
+        "b": "Appropriate only if the measure specification defines those contraindications as valid exclusions",
+        "c": "Always appropriate when clinically justified",
+        "d": "Appropriate only with governing body approval"
+      },
+      "correct_option": "b",
+      "explanation": "Appropriate only if the measure specification defines those contraindications as valid exclusions Denominator exclusions must follow the measure specification exactly. Organizations that apply locally reasonable exclusions not authorized by the specification produce results that are not comparable to any benchmark, and in payment programs may face compliance exposure. Clinical justification (C) is necessary but not sufficient — the specification is the governing authority.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which display best communicates the relative contribution of categories to a total, when there are three to five categories? [App]",
+      "options": {
+        "a": "Run chart",
+        "b": "Stacked bar chart or pie chart",
+        "c": "Scatter diagram",
+        "d": "Control chart"
+      },
+      "correct_option": "b",
+      "explanation": "Stacked bar chart or pie chart Part-to-whole relationships with few categories are read accurately from stacked bars or pie charts. Beyond roughly five categories, both become difficult to interpret and a ranked bar chart serves better. Run charts (A) and control charts (D) display performance over time; scatter diagrams (C) display relationships between two continuous variables.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Two hospitals report infection rates of 1.2 and 1.6 per 1,000 device days, with overlapping 95% confidence intervals. The appropriate conclusion is [An]",
+      "options": {
+        "a": "Hospital A performs significantly better than Hospital B",
+        "b": "The difference between the two may reflect chance, and superiority cannot be concluded",
+        "c": "Hospital B should immediately implement Hospital A's practices",
+        "d": "The measure is invalid"
+      },
+      "correct_option": "b",
+      "explanation": "The difference between the two may reflect chance, and superiority cannot be concluded Overlapping confidence intervals indicate that the observed difference is within the range attributable to sampling variation, so the two results are not distinguishable at the stated confidence level. Acting on non-significant differences — publicly ranking, reallocating resources, or attributing practice superiority — is a common misuse of comparative quality data.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Data visualization for a quality report is most effective when it [App]",
+      "options": {
+        "a": "Includes the maximum amount of information in the smallest space",
+        "b": "Makes the intended comparison immediately apparent without requiring the reader to calculate",
+        "c": "Uses varied chart types to maintain reader interest",
+        "d": "Presents data in tabular form for precision"
+      },
+      "correct_option": "b",
+      "explanation": "Makes the intended comparison immediately apparent without requiring the reader to calculate Task 4.B.2 requires the use of data visualization and display techniques. Effective display does the interpretive work for the reader — the comparison the analyst intends should be visible at a glance. Density (A) and variety (C) both increase cognitive load. Tables (D) offer precision but require the reader to perform the comparison mentally.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A measure steward is responsible for [R]",
+      "options": {
+        "a": "Collecting the measure data within an organization",
+        "b": "Maintaining and updating the measure specification, including definitions and any revisions over time",
+        "c": "Approving which measures an organization reports",
+        "d": "Auditing organizational compliance with the measure"
+      },
+      "correct_option": "b",
+      "explanation": "Maintaining and updating the measure specification, including definitions and any revisions over time The measure steward — such as NCQA for HEDIS measures or CMS for many payment program measures — owns the technical specification and issues periodic updates. Organizations must track steward updates, because a specification change alters the measure's construction and can break trend continuity with prior periods if applied without adjustment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A team compares surgical infection rates before and after an intervention using data from 8 pre-intervention and 8 post-intervention cases. The primary limitation is [An]",
+      "options": {
+        "a": "The intervention was not evidence-based",
+        "b": "Sample sizes are too small to distinguish intervention effect from random variation",
+        "c": "The measure lacks a denominator",
+        "d": "The data are not risk-adjusted"
+      },
+      "correct_option": "b",
+      "explanation": "Sample sizes are too small to distinguish intervention effect from random variation With eight cases per period, a single event shifts the rate by 12.5 percentage points, so the comparison lacks the statistical power to detect any but an enormous effect. Confidence intervals around each estimate would be extremely wide. The appropriate approach is extended observation or aggregation to accumulate sufficient events before drawing conclusions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's monthly falls with injury counts for six months are 3, 5, 2, 4, 3, 19. Before concluding that safety has deteriorated, the analyst should first [An]",
+      "options": {
+        "a": "Report the increase to the governing body",
+        "b": "Verify the data for the final month, including definition consistency and possible duplicate entry",
+        "c": "Calculate the six-month average",
+        "d": "Compare the count to the national benchmark"
+      },
+      "correct_option": "b",
+      "explanation": "Verify the data for the final month, including definition consistency and possible duplicate entry A value more than four times any prior observation is an astronomical point that warrants data verification before interpretation. Common causes include duplicate entry, a definition change, a reporting system migration, or a data load error. Task 4.A.4 requires validation before analysis — reporting an unverified anomaly to leadership damages credibility if it proves to be an artifact.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following would be classified as a structure measure? [R]",
+      "options": {
+        "a": "Percentage of patients receiving antibiotics within one hour of sepsis recognition",
+        "b": "Presence of a 24-hour on-site intensivist in the intensive care unit",
+        "c": "Risk-adjusted 30-day mortality following coronary artery bypass grafting",
+        "d": "Rate of catheter-associated bloodstream infections"
+      },
+      "correct_option": "b",
+      "explanation": "Presence of a 24-hour on-site intensivist in the intensive care unit Structure measures describe the setting and capacity in which care is delivered — staffing models, equipment, credentials, information systems. Option A is a process measure describing whether a care action occurred; options C and D are outcome measures describing effects on patients. Structure measures are increasingly used where outcomes are rare or difficult to attribute, including the CMS Patient Safety Structural Measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The SBAR communication framework stands for [R]",
+      "options": {
+        "a": "Situation, Background, Assessment, Recommendation",
+        "b": "Safety, Background, Analysis, Response",
+        "c": "Situation, Barriers, Action, Review",
+        "d": "Standard, Baseline, Assessment, Result"
+      },
+      "correct_option": "a",
+      "explanation": "Situation, Background, Assessment, Recommendation SBAR standardizes urgent clinical communication by imposing a predictable sequence, which reduces omission and helps clinicians of differing rank convey concern effectively. The Recommendation element is the one most often dropped in practice and the one that most reliably converts a report into a decision — its inclusion is what distinguishes SBAR from unstructured handoff.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Reason's Swiss cheese model illustrates that adverse events typically result from [R]",
+      "options": {
+        "a": "A single catastrophic error by an individual",
+        "b": "The alignment of multiple latent system weaknesses that individually would have been insufficient",
+        "c": "Inadequate staff training",
+        "d": "Failure to follow written policy"
+      },
+      "correct_option": "b",
+      "explanation": "The alignment of multiple latent system weaknesses that individually would have been insufficient Reason's model depicts successive defensive layers, each containing holes representing latent conditions and active failures. Harm occurs only when holes across every layer momentarily align. The practical implication is that removing any single layer's hole prevents the event — which is why system-level redesign is more effective than individual correction.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A latent failure differs from an active failure in that a latent failure [R]",
+      "options": {
+        "a": "Occurs at the point of patient contact",
+        "b": "Is a system condition created earlier — in design, staffing, or policy — that lies dormant until circumstances activate it",
+        "c": "Always results in patient harm",
+        "d": "Is committed intentionally"
+      },
+      "correct_option": "b",
+      "explanation": "Is a system condition created earlier — in design, staffing, or policy — that lies dormant until circumstances activate it Active failures are the immediate errors of frontline personnel — the wrong button pressed, the step omitted. Latent failures are decisions made upstream by designers, managers, and policymakers whose consequences appear only later at the sharp end. RCA that stops at the active failure leaves the latent condition intact and the event repeatable.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Alarm fatigue is best addressed by [App]",
+      "options": {
+        "a": "Increasing alarm volume to ensure alarms are heard",
+        "b": "Reviewing and adjusting alarm parameters and defaults to eliminate clinically non-actionable alarms",
+        "c": "Requiring staff to document their response to every alarm",
+        "d": "Assigning a dedicated staff member to monitor alarms"
+      },
+      "correct_option": "b",
+      "explanation": "Reviewing and adjusting alarm parameters and defaults to eliminate clinically non-actionable alarms Alarm fatigue arises from volume, not from inattention — when the large majority of alarms are non-actionable, desensitization is a predictable human response rather than a discipline problem. TJC's alarm management NPSG requires organizations to identify the most important alarm signals and establish policies for parameters and defaults. Options A and C intensify the burden that produced the problem.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Look-alike, sound-alike medications are best managed by [App]",
+      "options": {
+        "a": "Educating staff about the specific pairs annually",
+        "b": "Physical separation in storage, tall man lettering, and system alerts at ordering and administration",
+        "c": "Requiring pharmacist verbal confirmation for every order",
+        "d": "Removing one drug from each pair from the formulary"
+      },
+      "correct_option": "b",
+      "explanation": "Physical separation in storage, tall man lettering, and system alerts at ordering and administration ISMP recommends layered environmental and system controls for LASA pairs, because the failure mechanism is perceptual and occurs below conscious attention — education alone does not prevent it. Tall man lettering visually differentiates similar names (for example, DOBUTamine and DOPamine), and separation removes the proximity that enables selection error.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "High-alert medications are defined as drugs that [R]",
+      "options": {
+        "a": "Are most frequently prescribed in the organization",
+        "b": "Bear a heightened risk of causing significant patient harm when used in error",
+        "c": "Are most expensive per dose",
+        "d": "Require refrigerated storage"
+      },
+      "correct_option": "b",
+      "explanation": "Bear a heightened risk of causing significant patient harm when used in error ISMP maintains the high-alert medication lists — including anticoagulants, insulin, opioids, concentrated electrolytes, and neuromuscular blocking agents. Errors with these drugs are not necessarily more frequent, but their consequences are disproportionately severe, which justifies additional safeguards such as independent double checks, standardized concentrations, and storage restrictions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A rapid response team is activated when [App]",
+      "options": {
+        "a": "A patient experiences cardiac arrest",
+        "b": "A patient shows signs of clinical deterioration before arrest occurs",
+        "c": "A medication error is discovered",
+        "d": "A patient requests a second opinion"
+      },
+      "correct_option": "b",
+      "explanation": "A patient shows signs of clinical deterioration before arrest occurs Rapid response systems exist to intervene during the deterioration window that typically precedes arrest by hours. Activation criteria are deliberately liberal and, in mature systems, include activation by nursing staff or family members without physician approval. Option A describes a code team responding after arrest — the event rapid response is designed to prevent.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the hierarchy of intervention effectiveness, which action is strongest? [R]",
+      "options": {
+        "a": "Staff education and training",
+        "b": "Policy revision",
+        "c": "Physical or engineering system change that prevents the error",
+        "d": "Double-check procedures"
+      },
+      "correct_option": "c",
+      "explanation": "Physical or engineering system change that prevents the error The hierarchy ranks interventions by their independence from human vigilance. Forcing functions and physical constraints are strongest because they work without requiring anyone to remember. Double checks (D) are intermediate and degrade with routine. Education (A) and policy (B) are weakest, yet they remain the most commonly selected corrective actions following RCA — a well-documented gap between knowledge and practice.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During an RCA, the team identifies that staff routinely bypass a barcode scanning step because scanners frequently fail to read wristbands. This behavior is best characterized as [An]",
+      "options": {
+        "a": "Reckless behavior warranting disciplinary action",
+        "b": "A workaround signaling a system design failure",
+        "c": "Human error requiring re-education",
+        "d": "Intentional policy violation"
+      },
+      "correct_option": "b",
+      "explanation": "A workaround signaling a system design failure Workarounds are adaptations staff develop when the designed process obstructs the work they are accountable for completing. They are diagnostic — a routine, widespread workaround is evidence that the system is unusable as designed. Disciplining staff (A) removes the visible adaptation while leaving the underlying failure and the pressure that produced it, driving the workaround underground.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which element is required during a surgical time-out? [R]",
+      "options": {
+        "a": "Verification of the patient's insurance status",
+        "b": "Confirmation of correct patient identity, correct procedure, and correct site by all team members",
+        "c": "Review of the patient's complete medical history",
+        "d": "Documentation of the surgeon's credentials"
+      },
+      "correct_option": "b",
+      "explanation": "Confirmation of correct patient identity, correct procedure, and correct site by all team members The Joint Commission's Universal Protocol comprises pre-procedure verification, site marking, and a time-out conducted immediately before the procedure begins. The time-out requires active participation of all team members, with any member empowered to halt the procedure. Passive time-outs — where one person recites while others continue preparing — are a recognized failure mode.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Disclosure of a harmful adverse event to a patient should [App]",
+      "options": {
+        "a": "Be delayed until the investigation is complete",
+        "b": "Occur promptly, describing what happened and what is known, with commitment to share investigation findings",
+        "c": "Be provided only if the patient asks",
+        "d": "Be delivered exclusively by risk management"
+      },
+      "correct_option": "b",
+      "explanation": "Occur promptly, describing what happened and what is known, with commitment to share investigation findings Prompt disclosure is an ethical obligation supported by TJC standards and by communication-and-resolution program evidence showing that timely, honest disclosure is associated with reduced litigation rather than increased. Full causal explanation is not required at initial disclosure — what is required is acknowledgment of the facts known, expression of regret, and commitment to follow up.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Simulation training most effectively improves patient safety when it [App]",
+      "options": {
+        "a": "Is conducted annually as a competency requirement",
+        "b": "Recreates realistic team scenarios in the actual clinical environment with structured debriefing",
+        "c": "Focuses on individual technical skill acquisition",
+        "d": "Is limited to newly hired staff"
+      },
+      "correct_option": "b",
+      "explanation": "Recreates realistic team scenarios in the actual clinical environment with structured debriefing In situ simulation conducted in the real clinical setting reveals latent system hazards — missing equipment, unclear role assignment, communication breakdown — that laboratory simulation cannot. Structured debriefing is where learning consolidates; simulation without debriefing produces experience without insight. Team-based scenarios address the coordination failures that dominate serious safety events.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization wants to increase safety event reporting. Which action is most likely to succeed? [App]",
+      "options": {
+        "a": "Setting a required minimum number of reports per unit",
+        "b": "Providing timely feedback to reporters describing what was learned and what changed as a result",
+        "c": "Making the reporting system anonymous only",
+        "d": "Adding reporting compliance to annual performance evaluations"
+      },
+      "correct_option": "b",
+      "explanation": "Providing timely feedback to reporters describing what was learned and what changed as a result Staff stop reporting when reports appear to disappear. Closing the loop demonstrates that reporting produces change, which is the only durable incentive. Quotas (A) generate low-quality reports to meet a number. Anonymity alone (C) prevents follow-up clarification and does not address the feedback gap. Option D converts a learning behavior into a compliance obligation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Restraint use should be evaluated within a patient safety program because restraints [App]",
+      "options": {
+        "a": "Are expensive to maintain",
+        "b": "Carry documented risks of physical and psychological harm and are subject to specific regulatory requirements",
+        "c": "Increase nursing workload",
+        "d": "Are prohibited in all healthcare settings"
+      },
+      "correct_option": "b",
+      "explanation": "Carry documented risks of physical and psychological harm and are subject to specific regulatory requirements Restraints are associated with injury, strangulation, aspiration, deconditioning, and psychological trauma, and CMS Conditions of Participation §482.13 impose detailed requirements for order, assessment, monitoring, and time limitation. Death associated with restraint use is a reportable event. Restraint reduction is therefore both a safety and a regulatory compliance priority.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A safety huddle differs from a traditional shift report in that a safety huddle [R]",
+      "options": {
+        "a": "Is longer and more comprehensive",
+        "b": "Is a brief, focused forward-looking review of anticipated safety risks for the coming period",
+        "c": "Includes only nursing staff",
+        "d": "Occurs weekly rather than daily"
+      },
+      "correct_option": "b",
+      "explanation": "Is a brief, focused forward-looking review of anticipated safety risks for the coming period The safety huddle is prospective — which patients are at highest risk, what equipment concerns exist, what staffing gaps are anticipated. Shift report is retrospective patient-by-patient handoff. Tiered daily safety huddles escalating from unit to department to executive level are a named high-reliability practice within the CMS Patient Safety Structural Measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient safety event resulted in a prolonged hospital stay and required additional surgery, but the patient recovered fully. This is best classified as [App]",
+      "options": {
+        "a": "A near miss",
+        "b": "An adverse event with temporary harm",
+        "c": "A sentinel event with permanent harm",
+        "d": "An unsafe condition"
+      },
+      "correct_option": "b",
+      "explanation": "An adverse event with temporary harm Harm occurred and required intervention, so this exceeds a near miss (A) and an unsafe condition (D). Because the patient recovered fully, permanent harm did not result. Note that severe temporary harm requiring major intervention may still meet an organization's sentinel event definition — classification systems vary in threshold, and organizational policy should define which events trigger comprehensive systematic analysis.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Following an RCA, an action ranked as \"weaker\" in the RCA2 framework would be [App]",
+      "options": {
+        "a": "Eliminating a look-alike product from the formulary",
+        "b": "Implementing a new policy and educating staff on it",
+        "c": "Installing a physical barrier that prevents incorrect connection",
+        "d": "Standardizing equipment across all units"
+      },
+      "correct_option": "b",
+      "explanation": "Implementing a new policy and educating staff on it The NPSF RCA2 framework classifies corrective actions as stronger, intermediate, or weaker by their dependence on human memory and vigilance. Policy and education are the archetypal weaker actions. Elimination (A) and physical barriers (C) are stronger; standardization (D) is intermediate. RCA2 recommends that every action plan include at least one stronger action rather than relying exclusively on weaker ones.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's medication error rate increased following implementation of a new electronic ordering system. The most likely explanation is [An]",
+      "options": {
+        "a": "The system is defective and should be removed",
+        "b": "Implementation introduced new error types while eliminating others, and workflow integration requires evaluation",
+        "c": "Staff require disciplinary action for non-compliance",
+        "d": "The prior paper system was safer overall"
+      },
+      "correct_option": "b",
+      "explanation": "Implementation introduced new error types while eliminating others, and workflow integration requires evaluation Health IT reliably eliminates certain error classes — illegible handwriting, transcription — while introducing others: selection from adjacent dropdown entries, alert fatigue, wrong-patient entry from multiple open records, and juxtaposition errors. This phenomenon, described as e-iatrogenesis, requires post-implementation surveillance and workflow adjustment rather than reversal or blame.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Credentialing differs from privileging in that credentialing [R]",
+      "options": {
+        "a": "Determines which specific procedures a practitioner may perform",
+        "b": "Verifies the practitioner's education, licensure, training, and experience",
+        "c": "Occurs only at initial appointment",
+        "d": "Is performed by the governing body directly"
+      },
+      "correct_option": "b",
+      "explanation": "Verifies the practitioner's education, licensure, training, and experience Credentialing establishes qualifications — who the practitioner is and what they are trained to do. Privileging is the subsequent decision granting authority to perform specific procedures at that organization, based on credentials plus demonstrated current competence. A practitioner can be fully credentialed yet denied a specific privilege for insufficient recent volume or outcomes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Primary source verification requires that [App]",
+      "options": {
+        "a": "The practitioner provides original documents",
+        "b": "The organization confirms credentials directly with the issuing institution or an approved designated equivalent",
+        "c": "Two staff members review the application",
+        "d": "The medical staff office retains copies for five years"
+      },
+      "correct_option": "b",
+      "explanation": "The organization confirms credentials directly with the issuing institution or an approved designated equivalent Primary source verification means contacting the source that issued the credential — the medical school, residency program, or licensing board — rather than relying on documents the applicant supplies, which can be falsified. Approved designated equivalent sources, such as the AMA Physician Masterfile or credentials verification organizations, may substitute. This is an accreditation requirement across accrediting bodies.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Medical staff bylaws function to [R]",
+      "options": {
+        "a": "Define the organization's strategic quality objectives",
+        "b": "Establish the self-governance structure of the medical staff, including appointment, privileging, and peer review processes",
+        "c": "Specify clinical treatment protocols",
+        "d": "Set staffing ratios for clinical departments"
+      },
+      "correct_option": "b",
+      "explanation": "Establish the self-governance structure of the medical staff, including appointment, privileging, and peer review processes Bylaws are the constitutional document of the organized medical staff, required by CMS Conditions of Participation §482.22 and approved by the governing body. They define membership categories, officer roles, committee structure, credentialing and privileging procedures, corrective action processes, and the fair hearing rights afforded practitioners subject to adverse action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Concurrent utilization review is conducted [R]",
+      "options": {
+        "a": "Before the service is delivered",
+        "b": "During the patient's stay, while care is ongoing",
+        "c": "After discharge and claim submission",
+        "d": "Only when a payer denies a claim"
+      },
+      "correct_option": "b",
+      "explanation": "During the patient's stay, while care is ongoing Utilization review occurs at three points: prospective, before service, addressing medical necessity and authorization; concurrent, during the stay, addressing continued stay appropriateness and level of care; and retrospective, after discharge, addressing claim review and pattern analysis. Concurrent review is the only point at which findings can still influence the care being delivered.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Evidence-based medical necessity criteria sets such as InterQual or MCG are used to [App]",
+      "options": {
+        "a": "Determine the clinical treatment plan for the patient",
+        "b": "Support consistent determination of appropriate level of care and continued stay",
+        "c": "Establish the organization's charge structure",
+        "d": "Replace physician clinical judgment"
+      },
+      "correct_option": "b",
+      "explanation": "Support consistent determination of appropriate level of care and continued stay These criteria sets standardize level-of-care determinations — inpatient versus observation, continued stay justification — reducing variation and supporting defensible documentation. They inform rather than replace physician judgment (D); when a case does not meet criteria but the physician believes admission is warranted, escalation to a physician advisor is the standard pathway.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A physician advisor in utilization management primarily [R]",
+      "options": {
+        "a": "Provides direct patient care to complex patients",
+        "b": "Reviews cases not meeting criteria and engages attending physicians on level of care and documentation",
+        "c": "Approves all admissions to the hospital",
+        "d": "Supervises the case management department"
+      },
+      "correct_option": "b",
+      "explanation": "Reviews cases not meeting criteria and engages attending physicians on level of care and documentation The physician advisor provides the peer-to-peer clinical judgment that non-physician reviewers cannot, both internally with attending physicians and externally with payer medical directors. The role is essential because level-of-care determination requires clinical reasoning about the specific patient, not mechanical criteria application.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Clinical documentation integrity programs primarily aim to [App]",
+      "options": {
+        "a": "Reduce the volume of documentation clinicians must complete",
+        "b": "Ensure the record accurately reflects the patient's clinical severity, supporting accurate coding, quality measurement, and risk adjustment",
+        "c": "Increase reimbursement regardless of clinical accuracy",
+        "d": "Standardize the format of physician notes"
+      },
+      "correct_option": "b",
+      "explanation": "Ensure the record accurately reflects the patient's clinical severity, supporting accurate coding, quality measurement, and risk adjustment CDI addresses the gap between clinical reality and documented specificity — when a physician documents \"renal insufficiency\" rather than the specific acute kidney injury stage, coding, risk adjustment, and quality measurement all understate severity. This affects observed-to-expected mortality ratios and case mix index alongside reimbursement. Option C describes upcoding, which carries False Claims Act exposure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's case mix index has declined over two quarters while patient acuity has not changed. The most likely explanation is [An]",
+      "options": {
+        "a": "Physicians are admitting healthier patients",
+        "b": "Documentation and coding are not capturing existing clinical severity",
+        "c": "The hospital has reduced its bed count",
+        "d": "Payer contracts have changed"
+      },
+      "correct_option": "b",
+      "explanation": "Documentation and coding are not capturing existing clinical severity Case mix index reflects documented and coded severity, not clinical severity. When acuity is unchanged but CMI falls, the gap lies in capture — often following physician turnover, EHR template change, or CDI staffing reduction. Because CMI drives both reimbursement and the expected values in risk-adjusted outcome measures, undercapture makes an organization appear to perform worse than it does.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which is an element of an effective corporate compliance program per OIG guidance? [R]",
+      "options": {
+        "a": "Annual external financial audit only",
+        "b": "Designated compliance officer, written standards, training, effective communication lines, auditing and monitoring, enforcement, and prompt response to detected offenses",
+        "c": "Legal review of all contracts",
+        "d": "Mandatory reporting of all events to the state health department"
+      },
+      "correct_option": "b",
+      "explanation": "Designated compliance officer, written standards, training, effective communication lines, auditing and monitoring, enforcement, and prompt response to detected offenses The Office of Inspector General's seven elements define an effective compliance program, and their presence is considered in enforcement decisions and settlement terms. Quality professionals intersect with compliance most directly through documentation integrity, quality-based payment program accuracy, and reportable event identification.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The federal False Claims Act creates liability for [R]",
+      "options": {
+        "a": "Any billing error, regardless of intent",
+        "b": "Knowingly submitting false or fraudulent claims for payment to the federal government",
+        "c": "Failure to achieve quality performance targets",
+        "d": "Delayed submission of quality data"
+      },
+      "correct_option": "b",
+      "explanation": "Knowingly submitting false or fraudulent claims for payment to the federal government The FCA requires knowledge, which includes actual knowledge, deliberate ignorance, and reckless disregard — but not simple negligence. It carries treble damages and per-claim penalties, and its qui tam provisions permit whistleblower suits with a share of recovery. Quality data submitted inaccurately to payment programs can fall within its scope, which is why data integrity carries legal as well as professional weight.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Stark Law prohibits [R]",
+      "options": {
+        "a": "Any financial relationship between hospitals and physicians",
+        "b": "Physician referrals for designated health services to entities with which the physician has a financial relationship, absent an applicable exception",
+        "c": "Payment of physician salaries above market rate",
+        "d": "Physician ownership of medical equipment"
+      },
+      "correct_option": "b",
+      "explanation": "Physician referrals for designated health services to entities with which the physician has a financial relationship, absent an applicable exception Stark is a strict liability statute — intent is not required, which distinguishes it sharply from the Anti-Kickback Statute, where intent to induce referrals is an element. Because liability attaches without intent, compliance depends entirely on fitting each financial relationship within a defined exception, making documentation of fair market value and commercial reasonableness essential.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "External peer review is most appropriate when [App]",
+      "options": {
+        "a": "Routine OPPE data are being reviewed",
+        "b": "Internal review presents a conflict of interest, the required specialty expertise is unavailable internally, or the case is highly complex or contested",
+        "c": "A practitioner requests it",
+        "d": "The volume of cases exceeds internal committee capacity"
+      },
+      "correct_option": "b",
+      "explanation": "Internal review presents a conflict of interest, the required specialty expertise is unavailable internally, or the case is highly complex or contested External review provides independence and specialty expertise where internal review would be compromised — a sole practitioner in a specialty with no internal peer, competing practitioners in the same market, or a case where internal findings are disputed. It strengthens the defensibility of any subsequent adverse action by demonstrating impartial evaluation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Under the Hospital Readmissions Reduction Program, hospitals face payment reduction based on [R]",
+      "options": {
+        "a": "Total readmission volume",
+        "b": "Excess readmission ratios for specified conditions, risk-adjusted and compared to national performance",
+        "c": "The proportion of readmissions occurring within 7 days",
+        "d": "Patient satisfaction with discharge instructions"
+      },
+      "correct_option": "b",
+      "explanation": "Excess readmission ratios for specified conditions, risk-adjusted and compared to national performance HRRP calculates excess readmission ratios as predicted over expected readmissions for specified conditions, risk-adjusted for patient characteristics, with penalties applied to base operating DRG payments. Because the comparison is national and relative, a hospital can improve its absolute rate and still incur a penalty if peers improved more — a feature quality professionals must explain to leadership.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Quality improvement records retained beyond the organizational retention schedule create risk primarily because [App]",
+      "options": {
+        "a": "Storage costs increase",
+        "b": "Records outside the retention policy may be discoverable and can conflict with the organization's stated practice",
+        "c": "Accreditors require destruction after a defined period",
+        "d": "Older records are less accurate"
+      },
+      "correct_option": "b",
+      "explanation": "Records outside the retention policy may be discoverable and can conflict with the organization's stated practice Inconsistent retention practice undermines the defensibility of the retention policy itself and can produce records in litigation that the organization asserted no longer existed. Task 6.C requires maintaining confidentiality of performance and quality improvement records, and consistent application of a defined, legally reviewed schedule is part of that obligation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A payer denies a claim for inpatient admission on the basis that observation status was appropriate. The quality professional's most useful contribution is [App]",
+      "options": {
+        "a": "Instructing the physician to change the documented level of care",
+        "b": "Analyzing denial patterns to identify systemic documentation or utilization review gaps and addressing them upstream",
+        "c": "Accepting the denial to preserve the payer relationship",
+        "d": "Appealing every denial without review"
+      },
+      "correct_option": "b",
+      "explanation": "Analyzing denial patterns to identify systemic documentation or utilization review gaps and addressing them upstream Individual denials are managed by revenue cycle and physician advisors; the quality professional's distinctive value is pattern analysis identifying whether denials cluster by service, physician, or documentation element — converting a recurring financial loss into a correctable process defect. Option A is documentation alteration, which carries compliance exposure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which best demonstrates evaluation of compliance with clinical practice guidelines? [App]",
+      "options": {
+        "a": "Confirming the guideline is posted on the intranet",
+        "b": "Measuring the proportion of eligible patients whose care conformed to guideline recommendations, with analysis of documented variance",
+        "c": "Tracking the number of physicians who attended the guideline rollout",
+        "d": "Counting guideline downloads from the intranet"
+      },
+      "correct_option": "b",
+      "explanation": "Measuring the proportion of eligible patients whose care conformed to guideline recommendations, with analysis of documented variance Task 6.B.1 requires evaluating compliance with requirements for clinical practice guidelines, pathways, and outcomes. Genuine evaluation measures conformance in actual cases and examines variance — importantly, justified clinical variance is expected and appropriate, so the analysis must distinguish documented clinical exception from unexplained deviation. Options A, C, and D measure availability and exposure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "CMS Conditions of Participation establish [R]",
+      "options": {
+        "a": "Voluntary best practice recommendations",
+        "b": "Minimum health and safety requirements that providers must meet to participate in Medicare and Medicaid",
+        "c": "Accreditation standards for private accrediting bodies",
+        "d": "Payment rates for covered services"
+      },
+      "correct_option": "b",
+      "explanation": "Minimum health and safety requirements that providers must meet to participate in Medicare and Medicaid The CoPs are federal regulations establishing the floor for program participation, enforced through state survey agencies or through accreditors holding deeming authority. They are mandatory, not aspirational. Accreditation standards may exceed CoP requirements but cannot fall below them — a deemed accreditor's standards must be determined by CMS to be equivalent or more stringent.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A finding of immediate jeopardy means that [App]",
+      "options": {
+        "a": "A minor standard-level deficiency was identified",
+        "b": "A situation has caused or is likely to cause serious injury, harm, impairment, or death to a patient, requiring immediate corrective action",
+        "c": "The organization must close within 30 days",
+        "d": "Accreditation is automatically revoked"
+      },
+      "correct_option": "b",
+      "explanation": "A situation has caused or is likely to cause serious injury, harm, impairment, or death to a patient, requiring immediate corrective action Immediate jeopardy is the most serious survey finding, triggering an abbreviated timeline for removal of the jeopardy — typically requiring an acceptable removal plan within days — and, if unresolved, termination from the Medicare program. It requires immediate action to abate the hazard, followed by a plan of correction addressing the underlying systemic cause.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A plan of correction submitted following a regulatory survey should include [R]",
+      "options": {
+        "a": "A statement disputing the surveyor's findings",
+        "b": "The corrective action, how compliance will be monitored, who is responsible, and the completion date",
+        "c": "A list of staff involved in the deficient practice",
+        "d": "A request for extension of the compliance timeline"
+      },
+      "correct_option": "b",
+      "explanation": "The corrective action, how compliance will be monitored, who is responsible, and the completion date An acceptable plan of correction must address how the specific deficiency will be corrected, how other patients potentially affected will be identified and protected, what systemic changes will prevent recurrence, how monitoring will verify sustained compliance, and who is accountable by what date. Plans limited to correcting the individual instance without systemic change are routinely rejected.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "CLIA regulations govern [R]",
+      "options": {
+        "a": "Hospital emergency department operations",
+        "b": "Laboratory testing performed on human specimens for health assessment purposes",
+        "c": "Medical device manufacturing",
+        "d": "Pharmacy compounding practices"
+      },
+      "correct_option": "b",
+      "explanation": "Laboratory testing performed on human specimens for health assessment purposes The Clinical Laboratory Improvement Amendments of 1988 establish federal quality standards for all laboratory testing on human specimens, categorized by test complexity — waived, moderate, and high complexity — with proportionate requirements for personnel qualifications, proficiency testing, and quality control. CLIA applies to point-of-care testing in clinics and units, which organizations frequently overlook.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization pursuing accreditation through DNV using ISO 9001 integration differs from a traditional accreditation approach in that it [App]",
+      "options": {
+        "a": "Does not require compliance with CMS Conditions of Participation",
+        "b": "Integrates a quality management system standard with annual survey, emphasizing systematic process management",
+        "c": "Eliminates the need for internal quality monitoring",
+        "d": "Applies only to critical access hospitals"
+      },
+      "correct_option": "b",
+      "explanation": "Integrates a quality management system standard with annual survey, emphasizing systematic process management DNV's approach pairs CMS-deemed hospital accreditation with ISO 9001 quality management system requirements, surveying annually rather than at longer intervals. All deemed accreditors must ensure CoP compliance (A is incorrect regardless of accreditor). Task 7.A requires evaluating accreditation options, and survey frequency, standards philosophy, and cost all factor into the selection.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Promoting awareness of statutory and regulatory requirements throughout an organization is most effectively achieved by [App]",
+      "options": {
+        "a": "Distributing the full regulatory text to all departments",
+        "b": "Translating requirements into role-specific expectations embedded in workflows, orientation, and competency validation",
+        "c": "Posting regulatory updates on the organizational intranet",
+        "d": "Requiring annual compliance attestation from all staff"
+      },
+      "correct_option": "b",
+      "explanation": "Translating requirements into role-specific expectations embedded in workflows, orientation, and competency validation Task 7.B requires promoting awareness of statutory and regulatory requirements within the organization. Awareness that changes behavior requires translation — staff need to know what a requirement means for their specific work, not the regulation's text. Options A, C, and D deliver information or attestation without conversion into practice.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A validation survey conducted by a state survey agency at a deemed-status hospital serves to [R]",
+      "options": {
+        "a": "Replace the accreditation survey",
+        "b": "Verify that the accrediting organization's survey process adequately identifies CoP noncompliance",
+        "c": "Determine the hospital's payment rate",
+        "d": "Investigate a specific patient complaint"
+      },
+      "correct_option": "b",
+      "explanation": "Verify that the accrediting organization's survey process adequately identifies CoP noncompliance CMS conducts validation surveys on a sample of deemed facilities to assess whether the accreditor's process reliably detects CoP deficiencies. Poor validation performance can jeopardize an accreditor's deeming authority. This is distinct from a complaint survey (D), which investigates a specific allegation and can occur at any accredited facility.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which action best supports ongoing monitoring of compliance with organizational, state, and federal requirements? [App]",
+      "options": {
+        "a": "Reviewing requirements immediately before each scheduled survey",
+        "b": "Maintaining a regulatory requirement inventory with assigned owners and a scheduled audit calendar",
+        "c": "Relying on accreditor findings to identify noncompliance",
+        "d": "Delegating all compliance monitoring to the legal department"
+      },
+      "correct_option": "b",
+      "explanation": "Maintaining a regulatory requirement inventory with assigned owners and a scheduled audit calendar Task 7.C requires supporting processes for evaluating, monitoring, and improving compliance with organizational, state, and federal requirements. An inventory with named owners and scheduled audits converts compliance from an episodic scramble into a managed program with visible status. Option C is definitionally reactive — it uses external survey as the detection mechanism, meaning noncompliance is discovered by the regulator rather than the organization. Emerging content forecast for the unscored pretest pool. Lower confidence by design. P1. The Age-Friendly Health Systems 4Ms framework comprises [R] A. Medication, Mentation, Mobility, and What Matters B. Measurement, Monitoring, Management, and Mitigation C. Mortality, Morbidity, Mobility, and Medication D. Mission, Method, Measurement, and Mastery ✅ Correct Answer: A — Medication, Mentation, Mobility, and What Matters The 4Ms framework, developed by IHI with The John A. Hartford Foundation, structures care for older adults around four evidence-based elements. \"What Matters\" is placed first in most representations because the patient's own goals should govern how the other three are managed. CMS has introduced an Age-Friendly Hospital structural measure, raising the framework's measurement relevance. P2. Perinatal safety bundles typically address [App] A. Neonatal intensive care staffing ratios B. Standardized responses to obstetric hemorrhage, severe hypertension, and other leading causes of maternal morbidity C. Prenatal genetic screening protocols D. Labor and delivery unit design ✅ Correct Answer: B — Standardized responses to obstetric hemorrhage, severe hypertension, and other leading causes of maternal morbidity Patient safety bundles from the Alliance for Innovation on Maternal Health structure each around readiness, recognition, response, and reporting/systems learning. Severe maternal morbidity and its documented racial disparities have become a national quality priority, with CMS maternal health measures and TJC perinatal safety standards both in force. P3. The CMS SEP-1 sepsis measure is best characterized as [R] A. An outcome measure of sepsis mortality B. A process bundle measure requiring completion of specified elements within defined time windows C. A structural measure of sepsis program presence D. A patient-reported outcome measure ✅ Correct Answer: B — A process bundle measure requiring completion of specified elements within defined time windows SEP-1 is an all-or-none bundle measure — every required element within the specified window must be documented for the case to pass, meaning a single missed element fails the entire case. This construction makes performance highly sensitive to documentation as well as care delivery. SEP-1 has been incorporated into value-based purchasing, raising its financial significance. P4. Health-related social needs screening differs from social determinants of health in that health-related social needs are [R] A. Identical concepts with different terminology B. The individual-level, immediate, actionable needs a specific patient reports, while SDOH are the population-level conditions producing them C. Assessed only in inpatient settings D. Reported to public health authorities ✅ Correct Answer: B — The individual-level, immediate, actionable needs a specific patient reports, while SDOH are the population-level conditions producing them The distinction matters operationally. A patient reporting they cannot afford food this week has a health-related social need addressable by referral. Food insecurity across a community is a social determinant addressable through policy and partnership. Confusing the levels produces either individual referrals with no community strategy or community strategy with no patient-level response. P5. A ransomware attack that disables a hospital's electronic health record should be understood primarily as [App] A. An information technology issue outside quality's scope B. A patient safety event requiring downtime procedures, clinical risk mitigation, and post-event analysis C. A financial loss event D. A public relations matter ✅ Correct Answer: B — A patient safety event requiring downtime procedures, clinical risk mitigation, and post-event analysis Extended EHR unavailability degrades medication safety, allergy checking, results reporting, and clinical decision support simultaneously, with documented increases in mortality and adverse events during prolonged outages. Cybersecurity has consequently entered the patient safety domain, requiring tested downtime procedures, clinical continuity planning, and post-event systematic analysis. P6. A patient and family advisory council contributes most effectively to quality when it [App] A. Reviews individual patient complaints B. Participates in design of care processes, materials, and improvement initiatives before decisions are finalized C. Meets annually to receive an organizational update D. Is composed of former employees ✅ Correct Answer: B — Participates in design of care processes, materials, and improvement initiatives before decisions are finalized PFACs generate value through upstream involvement — patients and families identify usability failures, communication gaps, and dignity concerns that clinical designers reliably miss. Councils confined to receiving updates (C) or reviewing individual complaints (A) function as advisory theater. Patient and family engagement is a named domain in the CMS Patient Safety Structural Measure. P7. Under MACRA's Merit-based Incentive Payment System, clinician performance is assessed across [R] A. Quality only B. Quality, cost, improvement activities, and promoting interoperability C. Patient satisfaction and cost only D. Volume and cost ✅ Correct Answer: B — Quality, cost, improvement activities, and promoting interoperability MIPS combines four weighted performance categories into a composite score determining a positive, neutral, or negative payment adjustment applied on a two-year lag. Category weights have shifted over program years, with cost weighting increasing. MIPS Value Pathways represent CMS's effort to move toward more cohesive, specialty-aligned measure sets. P8. Hospital price transparency requirements obligate hospitals to [R] A. Publish only their charge master B. Publish a machine-readable file of standard charges and a consumer-friendly display of shoppable services C. Provide individual price estimates on request only D. Match competitor pricing ✅ Correct Answer: B — Publish a machine-readable file of standard charges and a consumer-friendly display of shoppable services CMS requires both a comprehensive machine-readable file including gross charges, payer-specific negotiated rates, discounted cash prices, and de-identified minimum and maximum negotiated charges, plus a consumer-facing display of shoppable services. Noncompliance carries civil monetary penalties scaled to hospital size, and compliance is a defined regulatory obligation under Task 7.C. P9. An organization implements an AI-based ambient documentation tool. The most important quality safeguard is [App] A. Selecting the tool with the fastest processing speed B. Clinician review and attestation of generated documentation before it enters the legal record C. Requiring all clinicians to adopt the tool simultaneously D. Disabling the tool for complex patients ✅ Correct Answer: B — Clinician review and attestation of generated documentation before it enters the legal record Ambient documentation tools can omit, misattribute, or fabricate clinical content. Because the record is the legal and clinical record of care and the substrate for quality measurement and billing, clinician verification before finalization is the essential control. Documentation errors propagate into coding, risk adjustment, and downstream clinical decisions. P10. Diagnostic safety measurement is challenging primarily because [An] A. Diagnostic errors are rare B. Diagnosis unfolds over time across settings, and errors are often identified only retrospectively, making case identification difficult C. Clinicians resist measurement D. No definition of diagnostic error exists ✅ Correct Answer: B — Diagnosis unfolds over time across settings, and errors are often identified only retrospectively, making case identification difficult Unlike a wrong-site surgery, a missed diagnosis has no discrete event moment — it emerges across encounters, often in different organizations, and may surface only when the patient deteriorates. Trigger-based approaches such as reviewing unplanned returns within short intervals, and structured tools such as SAFER Dx, are the emerging measurement strategies. P11. In an episode-based payment model, a hospital's most direct lever for improving performance is [App] A. Reducing inpatient length of stay only B. Managing post-acute care utilization and readmissions across the full episode window C. Increasing surgical volume D. Renegotiating supply contracts ✅ Correct Answer: B — Managing post-acute care utilization and readmissions across the full episode window In episode models, post-acute care placement and readmissions typically account for the largest share of variation in total episode cost. Discharging to home with home health rather than to a skilled nursing facility, where clinically appropriate, produces larger effects than inpatient efficiency gains. This makes care transition quality directly financially consequential. P12. Environmental sustainability in healthcare connects to quality primarily through [App] A. Reduced operating expenses B. The health effects on served communities of emissions, waste, and resource use, linking organizational operations to population health outcomes C. Improved public perception D. Accreditation requirements ✅ Correct Answer: B — The health effects on served communities of emissions, waste, and resource use, linking organizational operations to population health outcomes The health sector's environmental footprint contributes to air quality, heat exposure, and extreme weather effects that produce measurable morbidity in the communities health systems serve — creating an internal contradiction between organizational operations and population health mission. This positions sustainability within Module 3 accountability rather than as a separate facilities concern. P13. A hospital's quality committee is reviewing whether to adopt a newly published predictive model for sepsis. The most important question to ask is [An] A. How many other hospitals have adopted it B. What population it was validated in, how it performs in populations resembling ours, and what actions its alerts will trigger C. What the licensing cost is D. Which vendor developed it ✅ Correct Answer: B — What population it was validated in, how it performs in populations resembling ours, and what actions its alerts will trigger Model performance degrades when the deployment population differs from the development population in prevalence, demographics, or documentation practice. Equally important is the action question — an alert that triggers no defined clinical response produces alert burden without benefit. Local validation and a defined response protocol are the two prerequisites to safe deployment. P14. Workforce well-being is increasingly measured within quality programs because [App] A. It is required for accreditation B. Burnout and staffing instability are associated with increased adverse events, reduced patient experience, and turnover C. It reduces recruitment expense D. It is a human resources performance indicator ✅ Correct Answer: B — Burnout and staffing instability are associated with increased adverse events, reduced patient experience, and turnover The evidence linking clinician burnout to error rates, reduced empathy, and attrition establishes workforce well-being as a patient safety variable rather than solely an employment concern. The National Academy of Medicine frames it as a systems issue, and it appears within patient safety frameworks including the CMS Patient Safety Structural Measure. P15. Digital quality measurement is expected to change quality programs primarily by [App] A. Eliminating the need for quality professionals B. Shifting measurement from sampled manual abstraction toward full-population automated calculation, moving the professional's work toward interpretation and improvement C. Reducing the number of measures reported D. Removing the need for risk adjustment ✅ Correct Answer: B — Shifting measurement from sampled manual abstraction toward full-population automated calculation, moving the professional's work toward interpretation and improvement Digital measurement removes the abstraction bottleneck and expands denominators from samples to full populations, improving precision and enabling stratification. The professional's work shifts upstream toward specification governance and documentation workflow design, and downstream toward interpretation and improvement — with risk adjustment (D) becoming more important, not less, as comparison becomes more granular.",
+      "difficulty": "medium"
+    }
+  ]
+}

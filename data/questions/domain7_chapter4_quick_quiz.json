@@ -1,0 +1,65 @@
+{
+  "topic": "Regulatory and Accreditation",
+  "questions": [
+    {
+      "text": "A hospital surveyor follows a single patient's complete care journey from admission through discharge across all departments. Which survey methodology is being used?",
+      "options": {
+        "a": "System Tracer",
+        "b": "Document Review",
+        "c": "Individual Patient Tracer",
+        "d": "Mock Survey"
+      },
+      "correct_option": "c",
+      "explanation": "TJC's Tracer Methodology includes Individual Patient Tracers, which follow one patient's complete care experience across departments to identify integration failures at handoff points. System Tracers follow a specific process (e.g. medication management) across all departments rather than following a single patient.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A physician office laboratory needs to achieve CLIA compliance without going through CMS directly. Which accrediting body is specifically designed for this purpose?",
+      "options": {
+        "a": "CAP",
+        "b": "AABB",
+        "c": "COLA",
+        "d": "ACR"
+      },
+      "correct_option": "c",
+      "explanation": "The Commission on Office Laboratory Accreditation (COLA) is specifically designed for physician office laboratories and independent labs. COLA holds CMS Deeming Authority for CLIA compliance and uses a consultative, education-focused survey approach accessible to smaller lab operations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital wants accreditation that integrates ISO 9001 Quality Management System principles with healthcare standards and uses annual surveys rather than a triennial cycle. Which accrediting body should the hospital pursue?",
+      "options": {
+        "a": "TJC",
+        "b": "AAAHC",
+        "c": "CARF",
+        "d": "DNV Healthcare"
+      },
+      "correct_option": "d",
+      "explanation": "DNV Healthcare is unique in integrating ISO 9001 QMS principles with its healthcare accreditation standards. DNV uses an annual survey model rather than TJC's triennial cycle, reflecting a continuous improvement philosophy. This is a direct and specific CPHQ exam differentiator.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A blood bank at a regional hospital is undergoing accreditation review specifically focused on safety, purity, and potency of blood products, with internationally recognised standards. Which accrediting body is conducting this review?",
+      "options": {
+        "a": "CAP",
+        "b": "COLA",
+        "c": "AABB",
+        "d": "ACR"
+      },
+      "correct_option": "c",
+      "explanation": "The Association for the Advancement of Blood and Biotherapies (AABB) accredits blood banks, transfusion services, and cellular therapy programs. Its standards focus on safety, purity, and potency of blood products and are internationally recognised. AABB does not hold CMS Deeming Authority and is separate from CLIA.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which accrediting body holds the distinction of being the first accreditor for home healthcare in the United States, founded in 1965, and currently holds CMS Deeming Authority for home health?",
+      "options": {
+        "a": "ACHC",
+        "b": "CHAP",
+        "c": "The Compliance Team",
+        "d": "AAAHC"
+      },
+      "correct_option": "b",
+      "explanation": "The Community Health Accreditation Partner (CHAP) was the first accreditor for home healthcare in the U.S., founded in 1965. CHAP holds CMS Deeming Authority for home health and focuses on quality management and consumer rights. Its pioneer status is a high-yield exam fact.",
+      "difficulty": "medium"
+    }
+  ]
+}

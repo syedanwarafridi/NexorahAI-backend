@@ -1,0 +1,65 @@
+{
+  "topic": "Health Data Analytics",
+  "questions": [
+    {
+      "text": "A quality manager needs to audit medication administration records across five clinical departments including ICU, Medical-Surgical, Pediatrics, Oncology, and Emergency. She wants to ensure each department is proportionally represented in the final sample. Which sampling method should she use?",
+      "options": {
+        "a": "Simple Random Sampling",
+        "b": "Systematic Sampling",
+        "c": "Stratified Random Sampling",
+        "d": "Convenience Sampling"
+      },
+      "correct_option": "c",
+      "explanation": "Stratified Random Sampling. The population is divided into groups called strata which here represent departments before sampling, and each stratum is sampled independently. This ensures proportional representation of all subgroups which is critical when outcome variance is expected between departments.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital conducts a patient satisfaction survey by approaching only patients in the outpatient waiting area on weekday mornings. What sampling method is being used and what is its primary limitation?",
+      "options": {
+        "a": "Quota sampling; does not eliminate bias but ensures volume consistency",
+        "b": "Purposive sampling; relies on expert judgment and is not statistically representative",
+        "c": "Convenience sampling; highly susceptible to selection bias",
+        "d": "Systematic sampling; vulnerable to cyclic patterns in data sequence"
+      },
+      "correct_option": "c",
+      "explanation": "Convenience sampling. Only available patients in a specific location and time are approached, introducing massive selection bias. Night shift patients, inpatients, and weekend visitors are excluded meaning results cannot be generalized to all patients.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality analyst sets a sampling interval of every 5th patient discharge from an ordered discharge list and randomly selects the starting point. What sampling design is this and what is its KEY risk?",
+      "options": {
+        "a": "Simple random sampling; operationally challenging with large populations",
+        "b": "Systematic sampling; hidden cyclic patterns in the list may introduce bias",
+        "c": "Stratified sampling; requires complex stratification before selection",
+        "d": "Quota sampling; judgment bias remains even when volume is consistent"
+      },
+      "correct_option": "b",
+      "explanation": "Systematic sampling. The method is efficient and easy to implement but if the ordered list has a hidden cyclic pattern such as every 5th patient being a surgical case, the sample may be unrepresentative.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A researcher studying medication adherence among homeless patients asks known participants to recruit others from their social network. Which sampling method is this and what risk must be disclosed?",
+      "options": {
+        "a": "Purposive sampling; relies on expert judgment",
+        "b": "Quota sampling; does not eliminate selection bias",
+        "c": "Snowball sampling; amplifies existing selection bias",
+        "d": "Convenience sampling; susceptible to location-based bias"
+      },
+      "correct_option": "c",
+      "explanation": "Snowball sampling. Subjects suggest other subjects which amplifies existing bias because participants tend to know others like themselves with similar demographics and experiences. This must be clearly disclosed as a study limitation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team increases its sample size from 30 to 200 patients for a hand hygiene compliance study. What is the MOST likely statistical effect of this change?",
+      "options": {
+        "a": "Increased standard deviation and wider distribution of results",
+        "b": "Greater sampling bias due to larger data volume",
+        "c": "Narrower distribution and greater confidence in the sample estimate",
+        "d": "Requirement to change from probability to non-probability sampling"
+      },
+      "correct_option": "c",
+      "explanation": "Larger samples produce narrower distributions and greater confidence in findings. As sample size increases the spread of sample estimates decreases, improving precision and reliability.",
+      "difficulty": "medium"
+    }
+  ]
+}

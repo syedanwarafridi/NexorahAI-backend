@@ -1,66 +1,64 @@
 {
-  "domain_order": 4,
-  "chapter_order": 1,
-  "topic": "Information Management",
+  "topic": "Health Data Analytics",
   "questions": [
     {
-      "text": "Which federal law primarily governs the privacy and security of protected health information (PHI) in the United States?",
+      "text": "A hospital tracks the number of patient falls on a medical-surgical unit each month. What type of data does this represent?",
       "options": {
-        "a": "The Affordable Care Act (ACA)",
-        "b": "HITECH Act",
-        "c": "HIPAA",
-        "d": "EMTALA"
+        "a": "Nominal",
+        "b": "Ordinal",
+        "c": "Discrete",
+        "d": "Continuous"
       },
       "correct_option": "c",
-      "explanation": "HIPAA (Health Insurance Portability and Accountability Act) is the primary federal law governing the privacy and security of protected health information. The HITECH Act strengthened HIPAA enforcement but HIPAA is the foundational law.",
-      "difficulty": "easy"
-    },
-    {
-      "text": "A healthcare organization wants to compare its patient fall rate to that of similar hospitals nationally. This process is best described as:",
-      "options": {
-        "a": "Root cause analysis",
-        "b": "Benchmarking",
-        "c": "Concurrent review",
-        "d": "Risk stratification"
-      },
-      "correct_option": "b",
-      "explanation": "Benchmarking is the process of comparing an organization's performance data against external standards, best practices, or similar organizations to identify performance gaps and opportunities for improvement.",
-      "difficulty": "easy"
-    },
-    {
-      "text": "In healthcare data management, 'data validity' refers to:",
-      "options": {
-        "a": "How quickly data can be retrieved from the EHR system",
-        "b": "Whether data accurately measures what it is intended to measure",
-        "c": "The number of data points collected in a given period",
-        "d": "The frequency with which data is updated in the system"
-      },
-      "correct_option": "b",
-      "explanation": "Data validity (or accuracy) ensures that the data collected truly represents what it claims to measure. Invalid data can lead to incorrect conclusions and poor quality decisions.",
+      "explanation": "Discrete. Falls are countable whole numbers with no fractional values. This is the defining characteristic of discrete data. Nominal data has no order, ordinal has ranked categories, and continuous data is measured on a scale.",
       "difficulty": "medium"
     },
     {
-      "text": "A hospital is implementing a new EHR system. Which of the following is the MOST important consideration for patient safety?",
+      "text": "A quality analyst is reviewing temperature readings in Celsius from a post-operative unit and comparing them to blood pressure readings. Which statement about these data types is MOST accurate for statistical analysis?",
       "options": {
-        "a": "Ensuring the vendor offers the lowest possible cost",
-        "b": "Completing implementation as quickly as possible",
-        "c": "Providing thorough staff training and testing before go-live",
-        "d": "Decommissioning the old system immediately at go-live"
+        "a": "Both are ratio data with a true zero and support full mathematical comparison",
+        "b": "Temperature is interval data; blood pressure is ratio data",
+        "c": "Both are interval data with no true zero",
+        "d": "Temperature is ratio data; blood pressure is ordinal data"
       },
-      "correct_option": "c",
-      "explanation": "EHR implementations carry significant patient safety risks if staff are not properly trained. Thorough training and testing before go-live reduces medication errors, workflow disruptions, and data integrity issues.",
+      "correct_option": "b",
+      "explanation": "Temperature in Celsius has an arbitrary zero point making it interval data. Blood pressure has a true zero meaning absence of pressure making it ratio data. Ratio data supports valid comparison and benchmarking while interval data does not support ratio statements.",
       "difficulty": "medium"
     },
     {
-      "text": "Which type of data is MOST useful for identifying trends in patient outcomes over time?",
+      "text": "A Decision Support System identifies that a hospital's CLABSI rate is 2.8 per 1,000 line days compared to a national benchmark of 1.1. Which DSS function is being performed?",
       "options": {
-        "a": "Cross-sectional data collected at a single point in time",
-        "b": "Longitudinal data collected repeatedly over an extended period",
-        "c": "Qualitative data from patient focus groups",
-        "d": "Anecdotal data from staff incident reports"
+        "a": "Outcomes Management",
+        "b": "Market Responsiveness",
+        "c": "Benchmark Performance",
+        "d": "Value-Based Compensation"
+      },
+      "correct_option": "c",
+      "explanation": "Benchmark Performance. This function compares results against competitors and industry benchmarks. Outcomes Management involves analyzing outcomes to support improvement plans which would be the next logical step after benchmarking.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality team conducts patient interviews in the emergency department to understand why patients feel their pain is inadequately managed. What type of data collection method is this and what is its primary purpose?",
+      "options": {
+        "a": "Quantitative; to measure frequency and magnitude of the problem",
+        "b": "Qualitative; to explore why and how the problem is experienced",
+        "c": "Prospective; to predict future pain management gaps",
+        "d": "Administrative; to document compliance with pain protocols"
       },
       "correct_option": "b",
-      "explanation": "Longitudinal data, collected over time for the same patients or processes, is most effective for identifying trends, measuring the impact of interventions, and predicting future outcomes.",
+      "explanation": "Interviews are a qualitative data collection tool. They explore why something happens and how people experience it, providing rich contextual understanding rather than numerical frequency data.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When clinical data is analyzed WITHOUT integration with administrative data such as staffing or scheduling, what key analytical risk does this create?",
+      "options": {
+        "a": "Selection bias in sampling",
+        "b": "Inability to calculate ratios from discrete data",
+        "c": "Concealment of systemic root causes",
+        "d": "Violation of data dictionary standards"
+      },
+      "correct_option": "c",
+      "explanation": "Analyzing clinical outcomes without administrative context hides systemic root causes. Staffing shortages, scheduling gaps, or resource constraints that drive clinical outcomes remain invisible when data systems are siloed.",
       "difficulty": "medium"
     }
   ]

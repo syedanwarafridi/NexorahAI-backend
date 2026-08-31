@@ -1,0 +1,773 @@
+{
+  "domain_order": 6,
+  "questions": [
+    {
+      "text": "The quality improvement (QI) specialist recognizes that any documents related to medical peer review are",
+      "options": {
+        "a": "Reviewed during accreditation surveys.",
+        "b": "Included in QI research.",
+        "c": "Used to determine privileges.",
+        "d": "Classified as confidential documents."
+      },
+      "correct_option": "d",
+      "explanation": "Classified as confidential documents. Medical peer review documents are protected from discovery and disclosure under state peer review protection statutes. This confidentiality protection exists to encourage candid, honest clinical review without fear that findings will be used in malpractice litigation. Peer review records are NOT reviewed during accreditation surveys (A) — surveyors confirm that a peer review process exists but do not access individual case content. They are NOT included in QI research (B) for confidentiality reasons. While peer review informs privilege decisions (C), individual documents are not released for this purpose in most states. Per CPHQ quality review and accountability domain standards, state peer review protection laws, and TJC medical staff standards, peer review documents are confidential by legal designation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The desired outcome of peer review is to",
+      "options": {
+        "a": "Evaluate process improvement initiatives.",
+        "b": "Compare provider performance.",
+        "c": "Improve the quality of care.",
+        "d": "Limit privileges of at-risk providers."
+      },
+      "correct_option": "c",
+      "explanation": "Improve the quality of care. Medical peer review is fundamentally a quality improvement mechanism. Its ultimate purpose is to improve the quality of care delivered by practitioners — by identifying deviations from the standard of care, supporting professional development, and correcting practice patterns that fall below expectations. Evaluating process improvement initiatives (A) is a QI program function. Comparing provider performance (B) is a tool used within peer review, not its desired outcome. Limiting privileges (D) is a consequential action that may result from peer review findings in serious cases but is not the desired or primary outcome. Per TJC Medical Staff Standards, CPHQ quality review and accountability domain standards, and medical staff governance principles, quality of care improvement is the stated desired outcome of peer review.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Assessment of practitioner proficiency is done through",
+      "options": {
+        "a": "OPPE.",
+        "b": "FPPE.",
+        "c": "Peer review.",
+        "d": "All of the above."
+      },
+      "correct_option": "d",
+      "explanation": "All of the above. Practitioner proficiency assessment uses all three mechanisms in an integrated, complementary system. OPPE is the continuous, data-driven monitoring of every licensed independent practitioner's performance. FPPE is a time-limited, intensive review triggered by specific concerns, new privileges, or identified performance issues. Peer review is the case-level clinical review of individual practitioner performance by qualified peers. Together these three mechanisms constitute the complete framework for practitioner proficiency assessment required by TJC Medical Staff Standards. Per TJC MS.08.01.01 and MS.08.01.03, CPHQ quality review and accountability domain standards, and medical staff governance principles, all three are components of practitioner proficiency assessment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "CAHPS data is an example of criteria that might be tracked for",
+      "options": {
+        "a": "OPPE.",
+        "b": "FPPE.",
+        "c": "Upside risk.",
+        "d": "CMS quality metrics."
+      },
+      "correct_option": "a",
+      "explanation": "OPPE. CAHPS (Consumer Assessment of Healthcare Providers and Systems) data reflects patient experience and satisfaction with individual providers. In the context of medical staff performance evaluation, patient experience data is appropriately tracked as part of Ongoing Professional Practice Evaluation (OPPE), which monitors practitioner performance across multiple domains including patient satisfaction, outcomes, and adherence to clinical standards. FPPE (B) is a focused, time-limited review triggered by a specific concern — it does not use CAHPS as a routine tracking metric. Upside risk (C) is a payment model term with no connection to CAHPS in a practitioner evaluation context. CMS quality metrics (D) include CAHPS at the facility level, but the question frames CAHPS in the practitioner-level context, placing it within OPPE. Per TJC OPPE standards, AHRQ CAHPS program documentation, and CPHQ quality review domain standards, CAHPS data is an OPPE performance criterion.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality professional is developing a policy regarding access to physician quality files. In addition to the date and name of the person requesting the information, which of the following should be included?",
+      "options": {
+        "a": "Permission from the applicable physician.",
+        "b": "Purpose of the request.",
+        "c": "Approval from legal counsel.",
+        "d": "Approval from the department chair."
+      },
+      "correct_option": "b",
+      "explanation": "Purpose of the request. Physician quality files contain sensitive peer review and performance data protected under state peer review privilege statutes. A robust access policy must require documentation of the purpose of the request to ensure access is granted only for legitimate, authorized purposes — such as credentialing, peer review, or quality oversight. Documenting purpose creates an audit trail demonstrating appropriate use of privileged information. Permission from the applicable physician (A) is not a standard requirement — this would give physicians effective veto power over peer review functions. Approval from legal counsel (C) may be appropriate for unusual requests but is not a standard policy component. Approval from the department chair (D) may be one authorization route but is not the definitively required element alongside date and name. Per CPHQ quality review and accountability domain standards and peer review governance principles, purpose documentation is the essential additional policy element.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Observation and documentation of interpersonal and communication skills is an example of",
+      "options": {
+        "a": "OPPE.",
+        "b": "FPPE.",
+        "c": "Upside risk.",
+        "d": "CMS quality metrics."
+      },
+      "correct_option": "a",
+      "explanation": "OPPE. Interpersonal and communication skills are one of the six core competency domains defined by ACGME and adopted into medical staff evaluation standards by TJC. OPPE monitors practitioner performance across these competency domains on a continuous basis. Observational assessment of communication skills is a standard OPPE data collection method used to evaluate competency in this domain. FPPE (B) is reserved for time-limited triggered reviews of specific concerns — not for routine continuous monitoring of behavioral competencies. Per TJC MS.08.01.01, ACGME core competency frameworks, and CPHQ quality review domain standards, routine observation of communication competency is an OPPE function.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A surgeon performed a colonoscopy and caused a perforation of the colon during the surgery. What should be done?",
+      "options": {
+        "a": "Refer case to peer review.",
+        "b": "Remove his privilege.",
+        "c": "Initiate OPPE.",
+        "d": "All of the above."
+      },
+      "correct_option": "a",
+      "explanation": "Refer case to peer review. A colon perforation during colonoscopy is a serious complication requiring case-level clinical review to determine whether it represents a deviation from the standard of care. The appropriate and proportionate first step is peer review — a structured clinical evaluation by qualified peers. Removing privileges (B) is a consequential action requiring due process and cannot be the immediate first step in response to a single complication. OPPE (C) is a continuous monitoring function already ongoing for all practitioners — it is not triggered by a single event. Peer review findings may eventually contribute to OPPE data or trigger FPPE, but the immediate response is always case-level peer review. Per TJC Medical Staff Standards, CPHQ quality review and accountability domain standards, and standard peer review protocols, peer review is the correct first response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Birth injuries — initial analysis revealed that injuries trace back to one practitioner. What is the next step?",
+      "options": {
+        "a": "Form team to investigate outcomes.",
+        "b": "Further analysis of the practitioner's outcomes.",
+        "c": "Continue to monitor practitioner outcomes.",
+        "d": "Discuss with patient."
+      },
+      "correct_option": "b",
+      "explanation": "Further analysis of the practitioner's outcomes. When initial data analysis reveals a pattern of adverse outcomes tracing back to a single practitioner, the next step is further analysis of that practitioner's individual outcome data before taking any action. Aggregate data signals a concern that must be examined at the individual practitioner level to confirm the pattern, understand its scope, and determine whether FPPE is warranted. Forming a team to investigate system-wide outcomes (A) is appropriate for systemic problems but not when data points to one practitioner. Continuing to monitor (C) is passive and insufficient when a pattern has already emerged. Discussing with the patient (D) is a disclosure function, not the next step in the quality review process. Per TJC OPPE/FPPE standards, CPHQ quality review domain requirements, and peer review governance principles, individual practitioner-level data analysis is the correct next step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Physician A is asked to review the appropriateness of care provided by Physician B. This process is called",
+      "options": {
+        "a": "Initial clinical review.",
+        "b": "Clinical peer review.",
+        "c": "Appeals considerations.",
+        "d": "Reappointment rules."
+      },
+      "correct_option": "b",
+      "explanation": "Clinical peer review. When a physician reviews the appropriateness of care provided by another physician, this is by definition clinical peer review — a structured evaluation of a practitioner's clinical performance by a qualified peer with equivalent or relevant expertise. Initial clinical review (A) typically refers to first-level screening of a medical record, often by a non-physician reviewer, before escalation to physician-level review. Appeals considerations (C) are a procedural step in credentialing actions — a separate process. Reappointment rules (D) govern the periodic reappointment of medical staff members — a credentialing function. Per TJC Medical Staff Standards, CPHQ quality review and accountability domain standards, and medical staff governance principles, physician review of peer care appropriateness is unambiguously defined as clinical peer review.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A surgeon's cases are associated with surgical site infection rates higher than the average rate for other surgeons. What is the first thing to do?",
+      "options": {
+        "a": "Remove privileges of the surgeon.",
+        "b": "Refer the surgeon's cases for peer review.",
+        "c": "Evaluate by credentialing committee.",
+        "d": "Consult with department chairperson."
+      },
+      "correct_option": "b",
+      "explanation": "Refer the surgeon's cases for peer review. When OPPE data reveals that a surgeon's surgical site infection rate exceeds the peer average, this signal triggers case-level peer review as the first formal step. Peer review examines the individual cases to determine whether the elevated infection rate reflects a deviation from standard surgical technique or is explained by patient complexity or documentation factors. Removing privileges (A) requires due process findings from peer review — it cannot precede review. Evaluation by the credentialing committee (C) comes after peer review findings are generated. Consulting with the department chair (D) may occur in parallel but is not the formal first action. Per TJC OPPE/FPPE standards, CPHQ quality review and accountability domain requirements, and medical staff governance protocols, peer review is always the first formal step when performance data triggers a concern.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A credentialing committee has determined that a practitioner has a significantly higher rate of complications after surgeries than the practitioner's peers. Which of the following should the committee do next?",
+      "options": {
+        "a": "Focus review.",
+        "b": "Monitor more cases related to this surgeon.",
+        "c": "Cancel privilege.",
+        "d": "Terminate the practitioner."
+      },
+      "correct_option": "a",
+      "explanation": "Focus review (FPPE). When a credentialing committee identifies a practitioner with significantly elevated complication rates, the appropriate next step is FPPE — a structured, time-limited, intensive review of that practitioner's specific cases and practice patterns. Monitoring more cases (B) is appropriate at the OPPE stage, but once a significant outlier pattern is confirmed by the committee, focused review is required. Canceling privileges (C) and terminating the practitioner (D) are extreme actions requiring due process, peer review findings, and medical executive committee and governing board action — they cannot be the immediate next step. Per TJC MS.08.01.03, CPHQ quality review and accountability domain requirements, and medical staff fair hearing principles, FPPE is the correct and proportionate response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When using LOS data for practitioners before peer review, data of LIPs must be",
+      "options": {
+        "a": "Risk adjusted for severity of illness.",
+        "b": "Reported monthly.",
+        "c": "Analyzed.",
+        "d": "Validated."
+      },
+      "correct_option": "a",
+      "explanation": "Risk adjusted for severity of illness. LOS data used to evaluate and compare Licensed Independent Practitioner performance must be risk-adjusted for patient severity of illness before it can be meaningfully used in peer review. Without risk adjustment, a practitioner treating more complex, sicker patients will appear to have worse LOS performance — creating a misleading and unfair comparison. Risk adjustment normalizes for case mix and severity so that LOS comparisons reflect practice patterns rather than patient complexity differences. Monthly reporting (B) defines frequency, not data quality. While data must also be analyzed (C) and validated (D), these are general requirements — they do not address the specific methodological requirement for LOS comparability in practitioner profiling. Per NQF measurement standards, CMS risk adjustment frameworks, and CPHQ quality review domain standards, risk adjustment for severity is the defining requirement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A credentialing committee has determined that a practitioner has a significantly higher rate of complications after surgeries than the practitioner's peers. Which of the following should the committee do next?",
+      "options": {
+        "a": "Initiate a focused professional evaluation (FPPE).",
+        "b": "Limit the practitioner's current surgical privileges.",
+        "c": "Require the practitioner to attend continuing education.",
+        "d": "Continue ongoing professional practice evaluation."
+      },
+      "correct_option": "a",
+      "explanation": "Initiate a focused professional evaluation (FPPE). See Q11. FPPE is the formal, structured, time-limited focused review mandated by TJC when performance data identifies a specific practitioner concern. Limiting surgical privileges (B) may be a consequence of FPPE findings but is premature before investigation is complete. Requiring continuing education (C) is a remediation measure appropriate after the nature of the deficiency is understood through FPPE. Continuing OPPE (D) is ongoing by definition, but when a significant performance signal is confirmed, OPPE alone is insufficient — FPPE escalation is required. Per TJC MS.08.01.03 and CPHQ quality review and accountability domain standards, FPPE initiation is the correct next step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following can demonstrate multiple aspects of a practitioner's practice as required for renewal of clinical privileges?",
+      "options": {
+        "a": "Credentialing.",
+        "b": "Peer review.",
+        "c": "Privilege delineation.",
+        "d": "Practitioner profile."
+      },
+      "correct_option": "d",
+      "explanation": "Practitioner profile. A practitioner profile is a comprehensive compilation of multiple data elements reflecting different dimensions of practitioner performance — outcome data, volume data, LOS comparisons, complication rates, peer review findings, patient satisfaction scores, and adherence to medical staff bylaws. It is the aggregated, multi-dimensional view of practitioner performance that supports the reappointment and privilege renewal decision. Credentialing (A) verifies primary source credentials — not ongoing practice performance. Peer review (B) is a case-level clinical review mechanism contributing data to the profile but not representing multiple aspects by itself. Privilege delineation (C) defines the scope of authorized practice — it does not demonstrate performance. Per TJC Medical Staff Standards for reappointment, CPHQ quality review and accountability domain standards, and medical staff governance principles, the practitioner profile aggregates multiple performance dimensions for privilege renewal decisions. SECTION B — 50 ORIGINAL QUESTIONS",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the primary purpose of Ongoing Professional Practice Evaluation (OPPE)?",
+      "options": {
+        "a": "To investigate a specific adverse event associated with a practitioner.",
+        "b": "To continuously monitor practitioner performance using aggregate data.",
+        "c": "To verify a practitioner's educational credentials and licensure.",
+        "d": "To determine whether a new practitioner meets initial privilege requirements."
+      },
+      "correct_option": "b",
+      "explanation": "To continuously monitor practitioner performance using aggregate data. OPPE is a TJC-mandated, continuous data-driven process that monitors every Licensed Independent Practitioner's performance on an ongoing basis using aggregate data — outcome rates, complication rates, volume data, adherence to clinical guidelines, patient experience, and peer review input. It is not event-specific (A) — that is FPPE. It is not credential verification (C) — that is the initial credentialing function. It is not for initial privilege determination (D) — that is addressed through FPPE during the provisional period. Per TJC MS.08.01.01, OPPE is the mechanism for sustained, population-level practitioner performance surveillance between reappointment cycles.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Focused Professional Practice Evaluation (FPPE) is MOST appropriately initiated when",
+      "options": {
+        "a": "A practitioner completes their annual performance review.",
+        "b": "A practitioner requests an expansion of clinical privileges.",
+        "c": "A practitioner's OPPE data shows consistently average performance.",
+        "d": "A practitioner's reappointment cycle is due."
+      },
+      "correct_option": "b",
+      "explanation": "A practitioner requests an expansion of clinical privileges. FPPE is triggered by two primary circumstances: (1) a new practitioner joining the medical staff or (2) an existing practitioner requesting new or expanded privileges. In both cases, FPPE provides a structured, time-limited evaluation to verify that the practitioner can competently perform the requested privileges in that specific environment. FPPE is also triggered by performance concerns identified through OPPE, but \"consistently average performance\" (C) does not trigger FPPE. Annual performance reviews (A) and reappointment cycles (D) are routine credentialing functions managed through OPPE data, not FPPE. Per TJC MS.08.01.03 and CPHQ quality review and accountability domain standards, privilege expansion is a definitive FPPE trigger.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital medical staff committee is reviewing a physician whose malpractice claims history shows three paid claims in the past five years. In the credentialing process, this information is obtained from",
+      "options": {
+        "a": "The state medical board.",
+        "b": "The National Practitioner Data Bank (NPDB).",
+        "c": "The physician's department chief.",
+        "d": "The hospital risk management department."
+      },
+      "correct_option": "b",
+      "explanation": "The National Practitioner Data Bank (NPDB). The National Practitioner Data Bank (NPDB) is the federal repository that collects and reports information on medical malpractice payments, adverse licensure actions, and other adverse privilege actions against healthcare practitioners. Hospitals are required by law to query the NPDB during initial credentialing and at least every two years at reappointment. Malpractice payment history is specifically reportable to and retrievable from the NPDB. State medical boards (A) report licensure actions to the NPDB but are not the primary source for malpractice claim history. The department chief (C) and risk management department (D) may have internal information but are not the authoritative external source for malpractice history. Per the Health Care Quality Improvement Act (HCQIA), CPHQ quality review domain standards, and TJC credentialing requirements, the NPDB is the mandated source.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is a key feature that distinguishes credentialing from privileging?",
+      "options": {
+        "a": "Credentialing verifies qualifications; privileging defines the scope of authorized practice.",
+        "b": "Credentialing is performed by the governing body; privileging is performed by the medical staff.",
+        "c": "Credentialing applies only to physicians; privileging applies to all clinical staff.",
+        "d": "Credentialing is renewed annually; privileging is renewed every five years."
+      },
+      "correct_option": "a",
+      "explanation": "Credentialing verifies qualifications; privileging defines the scope of authorized practice. Credentialing is the process of verifying a practitioner's education, training, licensure, board certification, malpractice history, and professional references — confirming that the practitioner meets the qualifications to practice. Privileging is a separate but dependent process that uses credentialing data — along with competency evidence — to define the specific clinical activities, procedures, and responsibilities the practitioner is authorized to perform at that specific organization. Option B is incorrect — the governing body grants privileges based on medical staff recommendations, but both processes involve the medical staff. Option C is incorrect — credentialing and privileging apply to all Licensed Independent Practitioners, not only physicians. Option D is incorrect — both are typically on two-year reappointment cycles. Per TJC Medical Staff Standards and CPHQ quality review domain standards, the credential-verify/privilege-authorize distinction is definitional.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A medical staff office receives an application from a physician who has been licensed in three states. During primary source verification, the credentialing coordinator discovers a licensure gap of 18 months. The most appropriate action is to",
+      "options": {
+        "a": "Approve the application without further inquiry since three licenses are adequate.",
+        "b": "Request a written explanation from the physician for the gap period.",
+        "c": "Immediately deny the application based on the gap.",
+        "d": "Forward the application to the governing body without further review."
+      },
+      "correct_option": "b",
+      "explanation": "Request a written explanation from the physician for the gap period. A gap in licensure history is a red flag that requires investigation — it may indicate a disciplinary action, voluntary surrender of a license, personal leave, or other circumstances that may or may not affect the physician's fitness to practice. The appropriate action is to request an explanation from the physician and, if necessary, conduct further primary source verification to clarify the circumstances. Approving the application without inquiry (A) fails the standard of care in credentialing. Immediately denying the application (C) is premature — the gap may have an entirely legitimate explanation. Forwarding to the governing body without resolution (D) is premature and would present an incomplete file. Per TJC MS.06.01.05, CPHQ quality review domain standards, and credentialing best practices, unexplained gaps must be investigated before a credentialing decision is made.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following represents primary source verification in the credentialing process?",
+      "options": {
+        "a": "Reviewing the physician's curriculum vitae.",
+        "b": "Contacting the medical school directly to verify the degree awarded.",
+        "c": "Accepting a notarized copy of the medical school diploma.",
+        "d": "Reviewing a peer reference letter from a colleague."
+      },
+      "correct_option": "b",
+      "explanation": "Contacting the medical school directly to verify the degree awarded. Primary source verification (PSV) means obtaining verification directly from the original source of a credential — the entity that issued it. Contacting the medical school directly to confirm the degree is exactly this: the issuing institution confirms the credential. Reviewing the physician's CV (A) is relying on self-reported information — not primary source. Accepting a notarized copy of a diploma (C) is a document copy — not primary source verification. A peer reference letter (D) is a professional reference — not primary source verification of educational credentials. Per TJC MS.06.01.05, URAC credentialing standards, and CPHQ quality review domain standards, direct contact with the issuing institution is the definition of primary source verification.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The medical executive committee recommends denial of clinical privileges to a physician applicant. Under the Health Care Quality Improvement Act (HCQIA), the physician is entitled to",
+      "options": {
+        "a": "A refund of all application fees paid.",
+        "b": "A fair hearing and appeal process before the denial is finalized.",
+        "c": "Immediate reinstatement of privileges at another facility.",
+        "d": "A written apology from the credentialing committee."
+      },
+      "correct_option": "b",
+      "explanation": "A fair hearing and appeal process before the denial is finalized. The Health Care Quality Improvement Act (HCQIA) of 1986 establishes due process protections for practitioners facing adverse privilege actions — including privilege denial, restriction, suspension, or revocation. A practitioner is entitled to notification of the proposed action, a statement of reasons, a fair hearing before a neutral panel, and an appeal. These procedural safeguards must be completed before the adverse action is finalized and reported to the NPDB. Application fee refunds (A), privilege reinstatement elsewhere (C), and written apologies (D) are not HCQIA entitlements. Per HCQIA due process provisions, TJC Medical Staff Standards, and CPHQ quality review and accountability domain standards, fair hearing and appeal rights are the fundamental practitioner protections in adverse privilege actions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality review committee is evaluating whether a physician's pattern of care meets the standard of care. The most appropriate reviewers for this function are",
+      "options": {
+        "a": "Quality management professionals with clinical backgrounds.",
+        "b": "Risk management attorneys with healthcare experience.",
+        "c": "Physicians with equivalent training and experience in the same specialty.",
+        "d": "Hospital administrators with oversight responsibility for the department."
+      },
+      "correct_option": "c",
+      "explanation": "Physicians with equivalent training and experience in the same specialty. The standard of peer review is that clinical care is evaluated by peers — practitioners with equivalent or superior training, experience, and specialty expertise. A same-specialty physician reviewer can evaluate whether the clinical decisions, technique, and management reflect the standard of care for that specialty. Quality management professionals (A) provide administrative support for the review process but cannot make clinical determinations. Risk management attorneys (B) assess legal liability, not clinical standard of care. Hospital administrators (D) do not have the clinical expertise to evaluate standard of care. Per TJC Medical Staff Standards, CPHQ quality review domain standards, and legal standard-of-care principles, same-specialty peer reviewers are the required evaluators for clinical quality determinations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following quality review activities is protected from discovery in most states under peer review privilege statutes?",
+      "options": {
+        "a": "Adverse event reports filed with state health departments.",
+        "b": "Findings and proceedings of the medical staff peer review committee.",
+        "c": "Patient medical records reviewed during peer review.",
+        "d": "The identities of patients involved in adverse events."
+      },
+      "correct_option": "b",
+      "explanation": "Findings and proceedings of the medical staff peer review committee. State peer review privilege statutes protect the deliberations, findings, and proceedings of medical staff peer review committees from subpoena and discovery in civil litigation. This protection exists to encourage candid, honest clinical self-evaluation without fear of legal exposure. The patient medical record (C) is a separate document — it is not protected by peer review privilege even if it was reviewed during a peer review proceeding. Adverse event reports filed with state agencies (A) are regulatory documents, not committee deliberations. Patient identities (D) are protected by HIPAA privacy rules, not peer review statutes specifically. Per state peer review privilege laws, CPHQ quality review and accountability domain standards, and medical staff legal frameworks, committee findings and proceedings are the protected category.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following scenarios would most appropriately trigger an FPPE rather than continued OPPE monitoring?",
+      "options": {
+        "a": "A physician's complication rate is consistently at the peer average for 24 months.",
+        "b": "A new physician joins the medical staff and is granted initial clinical privileges.",
+        "c": "A physician requests a one-week vacation leave.",
+        "d": "A physician's board certification is renewed without issue."
+      },
+      "correct_option": "b",
+      "explanation": "A new physician joins the medical staff and is granted initial clinical privileges. FPPE is universally required for all new medical staff members receiving initial clinical privileges — regardless of their experience or credentials. The purpose is to verify that the practitioner can competently perform their privileges in that specific organizational environment, with its specific patient population, equipment, and support systems. FPPE for new practitioners is typically structured as a proctored or supervised practice period with defined evaluation criteria and a defined endpoint. Consistent average performance (A) is a signal to continue OPPE, not trigger FPPE. A vacation leave (C) and board certification renewal (D) have no bearing on FPPE triggers. Per TJC MS.08.01.03 and CPHQ quality review domain standards, initial privilege granting is an absolute FPPE trigger.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A peer review committee rates a physician's care as \"care not meeting the standard of care with potential for patient harm.\" Which of the following is the immediate next step?",
+      "options": {
+        "a": "Report the finding directly to the state medical board.",
+        "b": "Notify the physician and provide an opportunity for response before any action is taken.",
+        "c": "Immediately suspend the physician's privileges.",
+        "d": "Report the finding to the National Practitioner Data Bank."
+      },
+      "correct_option": "b",
+      "explanation": "Notify the physician and provide an opportunity for response before any action is taken. When a peer review committee makes a finding adverse to a physician, due process requires that the physician be notified of the finding and given an opportunity to respond before any privilege action is taken. This is a fundamental principle of medical staff fair hearing rights under HCQIA and medical staff bylaws. Immediate privilege suspension (C) is reserved for situations posing an immediate and serious threat to patient safety — a peer review finding alone does not automatically justify immediate suspension without notice. Reporting to the state medical board (A) and NPDB (D) occurs only after the due process sequence is complete and an adverse action is formally taken. Per HCQIA due process provisions, TJC Medical Staff Standards, and CPHQ quality review and accountability domain standards, physician notification and response opportunity precede any action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following data sources is most appropriate for use in OPPE for a surgeon?",
+      "options": {
+        "a": "Patient satisfaction surveys from the hospital cafeteria.",
+        "b": "Surgical complication rates compared to peer benchmarks.",
+        "c": "Number of continuing medical education (CME) credits completed.",
+        "d": "Attendance at departmental staff meetings."
+      },
+      "correct_option": "b",
+      "explanation": "Surgical complication rates compared to peer benchmarks. OPPE data must reflect actual clinical performance — outcomes relevant to the practitioner's scope of practice, compared to peers. For a surgeon, surgical complication rates compared to peer benchmarks are the most directly relevant clinical performance indicator. They reflect the quality of surgical care delivered and are comparable across practitioners performing similar procedures. Cafeteria satisfaction surveys (A) are irrelevant. CME credits (C) reflect educational participation, not clinical performance outcomes — they are a credentialing element, not an OPPE performance measure. Meeting attendance (D) reflects professional engagement but not clinical performance quality. Per TJC OPPE standards, CPHQ quality review domain requirements, and medical staff performance evaluation principles, outcome data compared to peer benchmarks is the gold standard OPPE data source for surgeons.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is developing its peer review policy. Which of the following elements is essential to ensure the peer review process is legally defensible?",
+      "options": {
+        "a": "Ensuring all peer reviewers are from outside the organization.",
+        "b": "Documenting that the process follows established medical staff bylaws and due process requirements.",
+        "c": "Requiring that all peer review findings be published in the hospital annual report.",
+        "d": "Mandating that peer review be completed within 30 days of any adverse event."
+      },
+      "correct_option": "b",
+      "explanation": "Documenting that the process follows established medical staff bylaws and due process requirements. A legally defensible peer review process must follow the procedures established in the medical staff bylaws — including fair hearing rights, notification requirements, confidentiality protections, and review criteria. Courts and regulatory bodies evaluate peer review actions for procedural compliance. External-only reviewers (A) are sometimes used for objectivity but are not a universal legal requirement. Publishing findings publicly (C) would violate peer review confidentiality protections. A 30-day mandate (D) is operationally aspirational but is not a universal legal requirement — timeliness matters but specific timeframes are set by individual bylaws. Per HCQIA, TJC Medical Staff Standards, and CPHQ quality review and accountability domain standards, bylaw compliance and due process documentation are the foundational legal defensibility requirements.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the correct sequence of events when a hospital receives a credentialing application from a physician?",
+      "options": {
+        "a": "Privileging → Primary source verification → Background check → Committee review.",
+        "b": "Application receipt → Primary source verification → Committee review → Governing body approval.",
+        "c": "Committee review → Primary source verification → Governing body approval → Privileging.",
+        "d": "Background check → Application receipt → Privileging → Committee review."
+      },
+      "correct_option": "b",
+      "explanation": "Application receipt → Primary source verification → Committee review → Governing body approval. The credentialing process follows a defined sequence: (1) the application is received and deemed complete; (2) primary source verification is conducted to verify all credentials directly with issuing sources; (3) the credentials committee reviews the verified file and makes a recommendation; (4) the medical executive committee reviews and concurs; (5) the governing body takes final action and grants privileges. Privileging occurs as part of or following the governing body approval — it is not the first step (A). Committee review cannot precede PSV (C) — the committee has nothing verified to review without PSV. Background checks occur during the PSV phase, not before application receipt (D). Per TJC MS.06.01.01–MS.06.01.07 and CPHQ quality review and accountability domain standards, this sequence is the defined credentialing workflow.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A practitioner's clinical privileges are summarily suspended due to an immediate patient safety concern. Under TJC standards, which of the following must occur within a defined timeframe following the suspension?",
+      "options": {
+        "a": "The practitioner must voluntarily resign from the medical staff.",
+        "b": "An automatic referral to the state medical board must be filed.",
+        "c": "A hearing must be offered to the practitioner.",
+        "d": "The suspension must be converted to permanent revocation."
+      },
+      "correct_option": "c",
+      "explanation": "A hearing must be offered to the practitioner. Summary suspension is an emergency action taken when there is an immediate and serious threat to patient safety. Because it bypasses the normal due process sequence, TJC and HCQIA require that a fair hearing be offered to the suspended practitioner within a defined timeframe following the suspension. This hearing allows the practitioner to respond to the concerns that prompted the suspension before a final determination is made. Voluntary resignation (A) is not required — the practitioner retains due process rights. Automatic state board referral (B) is triggered only after an adverse action is finalized, not at the point of summary suspension. Automatic conversion to permanent revocation (D) does not occur — the hearing process determines the final outcome. Per HCQIA, TJC MS.12.01.01, and CPHQ quality review and accountability domain standards, hearing rights are the mandated due process protection following summary suspension.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is asked to define the difference between OPPE and FPPE for new medical staff members. Which of the following statements is correct?",
+      "options": {
+        "a": "OPPE is triggered by performance concerns; FPPE is the routine monitoring process.",
+        "b": "OPPE monitors all practitioners continuously; FPPE is time-limited and triggered by specific circumstances.",
+        "c": "OPPE applies only to physicians; FPPE applies to all clinical staff.",
+        "d": "OPPE is conducted by the governing body; FPPE is conducted by the quality department."
+      },
+      "correct_option": "b",
+      "explanation": "OPPE monitors all practitioners continuously; FPPE is time-limited and triggered by specific circumstances. This question tests the foundational distinction between the two evaluation systems. OPPE is the routine, ongoing, continuous performance surveillance system applied to all LIPs at regular intervals. FPPE is an intensive, time-limited evaluation triggered by specific circumstances: new privileges, new staff, or identified performance concerns. Option A reverses the relationship — OPPE is routine, not FPPE. Option C is incorrect — both OPPE and FPPE apply to all LIPs, not limited by profession. Option D is incorrect — both processes are governed by the medical staff, not the governing body or quality department exclusively. Per TJC MS.08.01.01 and MS.08.01.03, CPHQ quality review domain standards, this distinction is a foundational CPHQ exam concept.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During a peer review, it is discovered that a nurse practitioner failed to escalate a patient's deteriorating condition to the attending physician, contributing to a serious adverse outcome. Which of the following best describes the quality review implication?",
+      "options": {
+        "a": "Only the attending physician should be subject to peer review since they hold ultimate responsibility.",
+        "b": "The nurse practitioner's scope of practice and escalation protocol compliance should be reviewed.",
+        "c": "The case should be closed without further action since nurse practitioners are not subject to peer review.",
+        "d": "The hospital risk manager should independently resolve the case without peer review involvement."
+      },
+      "correct_option": "b",
+      "explanation": "The nurse practitioner's scope of practice and escalation protocol compliance should be reviewed. Advanced practice providers — including nurse practitioners — with clinical privileges are subject to peer review and OPPE/FPPE processes under TJC standards, just as physicians are. A failure to escalate a deteriorating patient is a clinical performance concern that falls squarely within the scope of peer review for any privileged provider. Limiting review to the attending physician (A) ignores the NP's independent clinical responsibilities. Option C is factually incorrect — privileged NPPs are subject to peer review. Resolving through risk management alone (D) bypasses the quality review process and the systemic learning opportunity. Per TJC Medical Staff Standards for Advanced Practice Providers, CPHQ quality review domain standards, and patient safety escalation protocol research, the NP's clinical conduct requires formal review.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital credentialing committee is reviewing a physician who previously had privileges revoked at another institution. The physician did not disclose this on the application. Which of the following is the most appropriate action?",
+      "options": {
+        "a": "Approve the application since the issue occurred at a different facility.",
+        "b": "Deny the application immediately without further review.",
+        "c": "Query the NPDB and conduct a thorough investigation before making a credentialing decision.",
+        "d": "Grant temporary privileges while the investigation is completed."
+      },
+      "correct_option": "c",
+      "explanation": "Query the NPDB and conduct a thorough investigation before making a credentialing decision. Non-disclosure of a prior adverse privilege action is a serious credentialing concern for two reasons: the undisclosed adverse action itself, and the integrity issue raised by the failure to disclose. The appropriate response is to query the NPDB (which should contain the reportable adverse action) and conduct a thorough investigation of the circumstances before making any credentialing decision. Approving without further review (A) ignores both the adverse history and the non-disclosure. Immediate denial without investigation (B) is premature — the physician is entitled to due process and the circumstances must be understood. Granting temporary privileges during investigation (D) is inappropriate given the undisclosed adverse action — the risk to patients is not acceptable while serious concerns remain unresolved. Per HCQIA, TJC credentialing standards, and CPHQ quality review domain requirements, full investigation following NPDB query is the mandated approach.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following most accurately describes the role of the governing body in the credentialing process?",
+      "options": {
+        "a": "The governing body conducts primary source verification for all applicants.",
+        "b": "The governing body grants final approval of clinical privileges based on medical staff recommendations.",
+        "c": "The governing body performs the initial clinical review of all applicants.",
+        "d": "The governing body has no formal role in credentialing — this is entirely a medical staff function."
+      },
+      "correct_option": "b",
+      "explanation": "The governing body grants final approval of clinical privileges based on medical staff recommendations. Under TJC Medical Staff Standards, the governing body (board of directors or trustees) holds ultimate authority and accountability for the quality of care provided in the hospital, which includes the final approval of medical staff appointments and clinical privileges. The medical staff conducts the credentialing process, reviews credentials, and makes recommendations — but the governing body takes the final action. The governing body does not conduct PSV (A) — that is the medical staff office function. The governing body does not perform initial clinical review (C) — that is a credentialing committee function. Option D is incorrect — the governing body has an explicit and mandatory role in approving privileges. Per TJC MS.01.01.01, CMS Conditions of Participation, and CPHQ quality review and accountability domain standards, governing body final approval is the required last step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement coordinator is compiling performance data for a physician's upcoming reappointment. Which of the following data elements is most critical to include?",
+      "options": {
+        "a": "The physician's office address and contact information.",
+        "b": "Outcome data compared to peer benchmarks over the reappointment period.",
+        "c": "A list of all CME courses attended in the past two years.",
+        "d": "Copies of the physician's medical school transcripts."
+      },
+      "correct_option": "b",
+      "explanation": "Outcome data compared to peer benchmarks over the reappointment period. Reappointment decisions must be based on evidence of current clinical competence and performance — not just credentials. Outcome data compared to peer benchmarks over the reappointment period is the primary performance evidence that demonstrates whether the physician is delivering care at or above acceptable standards. Office address and contact information (A) are administrative details irrelevant to performance assessment. CME courses (C) reflect educational participation — they are a credentialing element but do not demonstrate clinical performance. Medical school transcripts (D) are initial credentialing documents relevant at the time of first appointment, not reappointment. Per TJC reappointment standards, CPHQ quality review domain requirements, and evidence-based credentialing principles, outcome data is the critical reappointment evidence.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following describes the concept of \"focused review\" as used in quality review and accountability?",
+      "options": {
+        "a": "A broad survey of quality performance across all hospital departments.",
+        "b": "An in-depth, case-level review of a specific clinical concern or practitioner pattern.",
+        "c": "A review of financial performance data for a specific service line.",
+        "d": "A retrospective audit of all medical records from the previous year."
+      },
+      "correct_option": "b",
+      "explanation": "An in-depth, case-level review of a specific clinical concern or practitioner pattern. Focused review — operationalized as FPPE in the medical staff context — is a targeted, intensive evaluation of a specific clinical concern, a specific practitioner's performance pattern, or a specific type of case. It is triggered by a defined concern and is time-limited, with predefined evaluation criteria and a defined endpoint. It is not a broad department-wide survey (A), a financial review (C), or a general retrospective audit of all records (D). Per TJC FPPE standards, CPHQ quality review and accountability domain standards, and medical staff governance principles, focused review is an in-depth, concern-specific, case-level evaluation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's peer review policy states that all cases involving patient death must be automatically sent for peer review. This type of review is best described as",
+      "options": {
+        "a": "Occurrence-based screening.",
+        "b": "Criteria-based screening.",
+        "c": "Proactive risk assessment.",
+        "d": "Sentinel event review."
+      },
+      "correct_option": "b",
+      "explanation": "Criteria-based screening. Criteria-based screening uses pre-established criteria — defined conditions, procedures, diagnoses, or outcomes — to automatically identify cases for review. Setting a policy that all patient deaths trigger peer review is a criterion — any case meeting that criterion is automatically flagged. Occurrence-based screening (A) identifies cases based on reported incidents or occurrences, which is a broader category. Proactive risk assessment (C) is a prospective tool such as FMEA — not a retrospective case screening method. Sentinel event review (D) is triggered by TJC-defined sentinel events — not all patient deaths automatically qualify as sentinel events. Per CPHQ quality review and accountability domain standards and medical staff quality review methodology, pre-established criteria that automatically trigger case selection define criteria-based screening.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A peer review finding reveals that a physician's documentation consistently fails to support the level of care billed. The quality professional should",
+      "options": {
+        "a": "Report the physician to CMS immediately.",
+        "b": "Refer the finding to the compliance officer and the medical staff peer review process simultaneously.",
+        "c": "Close the finding since documentation issues are not a clinical quality concern.",
+        "d": "Issue a verbal warning to the physician and monitor for 30 days."
+      },
+      "correct_option": "b",
+      "explanation": "Refer the finding to the compliance officer and the medical staff peer review process simultaneously. Documentation that fails to support the level of care billed creates both a compliance risk (potential false claims, upcoding) and a clinical quality concern (documentation may not accurately reflect the clinical record). This dual nature requires a dual-track response: the compliance officer must evaluate the billing and regulatory implications, while the medical staff peer review process must address the documentation quality as a clinical performance concern. Reporting directly to CMS (A) is premature without internal investigation. Closing the finding (C) is inappropriate — inadequate documentation is a clinical quality and compliance issue. A verbal warning (D) is an informal and insufficient response to a pattern of documentation failure. Per CPHQ quality review domain standards, OIG compliance guidance, and medical staff governance principles, compliance and peer review involvement are both required.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a structure measure in Donabedian's quality framework as applied to credentialing?",
+      "options": {
+        "a": "The complication rate for a surgeon's orthopedic procedures.",
+        "b": "Patient satisfaction scores with a physician's communication.",
+        "c": "The hospital's requirement that all surgeons be board certified.",
+        "d": "The time elapsed between a surgery and a postoperative complication."
+      },
+      "correct_option": "c",
+      "explanation": "The hospital's requirement that all surgeons be board certified. Donabedian's SPO (Structure-Process-Outcome) model classifies quality measures into three categories. Structure measures assess the organizational resources, policies, and requirements that enable care delivery — the requirement for board certification is a structural standard that defines the qualifications required to practice. The complication rate (A) is an outcome measure. Patient satisfaction (B) is an outcome measure. Time to postoperative complication (D) is an outcome measure. Per Donabedian's framework, CPHQ quality review and accountability domain standards, and health services research methodology, credentialing requirements are structural quality measures.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional discovers that a practitioner's file contains a peer review finding from three years ago indicating below-standard care, but no corrective action was ever taken. The most appropriate immediate action is to",
+      "options": {
+        "a": "Destroy the finding since it is more than two years old and no longer relevant.",
+        "b": "Bring the unresolved finding to the attention of the medical staff leadership for review and action.",
+        "c": "Report the practitioner to the NPDB retroactively.",
+        "d": "Suspend the practitioner's privileges pending investigation."
+      },
+      "correct_option": "b",
+      "explanation": "Bring the unresolved finding to the attention of the medical staff leadership for review and action. An unresolved peer review finding indicating below-standard care represents a failure of the quality review system — the finding was made but the oversight loop was never closed. The appropriate action is to escalate the unresolved finding to medical staff leadership so that a retrospective review can determine whether corrective action is still warranted and what systemic failure allowed it to go unaddressed. Destroying the finding (A) would violate record retention requirements and potentially obstruct a legitimate quality concern. NPDB reporting (C) is triggered by a final adverse privilege action — a three-year-old unresolved finding does not automatically meet this threshold. Immediate privilege suspension (D) is a summary action reserved for immediate patient safety threats — an unresolved historical finding requires investigation, not summary action. Per TJC Medical Staff Standards, CPHQ quality review domain requirements, and peer review governance principles, medical staff leadership escalation is the correct response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is designing a practitioner performance dashboard for OPPE. Which of the following combinations of metrics best reflects the six ACGME core competency domains?",
+      "options": {
+        "a": "Revenue generated, patient volume, CME credits, meeting attendance, billing accuracy, malpractice claims.",
+        "b": "Patient care outcomes, medical knowledge assessments, systems-based practice indicators, patient communication scores, practice-based learning data, and professionalism observations.",
+        "c": "Procedure volume, length of stay, readmission rates, infection rates, mortality rates, and cost per case.",
+        "d": "Board certification status, licensure history, malpractice history, reference letters, training records, and gap analysis."
+      },
+      "correct_option": "b",
+      "explanation": "Patient care outcomes, medical knowledge assessments, systems-based practice indicators, patient communication scores, practice-based learning data, and professionalism observations. ACGME defines six core competency domains: Patient Care, Medical Knowledge, Systems-Based Practice, Interpersonal and Communication Skills, Practice-Based Learning and Improvement, and Professionalism. Option B aligns one metric with each of these six domains — providing a competency-based OPPE dashboard. Option A includes primarily administrative and financial metrics, not clinical competency measures. Option C includes outcome and utilization metrics that are primarily Patient Care domain — it does not represent all six competencies. Option D describes credentialing verification elements, not performance metrics. Per ACGME core competency framework, TJC OPPE standards, and CPHQ quality review domain requirements, a balanced OPPE dashboard reflects all six competency domains.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The primary legal protection that allows peer reviewers to conduct candid evaluations without fear of personal liability is provided by the",
+      "options": {
+        "a": "HIPAA Privacy Rule.",
+        "b": "Health Care Quality Improvement Act (HCQIA).",
+        "c": "Americans with Disabilities Act (ADA).",
+        "d": "False Claims Act (FCA)."
+      },
+      "correct_option": "b",
+      "explanation": "Health Care Quality Improvement Act (HCQIA). HCQIA provides immunity from damages in civil litigation to peer review participants — including committee members and individual reviewers — when peer review actions are taken in the reasonable belief that they are in furtherance of quality healthcare, based on a reasonable review of facts, with adequate notice and fair hearing procedures, and with a reasonable belief that the action was warranted. This immunity is what enables candid peer review. HIPAA (A) governs patient health information privacy. The ADA (C) protects individuals with disabilities from discrimination. The False Claims Act (D) addresses fraudulent billing to federal programs. Per HCQIA Section 11112, CPHQ quality review and accountability domain standards, and medical staff legal frameworks, HCQIA immunity is the primary legal protection for peer reviewers.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following actions by a medical staff committee would MOST likely undermine the legal protection afforded by peer review privilege statutes?",
+      "options": {
+        "a": "Conducting peer review deliberations in a closed session.",
+        "b": "Sharing peer review findings with the hospital's marketing department.",
+        "c": "Using peer review data to support a reappointment recommendation.",
+        "d": "Documenting peer review findings in a confidential committee record."
+      },
+      "correct_option": "b",
+      "explanation": "Sharing peer review findings with the hospital's marketing department. Peer review privilege protection applies when peer review information remains within the protected peer review process — used by authorized participants for quality improvement and credentialing purposes. Sharing peer review findings with the hospital's marketing department takes the information outside the protected process and into a general administrative context, potentially waiving the privilege and exposing the organization to legal liability. Closed-session deliberations (A) and confidential documentation (D) are appropriate practices that protect the privilege. Using peer review data for reappointment (C) is an authorized use within the protected purpose of the process. Per state peer review privilege statutes, CPHQ quality review domain standards, and medical staff legal principles, unauthorized disclosure outside the protected process is the primary threat to privilege protection.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality review committee is examining a pattern of delays in responding to critical lab values by a specific hospitalist group. The most appropriate quality improvement tool to begin understanding the causes of the delays is a",
+      "options": {
+        "a": "Control chart.",
+        "b": "Run chart.",
+        "c": "Cause-and-effect (Ishikawa) diagram.",
+        "d": "Scatter diagram."
+      },
+      "correct_option": "c",
+      "explanation": "Cause-and-effect (Ishikawa) diagram. When beginning an investigation into the causes of a quality problem — in this case, delays in critical lab value response — the appropriate tool is one that organizes potential causes systematically. The Ishikawa (fishbone) diagram structures cause analysis around major categories (people, process, equipment, environment, methods, materials) to identify all potential contributing factors before data collection and measurement begin. A control chart (A) displays process performance over time — it is useful for monitoring a process but not for initial cause investigation. A run chart (B) shows trends over time — similarly a monitoring tool. A scatter diagram (D) examines the relationship between two variables — appropriate after causes are hypothesized, not at the beginning of cause investigation. Per CPHQ performance improvement tools standards, IHI quality improvement methodology, and quality review practice, the fishbone diagram is the correct initial cause investigation tool.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a hospital's quality review program, which of the following best describes the function of a quality indicator?",
+      "options": {
+        "a": "A tool for tracking the financial performance of individual departments.",
+        "b": "A measurable variable used to monitor and evaluate the quality of important aspects of patient care.",
+        "c": "A narrative description of the organization's quality philosophy.",
+        "d": "A regulatory requirement mandating specific staffing ratios."
+      },
+      "correct_option": "b",
+      "explanation": "A measurable variable used to monitor and evaluate the quality of important aspects of patient care. A quality indicator is a defined, measurable variable — a data element that can be tracked over time to assess whether care meets established standards or is trending toward improvement or decline. Quality indicators are the quantitative tools of a quality monitoring program, providing the evidence base for quality review and accountability decisions. Financial tracking (A) is a performance management function. A narrative quality philosophy (C) is a mission or policy statement. Staffing ratio requirements (D) are regulatory mandates — not quality indicators. Per AHRQ quality indicator definitions, NQF performance measurement standards, and CPHQ quality review and accountability domain standards, a measurable variable for monitoring care quality is the definition of a quality indicator.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital quality committee is reviewing sentinel events from the past year and notices that wrong-site surgeries occurred twice despite an existing Universal Protocol policy. The most appropriate quality review response is to",
+      "options": {
+        "a": "Reissue the Universal Protocol policy memo to all surgical staff.",
+        "b": "Conduct an RCA of each event and redesign the time-out process to prevent recurrence.",
+        "c": "Suspend the operating room privileges of all surgeons involved in both events.",
+        "d": "Report both events to the NPDB immediately."
+      },
+      "correct_option": "b",
+      "explanation": "Conduct an RCA of each event and redesign the time-out process to prevent recurrence. When sentinel events recur despite an existing policy, the quality review response must go beyond policy reissuance. The existence of a policy that is not preventing events indicates a gap in implementation, compliance, culture, or process design — not simply a knowledge deficit. An RCA of each event identifies the specific system and process failures that allowed the policy to fail, and the redesign of the time-out process addresses those gaps structurally. Reissuing a policy memo (A) is a communication action that has already proven insufficient. Suspending all involved surgeons (C) is a punitive individual action that does not address the systemic failure. NPDB reporting (D) is triggered by formal adverse privilege actions, not by sentinel events themselves. Per TJC Sentinel Event Policy, AHRQ patient safety standards, and CPHQ quality review domain requirements, RCA followed by process redesign is the mandated response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A medical staff peer review committee finds that a physician's care was \"appropriate\" in all reviewed cases. Which of the following is the most appropriate committee action?",
+      "options": {
+        "a": "Automatically expand the physician's clinical privileges as a reward.",
+        "b": "Document the finding, close the review, and return the physician to routine OPPE monitoring.",
+        "c": "Immediately report the \"appropriate\" finding to the NPDB.",
+        "d": "Initiate a second round of FPPE to confirm the finding."
+      },
+      "correct_option": "b",
+      "explanation": "Document the finding, close the review, and return the physician to routine OPPE monitoring. When a peer review or FPPE process concludes that a physician's care is appropriate, the proper action is to formally document the finding, close the focused review cycle, and return the practitioner to the standard OPPE monitoring process. This completes the quality review loop appropriately. Automatically expanding privileges (A) is not a standard outcome of a satisfactory review finding — privilege expansion requires a separate deliberate request and review process. NPDB reporting (C) is required only for adverse actions — a finding of \"appropriate\" care is not reportable. A second FPPE (D) is unnecessary when the first review produces a clear, documented finding. Per TJC FPPE/OPPE standards, CPHQ quality review domain standards, and medical staff governance principles, documentation and return to OPPE monitoring is the correct closure action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following quality review activities best supports the accountability function of the governing body?",
+      "options": {
+        "a": "Peer review committee deliberations.",
+        "b": "Departmental quality improvement meeting minutes.",
+        "c": "Aggregate quality performance reports presented to the board.",
+        "d": "Individual practitioner outcome data files."
+      },
+      "correct_option": "c",
+      "explanation": "Aggregate quality performance reports presented to the board. The governing body's accountability function requires that it receive and act upon meaningful information about the organization's quality performance. Aggregate quality performance reports — summarizing quality indicators, improvement initiatives, outcomes, and patient safety data — provide the board-level view needed for governance accountability. Individual peer review deliberations (A) are confidential and not appropriate for governing body review in case-level detail. Departmental meeting minutes (B) are operational documents, too granular for governing body oversight. Individual practitioner outcome files (D) are practitioner-level management data — not appropriate for governing body consumption in individual form. Per TJC Governing Body Standards, CMS Conditions of Participation, and CPHQ quality review and accountability domain standards, aggregate quality reporting to the board is the governing body accountability mechanism.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the relationship between peer review and the OPPE process?",
+      "options": {
+        "a": "Peer review and OPPE are entirely separate processes with no connection.",
+        "b": "Peer review findings contribute data to the OPPE profile and may trigger FPPE.",
+        "c": "OPPE replaces the need for peer review once a practitioner is reappointed.",
+        "d": "Peer review is only conducted when OPPE data shows perfect performance."
+      },
+      "correct_option": "b",
+      "explanation": "Peer review findings contribute data to the OPPE profile and may trigger FPPE. OPPE, FPPE, and peer review are interconnected components of the medical staff quality evaluation system. Peer review findings — whether from case-level reviews, M&M conferences, or occurrence-based reviews — contribute qualitative clinical performance data to the practitioner's OPPE profile. When peer review identifies concerns, those findings may trigger FPPE for more intensive investigation. OPPE and peer review are not separate (A) — they are integrated. OPPE does not replace peer review (C) — case-level review remains essential for evaluating specific clinical decisions. Peer review is not triggered by perfect performance (D) — it is triggered by cases meeting screening criteria or by reported concerns. Per TJC Medical Staff Standards, CPHQ quality review domain standards, and medical staff governance principles, these three processes form an integrated performance evaluation system.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is preparing a report for the medical executive committee on a practitioner who has had three peer review cases rated as \"below standard\" in 12 months. Which of the following should be the primary recommendation?",
+      "options": {
+        "a": "Voluntary resignation from the medical staff should be requested.",
+        "b": "FPPE should be initiated immediately with defined evaluation criteria and a defined end date.",
+        "c": "The practitioner's privileges should be permanently revoked without further review.",
+        "d": "The findings should be kept confidential from the medical executive committee."
+      },
+      "correct_option": "b",
+      "explanation": "FPPE should be initiated immediately with defined evaluation criteria and a defined end date. Three below-standard peer review ratings in 12 months constitutes a pattern of performance concern that crosses the threshold from routine OPPE monitoring to FPPE. The appropriate recommendation is FPPE — a structured, intensive, time-limited review with clearly defined evaluation criteria and a defined endpoint. This provides both the additional clinical oversight needed to protect patients and the due process required to fairly evaluate the practitioner before any privilege action is taken. Requesting voluntary resignation (A) and permanently revoking privileges (C) are extreme actions that require completion of the due process sequence — FPPE findings must first establish the basis for such actions. Keeping findings confidential from the MEC (D) would prevent the governing and accountability structure from fulfilling its oversight function. Per TJC FPPE standards, HCQIA due process provisions, and CPHQ quality review domain standards, FPPE initiation with defined criteria is the correct recommendation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is a required element of a hospital's written peer review policy under TJC standards?",
+      "options": {
+        "a": "A guarantee that all peer review findings will be shared with the public.",
+        "b": "A defined process for identifying cases for review and criteria for evaluation.",
+        "c": "A requirement that peer reviewers must be external to the organization.",
+        "d": "A mandate that all physicians must be reviewed at least once per month."
+      },
+      "correct_option": "b",
+      "explanation": "A defined process for identifying cases for review and criteria for evaluation. TJC Medical Staff Standards require that organizations have a defined, written process for peer review that includes: how cases are identified for review (screening criteria), who conducts the review (qualified peers), what criteria are used to evaluate care, and how findings are acted upon and tracked. Public disclosure of findings (A) contradicts peer review confidentiality protection requirements. External-only reviewers (C) are not mandated by TJC — internal peer review with appropriate safeguards is the standard. Monthly review of all physicians (D) is operationally infeasible and not a TJC requirement — review is triggered by criteria or volume thresholds, not universal monthly cycles. Per TJC MS.08.01.01, CPHQ quality review and accountability domain standards, and peer review governance principles, a defined case identification and evaluation process is the core required policy element.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is asked to evaluate whether the hospital's peer review program is effective. Which of the following metrics would provide the strongest evidence of program effectiveness?",
+      "options": {
+        "a": "The number of peer review meetings held per year.",
+        "b": "The percentage of peer review findings that resulted in documented corrective action and measurable improvement.",
+        "c": "The total number of cases reviewed in the past 12 months.",
+        "d": "The number of peer reviewers trained in the past year."
+      },
+      "correct_option": "b",
+      "explanation": "The percentage of peer review findings that resulted in documented corrective action and measurable improvement. Program effectiveness is measured by outcomes — specifically, whether the peer review process actually produces improvement. Tracking the percentage of findings that resulted in corrective action and measurable improvement demonstrates that the program is closing the quality loop, not merely identifying problems. Number of meetings (A) and number of cases reviewed (C) are process measures — they indicate activity, not effectiveness. Number of trained reviewers (D) is a capacity measure — it assesses readiness, not outcomes. Per CPHQ quality review and accountability domain standards, IHI improvement measurement principles, and Donabedian's outcome framework, improvement resulting from review activity is the definitive effectiveness measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A physician challenges a peer review finding as biased because the reviewing physician is a direct competitor in the same specialty. Which of the following is the most appropriate response?",
+      "options": {
+        "a": "Dismiss the challenge immediately since all peer reviewers are assumed impartial.",
+        "b": "Investigate the conflict of interest claim and, if validated, assign an alternative reviewer.",
+        "c": "Cancel the peer review process and close the case without a finding.",
+        "d": "Require the original reviewer to sign an affidavit of impartiality and proceed."
+      },
+      "correct_option": "b",
+      "explanation": "Investigate the conflict of interest claim and, if validated, assign an alternative reviewer. Conflict of interest is a legitimate concern in peer review that can undermine the credibility and legal defensibility of the process. If a physician reviewer has a direct economic or personal conflict with the practitioner being reviewed, that conflict must be investigated and, if validated, the reviewer must be recused and replaced with a neutral, qualified alternative. Dismissing the challenge without investigation (A) exposes the organization to legal challenge. Canceling the process (C) abandons a legitimate quality concern. Requiring an affidavit (D) does not resolve an actual conflict — it merely documents that the conflicted reviewer claims impartiality. Per HCQIA conflict of interest standards, TJC peer review governance requirements, and CPHQ quality review domain standards, validated conflicts require reviewer reassignment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During a quality review of obstetric outcomes, a pattern emerges showing that adverse neonatal outcomes are higher on night shifts than day shifts. The quality professional should first",
+      "options": {
+        "a": "Discipline all night-shift nurses for poor performance.",
+        "b": "Analyze the data further to determine whether the difference is statistically significant and identify contributing factors.",
+        "c": "Immediately close the obstetric unit during night hours.",
+        "d": "Report all night-shift nurses to the state nursing board."
+      },
+      "correct_option": "b",
+      "explanation": "Analyze the data further to determine whether the difference is statistically significant and identify contributing factors. A preliminary data pattern suggesting shift-related outcome differences requires further analytical investigation before any action is taken. The first question is whether the difference is statistically significant or within expected variation. If significant, a systematic investigation of contributing factors — staffing ratios, supervision levels, protocol adherence, patient acuity differences by shift — must follow. Disciplining night-shift nurses (A) is a punitive individual response to what is likely a systemic issue — and is entirely premature before investigation. Closing the unit (C) is a disproportionate action based on preliminary, unverified data. Reporting to the state board (D) requires a defined finding of individual professional misconduct — a data pattern is not sufficient basis. Per CPHQ quality review domain standards, AHRQ patient safety research, and systems thinking principles, further analysis is always the correct first response to a preliminary data signal.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the most appropriate use of a sentinel event finding in the OPPE/FPPE framework?",
+      "options": {
+        "a": "Sentinel event findings automatically result in privilege revocation for all involved practitioners.",
+        "b": "Sentinel event findings are reviewed through RCA, and if individual practitioner performance concerns emerge, they are addressed through peer review and FPPE as appropriate.",
+        "c": "Sentinel event findings are kept entirely separate from the OPPE/FPPE process.",
+        "d": "Sentinel event findings are reported directly to the NPDB without peer review."
+      },
+      "correct_option": "b",
+      "explanation": "Sentinel event findings are reviewed through RCA, and if individual practitioner performance concerns emerge, they are addressed through peer review and FPPE as appropriate. Sentinel events trigger RCA — a systems-focused investigation. If the RCA reveals that individual practitioner performance contributed to the event, those findings are channeled into the peer review and FPPE processes as appropriate. The two processes — RCA and peer review/FPPE — are complementary: RCA examines system causes; peer review examines individual performance. Automatic privilege revocation (A) is inappropriate without due process. Keeping sentinel event findings entirely separate from OPPE/FPPE (C) ignores the clinical performance data generated by the event. NPDB reporting (D) is triggered by formal adverse privilege actions, not by sentinel event findings themselves. Per TJC Sentinel Event Policy, CPHQ quality review and accountability domain standards, and medical staff governance principles, the integration of RCA findings into peer review and FPPE — where individual concerns emerge — is the correct framework.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A credentialing committee member who is also a direct competitor of the physician applicant participates in the vote to deny privileges. This is an example of",
+      "options": {
+        "a": "Standard peer review practice.",
+        "b": "A conflict of interest that could invalidate the credentialing decision.",
+        "c": "An appropriate use of specialty expertise in credentialing.",
+        "d": "A TJC-required process for credentialing decisions."
+      },
+      "correct_option": "b",
+      "explanation": "A conflict of interest that could invalidate the credentialing decision. A credentialing committee member who has a direct economic or personal conflict of interest with a physician applicant must recuse themselves from the deliberation and vote. Participation by a conflicted member introduces bias that can render the credentialing decision legally indefensible and potentially actionable under HCQIA. If a privilege denial is later challenged and it is discovered that a conflicted competitor participated in the adverse decision, courts may find that the process did not meet the HCQIA good faith and procedural fairness standards, stripping the organization of HCQIA immunity. Per HCQIA, TJC Medical Staff Standards, and CPHQ quality review and accountability domain standards, conflict of interest participation is a serious process defect.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital quality professional is auditing the peer review program and finds that only cases with bad outcomes are being selected for review. Which of the following problems does this represent?",
+      "options": {
+        "a": "Adequate sample selection — only bad outcomes need review.",
+        "b": "Selection bias — the program is missing opportunities to identify practice patterns in cases with acceptable outcomes.",
+        "c": "Efficiency — focusing on bad outcomes saves time and resources.",
+        "d": "Regulatory compliance — CMS requires review of only adverse outcomes."
+      },
+      "correct_option": "b",
+      "explanation": "Selection bias — the program is missing opportunities to identify practice patterns in cases with acceptable outcomes. Reviewing only cases with bad outcomes introduces selection bias and misses critical quality intelligence. A robust peer review program uses criteria-based screening that captures cases across a defined spectrum — including adverse outcomes, but also cases meeting other criteria (e.g., unexpected returns to OR, ICU transfers, specific diagnoses, or random sampling). Random sampling and criteria-based selection allow the program to identify suboptimal practice patterns that may not yet have produced bad outcomes — providing earlier intervention opportunities. Reviewing only bad outcomes (A and C) is a reactionary rather than proactive quality review approach. CMS does not require review of adverse outcomes only (D) — CoPs require an organization-wide, comprehensive QAPI program. Per CPHQ quality review domain standards, AHRQ peer review best practices, and medical staff quality review principles, comprehensive criteria-based case selection is required for an effective program.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the purpose of a Proctoring arrangement in clinical privileging?",
+      "options": {
+        "a": "To discipline a practitioner for a prior adverse event.",
+        "b": "To provide direct observation and evaluation of a practitioner's clinical competence for newly requested privileges.",
+        "c": "To replace the credentialing process for practitioners with extensive experience.",
+        "d": "To conduct an administrative audit of a practitioner's billing practices."
+      },
+      "correct_option": "b",
+      "explanation": "To provide direct observation and evaluation of a practitioner's clinical competence for newly requested privileges. Proctoring is a structured FPPE mechanism in which a qualified, credentialed practitioner directly observes and evaluates another practitioner performing specific clinical procedures or care activities for which privileges have been newly granted. It provides real-time, direct evidence of competence in the specific organizational environment — evidence that credentials and training records alone cannot provide. Proctoring is not punitive (A) — it is a standard evaluation tool for new privileges. It does not replace credentialing (C) — it supplements it. It is not a billing audit (D). Per TJC FPPE standards, CPHQ quality review and accountability domain standards, and medical staff privileging principles, proctoring is the standard direct observation mechanism for new privilege competence evaluation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital has implemented a new policy requiring all peer reviewers to complete conflict of interest disclosure forms before participating in any review. The primary purpose of this policy is to",
+      "options": {
+        "a": "Reduce the time required to complete peer reviews.",
+        "b": "Protect the legal defensibility and integrity of the peer review process.",
+        "c": "Ensure all reviewers receive adequate compensation.",
+        "d": "Comply with HIPAA requirements for peer review confidentiality."
+      },
+      "correct_option": "b",
+      "explanation": "Protect the legal defensibility and integrity of the peer review process. Conflict of interest disclosure policies exist to identify and manage potential biases before they compromise the peer review process. When reviewers disclose conflicts and are appropriately recused, the resulting review is more credible, more fair, and more legally defensible — particularly if the review results in an adverse privilege action that may be challenged. Reducing review time (A) is not a purpose of conflict disclosure. Reviewer compensation (C) is an administrative matter unrelated to conflict disclosure. HIPAA (D) governs patient privacy — it is not the regulatory basis for conflict of interest management in peer review. Per HCQIA, TJC peer review governance standards, and CPHQ quality review domain standards, conflict management protects process integrity and legal defensibility.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following statements is correct regarding the reporting of adverse privilege actions to the National Practitioner Data Bank?",
+      "options": {
+        "a": "All peer review findings must be reported to the NPDB regardless of outcome.",
+        "b": "Hospitals must report adverse privilege actions that result in restriction, suspension, or revocation for more than 30 days.",
+        "c": "NPDB reporting is voluntary and at the discretion of the medical staff committee.",
+        "d": "Only malpractice payments must be reported to the NPDB — privilege actions are exempt."
+      },
+      "correct_option": "b",
+      "explanation": "Hospitals must report adverse privilege actions that result in restriction, suspension, or revocation for more than 30 days. Under HCQIA and NPDB regulations, hospitals are required to report to the NPDB any professional review action that adversely affects a practitioner's clinical privileges for a period longer than 30 days — including restriction, suspension, reduction, or revocation. Peer review findings that do not result in a formal adverse privilege action are not reportable (A). NPDB reporting for qualifying adverse actions is mandatory, not voluntary (C). Privilege actions are explicitly reportable — the NPDB covers both malpractice payments and adverse privilege actions (D). Per HCQIA Section 11133, NPDB reporting regulations, and CPHQ quality review and accountability domain standards, the 30-day threshold for adverse privilege actions is the reporting trigger.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality review committee is designing a new case screening tool. Which of the following criteria is most appropriate to include as an automatic trigger for peer review?",
+      "options": {
+        "a": "All cases where the patient expressed dissatisfaction with the hospital food.",
+        "b": "All cases involving an unplanned return to the operating room within 72 hours.",
+        "c": "All cases where the patient was discharged within 24 hours of admission.",
+        "d": "All cases where the patient requested a specific physician."
+      },
+      "correct_option": "b",
+      "explanation": "All cases involving an unplanned return to the operating room within 72 hours. An unplanned return to the operating room within 72 hours of surgery is a recognized quality indicator signaling a potential complication, technical failure, or clinical management issue requiring review. It is a standard criteria-based screening trigger used in surgical quality programs. Patient dissatisfaction with food (A) is a hospitality complaint, not a clinical quality trigger. Discharge within 24 hours (C) may be appropriate for the diagnosis and is not inherently a quality concern triggering peer review. A patient's request for a specific physician (D) is a patient preference, not a quality trigger. Per AHRQ surgical quality indicators, TJC peer review standards, and CPHQ quality review and accountability domain standards, unplanned return to the OR is a validated, evidence-based peer review trigger.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following describes the concept of \"just culture\" as it applies to quality review?",
+      "options": {
+        "a": "A system that holds all individuals equally accountable for every adverse event regardless of circumstances.",
+        "b": "A system that distinguishes between human error, at-risk behavior, and reckless behavior in determining appropriate responses.",
+        "c": "A system that eliminates individual accountability entirely in favor of system-level blame.",
+        "d": "A system that requires immediate termination for any practitioner involved in an adverse event."
+      },
+      "correct_option": "b",
+      "explanation": "A system that distinguishes between human error, at-risk behavior, and reckless behavior in determining appropriate responses. Just Culture is a framework developed for patient safety and quality review that recognizes different categories of behavior warrant different organizational responses. Human error (unintentional mistakes) warrants system redesign — not punishment. At-risk behavior (drift from safe practice without awareness of risk) warrants coaching and process improvement. Reckless behavior (conscious disregard for known risk) warrants individual accountability measures. Just Culture does not eliminate individual accountability (C) — it calibrates it appropriately. It does not treat all individuals equally regardless of circumstances (A). It does not mandate termination for adverse event involvement (D). Per AHRQ Just Culture principles, IHI patient safety frameworks, and CPHQ quality review and accountability domain standards, behavioral categorization with proportionate response is the defining feature of Just Culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's quality committee is reviewing its utilization of the NPDB. Under federal law, which of the following represents a mandatory query of the NPDB?",
+      "options": {
+        "a": "When a practitioner applies for medical staff membership and at least every two years at reappointment.",
+        "b": "When a practitioner submits a complaint against a colleague.",
+        "c": "When a patient files a complaint with the hospital quality department.",
+        "d": "When a practitioner requests a change in their work schedule."
+      },
+      "correct_option": "a",
+      "explanation": "When a practitioner applies for medical staff membership and at least every two years at reappointment. Under HCQIA and NPDB regulations, hospitals are mandated to query the NPDB when a practitioner applies for medical staff membership (initial credentialing) and at least every two years at the time of reappointment. This mandatory query ensures that any adverse actions reported to the NPDB since the last query — malpractice payments, adverse privilege actions at other facilities — are known to the credentialing organization before reappointment decisions are made. Colleague complaints (B), patient complaints (C), and schedule changes (D) do not trigger mandatory NPDB queries. Per HCQIA Section 11135, NPDB regulations, and CPHQ quality review and accountability domain standards, initial credentialing and biennial reappointment are the mandatory query events.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes delineation of clinical privileges?",
+      "options": {
+        "a": "The process of verifying a practitioner's educational and training credentials.",
+        "b": "The specific list of clinical procedures and activities a practitioner is authorized to perform at a given institution.",
+        "c": "The performance data used to evaluate a practitioner's ongoing competence.",
+        "d": "The committee responsible for making credentialing recommendations."
+      },
+      "correct_option": "b",
+      "explanation": "The specific list of clinical procedures and activities a practitioner is authorized to perform at a given institution. Privilege delineation is the documentation that specifies, in granular detail, exactly which clinical procedures, treatments, and care activities a practitioner is authorized to perform at that specific institution. It is institution-specific — a surgeon credentialed to perform a procedure at one hospital must be separately privileged at each institution where they practice. Credential verification (A) is the credentialing function, not privilege delineation. Performance data (C) informs privilege decisions but is not the delineation itself. The credentialing committee (D) is a governance body. Per TJC Medical Staff Standards, CPHQ quality review and accountability domain standards, and medical staff governance principles, the authorized procedure/activity list is the definition of privilege delineation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is reviewing the effectiveness of the hospital's FPPE program. Which of the following indicators would suggest that the FPPE program is functioning as intended?",
+      "options": {
+        "a": "The number of FPPE cases initiated has decreased every year for five years.",
+        "b": "All FPPE cases are resolved within the defined evaluation period with documented findings and follow-up actions.",
+        "c": "No practitioners have ever been placed on FPPE in the past three years.",
+        "d": "All FPPE findings are shared publicly on the hospital website."
+      },
+      "correct_option": "b",
+      "explanation": "All FPPE cases are resolved within the defined evaluation period with documented findings and follow-up actions. An effective FPPE program is characterized by timely resolution of evaluations within the defined period, thorough documentation of findings, and clear follow-up actions — whether that is return to OPPE, continued FPPE, privilege modification, or referral for further review. A decreasing number of FPPE cases (A) may reflect fewer concerns but could also reflect under-utilization of the program — by itself it is not a positive effectiveness indicator. No FPPE cases in three years (C) likely indicates the program is not being used appropriately — in any active medical staff, FPPE should be triggered regularly. Public disclosure of FPPE findings (D) violates peer review confidentiality protections. Per TJC FPPE standards, CPHQ quality review domain requirements, and medical staff governance principles, timely resolution with documented findings and follow-up is the hallmark of effective FPPE program function.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,66 +1,64 @@
 {
-  "domain_order": 6,
-  "chapter_order": 1,
-  "topic": "Regulatory and Accreditation",
+  "topic": "Quality Review & Accountability",
   "questions": [
     {
-      "text": "The Joint Commission's accreditation standards are PRIMARILY designed to:",
+      "text": "A healthcare organization is participating in a Medicare Shared Savings Program (MSSP) contract at the BASIC Track. The organization performs well on quality measures but exceeds the benchmark cost target for the year. What is the financial consequence?",
       "options": {
-        "a": "Maximize hospital revenue through quality bonuses",
-        "b": "Evaluate and improve the safety and quality of care provided to patients",
-        "c": "Regulate physician licensing in all 50 states",
-        "d": "Replace state health department inspections entirely"
+        "a": "The organization receives a partial shared savings payment proportional to quality scores",
+        "b": "The organization must repay a portion of excess costs to CMS",
+        "c": "The organization receives no shared savings but faces no financial penalty",
+        "d": "The organization is automatically moved to the ENHANCED Track with downside risk"
       },
-      "correct_option": "b",
-      "explanation": "The Joint Commission's accreditation program evaluates healthcare organizations against nationally recognized safety and quality standards, with the primary goal of improving patient care outcomes.",
-      "difficulty": "easy"
-    },
-    {
-      "text": "A 'Condition of Participation' (CoP) in the context of CMS refers to:",
-      "options": {
-        "a": "A requirement for patients to participate in quality improvement studies",
-        "b": "The minimum health and safety standards a healthcare organization must meet to receive Medicare and Medicaid reimbursement",
-        "c": "A voluntary quality standard set by professional associations",
-        "d": "A requirement for staff to participate in continuing education"
-      },
-      "correct_option": "b",
-      "explanation": "CMS Conditions of Participation (CoPs) are the minimum health and safety standards that hospitals and other healthcare providers must meet to participate in and receive payment from Medicare and Medicaid programs.",
+      "correct_option": "c",
+      "explanation": "The organization receives no shared savings but faces no financial penalty The MSSP BASIC Track is an upside-only model. Organizations share in savings if costs come in below benchmark but face no penalty if they exceed the benchmark. This is the defining feature of upside-only risk — reward without downside exposure.",
       "difficulty": "medium"
     },
     {
-      "text": "During an unannounced Joint Commission survey, a surveyor finds that a fire extinguisher in a patient care area is out of date. This would MOST likely be classified as:",
+      "text": "Social determinants of health (SDOH) are estimated to drive approximately what percentage of health outcomes?",
       "options": {
-        "a": "An Immediate Threat to Life (ITL) requiring emergency shutdown",
-        "b": "A Requirement for Improvement (RFI) in the Life Safety chapter",
-        "c": "A minor finding with no required corrective action",
-        "d": "A violation reported to the state medical board"
+        "a": "20%",
+        "b": "40%",
+        "c": "60%",
+        "d": "80%"
       },
-      "correct_option": "b",
-      "explanation": "Outdated fire extinguishers are a Life Safety standard finding. Unless posing an Immediate Threat to Life (such as the entire suppression system being disabled), it typically results in a Requirement for Improvement requiring a corrective action plan.",
-      "difficulty": "hard"
-    },
-    {
-      "text": "Which organization is responsible for setting and enforcing HIPAA privacy and security rules?",
-      "options": {
-        "a": "The Joint Commission (TJC)",
-        "b": "The Office for Civil Rights (OCR) within HHS",
-        "c": "The American Hospital Association (AHA)",
-        "d": "State Departments of Health"
-      },
-      "correct_option": "b",
-      "explanation": "The Office for Civil Rights (OCR) within the U.S. Department of Health and Human Services (HHS) is responsible for enforcing the HIPAA Privacy and Security Rules.",
+      "correct_option": "d",
+      "explanation": "80% SDOH drive approximately 80% of health outcomes — far exceeding the contribution of clinical care. This figure is a high-yield exam fact. The key insight is that patients cannot be effectively treated to target if upstream determinants (housing, food, transport, income) are ignored.",
       "difficulty": "medium"
     },
     {
-      "text": "A 'Tracer Methodology' used during accreditation surveys involves:",
+      "text": "Which of the following correctly describes the key difference between upside-only and two-sided risk models in Alternative Payment Models?",
       "options": {
-        "a": "Reviewing only paper-based medical records for documentation compliance",
-        "b": "Following a patient's care experience through the organization to evaluate compliance with standards",
-        "c": "Tracing the financial transactions of the organization",
-        "d": "Conducting staff interviews without direct patient observation"
+        "a": "Upside-only models include quality bonuses; two-sided models do not",
+        "b": "Two-sided models require higher data and care coordination capacity than upside-only models",
+        "c": "Upside-only models apply only to physician groups; two-sided models apply only to hospitals",
+        "d": "Two-sided models eliminate the need for quality measurement entirely"
       },
       "correct_option": "b",
-      "explanation": "Tracer methodology follows the care experience of individual patients — or system processes — through an organization to assess how standards are applied in actual practice, from admission through discharge.",
+      "explanation": "Two-sided models require higher data and care coordination capacity than upside-only models Risk progression demands stronger data, analytics, and care coordination at each step. Two-sided risk requires organizations to have mature data infrastructure and care management systems to manage the financial exposure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The HCP-LAN framework categorizes payment models on a spectrum. Which category represents the most advanced tier of value-based payment?",
+      "options": {
+        "a": "Category 1: Pure Fee-for-Service",
+        "b": "Category 2: FFS with Quality Links",
+        "c": "Category 3: Alternative Payment Models",
+        "d": "Category 4: Population-Based Payment"
+      },
+      "correct_option": "d",
+      "explanation": "Category 4: Population-Based Payment HCP-LAN Category 4 (population-based payment, e.g., global capitation) is the most advanced APM tier. It represents the complete shift away from volume-based payment toward full population accountability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The Maryland Total Cost of Care Model differs from most Medicare payment models because:",
+      "options": {
+        "a": "It applies only to physician practices, not hospitals",
+        "b": "It uses a tiered payment system based on quality scores",
+        "c": "All payers — not just Medicare — participate under global hospital budgets",
+        "d": "It penalizes hospitals only when readmission rates exceed national averages"
+      },
+      "correct_option": "c",
+      "explanation": "All payers — not just Medicare — participate under global hospital budgets The Maryland model is an All-Payer Model in which all payers participate in a global hospital budget structure. Hospitals receive a fixed annual budget regardless of volume, reversing the traditional incentive to maximize admissions.",
       "difficulty": "medium"
     }
   ]

@@ -1,0 +1,65 @@
+{
+  "topic": "Patient Safety",
+  "questions": [
+    {
+      "text": "A pharmacy team is preparing to implement a new chemotherapy ordering system. Before going live, they conduct a structured analysis of every step in the ordering process to identify where and how the process could fail, calculate risk scores, and implement changes before any patient harm occurs. Which tool is being used?",
+      "options": {
+        "a": "Root Cause Analysis (RCA)",
+        "b": "Fishbone Diagram",
+        "c": "Failure Mode and Effects Analysis (FMEA)",
+        "d": "Global Trigger Tool (GTT)"
+      },
+      "correct_option": "c",
+      "explanation": "FMEA is the proactive tool used BEFORE harm occurs to analyze potential failure modes, calculate Risk Priority Numbers (RPN = Severity × Occurrence × Detectability), and implement preventive actions. It is specifically applied to new or redesigned processes before implementation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During an FMEA, a team rates a failure mode with Severity = 9, Occurrence = 3, and Detectability = 8. A second failure mode scores Severity = 6, Occurrence = 9, and Detectability = 5. Which failure mode should be addressed first and why?",
+      "options": {
+        "a": "Failure Mode 1 — because severity is the most important factor",
+        "b": "Failure Mode 2 — because occurrence is the most important factor",
+        "c": "Failure Mode 1 — because its RPN of 216 is higher than Failure Mode 2's RPN of 270",
+        "d": "Failure Mode 2 — because its RPN of 270 is higher than Failure Mode 1's RPN of 216"
+      },
+      "correct_option": "d",
+      "explanation": "RPN = Severity × Occurrence × Detectability. Failure Mode 1: 9 × 3 × 8 = 216. Failure Mode 2: 6 × 9 × 5 = 270. Higher RPN indicates greater urgency. Failure Mode 2's higher frequency and moderate detectability result in a higher overall priority score.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A root cause analysis of a wrong-site surgery reveals that the surgical team was pressured to proceed quickly, the site-marking step was skipped, and the time-out was not completed. The RCA action plan includes mandatory completion of the Universal Protocol with no exceptions. Which component of the Universal Protocol was most directly violated?",
+      "options": {
+        "a": "Pre-procedure verification only",
+        "b": "Site marking only",
+        "c": "The surgical time-out only",
+        "d": "Both site marking and the surgical time-out"
+      },
+      "correct_option": "d",
+      "explanation": "The Universal Protocol has three components: pre-procedure verification, site marking by the practitioner, and immediate time-out before incision. The scenario describes the skipping of both site marking and the time-out — two of the three components were violated.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital notes that its CLABSI rates remain elevated despite staff education campaigns. A quality improvement team recommends switching from reminder posters to a mandatory bundle protocol with hard-stop verification before central line insertion. This intervention is most accurately described as:",
+      "options": {
+        "a": "Moving from a forcing function to a standardization approach",
+        "b": "Moving from an education-based to a process-based intervention hierarchy",
+        "c": "Moving from a voluntary to a mandatory incident reporting system",
+        "d": "Moving from Pillar 1 to Pillar 3 of the patient safety framework"
+      },
+      "correct_option": "b",
+      "explanation": "Education and reminders are among the weakest interventions in the harm reduction hierarchy. Mandatory bundle protocols with hard-stop verification represent a stronger process-based intervention. System redesign, not training alone, drives sustainable safety improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A surgical patient is deteriorating rapidly. A bedside nurse recognizes the warning signs and activates the Rapid Response Team before the patient reaches cardiac arrest. Which patient safety concept does this action most directly address?",
+      "options": {
+        "a": "Failure to Rescue prevention through early escalation",
+        "b": "Just Culture application of deference to expertise",
+        "c": "Risk Avoidance through removal of a high-risk process",
+        "d": "FMEA Step 5 — determine action for each failure mode"
+      },
+      "correct_option": "a",
+      "explanation": "Failure to Rescue (FTR) is the inability to recognize and respond to patient deterioration in time. Rapid Response Teams are designed specifically to intervene before cardiac arrest or critical deterioration — directly preventing Failure to Rescue through proactive escalation.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "Patient Safety",
+  "questions": [
+    {
+      "text": "A nurse administers a medication to the wrong patient because two patient identification wristbands were stored in the same medication bin — a system design flaw that was previously identified but not corrected. Under a Just Culture framework, the most appropriate organizational response is to:",
+      "options": {
+        "a": "Issue a formal disciplinary warning to the nurse for failing to verify patient identity",
+        "b": "Console the nurse, redesign the bin system, and investigate the latent system failure",
+        "c": "Conduct a peer review to determine if the nurse's clinical judgment was appropriate",
+        "d": "Transfer the nurse to a non-clinical role pending investigation"
+      },
+      "correct_option": "b",
+      "explanation": "The nurse's error occurred due to a system design flaw (Human Error category in Just Culture). The appropriate response is to console/support the staff member and redesign the system — not punish. The bin design was already a known risk, making system redesign the primary corrective action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director is building a safety program and asks what single action most determines whether a safety culture is genuine or performative. Which of the following best answers this question?",
+      "options": {
+        "a": "Whether the organization has a dedicated safety committee",
+        "b": "Whether leadership visibly models safe behaviors and allocates resources to safety",
+        "c": "Whether incident report rates exceed the national average",
+        "d": "Whether the safety officer holds a CPHQ credential"
+      },
+      "correct_option": "b",
+      "explanation": "The three pillars of safety culture are Vision, Assessment, and Leadership. Leadership must own patient safety by modeling safe behaviors and providing staff, time, and resources. Without visible leadership commitment, safety vision and assessment data remain theoretical.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A surgeon who was involved in a patient death is experiencing severe anxiety, self-doubt, and fear of returning to the operating room. This response is best described as:",
+      "options": {
+        "a": "At-risk behavior requiring coaching intervention",
+        "b": "Vicarious trauma requiring peer support and Just Culture response",
+        "c": "The second victim phenomenon requiring structured peer support and debriefing",
+        "d": "Burnout requiring administrative leave"
+      },
+      "correct_option": "c",
+      "explanation": "Healthcare workers involved in adverse events can become \"second victims\" — experiencing trauma, reduced confidence, burnout, and fear of future reporting. The appropriate response includes peer support programs, structured debriefing, and Just Culture principles, not administrative or disciplinary action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A risk manager is reviewing a situation in which a contracted emergency physician, wearing the hospital's badge and using the hospital's documentation systems, made a negligent clinical decision that harmed a patient. The family's attorney argues the hospital is liable despite the physician's contracted status. Which legal concept supports the attorney's argument?",
+      "options": {
+        "a": "Res Ipsa Loquitur",
+        "b": "Corporate Liability",
+        "c": "Ostensible Agency",
+        "d": "Workers Compensation"
+      },
+      "correct_option": "c",
+      "explanation": "Ostensible Agency holds that liability extends to contracted clinicians who appear to represent the organization — for example, contracted ER physicians wearing hospital badges and using hospital systems. The patient reasonably believed the physician was a hospital employee.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's risk management team identifies a high-severity, high-likelihood risk associated with the use of a particular infusion pump model. The risk manager recommends removing all units from service immediately. Which risk management technique is being applied?",
+      "options": {
+        "a": "Risk Retention",
+        "b": "Risk Transfer",
+        "c": "Risk Reduction",
+        "d": "Risk Avoidance"
+      },
+      "correct_option": "d",
+      "explanation": "Risk Avoidance means stopping the activity that creates the risk entirely — the most protective option, used when risk cannot be adequately controlled through other means. Removing all infusion pump units from service eliminates the risk exposure completely.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "Regulatory and Accreditation",
+  "questions": [
+    {
+      "text": "A hospital achieves TJC accreditation. Which of the following is the most accurate description of the impact on CMS survey requirements?",
+      "options": {
+        "a": "The hospital must still complete annual CMS surveys",
+        "b": "The hospital is exempt from all government oversight permanently",
+        "c": "The hospital receives deemed status and does not undergo routine CMS surveys",
+        "d": "The hospital must apply separately to CMS for deemed status recognition"
+      },
+      "correct_option": "c",
+      "explanation": "When a hospital achieves TJC accreditation, it is deemed compliant with CMS Conditions of Participation because TJC holds CMS deeming authority. Routine CMS surveys are replaced by TJC surveys. However, CMS retains the right to conduct validation surveys at any time.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A primary care practice achieves NCQA Patient-Centered Medical Home Recognition. Which category best describes this achievement?",
+      "options": {
+        "a": "Accreditation",
+        "b": "Certification",
+        "c": "Recognition",
+        "d": "Licensure"
+      },
+      "correct_option": "c",
+      "explanation": "NCQA PCMH Recognition is specifically classified as recognition — an excellence acknowledgment for adherence to evidence-based practices at a specific program level. It is less formal than accreditation and does not typically result in deemed status.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following statements about accreditation is most accurate?",
+      "options": {
+        "a": "Accreditation is mandatory by federal law for all healthcare organizations",
+        "b": "Accreditation is voluntary but functionally required for Medicare/Medicaid participation",
+        "c": "Accreditation replaces all state licensing requirements",
+        "d": "Accreditation certifies individual staff competence"
+      },
+      "correct_option": "b",
+      "explanation": "While accreditation is technically voluntary, most hospitals cannot financially survive without Medicare/Medicaid reimbursement, making accreditation functionally mandatory. This voluntary-but-required distinction is a frequently tested CPHQ concept.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional holds the CPHQ credential. This credential is best classified as which type of quality recognition mechanism?",
+      "options": {
+        "a": "Accreditation of their employing organization",
+        "b": "Recognition of their hospital's quality program",
+        "c": "Individual certification of competence",
+        "d": "Licensure granted by a state health department"
+      },
+      "correct_option": "c",
+      "explanation": "The CPHQ is a personal certification — it validates the individual's knowledge, skills, and competence in healthcare quality. It is distinct from accreditation (organizational-level evaluation) and recognition (excellence acknowledgment for specific practices).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An accrediting body loses its CMS deeming authority. Which of the following is the most immediate consequence for hospitals accredited by that body?",
+      "options": {
+        "a": "Their accreditation is automatically revoked",
+        "b": "They must immediately seek accreditation from a different body",
+        "c": "They must undergo CMS surveys directly until deemed status is restored or a new accreditor is selected",
+        "d": "CMS continues to recognize their accreditation for 5 years"
+      },
+      "correct_option": "c",
+      "explanation": "Deeming authority is specific to the accrediting body. If deeming authority is revoked, the accreditor can no longer survey on CMS's behalf. Hospitals accredited by that body must then participate in direct CMS state surveys to demonstrate compliance with Conditions of Participation until the situation is resolved.",
+      "difficulty": "medium"
+    }
+  ]
+}

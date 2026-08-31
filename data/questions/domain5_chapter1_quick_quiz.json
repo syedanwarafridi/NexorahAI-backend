@@ -1,65 +1,65 @@
 {
-  "topic": "Quality Review & Accountability",
+  "topic": "Patient Safety",
   "questions": [
     {
-      "text": "Which of the following best describes the purpose of a quality indicator?",
+      "text": "A nurse realizes mid-procedure that she almost administered a medication to the wrong patient but caught the error before it reached the patient. When reporting this near miss, the unit manager reviews it with the same structured analysis used for adverse events. Which HRO principle does this behavior reflect?",
       "options": {
-        "a": "To measure staff performance for annual appraisals",
-        "b": "To track and evaluate the quality of care delivered against defined standards",
-        "c": "To report incidents to external regulatory agencies",
-        "d": "To benchmark physician salaries against national averages"
-      },
-      "correct_option": "b",
-      "explanation": "Quality indicators are measurable elements used to monitor and evaluate the quality of patient care and organizational performance against established standards.",
-      "difficulty": "easy"
-    },
-    {
-      "text": "Peer review in a healthcare quality context primarily serves to:",
-      "options": {
-        "a": "Determine malpractice liability for physicians",
-        "b": "Evaluate clinical performance and identify opportunities for improvement",
-        "c": "Replace the role of the quality department in monitoring outcomes",
-        "d": "Satisfy accreditation requirements only"
-      },
-      "correct_option": "b",
-      "explanation": "Peer review is a formal process where clinicians evaluate each other's practice to identify deviations from accepted standards and opportunities for quality improvement.",
-      "difficulty": "medium"
-    },
-    {
-      "text": "A hospital's quality council is reviewing a department that consistently exceeds its infection rate benchmark. The FIRST step in the quality review process should be:",
-      "options": {
-        "a": "Immediately discipline the department manager",
-        "b": "Collect and analyze data to understand the root cause of the variance",
-        "c": "Report the department to state health authorities",
-        "d": "Benchmark against a lower-performing hospital to appear favorable"
-      },
-      "correct_option": "b",
-      "explanation": "The first step in quality review is data-driven analysis to understand why performance deviates from the benchmark before implementing any interventions or actions.",
-      "difficulty": "medium"
-    },
-    {
-      "text": "Which of the following is an example of a structural measure of quality?",
-      "options": {
-        "a": "Patient readmission rate within 30 days",
-        "b": "Percentage of patients who received discharge instructions",
-        "c": "Number of board-certified physicians on staff",
-        "d": "Patient satisfaction score"
+        "a": "Deference to Expertise",
+        "b": "Reluctance to Simplify",
+        "c": "Preoccupation with Failure",
+        "d": "Commitment to Resilience"
       },
       "correct_option": "c",
-      "explanation": "Structural measures assess the attributes of the care setting — such as facilities, personnel qualifications, and organizational characteristics. Board certification is a structural measure. Process and outcome measures assess what is done and what results.",
+      "explanation": "Preoccupation with Failure means treating near misses as serious warnings rather than non-events. Analyzing near misses with the same rigor as adverse events is a direct expression of this HRO principle.",
       "difficulty": "medium"
     },
     {
-      "text": "In a quality management framework, accountability means:",
+      "text": "A hospital redesigns its medication dispensing cabinet so that concentrated potassium chloride cannot be stored in patient care areas under any circumstances. Which harm reduction strategy does this represent?",
       "options": {
-        "a": "Only senior leadership is responsible for quality outcomes",
-        "b": "Each role in the organization has defined quality responsibilities and is answerable for results",
-        "c": "Quality is the sole responsibility of the quality department",
-        "d": "Accountability is only applied when a regulatory body demands it"
+        "a": "Standardization",
+        "b": "Forcing function",
+        "c": "Double-check system",
+        "d": "Training and education"
       },
       "correct_option": "b",
-      "explanation": "True quality accountability is distributed throughout the organization. Each department, team, and individual has defined responsibilities for quality and is expected to report on and own their performance.",
-      "difficulty": "easy"
+      "explanation": "A forcing function makes an unsafe action physically or structurally impossible — removing concentrated electrolytes from floor stock means the unsafe action cannot occur regardless of human behavior. This is the strongest form of error prevention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "During a root cause analysis, an investigator notes that the electronic health record workflow differs significantly from how nurses actually complete medication documentation at the bedside. This gap between intended design and actual practice is best described as which HFE concept?",
+      "options": {
+        "a": "Alert fatigue",
+        "b": "Work as Imagined vs. Work as Done",
+        "c": "Cognitive overload",
+        "d": "Deference to expertise"
+      },
+      "correct_option": "b",
+      "explanation": "HFE examines work as it is ACTUALLY done — not as policy intends or administrators imagine. The gap between the designed workflow and actual bedside practice is the classic \"Work as Imagined vs. Work as Done\" problem that HFE is designed to address.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a high-risk surgical situation, a scrub technician identifies a critical sterility concern and stops a senior surgeon from proceeding. The surgeon pauses and defers to the technician's assessment. Which HRO principle is being applied?",
+      "options": {
+        "a": "Reluctance to Simplify",
+        "b": "Sensitivity to Operations",
+        "c": "Deference to Expertise",
+        "d": "Preoccupation with Failure"
+      },
+      "correct_option": "c",
+      "explanation": "Deference to Expertise means that in high-risk situations, authority defers to the person with the most relevant knowledge — not the highest rank. The surgeon deferring to the scrub technician's sterility concern is a direct application of this principle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality analyst reviewing adverse event data notes that fatigue, excessive workload, and cognitive overload consistently appear as contributing factors across multiple incident reports. The analyst recommends redesigning staffing models and work schedules rather than issuing reminders to staff. This recommendation is best justified by which principle?",
+      "options": {
+        "a": "Human factors are acceptable explanations for error in healthcare",
+        "b": "Human factors are predictable system variables that must be designed around, not attributed to individual weakness",
+        "c": "Training programs are insufficient for addressing fatigue-related errors",
+        "d": "Staffing changes are required by TJC accreditation standards"
+      },
+      "correct_option": "b",
+      "explanation": "Human factors such as fatigue and cognitive overload are predictable — not excuses. Systems must be designed to accommodate these realities. Redesigning staffing models addresses the system variable rather than expecting individuals to overcome known human limitations.",
+      "difficulty": "medium"
     }
   ]
 }

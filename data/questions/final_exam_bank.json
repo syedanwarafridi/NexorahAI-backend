@@ -1,0 +1,1612 @@
+{
+  "questions": [
+    {
+      "text": "A strategy to address social determinants of health would be to",
+      "options": {
+        "a": "Launch a community campaign to promote influenza vaccines.",
+        "b": "Identify high-risk patients with high-cost medications.",
+        "c": "Create patient education materials that are culturally competent.",
+        "d": "Implement a standard questionnaire for pediatric lead screening."
+      },
+      "correct_option": "c",
+      "explanation": "Create patient education materials that are culturally competent. Social determinants of health (SDOH) include education, language, culture, and health literacy. Culturally competent patient education directly addresses the SDOH domain of social and community context, as defined by Healthy People 2030 (ODPHP) and supported by AHRQ's health literacy framework. Option A targets infectious disease prevention (not SDOH-specific). Option B addresses cost management. Option D is a clinical screening protocol, not an SDOH strategy per se. Culturally competent materials reduce health disparities by meeting patients where they are — linguistically, culturally, and educationally.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An extended care facility measures the percent of time a comprehensive exam is completed within 96 hours of admission. This is an example of which of the following types of measure?",
+      "options": {
+        "a": "Structure",
+        "b": "Outcome",
+        "c": "Process",
+        "d": "System"
+      },
+      "correct_option": "c",
+      "explanation": "process Using Donabedian's framework — the foundational model for healthcare quality measurement — structure measures assess resources and organizational attributes (staffing, equipment), outcome measures assess the end result of care (mortality, readmission), and process measures assess whether a specific action was performed correctly and timely. Measuring the percent of time a comprehensive exam is completed within 96 hours is a time-bound process compliance measure. It evaluates whether a care step was executed per protocol, not the outcome of care. \"System\" is not a standard Donabedian category. This aligns with CPHQ domain: Health Data Analytics / Performance Measurement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following most accurately describes medication reconciliation?",
+      "options": {
+        "a": "Identifying and resolving medication discrepancies",
+        "b": "Creating a list of a patient's prescription medications",
+        "c": "Monitoring patient adherence to medication regimens",
+        "d": "Sharing responsibility between pharmacy and nursing"
+      },
+      "correct_option": "a",
+      "explanation": "identifying and resolving medication discrepancies Per The Joint Commission's National Patient Safety Goal NPSG.03.06.01 and the IHI definition, medication reconciliation is the formal process of comparing a patient's medication orders against all medications the patient has been taking — including identifying discrepancies and resolving them with the prescriber. Option B (creating a list) describes only one component of the reconciliation process — the medication history — which is incomplete as a definition. Reconciliation requires comparison, identification of discrepancies, and clinical resolution.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement council has developed a plan to deploy a new patient safety initiative. Which of the following groups must the council include in the communication plan?",
+      "options": {
+        "a": "Market competitors",
+        "b": "Adopter audiences",
+        "c": "State legislators",
+        "d": "Local media"
+      },
+      "correct_option": "b",
+      "explanation": "adopter audiences In quality improvement communication planning, the essential audience to include is the \"adopter audience\" — those who must accept, implement, and sustain the change. This aligns with Everett Rogers' Diffusion of Innovations theory, widely applied in healthcare quality. Adopters are the frontline stakeholders whose behavior must change for improvement to occur. Market competitors are irrelevant to an internal communication plan. State legislators and local media may be secondary external audiences but are not primary targets in a QI council communication plan.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is true of a clinical pathway?",
+      "options": {
+        "a": "Depicted using a value stream map",
+        "b": "Required for accountable care organizations",
+        "c": "Limited to one patient care setting",
+        "d": "Used to reduce variations in care"
+      },
+      "correct_option": "d",
+      "explanation": "used to reduce variations in care Clinical pathways (also called care pathways or critical pathways) are structured, evidence-based multidisciplinary care plans that specify essential steps in the care of patients with a specific clinical problem. Their primary purpose is to standardize care processes and reduce unwarranted clinical variation, thereby improving outcomes and efficiency. They are not depicted using value stream maps (a Lean tool for process flow). They are not mandated for ACOs specifically. They span multiple care settings and are not limited to one. This aligns with CPHQ domain: Performance and Process Improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "members are also not completing assignments. Which of the following tools should be used to get the team back on track?",
+      "options": {
+        "a": "Gantt chart",
+        "b": "Ishikawa diagram",
+        "c": "Spaghetti diagram",
+        "d": "Value stream map"
+      },
+      "correct_option": "a",
+      "explanation": "Gantt chart A Gantt chart is a project management tool that displays project tasks, timelines, milestones, and assigned responsibilities across a horizontal time axis. When team members are not completing assignments and the project is off-track, a Gantt chart provides the visual structure needed to identify delays, reassign tasks, and reestablish accountability. An Ishikawa (fishbone) diagram is used for root cause analysis. A spaghetti diagram maps physical movement. A value stream map analyzes process flow and waste. None of these address assignment tracking and project scheduling.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of using human factors engineering to improve patient safety?",
+      "options": {
+        "a": "Performing a root cause analysis on events of harm",
+        "b": "Providing simulation training for high-risk patient care tasks",
+        "c": "Having a second person check medication calculations",
+        "d": "Using checklists to complete complicated tasks"
+      },
+      "correct_option": "d",
+      "explanation": "using checklists to complete complicated tasks Human factors engineering (HFE) is the discipline of designing systems, tools, and environments to match human capabilities and limitations — reducing reliance on memory and individual performance. Checklists are a quintessential HFE intervention: they redesign the task environment so that critical steps are not dependent on recall alone. This is the approach championed by Atul Gawande and embedded in WHO Surgical Safety protocols. RCA (A) is an analytical tool, not a system design. Simulation training (B) is education-based. Double-checks (C) are process controls but not HFE by strict definition. Checklists restructure the cognitive task itself — that is HFE.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An ambulatory care practice has reviewed data to identify patients with multiple visits to the emergency room within the last six months. The population health management technique for this type of data review is called",
+      "options": {
+        "a": "Public health surveillance.",
+        "b": "Hot-spotting.",
+        "c": "Syndromic surveillance.",
+        "d": "Cold-spotting."
+      },
+      "correct_option": "b",
+      "explanation": "hot-spotting. Hot-spotting is the population health management technique of identifying high-frequency, high-cost utilizers — particularly patients with multiple ED visits — in order to target intensive care coordination and case management interventions. Pioneered by Dr. Jeffrey Brenner and the Camden Coalition, hot-spotting uses utilization data to find \"hot spots\" of concentrated healthcare use and unmet need. Public health surveillance monitors population-level disease trends. Syndromic surveillance monitors symptoms for early outbreak detection. \"Cold-spotting\" is not a recognized standard term in population health management.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A pulmonologist is gathering social determinants of health data from their patients. Which of the following best explains the purpose of collecting this data?",
+      "options": {
+        "a": "This information facilitates the patients application for state resources.",
+        "b": "This is a result of an update to the electronic medical record system.",
+        "c": "This evaluates connections between the disease and the living conditions.",
+        "d": "This information is needed to meet a new quality metric."
+      },
+      "correct_option": "c",
+      "explanation": "This evaluates connections between the disease and the living conditions. The clinical purpose of collecting SDOH data in a specialty practice (pulmonology) is to understand how living conditions — housing quality, air quality, occupational exposures, income — influence pulmonary disease burden and outcomes. This is grounded in the WHO Commission on Social Determinants of Health and AHRQ's SDOH framework. Option A (state resources) may be a downstream use but is not the primary clinical purpose. Option B is an administrative explanation. Option D frames it as a compliance task rather than a clinical purpose. The correct framing is epidemiological and clinical: linking environment to disease.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes how a quality professional should conduct an organizational assessment to ensure safe transitions of care?",
+      "options": {
+        "a": "Evaluate processes for discharges and transfers.",
+        "b": "Audit documentation of patient discharge summaries.",
+        "c": "Review patient feedback about transfers to skilled nursing facilities.",
+        "d": "Assess case management discharge and transfer records."
+      },
+      "correct_option": "a",
+      "explanation": "Evaluate processes for discharges and transfers. An organizational assessment for safe care transitions must be comprehensive and process-focused — not limited to documentation audits, patient feedback on one setting, or records review alone. The Joint Commission's transition of care standards and CMS Conditions of Participation require evaluation of the end-to-end discharge and transfer process, including communication, medication reconciliation, follow-up appointment scheduling, and handoff protocols. Option A is the only answer that captures the breadth of an organizational assessment. Options B, C, and D are each narrow components of a full assessment, not the assessment itself.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following characteristics best describes a learning organization?",
+      "options": {
+        "a": "Compliant, data rich, committed support of the organization's leader",
+        "b": "Adaptability, systems thinking, willingness to challenge assumptions",
+        "c": "Scholarship, valued autonomy, fiscal discipline",
+        "d": "Passion, quality control, intolerance of disruptive thought"
+      },
+      "correct_option": "b",
+      "explanation": "adaptability, systems thinking, willingness to challenge assumptions Peter Senge's foundational work The Fifth Discipline defines a learning organization through five disciplines: systems thinking, personal mastery, mental models, shared vision, and team learning. The defining characteristics are adaptability, systems thinking, and the willingness to surface and challenge assumptions. Option A describes a compliant, leader-dependent organization — the opposite of distributed learning culture. Option C conflates academic scholarship with organizational learning. Option D directly contradicts the learning organization concept — \"intolerance of disruptive thought\" is antithetical to innovation and psychological safety. This aligns with CPHQ domain: Quality Leadership and Integration.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization that demonstrates a culture of safety",
+      "options": {
+        "a": "Has a balanced scorecard.",
+        "b": "Penalizes reporting of errors.",
+        "c": "Learns from errors.",
+        "d": "Generates a low number of incident reports."
+      },
+      "correct_option": "c",
+      "explanation": "learns from errors. A culture of safety, as defined by AHRQ, the Institute of Medicine (To Err is Human), and The Joint Commission, is characterized by an environment in which errors are reported without fear of blame, investigated systematically, and used as learning opportunities to improve systems. Option B (penalizing reporting) is the antithesis of a safety culture. Option D is a common trap — a low number of incident reports may indicate underreporting due to fear, not actual safety. Option A (balanced scorecard) is a strategic performance tool, not a safety culture characteristic. Learning from errors is the operational core of a just culture and a high-reliability organization (HRO).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Choosing a small number of items to represent characteristics of the whole is an example of",
+      "options": {
+        "a": "Sampling methodology.",
+        "b": "Outlier identification.",
+        "c": "Statistical significance.",
+        "d": "Benchmarking."
+      },
+      "correct_option": "a",
+      "explanation": "sampling methodology. Sampling is the statistical practice of selecting a subset (small number of items) from a larger population to draw inferences about the whole. This is the definitional core of sampling methodology as described in CPHQ data analytics standards and applied in healthcare quality measurement. Outlier identification involves finding data points that deviate from the norm. Statistical significance is a probability threshold for hypothesis testing. Benchmarking compares performance against external standards. None of these describe the act of selecting a representative subset of a population.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A performance improvement coordinator is having difficulty keeping a new team focused on its goal of decreasing patient waiting times. To understand why the team process is not working, the team leader should initially assess the",
+      "options": {
+        "a": "Composition of the team.",
+        "b": "Attendance at team meetings.",
+        "c": "Amount of data collected.",
+        "d": "Method of data collection."
+      },
+      "correct_option": "a",
+      "explanation": "composition of the team. When a team is struggling to stay focused on its goal, the first diagnostic step is to assess team composition — whether the right stakeholders, process owners, and subject matter experts are present. A team missing key members (e.g., frontline staff who manage the waiting process, scheduling personnel, patient flow coordinators) will lack the knowledge and authority to drive change. Meeting attendance (B) is a symptom, not a root cause. Data collection (C and D) are irrelevant to team focus issues. Per TeamSTEPPS and IHI team effectiveness frameworks, team structure and composition are the foundational variables.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which initiative should a quality professional promote in an organization seeking to optimize value-based reimbursement?",
+      "options": {
+        "a": "Standardize joint replacement care pathways.",
+        "b": "Improve hand hygiene compliance.",
+        "c": "Reduce use of inpatient restraints.",
+        "d": "Implement computerized provider order entry (CPOE)."
+      },
+      "correct_option": "a",
+      "explanation": "Standardize joint replacement care pathways. Value-based reimbursement (VBR) ties payment to quality outcomes and cost efficiency. CMS value-based programs (BPCI, CJR — Comprehensive Care for Joint Replacement) specifically bundle payments for joint replacement episodes and reward organizations that standardize care pathways, reduce complications, and lower total episode cost. Standardizing joint replacement care pathways directly targets cost, variation, and measurable outcomes tied to VBR models. Hand hygiene (B) and restraint reduction (C) are important safety initiatives but not primary VBR levers. CPOE (D) is an infrastructure tool, not a specific VBR optimization strategy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the role a healthcare quality professional should play in strategic planning?",
+      "options": {
+        "a": "Provide data on performance indicators.",
+        "b": "Review and redefine annual objectives.",
+        "c": "Develop the vision, mission, and goals.",
+        "d": "Identify causes of lost revenue."
+      },
+      "correct_option": "a",
+      "explanation": "Provide data on performance indicators. The healthcare quality professional's role in strategic planning is to serve as the data expert — supplying evidence-based performance indicator data that informs the organization's strategic priorities, gap analyses, and goal-setting. The vision, mission, and goals (C) are developed by executive leadership, not the quality professional. Redefining objectives (B) is a leadership and planning team function. Revenue analysis (D) falls within finance and operations. The quality professional contributes quality data, benchmarking results, and performance trend analysis to inform strategy — as defined in the CPHQ role delineation study and NAHQ competency framework.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The most important determinant of quality improvement success is",
+      "options": {
+        "a": "Organizational culture.",
+        "b": "Monetary resource allocation.",
+        "c": "The CQI model selected.",
+        "d": "The type of organization."
+      },
+      "correct_option": "a",
+      "explanation": "organizational culture. Decades of quality improvement research — from Deming's foundational principles to Kotter's change management model to IHI's work on improvement science — consistently identify organizational culture as the most critical determinant of sustained QI success. A culture that values transparency, learning, psychological safety, and continuous improvement creates the conditions for any QI model to work. Money, model selection, and organizational type are secondary variables. Without a receptive culture, even well-resourced initiatives fail. This is the central thesis of To Err is Human and the IHI's work on creating high-reliability organizations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The initial step in clinical pathway development is review of",
+      "options": {
+        "a": "Patient education materials.",
+        "b": "Continuous quality improvement methods.",
+        "c": "Data for targeted population.",
+        "d": "Provider input."
+      },
+      "correct_option": "c",
+      "explanation": "data for targeted population. Clinical pathway development begins with a data review of the targeted patient population — examining volume, outcomes, length of stay, cost, complication rates, and variation in care for the specific diagnosis or procedure the pathway will address. This baseline data analysis identifies the magnitude of the problem and the opportunity for improvement. Patient education materials (A) are developed later in the pathway process. CQI methods (B) guide the process but are not the first step. Provider input (D) is gathered after the data establish the rationale for the pathway. This sequence aligns with evidence-based pathway development standards (NICE guidelines, AHRQ).",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following strategies promotes timely completion of a quality improvement project?",
+      "options": {
+        "a": "Allowing the project sponsor to direct the project team's work",
+        "b": "Assigning the team leader to document overall project progress",
+        "c": "Requiring team members to devote a majority of their time to project work",
+        "d": "Focusing routine senior leader updates on project successes"
+      },
+      "correct_option": "b",
+      "explanation": "assigning the team leader to document overall project progress Assigning the team leader to document and track overall project progress creates accountability, ensures milestones are monitored, and enables early identification of delays — all of which promote timely completion. Option A is incorrect — the sponsor provides resources and removes barriers but should not direct the team's day-to-day work (that undermines team autonomy and is a role confusion). Option C is impractical in most healthcare settings and not an evidence-based strategy. Option D — focusing only on successes — is incomplete and can mask problems. Systematic progress documentation by the team leader is the core project management discipline that drives on-time delivery.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A positive correlation is seen in a scatter diagram when",
+      "options": {
+        "a": "Increases on the x-axis relate to decreases on the y-axis.",
+        "b": "There is a scattering of points in a triangular pattern.",
+        "c": "Increases on the x-axis relate to increases on the y-axis.",
+        "d": "There is a scattering of points in a circular pattern."
+      },
+      "correct_option": "c",
+      "explanation": "increases on the x-axis relate to increases on the y-axis. A scatter diagram plots two variables to identify the relationship between them. A positive correlation exists when both variables move in the same direction — as the x-axis variable increases, the y-axis variable also increases, producing a pattern of data points sloping upward from left to right. Option A describes a negative correlation. Option B (triangular pattern) suggests no clear correlation. Option D (circular pattern) indicates no correlation. This is standard statistical interpretation taught in CPHQ data analytics domains and aligned with ASQ/NQF quality measurement principles.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An important responsibility of each team member working on a team project is to",
+      "options": {
+        "a": "Complete assignments between meetings.",
+        "b": "Investigate the existing data on the project.",
+        "c": "Review team progress periodically.",
+        "d": "Teach skills to the team during meetings."
+      },
+      "correct_option": "a",
+      "explanation": "complete assignments between meetings. In quality improvement team dynamics, the most critical individual responsibility of each team member is completing between-meeting assignments. This is what drives project momentum — data collection, process observations, literature reviews, and stakeholder interviews all occur outside of formal meetings. If assignments are not completed, meetings stall and the project does not advance. Option B (data investigation) is typically the responsibility of the team leader or data analyst. Option C (reviewing progress) is a team leader function. Option D (teaching skills) is the facilitator's role. Individual accountability for between-meeting work is the foundational expectation per IHI and TeamSTEPPS team performance standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Who is responsible for aligning resources and ensuring accountability in an improvement project?",
+      "options": {
+        "a": "Team leader",
+        "b": "Sponsor",
+        "c": "Process owner",
+        "d": "Facilitator"
+      },
+      "correct_option": "b",
+      "explanation": "sponsor The project sponsor in a quality improvement initiative is the senior leader or executive who provides organizational resources, removes systemic barriers, ensures cross-departmental accountability, and maintains alignment between the project and organizational priorities. This is distinct from the team leader (who manages day-to-day work), the process owner (who owns the process being improved), and the facilitator (who manages group dynamics and meeting process). The sponsor role is defined consistently across IHI, NAHQ, and Six Sigma DMAIC frameworks as the resource-aligning, accountability-ensuring executive champion.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To assess compliance with quality standards, a healthcare organization needs",
+      "options": {
+        "a": "Standardized data collection methods.",
+        "b": "Approval by the governing body.",
+        "c": "A dedicated standards assessment team.",
+        "d": "An electronic data analysis program."
+      },
+      "correct_option": "a",
+      "explanation": "standardized data collection methods. Assessing compliance with quality standards requires standardized data collection methods to ensure that measurements are consistent, reproducible, and comparable over time and across units. Without standardization, compliance data cannot be validly interpreted. Governing body approval (B) is a governance function, not a prerequisite for assessment. A dedicated team (C) may be helpful but is not essential — many organizations use existing staff with standardized tools. An electronic program (D) is a tool, not a requirement — paper-based standardized collection can also be valid. Standardization is the non-negotiable foundation of compliance measurement per AHRQ, NQF, and JCI standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An effective meeting requires which of the following?",
+      "options": {
+        "a": "Mission statement",
+        "b": "Planned agenda",
+        "c": "Recorder's name",
+        "d": "Written minutes"
+      },
+      "correct_option": "b",
+      "explanation": "planned agenda A planned agenda is the essential prerequisite for an effective meeting. It defines the purpose, topics, time allocations, and expected outcomes — ensuring that meeting time is used efficiently and that participants come prepared. A mission statement (A) is an organizational document, not a meeting requirement. A recorder's name (C) is a role that may be assigned during the meeting, not a prerequisite. Written minutes (D) are produced after the meeting as a record, not a requirement for effectiveness. The agenda is the single most important tool for meeting productivity, per Robert's Rules of Order and IHI meeting management standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following tools should be used to determine the root cause of variations in a process?",
+      "options": {
+        "a": "Histogram",
+        "b": "Ishikawa diagram",
+        "c": "Shewhart chart",
+        "d": "Scatter plot"
+      },
+      "correct_option": "b",
+      "explanation": "Ishikawa diagram The Ishikawa diagram (also called the fishbone or cause-and-effect diagram) is specifically designed to identify and organize the potential root causes of a problem or process variation. It systematically explores categories of causes (e.g., People, Process, Equipment, Environment, Materials, Management) to trace variation back to its origin. A histogram displays frequency distribution of data. A Shewhart (control) chart monitors process stability over time. A scatter plot shows correlation between two variables. None of these identify root causes — only the Ishikawa diagram is purpose-built for root cause categorization.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient safety program can best be enhanced by which of the following technologies?",
+      "options": {
+        "a": "Barcode system for medication administration",
+        "b": "Online evidence-based medicine guidelines",
+        "c": "Computers on wheels at the patients' bedsides",
+        "d": "Digital medication reference materials"
+      },
+      "correct_option": "a",
+      "explanation": "barcode system for medication administration Barcode medication administration (BCMA) systems are among the most evidence-supported technologies for enhancing patient safety. They verify the five rights of medication administration (right patient, right drug, right dose, right route, right time) at the point of care, creating a hard stop against medication errors. AHRQ, IHI, and CMS have all cited BCMA as a high-impact patient safety technology. Online guidelines (B) and digital references (D) are information tools but do not create active safety barriers. Computers on wheels (C) are infrastructure — they do not independently enhance safety. BCMA directly intercepts medication errors at the point of administration.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following should a healthcare plan use to collect satisfaction data from its health plan members?",
+      "options": {
+        "a": "Data collected through questionnaires or surveys",
+        "b": "Claims data obtained from healthcare payors",
+        "c": "Disease data obtained from disease registries",
+        "d": "Data collected from the electronic health record"
+      },
+      "correct_option": "a",
+      "explanation": "data collected through questionnaires or surveys Member satisfaction data — capturing patient experience, perceptions, and reported outcomes — is primary data collected directly from members through structured questionnaires or surveys. The gold standard instrument is CAHPS (Consumer Assessment of Healthcare Providers and Systems), developed by AHRQ, which uses validated survey tools to measure health plan member satisfaction. Claims data (B) captures utilization and billing, not satisfaction. Disease registry data (C) tracks clinical outcomes for specific conditions. EHR data (D) captures clinical encounters, not member satisfaction experience. Surveys and questionnaires are the only methods that directly capture the patient/member voice.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A health system in an underserved area seeks to improve medication adherence in patients with hypertension. One of the barriers identified is patients with limited English proficiency. Which of the following solutions will best improve medication adherence?",
+      "options": {
+        "a": "Use clinicians with shared language as interpreters.",
+        "b": "Use a telephonic interpreter service to communicate instructions.",
+        "c": "Provide written medication instructions in patients' preferred language.",
+        "d": "Implement an automatic refill program for hypertension medications."
+      },
+      "correct_option": "c",
+      "explanation": "Provide written medication instructions in patients' preferred language. For patients with limited English proficiency (LEP), written medication instructions in the patient's preferred language address the specific barrier most directly — providing a take-home reference that patients can consult repeatedly at home when adhering to medication schedules. Option A violates CMS and CLAS Standards (National Culturally and Linguistically Appropriate Services Standards) — using clinicians as interpreters is discouraged due to role confusion and accuracy concerns. Option B (telephonic interpretation) is useful for in-person encounters but does not address at-home adherence. Option D (auto-refill) removes a logistical barrier but not the comprehension barrier. Written instructions in the preferred language directly address the language barrier at the point of medication-taking behavior.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Each department in a hospital self-monitors and reports hand hygiene data each quarter. Results typically fall within the 58–72% range, with the exception of Respiratory Therapy, which consistently reports 100% compliance. Which of the following steps should a healthcare quality professional take next?",
+      "options": {
+        "a": "Provide remedial hand hygiene training for the lowest scoring departments.",
+        "b": "Recognize the Respiratory Therapy department for its outstanding compliance.",
+        "c": "Validate that the Respiratory Therapy results are accurate.",
+        "d": "Require departments not achieving at least 95% compliance to develop corrective action plans."
+      },
+      "correct_option": "c",
+      "explanation": "Validate that the Respiratory Therapy results are accurate. When self-reported data shows a perfect 100% rate in one department while all others cluster in the 58–72% range, the quality professional's first obligation is to validate the outlier data. A 100% self-reported compliance rate is a statistical red flag — it may indicate observation bias, social desirability bias, data falsification, or a flawed measurement methodology. The IHI and AHRQ both emphasize data integrity as the precondition for any improvement action. Recognizing RT (B) before validation is premature and potentially rewards inaccurate reporting. Training (A) and corrective plans (D) address the low performers but miss the more urgent data integrity concern. Validate first — then act.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When reporting infection control indicators to a governing body, a healthcare quality professional should demonstrate improvement with which of the following tools?",
+      "options": {
+        "a": "Run chart",
+        "b": "Frequency plot",
+        "c": "Pie chart",
+        "d": "Scatter plot"
+      },
+      "correct_option": "a",
+      "explanation": "run chart A run chart plots data over time and is the standard tool for demonstrating improvement trends to a governing body. It visually displays whether performance is moving in the desired direction over sequential time periods — which is exactly what governing bodies need to assess progress on infection control indicators. Frequency plots (histograms) show distribution of data, not trends over time. Pie charts show proportional composition. Scatter plots show correlation between two variables. The run chart is the IHI's recommended tool for demonstrating improvement and is universally recognized in quality reporting to boards and governing bodies.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A 300-bed healthcare organization has decided to apply for accreditation with a new accreditation body. The accreditation readiness coordinator should first",
+      "options": {
+        "a": "Review the standards required for accreditation.",
+        "b": "Establish an operating budget for staff accreditation education.",
+        "c": "Obtain accreditation results from other facilities.",
+        "d": "Assess staff education needs related to accreditation."
+      },
+      "correct_option": "a",
+      "explanation": "review the standards required for accreditation. The logical first step before any other accreditation readiness activity is to review the specific standards required by the new accreditation body. Without knowing what standards apply, it is impossible to budget, educate staff, or assess gaps meaningfully. The Joint Commission, DNV, HFAP, and other bodies each have distinct standards — the coordinator must first understand what is required before assessing readiness. Option D (staff education needs assessment) is a subsequent step. Option B (budgeting) follows needs assessment. Option C (obtaining other facilities' results) is a benchmarking activity that may inform strategy but is not the first step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A director at a large health system is tasked with building a new population health program. What is the director's first step?",
+      "options": {
+        "a": "Implement artificial intelligence programs to stratify patients into categories of risk.",
+        "b": "Identify strategies to incorporate social determinants of health screenings.",
+        "c": "Design a complex care management program focused on chronic health conditions.",
+        "d": "Analyze the data infrastructure capabilities and sources of information."
+      },
+      "correct_option": "d",
+      "explanation": "Analyze the data infrastructure capabilities and sources of information. Building a population health program requires data — claims data, clinical data, SDOH data, utilization data — and the ability to aggregate, analyze, and act on it. Before designing programs, implementing AI, or developing strategies, the director must first assess what data exists, what data is accessible, and what infrastructure is in place to support population-level analysis. Without this foundation, any program design is built on unknown ground. This aligns with AHRQ and IHI population health management frameworks: data infrastructure assessment is the prerequisite to all downstream program development.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A goal of measurement is to collect valid and reliable data that reflects",
+      "options": {
+        "a": "Actual performance.",
+        "b": "Targeted performance.",
+        "c": "Potential performance.",
+        "d": "Desired performance."
+      },
+      "correct_option": "a",
+      "explanation": "actual performance. The foundational purpose of measurement in quality improvement is to obtain valid and reliable data that accurately reflects actual current performance — not what is targeted, desired, or theoretically possible. Valid data measures what it claims to measure; reliable data produces consistent results. Together, these properties ensure that the measurement truthfully represents what is actually happening in the system. Targeted, potential, and desired performance are aspirational states — they describe goals, not measurement. This principle is embedded in NQF's measure evaluation criteria and AHRQ's measurement framework.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The expectation to maintain continuous survey readiness must be supported and driven by the",
+      "options": {
+        "a": "Executive team.",
+        "b": "Quality team.",
+        "c": "Risk manager.",
+        "d": "Compliance officer."
+      },
+      "correct_option": "a",
+      "explanation": "executive team. Continuous survey readiness is an organizational culture and operational commitment that must be championed and sustained by executive leadership. The Joint Commission and other accreditation bodies are explicit that survey readiness cannot be delegated to the quality or compliance departments alone — it requires visible, consistent commitment from the CEO, CNO, CMO, and board. The quality team (B) supports and coordinates readiness activities, but cannot drive the cultural change required without executive mandate. The risk manager (C) and compliance officer (D) are functional roles with narrower scope. Executive teams set the tone, allocate resources, and hold the organization accountable for sustained standards compliance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Where in the process of ensuring correct surgery does a time-out take place?",
+      "options": {
+        "a": "Just before leaving the unit",
+        "b": "Immediately before surgery",
+        "c": "Just before entering the operating room",
+        "d": "Immediately upon arrival in the recovery room"
+      },
+      "correct_option": "b",
+      "explanation": "immediately before surgery The surgical time-out is a patient safety practice mandated by The Joint Commission's Universal Protocol (UP.01.03.01). It takes place immediately before the incision — with the entire surgical team present, all activity paused, verifying patient identity, surgical site, procedure, and consent. It is the final active verification step before the procedure begins. Option A (leaving the unit) describes the pre-procedure verification step. Option C (entering the OR) is the site marking/pre-procedure stage. Option D (recovery room) is post-procedure. The time-out is definitively \"immediately before surgery\" — in the OR, with the team assembled and ready to begin.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A key concept in patient safety planning is to design procedures that",
+      "options": {
+        "a": "Meet the needs of individual departments.",
+        "b": "Standardize patient care practices.",
+        "c": "Make errors non-transparent.",
+        "d": "Prevent all occurrences."
+      },
+      "correct_option": "b",
+      "explanation": "standardize patient care practices. The foundational principle of patient safety system design — as established by IOM's To Err is Human, IHI's work on safe design, and human factors engineering — is standardization. Standardized procedures reduce reliance on individual memory, eliminate unwarranted variation, and create predictable system behavior that makes errors visible and preventable. Option A (department-specific procedures) creates fragmentation and inconsistency — a source of error, not a prevention. Option C (non-transparent errors) is directly opposed to safety culture principles. Option D (preventing all occurrences) is an unrealistic absolute — safety planning aims to reduce harm, not achieve zero with certainty. Standardization is the correct design principle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is true regarding critical values?",
+      "options": {
+        "a": "Defined by law",
+        "b": "Determined by the organization",
+        "c": "Provided by accrediting agencies",
+        "d": "Specific to nursing units"
+      },
+      "correct_option": "b",
+      "explanation": "determined by the organization Critical values (also called \"panic values\") are laboratory results so abnormal that immediate clinical action is required. They are determined by each individual organization based on its patient population, clinical context, laboratory capabilities, and medical staff input — typically through a committee process involving laboratory medicine, medical staff, and quality leadership. They are not defined by law (A), not provided by accrediting agencies (C) — though accreditors require a policy to exist — and are not specific to nursing units (D). The Joint Commission (NPSG 02.03.01) requires timely reporting of critical results but does not specify the values themselves, leaving that determination to the organization.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following infection prevention techniques represents a human factors engineering solution?",
+      "options": {
+        "a": "Antibacterial soap",
+        "b": "Motion-sensor faucets",
+        "c": "Antimicrobial stewardship",
+        "d": "Instrument sterilization"
+      },
+      "correct_option": "b",
+      "explanation": "motion-sensor faucets Human factors engineering solutions redesign the environment or equipment to make the correct action easier or automatic — removing the need for deliberate human effort or memory. Motion-sensor faucets are a textbook HFE solution: they activate automatically, eliminating the need for the user to remember to turn on/off the faucet and reducing cross-contamination from faucet handles. Antibacterial soap (A) is a product choice — it still requires the user to consciously use it correctly. Antimicrobial stewardship (C) is a programmatic and behavioral intervention. Instrument sterilization (D) is a standard process control. Only motion-sensor faucets redesign the environment to make hand hygiene automatic — the defining characteristic of HFE.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In an aging population, one of the challenges associated with the use of practice guidelines is",
+      "options": {
+        "a": "The cost of instructions to implement new guidelines increases yearly.",
+        "b": "The constant evolution of healthcare makes it difficult to keep practice guidelines relevant.",
+        "c": "Changing the behavior to improve care is a complex process.",
+        "d": "Most practice guidelines only address a single issue, not multiple co-morbidities."
+      },
+      "correct_option": "d",
+      "explanation": "most practice guidelines only address a single issue, not multiple co-morbidities. The central challenge of applying practice guidelines to aging populations is that elderly patients typically present with multiple co-morbidities — yet most clinical practice guidelines are developed for single conditions in relatively homogeneous study populations. Guidelines for hypertension, diabetes, heart failure, or COPD are developed independently and may conflict when applied simultaneously to the same patient. This is a widely recognized limitation in geriatric care and is documented in AHRQ's work on guideline applicability and the NQF's work on measurement in complex patients. Option C is a real challenge but is not specific to aging populations — it applies to all QI initiatives.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient safety manager is asked to recommend the best action to reduce medication errors at a hospital. Which of the following is the most appropriate next step?",
+      "options": {
+        "a": "Re-educate the nursing staff on correct medication administration procedures.",
+        "b": "Conduct research on implementation of a bar code medication administration system.",
+        "c": "Ask the unit managers to counsel staff following medication errors.",
+        "d": "Drill down on the data to identify trends before making recommendations."
+      },
+      "correct_option": "d",
+      "explanation": "Drill down on the data to identify trends before making recommendations. Before recommending any specific intervention to reduce medication errors, the quality professional must first analyze the data to understand the nature, frequency, location, and root causes of the errors. Are errors occurring at prescribing, transcription, dispensing, or administration? Are they concentrated in specific units, shifts, or drug categories? Without this analysis, any recommendation — education, technology, counseling — is shooting in the dark. This reflects the fundamental quality principle: define and measure the problem before acting. Options A, B, and C may all be appropriate interventions — but none should be recommended before the data has been analyzed. Data-driven decision-making is the core CPHQ competency.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best example of a non-value added step in the healthcare environment?",
+      "options": {
+        "a": "Medication double checks",
+        "b": "Medication reconciliation at transfer",
+        "c": "Medication verbal order read-back",
+        "d": "Medication administration workaround"
+      },
+      "correct_option": "d",
+      "explanation": "medication administration workaround In Lean methodology, a non-value added step is one that consumes resources (time, effort, materials) but does not contribute to what the patient/customer values or to safety/quality requirements. A medication administration workaround — bypassing a safety protocol (such as scanning a barcode or verifying an order) to save time — is non-value added because it adds no clinical benefit while introducing safety risk. Options A (double checks), B (reconciliation), and C (read-back) are value-added safety steps that prevent errors and protect patient safety, even though they take time. Workarounds are waste and safety hazards simultaneously — the defining non-value added step in medication management.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A new pediatric psychiatric unit will open in one year. The utilization coordinator is responsible for developing the utilization management program. The program's success will depend on which of the following factors?",
+      "options": {
+        "a": "Obtaining approval from the chief psychiatrist at each stage of development",
+        "b": "Developing the program and presenting it to the appropriate staff members",
+        "c": "Involving the team members in the development of the program",
+        "d": "Providing educational in-services to all team members involved"
+      },
+      "correct_option": "c",
+      "explanation": "involving the team members in the development of the program Program success depends most critically on involving the team members who will implement and operate the utilization management program in its development. This ensures that the program is practical, addresses real workflow needs, builds ownership and buy-in, and incorporates frontline knowledge. This principle is grounded in change management theory (Kotter, Lewin) and supported by IHI's work on implementation science — programs developed with the people who do the work are far more likely to be adopted and sustained. Approval from one physician (A) alone does not ensure success. Presenting to staff (B) is passive — not participatory. Education (D) is important but is a downstream step after program design.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following could be used as an outcome measure during indicator development?",
+      "options": {
+        "a": "Laboratory compliance with policy and procedure for drawing peak and trough levels",
+        "b": "Staff adherence to a standard of practice",
+        "c": "Required diagnostic testing performed before medication was prescribed",
+        "d": "Complication rate for a specific surgical procedure"
+      },
+      "correct_option": "d",
+      "explanation": "complication rate for a specific surgical procedure Using Donabedian's framework, an outcome measure captures the end result of care — what happened to the patient as a result of the care process. Complication rate for a surgical procedure is a direct patient outcome: it reflects whether the care delivered resulted in harm beyond the expected. Options A (lab compliance), B (staff adherence), and C (diagnostic testing performed) are all process measures — they measure whether specific steps were performed correctly, not whether the patient experienced a good or bad outcome. The CPHQ exam consistently tests the ability to distinguish process measures from outcome measures using Donabedian's framework.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization with a focus on population health may use data to",
+      "options": {
+        "a": "Identify high-risk patients.",
+        "b": "Determine the voice of the customer.",
+        "c": "Identify high-risk low-volume processes.",
+        "d": "Determine high-cost procedures."
+      },
+      "correct_option": "a",
+      "explanation": "identify high-risk patients. The core application of data in population health management is risk stratification — identifying patients at highest risk of deterioration, hospitalization, or preventable utilization so that targeted interventions (care management, outreach, chronic disease management) can be deployed proactively. This is the foundational function of population health analytics as defined by AHRQ, IHI, and NCQA. Option B (voice of the customer) is a Six Sigma/quality improvement concept, not population health management. Option C (high-risk processes) is a patient safety/quality application. Option D (high-cost procedures) is a utilization or cost management activity.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The purpose of sentinel event review of never events is to",
+      "options": {
+        "a": "Engage leadership in identifying barriers to effective communication.",
+        "b": "Identify individual performance gaps that resulted in the sentinel event.",
+        "c": "Monitor staff and leadership involvement in the systematic analysis.",
+        "d": "Specify sustainable systems-based improvements."
+      },
+      "correct_option": "d",
+      "explanation": "specify sustainable systems-based improvements. The Joint Commission defines sentinel event review — specifically root cause analysis (RCA) — as a process designed to identify system and process factors that contributed to the event and to develop action plans for sustainable, systems-based improvements. The goal is never to blame individuals (B) — sentinel event review is fundamentally a systems-thinking exercise. Monitoring staff involvement (C) is a process step, not the purpose. Engaging leadership on communication barriers (A) may be an outcome but is not the primary stated purpose. The defining purpose is to produce durable, systems-level corrective actions that prevent recurrence — per TJC Sentinel Event Policy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality professional works in a primary care setting and has been asked to develop a patient safety program. The first step in program development is to",
+      "options": {
+        "a": "Complete a literature search.",
+        "b": "Survey patients.",
+        "c": "Visit similar organizations.",
+        "d": "Define the scope."
+      },
+      "correct_option": "d",
+      "explanation": "define the scope. The first step in developing any new program is to define its scope — what the program will cover, what populations it will serve, what safety risks it will address, and what its boundaries are. Without a defined scope, all subsequent activities (literature search, patient surveys, site visits) lack direction and focus. This is a foundational project management and program development principle supported by AHRQ's patient safety program development guidance and NAHQ's quality management competency framework. A literature search (A) is step two, after scope is defined. Surveying patients (B) and visiting organizations (C) are later-stage activities in needs assessment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "There is an increased incidence of type 2 diabetes among patients living near a healthcare organization as compared to the state. Considering social determinants of health, which of the following strategies can be used to address this problem?",
+      "options": {
+        "a": "Educate newly diagnosed patients on diabetes disease management.",
+        "b": "Set up a community-based education program about blood glucose monitoring.",
+        "c": "Review evidence-based diabetes management protocols with primary care providers.",
+        "d": "Collaborate with local farmers markets to make fresh produce more widely available."
+      },
+      "correct_option": "d",
+      "explanation": "Collaborate with local farmers markets to make fresh produce more widely available. This question specifically frames the problem through social determinants of health. The increased incidence of type 2 diabetes in the surrounding community — compared to the state — points to upstream SDOH factors such as food access, food security, and healthy food availability. Collaborating with local farmers markets to improve fresh produce access addresses the SDOH root cause: food environment and food insecurity. Options A, B, and C are clinical and educational interventions — they address disease management after diagnosis but do not address the SDOH root cause of why incidence is elevated in this community. The SDOH framework (WHO, Healthy People 2030) calls for upstream, community-level interventions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Evaluating data to determine high utilizers of emergency departments and their related characteristics is a strategy that can best help with",
+      "options": {
+        "a": "Hospital throughput.",
+        "b": "Culture of safety.",
+        "c": "Population health management.",
+        "d": "High reliability."
+      },
+      "correct_option": "c",
+      "explanation": "population health management. Identifying high utilizers of emergency departments through data analysis — and examining their characteristics (diagnoses, SDOH factors, care gaps, medication adherence) — is the definitional practice of population health management, specifically the hot-spotting methodology. The goal is to identify segments of the population that disproportionately use high-cost, acute care resources and to intervene with targeted care coordination, case management, and community-based supports. This is not primarily about throughput (A), safety culture (B), or high reliability (D) — though all are related concepts. Population health management is the correct domain.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Before patient outcome data can be used for benchmarking, the data should be",
+      "options": {
+        "a": "Organized by patient age.",
+        "b": "Adjusted for length of stay.",
+        "c": "Adjusted for severity of illness.",
+        "d": "Organized by patient gender."
+      },
+      "correct_option": "c",
+      "explanation": "adjusted for severity of illness. Before patient outcome data can be meaningfully benchmarked against external organizations or standards, it must be risk-adjusted for severity of illness (also called case-mix adjustment). This controls for the fact that different organizations treat patient populations with different levels of acuity — a hospital serving sicker patients will naturally have higher complication and mortality rates. Risk adjustment (using tools such as APR-DRGs, APACHE scores, or CMS risk adjustment models) levels the playing field. Length of stay (B) is itself an outcome measure, not a risk adjuster. Age (A) and gender (D) are components of risk adjustment models but alone are insufficient. Severity of illness is the primary adjustment variable per NQF, CMS, and AHRQ benchmarking standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A CEO has directed a quality improvement council to develop objectives to meet an identified goal. When developing objectives, the council must remember to",
+      "options": {
+        "a": "Keep the objectives specific to the short term.",
+        "b": "Tie the objectives to the organization's financial performance.",
+        "c": "Use the Plan-Do-Study-Act cycle of continuous improvement.",
+        "d": "State the end result or desired outcome."
+      },
+      "correct_option": "d",
+      "explanation": "state the end result or desired outcome. Well-written quality improvement objectives must state the end result or desired outcome clearly — they should be SMART (Specific, Measurable, Achievable, Relevant, Time-bound) and describe what success looks like. Option A is incorrect because objectives should address both short and long-term goals, not be restricted to short-term. Option B is a distractor — objectives should be tied to quality and patient outcomes, not primarily to financial performance. Option C (PDSA) is a methodology for testing change, not a principle of objective development. Stating the desired outcome is the foundational requirement of any valid QI objective, as defined by IHI and NAHQ.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a data set, the difference between the highest and lowest observed values is known as the",
+      "options": {
+        "a": "Percentile.",
+        "b": "Standard deviation.",
+        "c": "Range.",
+        "d": "Quartile deviation."
+      },
+      "correct_option": "c",
+      "explanation": "range. The range is defined as the difference between the maximum (highest) and minimum (lowest) values in a data set. It is the simplest measure of dispersion/variability. Standard deviation (B) measures the average deviation of all data points from the mean — a more sophisticated spread measure. Percentile (A) describes the position of a value relative to the distribution. Quartile deviation (D) is based on the interquartile range (IQR = Q3 – Q1), not the full range. The range is the precise statistical term for highest minus lowest, and is a fundamental CPHQ Health Data Analytics concept.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "To effectively communicate performance indicator results, information should be disseminated to the",
+      "options": {
+        "a": "Medical Executive Committee.",
+        "b": "Entire staff.",
+        "c": "Quality Council.",
+        "d": "Department heads."
+      },
+      "correct_option": "b",
+      "explanation": "entire staff. Effective communication of performance indicator results requires dissemination to the entire staff — not just leadership, committees, or department heads. Frontline staff are the individuals who execute care processes and must understand how performance is trending in order to be engaged in improvement. Restricting performance data to the Medical Executive Committee (A), Quality Council (C), or department heads (D) limits transparency and excludes the workforce most capable of driving change. This principle is embedded in high-reliability organization (HRO) culture, IHI's work on transparency, and The Joint Commission's leadership standards — performance data belongs to the whole organization.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Why is it important to convene a multidisciplinary team when conducting a failure mode and effects analysis (FMEA)?",
+      "options": {
+        "a": "So that all steps in the process are captured and evaluated",
+        "b": "So the effective evaluation of the proposed changes may be accomplished",
+        "c": "To gain buy-in from senior leadership",
+        "d": "To gain buy-in from senior doctors"
+      },
+      "correct_option": "a",
+      "explanation": "so that all steps in the process are captured and evaluated FMEA is a prospective risk assessment tool used to identify potential failure modes in a process before they occur. A multidisciplinary team is essential because no single individual or department has complete knowledge of all steps in a complex healthcare process. Representatives from each role in the process (nursing, pharmacy, physicians, lab, IT, etc.) ensure that every process step is mapped, every potential failure mode is identified, and all failure pathways are evaluated. This comprehensive, cross-functional perspective is what makes FMEA valid. Gaining leadership buy-in (C/D) is a governance function separate from the analytical purpose of the multidisciplinary team.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Members of a performance improvement team voice complaints about not having as much decision-making authority as they expected. Which of the following should be developed to decrease the likelihood of such complaints?",
+      "options": {
+        "a": "Project checklist",
+        "b": "Affinity diagram",
+        "c": "Interrelationship diagram",
+        "d": "Team charter"
+      },
+      "correct_option": "d",
+      "explanation": "team charter A team charter is the foundational document that explicitly defines the team's scope, authority, decision-making boundaries, roles, responsibilities, ground rules, and escalation pathways. When team members complain about unclear or insufficient decision-making authority, the root cause is typically an absent or poorly defined charter. A well-crafted charter prevents these complaints by establishing upfront what decisions the team can make independently versus what requires sponsor or leadership approval. A project checklist (A) tracks tasks. An affinity diagram (B) organizes ideas. An interrelationship diagram (C) maps causal relationships. Only the team charter governs authority and role definition",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality professional's initial step in the creation of a patient safety program is to",
+      "options": {
+        "a": "Define key processes that contribute to patient complaints.",
+        "b": "Assess the organization's current culture of safety.",
+        "c": "Recommend software purchases to enhance the program.",
+        "d": "Identify the applicable patient safety standards."
+      },
+      "correct_option": "b",
+      "explanation": "assess the organization's current culture of safety. The first step in creating a patient safety program is to establish the baseline — and the foundational baseline for patient safety is the organizational culture of safety. Using validated tools such as AHRQ's Hospital Survey on Patient Safety Culture (HSOPS) or the Safety Attitudes Questionnaire (SAQ), the quality professional assesses where the organization currently stands on safety culture dimensions (reporting culture, just culture, teamwork, leadership commitment). This baseline drives all subsequent program design decisions. Identifying standards (D) is a parallel activity. Software recommendations (C) are far downstream. Process mapping for complaints (A) is a specific PI activity, not a foundational first step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare system has multiple medical clinics across a large geographic area. What is the best way to deliver education to assure continuous survey readiness?",
+      "options": {
+        "a": "Train the trainer sessions with clinic managers",
+        "b": "Mandatory modules on accreditation standards",
+        "c": "One-on-one sessions with noncompliant employees",
+        "d": "Just-in-time training to the highest risk clinics"
+      },
+      "correct_option": "a",
+      "explanation": "train the trainer sessions with clinic managers For a large, geographically dispersed healthcare system with multiple clinics, the train-the-trainer model is the most effective and scalable approach to delivering consistent survey readiness education. Clinic managers trained as internal educators can then deliver standardized content locally, maintaining currency and relevance without requiring centralized delivery to every site. Mandatory modules (B) are useful supplements but lack the local contextual application that managers can provide. One-on-one sessions with noncompliant employees (C) are reactive and impractical at scale. Just-in-time training to highest-risk clinics only (D) is insufficient for system-wide continuous readiness — it leaves other sites vulnerable.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An increased number of outpatient surgery patients present to the emergency department with complaints of pain. Which would be the best strategy to address these occurrences?",
+      "options": {
+        "a": "Standardize post-operative pain management protocols.",
+        "b": "Ensure patients have their home pain medications prior to discharge.",
+        "c": "Evaluate pain reassessment data in the post-anesthesia unit.",
+        "d": "Re-educate emergency room nurses on pain assessment."
+      },
+      "correct_option": "a",
+      "explanation": "Standardize post-operative pain management protocols. When a pattern of post-operative patients presenting to the ED with pain is identified, the root cause is most likely inadequate or inconsistent post-operative pain management at discharge. The correct systems-level response is to standardize post-operative pain management protocols across the outpatient surgery program — ensuring consistent prescribing, patient education about pain expectations and medication use, and clear follow-up instructions. Option B is a component of discharge management but alone does not address protocol standardization. Option C (evaluating PACU data) is a diagnostic step, not an intervention. Option D (re-educating ER nurses) addresses the downstream symptom, not the upstream cause.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best strategy for executive leaders to improve patient safety within an organization?",
+      "options": {
+        "a": "Model Just Culture practices.",
+        "b": "Counsel staff involved in errors.",
+        "c": "Implement leadership rounds.",
+        "d": "Support a blameless environment."
+      },
+      "correct_option": "a",
+      "explanation": "Model Just Culture practices. Just Culture — as defined by David Marx and adopted by AHRQ and The Joint Commission — is the framework that balances system accountability with individual accountability, distinguishing between human error, at-risk behavior, and reckless behavior. Executive leaders who model Just Culture practices demonstrate to the entire organization that errors are handled fairly, learning is prioritized over blame, and safety is a core value — not a slogan. Option D (blameless environment) is a distractor — Just Culture is NOT blameless; it holds individuals accountable for reckless behavior while focusing on systems for errors. Option C (leadership rounds) is a useful practice but not the single best strategy. Option B (counseling staff) is a reactive, individual-focused response.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement coordinator is asked to develop a training session on team facilitation based on adult learning principles. Which of the following would be the best approach to include?",
+      "options": {
+        "a": "Ask participants to practice facilitation with the group during class.",
+        "b": "Ask participants to study facilitation techniques after class.",
+        "c": "Teach all the concepts and test participants at the end of class.",
+        "d": "Teach the basic concepts and handout printed slides for participants to refer to after class."
+      },
+      "correct_option": "a",
+      "explanation": "Ask participants to practice facilitation with the group during class. Adult learning theory (andragogy), as described by Malcolm Knowles, emphasizes experiential learning, active participation, and immediate application of new skills. The best training approach for facilitation — a practice-based skill — is to have participants actually practice during the session with real-time feedback. Option B (studying after class) delays application and reduces retention. Option C (lecture and test) is a passive, content-heavy approach inconsistent with andragogy. Option D (basic concepts plus printed slides) is insufficient for skill development — facilitation cannot be learned from a handout. Practice during class is the gold standard for adult skill acquisition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A skilled nursing facility has implemented a process to address delays in diagnostic test result availability to the ordering provider. Which of the following measurements will best document improvement in this process?",
+      "options": {
+        "a": "Lost specimen rate",
+        "b": "Turnaround time",
+        "c": "Average length of stay",
+        "d": "Provider satisfaction"
+      },
+      "correct_option": "b",
+      "explanation": "turnaround time The specific problem being addressed is delays in diagnostic test result availability — a time-based process problem. The most direct measurement of improvement in this process is turnaround time (TAT): the elapsed time from specimen collection to result availability to the ordering provider. If the process improvement is working, TAT will decrease. Lost specimen rate (A) is related to specimen integrity, not delivery speed. Average length of stay (C) is an outcome measure too distal and confounded by many other factors. Provider satisfaction (D) is a perception measure — useful but not a direct measure of process improvement. TAT directly and precisely measures what the intervention targets.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A multidisciplinary team has been convened to review delays in laboratory turnaround time between the medicine clinic and the laboratory. The team's first step in evaluating the issue is to",
+      "options": {
+        "a": "Create a flow chart to study the process.",
+        "b": "Conduct a failure mode and effects analysis (FMEA).",
+        "c": "See if the surgery clinic is also experiencing delays.",
+        "d": "Observe how the medical assistants prepare the specimens."
+      },
+      "correct_option": "a",
+      "explanation": "create a flow chart to study the process. When investigating a process problem for the first time, the essential first step is to map the current process using a flowchart (process map). This gives the team a shared, accurate picture of what actually happens — often revealing steps, handoffs, and delays that were previously invisible or assumed to be different. Without a process map, the team is working from assumptions rather than facts. FMEA (B) is a prospective risk assessment tool — appropriate after the process is understood, not as a first step. Checking other clinics (C) is a useful comparison but not the first analytical step. Observing specimen preparation (D) is one specific observation within the broader process — premature before the whole process is mapped.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality professional receives complaints from numerous patients that the registration process is inefficient. Which of the following should be used to best identify customer expectations, perceptions, and improvement opportunities?",
+      "options": {
+        "a": "Telephone survey of patients",
+        "b": "Focus group with patients",
+        "c": "Written survey of registration staff",
+        "d": "Interviews with registration staff"
+      },
+      "correct_option": "b",
+      "explanation": "focus group with patients To identify customer expectations, perceptions, and improvement opportunities simultaneously, a focus group with patients is the superior method. Focus groups are a qualitative data collection approach that allows the facilitator to probe depth of perception, explore underlying expectations, and uncover improvement ideas through interactive discussion — capturing nuance that surveys cannot. A telephone survey (A) captures breadth but limits depth and follow-up. Written surveys of staff (C) and interviews with staff (D) capture the provider perspective, not the customer's. The question specifically asks about customer expectations and perceptions — only a focus group with patients answers all three dimensions (expectations, perceptions, opportunities) simultaneously. This aligns with CPHQ's voice-of-the-customer methodology.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is creating a training session for clinical leaders about quality improvement. Which of the following should be incorporated into the training?",
+      "options": {
+        "a": "Limit discussion on case studies from external organizations.",
+        "b": "Give training participants the opportunity to practice what was taught.",
+        "c": "Introduce complex concepts first to allow time for understanding.",
+        "d": "Explain quality improvement roles for leaders at all levels of the organization."
+      },
+      "correct_option": "b",
+      "explanation": "Give training participants the opportunity to practice what was taught. Per adult learning theory (Knowles' andragogy) and experiential learning theory (Kolb), the opportunity to practice newly learned skills during training is the single most effective element for adult skill acquisition and retention. Practice allows immediate application, reinforces learning through doing, and generates feedback loops. Option A is incorrect — case studies from external organizations are highly valuable learning tools that should be encouraged, not limited. Option C is backwards — adult learning should move from simple to complex, not introduce complex concepts first. Option D is content, not pedagogy — explaining roles is part of training but not the most important design element.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization has recently launched a diabetes center of excellence to address the needs of its patients with advanced diabetes. The implementation of this program would fall into which of the following types of prevention?",
+      "options": {
+        "a": "Primary",
+        "b": "Secondary",
+        "c": "Quaternary",
+        "d": "Tertiary"
+      },
+      "correct_option": "d",
+      "explanation": "tertiary The three-tier prevention framework (with quaternary as an emerging fourth tier) classifies interventions by their relationship to disease state. Primary prevention prevents disease onset (e.g., vaccines, lifestyle education). Secondary prevention detects and treats early disease to prevent progression (e.g., screening programs). Tertiary prevention manages established disease to reduce disability, complications, and further deterioration — maximizing quality of life. A diabetes center of excellence serving patients with advanced diabetes is tertiary prevention: the disease exists, and the program is designed to prevent complications (neuropathy, retinopathy, renal failure, amputation) and improve function. Quaternary prevention prevents over-medicalization and unnecessary interventions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The primary focus of Six Sigma methodology is",
+      "options": {
+        "a": "Reducing variation.",
+        "b": "Complying with standards.",
+        "c": "Eliminating waste.",
+        "d": "Improving patient safety."
+      },
+      "correct_option": "a",
+      "explanation": "reducing variation. Six Sigma is a data-driven quality methodology developed by Motorola and refined by GE, focused on reducing process variation to achieve near-perfect output quality (3.4 defects per million opportunities). The DMAIC framework (Define, Measure, Analyze, Improve, Control) is designed to identify sources of variation, quantify them statistically, and implement controls to sustain reduced variation. Eliminating waste (C) is the primary focus of Lean methodology — though Lean Six Sigma combines both. Complying with standards (B) is regulatory/accreditation work. Improving patient safety (D) is a broad goal that encompasses many methodologies. Variation reduction is the precise, defining focus of Six Sigma.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best strategy for executive leaders to improve patient safety within an organization?",
+      "options": {
+        "a": "Model Just Culture practices.",
+        "b": "Counsel staff involved in errors.",
+        "c": "Implement leadership rounds.",
+        "d": "Support a blameless environment."
+      },
+      "correct_option": "a",
+      "explanation": "Model Just Culture practices. Just Culture, as defined by IHI and AHRQ, distinguishes between human error, at-risk behavior, and reckless behavior — holding individuals accountable appropriately while focusing on system-level improvement. The most powerful driver of a safety culture is executive modeling of these behaviors. Leadership rounds (C) are valuable but are a tactic, not a strategic foundation. A purely blameless environment (D) is theoretically outdated — Just Culture replaced it because blameless environments failed to address reckless behavior. Counseling staff (B) is a reactive, punitive-adjacent approach that does not reflect systems thinking.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement coordinator is asked to develop a training session on team facilitation based on adult learning principles. Which of the following would be the best approach to include?",
+      "options": {
+        "a": "Ask participants to practice facilitation with the group during class.",
+        "b": "Ask participants to study facilitation techniques after class.",
+        "c": "Teach all the concepts and test participants at the end of class.",
+        "d": "Teach the basic concepts and handout printed slides for participants to refer to after class."
+      },
+      "correct_option": "a",
+      "explanation": "Ask participants to practice facilitation with the group during class. Adult learning theory (Knowles' Andragogy) emphasizes active participation, immediate application, and experiential learning over passive information transfer. Practicing facilitation during class directly applies the learned skill in a safe environment, which is the hallmark of effective adult education. Options B, C, and D all rely on passive receipt of information or deferred practice, which are inconsistent with adult learning principles as recognized in healthcare quality education frameworks.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A skilled nursing facility has implemented a process to address delays in diagnostic test result availability to the ordering provider. Which of the following measurements will best document improvement in this process?",
+      "options": {
+        "a": "Lost specimen rate",
+        "b": "Turnaround time",
+        "c": "Average length of stay",
+        "d": "Provider satisfaction"
+      },
+      "correct_option": "b",
+      "explanation": "Turnaround time. The process being improved is specifically the delay in test result availability. Turnaround time (TAT) is the direct, process-level measure that quantifies the time elapsed from specimen collection to result delivery to the provider. It is the most sensitive and specific indicator of improvement in this process. Lost specimen rate (A) measures a different failure mode. Average length of stay (C) is a distal outcome measure. Provider satisfaction (D) is a perception measure — it may lag behind or not correlate directly with actual TAT improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A multidisciplinary team has been convened to review delays in laboratory turnaround time between the medicine clinic and the laboratory. The team's first step in evaluating the issue is to",
+      "options": {
+        "a": "Create a flow chart to study the process.",
+        "b": "Conduct a failure mode and effects analysis (FMEA).",
+        "c": "See if the surgery clinic is also experiencing delays.",
+        "d": "Observe how the medical assistants prepare the specimens."
+      },
+      "correct_option": "a",
+      "explanation": "Create a flow chart to study the process. The first step in any process improvement initiative is to understand the current state of the process before attempting to identify failure modes or assign cause. A flowchart (process map) provides a shared visual understanding of each step, handoff, and decision point in the laboratory turnaround workflow. FMEA (B) is a proactive risk tool used after the process is understood. Checking other clinics (C) is scope expansion, not problem evaluation. Direct observation (D) is useful but occurs as part of the process mapping exercise, not before it. Per IHI and Lean methodology, map before you act.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality professional receives complaints from numerous patients that the registration process is inefficient. Which of the following should be used to best identify customer expectations, perceptions, and improvement opportunities?",
+      "options": {
+        "a": "Telephone survey of patients",
+        "b": "Focus group with patients",
+        "c": "Written survey of registration staff",
+        "d": "Interviews with registration staff"
+      },
+      "correct_option": "b",
+      "explanation": "Focus group with patients. The question specifically asks for a method to capture customer expectations, perceptions, and improvement opportunities simultaneously — this triangulation of voice of the customer (VOC) is best achieved through a focus group. Focus groups allow for open dialogue, probing of responses, and emergence of themes that structured surveys cannot capture. Telephone surveys (A) are useful for quantitative data but limit qualitative depth. Staff surveys (C) and interviews (D) capture the provider perspective, not the customer's — and the complaints came from patients, not staff.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is creating a training session for clinical leaders about quality improvement. Which of the following should be incorporated into the training?",
+      "options": {
+        "a": "Limit discussion on case studies from external organizations.",
+        "b": "Give training participants the opportunity to practice what was taught.",
+        "c": "Introduce complex concepts first to allow time for understanding.",
+        "d": "Explain quality improvement roles for leaders at all levels of the organization."
+      },
+      "correct_option": "b",
+      "explanation": "Give training participants the opportunity to practice what was taught. Consistent with adult learning principles (Knowles' Andragogy) and instructional design best practices, effective training incorporates active application — not just information delivery. Practice opportunities reinforce retention and build confidence in applying QI concepts. External case studies (A) are actually valuable, not something to limit. Starting with complex concepts (C) violates the pedagogical principle of scaffolding — simple before complex. Explaining roles (D) is relevant content but is not an instructional approach that drives learning effectiveness.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization has recently launched a diabetes center of excellence to address the needs of its patients with advanced diabetes. The implementation of this program would fall into which of the following types of prevention?",
+      "options": {
+        "a": "Primary",
+        "b": "Secondary",
+        "c": "Quaternary",
+        "d": "Tertiary"
+      },
+      "correct_option": "d",
+      "explanation": "Tertiary. Tertiary prevention focuses on managing established disease to reduce complications, disability, and deterioration — maximizing quality of life for those already living with a condition. A diabetes center of excellence targeting patients with advanced diabetes is definitively tertiary prevention: the disease is established, the goal is complication reduction and optimal disease management. Primary prevention (A) prevents disease onset. Secondary prevention (B) involves early detection (e.g., screening). Quaternary prevention (C) protects patients from overmedication and unnecessary intervention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The primary focus of Six Sigma methodology is",
+      "options": {
+        "a": "Reducing variation.",
+        "b": "Complying with standards.",
+        "c": "Eliminating waste.",
+        "d": "Improving patient safety."
+      },
+      "correct_option": "a",
+      "explanation": "Reducing variation. Six Sigma's defining purpose is the statistical reduction of process variation to achieve near-perfect quality — defined as 3.4 defects per million opportunities. The methodology uses DMAIC (Define, Measure, Analyze, Improve, Control) and is fundamentally data-driven with variation reduction as its core metric. Waste elimination (C) is the primary focus of Lean, not Six Sigma. Compliance with standards (B) is a regulatory function. Patient safety improvement (D) may be an outcome of Six Sigma application, but it is not the methodology's defining focus.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A managed care peer review committee should obtain which of the following first?",
+      "options": {
+        "a": "Clinical practice guidelines",
+        "b": "Confidentiality statement",
+        "c": "Copies of the medical licenses",
+        "d": "Statement of authenticity"
+      },
+      "correct_option": "b",
+      "explanation": "Confidentiality statement. Before a peer review committee can begin deliberations, confidentiality must be established as a foundational legal and ethical requirement. Peer review is protected under state peer review protection statutes, and all committee members must sign confidentiality agreements prior to accessing any case-specific information. This protects the integrity of the process and ensures legal privilege. Clinical guidelines (A), medical licenses (C), and statements of authenticity (D) may all be relevant to the review, but none can precede the confidentiality framework without compromising legal protections.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following actions best illustrates an organization has begun the work necessary to achieve the Malcolm Baldrige Award?",
+      "options": {
+        "a": "Evaluating current operations against the ISO standards",
+        "b": "Creating a team to revise operations to conform to the Malcolm Baldrige criteria",
+        "c": "Reviewing the Malcolm Baldrige criteria to determine organization alignment",
+        "d": "Demonstrating wide-spread integration of Lean principles"
+      },
+      "correct_option": "c",
+      "explanation": "Reviewing the Malcolm Baldrige criteria to determine organization alignment. The Malcolm Baldrige National Quality Award process begins with a self-assessment against the Baldrige Excellence Framework criteria across seven categories (Leadership, Strategy, Customers, Measurement, Workforce, Operations, Results). The first step is always to review those criteria and assess current organizational alignment — this is the foundational diagnostic step before any revision or team formation occurs. Creating a revision team (B) presupposes the gap analysis has been done. ISO alignment (A) is a separate framework. Lean integration (D) addresses operations but does not reflect engagement with the Baldrige framework specifically.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The healthcare quality professional is tasked with monitoring the monthly fall rates. The fall rate that requires the most immediate investigation is",
+      "options": {
+        "a": "2 Standard deviations above the fall rate average.",
+        "b": "A rate with a z-score of 1.5.",
+        "c": "2 Standard deviations below the fall rate average.",
+        "d": "A rate with a z-score of -1.5."
+      },
+      "correct_option": "a",
+      "explanation": "2 standard deviations above the fall rate average. In statistical process control, a data point 2 or more standard deviations above the mean for a harm-related indicator (like fall rates) signals a special cause requiring immediate investigation — it represents an unusually high rate of patient harm. A z-score of 1.5 (B) is within normal variation and does not trigger investigation. A rate below the mean (C, D) would indicate better-than-expected performance — not a concern. The critical rule here is directional: for harm indicators, upward outliers demand immediate response. This aligns with SPC principles as taught by IHI and embedded in CPHQ domain standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization's culture is best assessed by examining the",
+      "options": {
+        "a": "Behavioural alignment with the core values.",
+        "b": "Collaboration of medical staff and administration.",
+        "c": "Number of performance improvement activities.",
+        "d": "Involvement of each patient care department in strategic planning."
+      },
+      "correct_option": "a",
+      "explanation": "Behavioural alignment with the core values. Organizational culture is defined not by what an organization says it values but by what its members do — the observable behaviors that reflect or contradict stated values. Assessing behavioral alignment with core values provides a direct, observable measure of culture in practice. Collaboration (B) and departmental involvement (D) are elements of culture but are not its most precise indicators. The number of PI activities (C) measures operational output, not cultural orientation. This principle is foundational to frameworks like the Baldrige Excellence Framework and the IHI culture of safety literature.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When prioritizing quality improvement initiatives, which of the following should take the highest priority?",
+      "options": {
+        "a": "A high-performing patient experience metric with one month of decreased performance",
+        "b": "A process to comply with a new regulatory requirement beginning in the next quarter",
+        "c": "A high-risk, low-volume process with common cause variation in the past quarter",
+        "d": "An outcome measure outperforming the benchmark for the past 12 months"
+      },
+      "correct_option": "b",
+      "explanation": "A process to comply with a new regulatory requirement beginning in the next quarter. Regulatory compliance represents a mandatory, time-bound, externally imposed requirement — non-compliance carries legal, accreditation, and financial consequences. When prioritizing QI initiatives, regulatory requirements with imminent deadlines take precedence over internally driven improvement efforts. A high-risk, low-volume process with common cause variation (C) warrants monitoring but common cause variation does not demand immediate intervention. One month of decreased performance (A) is insufficient to establish a meaningful trend. A measure outperforming benchmarks (D) is performing well and does not require priority attention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is one purpose of clinical pathways?",
+      "options": {
+        "a": "To increase efficiency by generation of automated care plans",
+        "b": "To minimize errors by guiding staff through the steps of a process",
+        "c": "To reduce variability by establishing a standardized process",
+        "d": "To improve diagnostic accuracy by making diagnostic recommendations"
+      },
+      "correct_option": "c",
+      "explanation": "To reduce variability by establishing a standardized process. Clinical pathways (also called care pathways or care maps) are structured, multidisciplinary care plans that define the essential steps in the management of a specific diagnosis or procedure. Their primary purpose is to reduce unwarranted clinical variability and standardize evidence-based care delivery across providers and settings. Automated care plan generation (A) conflates clinical pathways with order sets or EHR tools. Error reduction (B) is a benefit of pathways but not their defining purpose. Diagnostic recommendations (D) describe clinical decision support tools, not pathways. Per TJC and CMS quality frameworks, standardization of care processes is the core intent.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best approach to motivate stakeholders across the care continuum to take action?",
+      "options": {
+        "a": "Release national benchmarks.",
+        "b": "Develop interactive dashboards.",
+        "c": "Publish unblinded outcome reports.",
+        "d": "Use patient storytelling."
+      },
+      "correct_option": "c",
+      "explanation": "Publish unblinded outcome reports. Publishing unblinded outcome reports — reports that identify specific organizations or providers by name alongside their performance data — is the most powerful and empirically supported strategy for motivating action across the care continuum. Transparent public accountability, particularly when organizations are named rather than anonymized, has consistently been shown to drive improvement behavior in peer-reviewed literature and is the foundation of CMS public reporting programs (Hospital Compare, Nursing Home Compare, Physician Compare) and NQF's transparency principles. When stakeholders see their performance publicly attributed and visible to competitors, patients, and regulators, the motivation to act is significantly amplified. National benchmarks (A) provide context but do not create personal accountability. Interactive dashboards (B) are internal monitoring tools — effective for engaged teams but not for motivating reluctant stakeholders. Patient storytelling (D) is powerful for emotional engagement in individual encounters but does not produce the systemic accountability pressure that drives organization-wide action across the care continuum.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The chairperson of the governing body has requested an annual report on improvements in patient care. The report should include",
+      "options": {
+        "a": "The names of physicians who fall below the threshold of standards of care.",
+        "b": "A detailed description of all quality activities.",
+        "c": "An overview of the quality program, specifying the effects on patient care.",
+        "d": "The results of peer review."
+      },
+      "correct_option": "c",
+      "explanation": "An overview of the quality program, specifying the effects on patient care. Governing body reports should be strategic, not operational. The chairperson needs a high-level overview that demonstrates the quality program's impact on patient outcomes — not granular operational details. Naming individual physicians (A) violates peer review confidentiality and is inappropriate for governing body reports. A detailed description of all quality activities (B) would be overwhelmingly long and not useful at the governance level. Peer review results (D) are confidential and protected — they are not appropriate for general governing body reports. Per TJC governance standards and CPHQ domain 1 (Quality Leadership), governing bodies receive summary performance data, not identifiable practitioner information.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "For which incident would a process improvement manager be required to perform a root cause analysis (RCA)?",
+      "options": {
+        "a": "Incorrect critical care patient transported to radiology.",
+        "b": "Admitting a visitor who fell on hospital grounds.",
+        "c": "Wrong prescription given to a discharged patient with diabetes.",
+        "d": "Procedure performed on the wrong knee."
+      },
+      "correct_option": "d",
+      "explanation": "Procedure performed on the wrong knee. A procedure performed on the wrong body part is a Sentinel Event as defined by The Joint Commission — it is an unexpected occurrence involving death or serious physical or psychological injury, or the risk thereof. TJC requires that accredited organizations conduct a thorough and credible root cause analysis for all sentinel events, including wrong-site surgery. Incorrect patient transport (A) is an adverse event but not a sentinel event. A visitor fall (B) is a safety incident for non-patients and does not trigger a mandatory RCA in the same framework. A wrong prescription given to a discharged patient (C) is a medication error requiring investigation, but it is not automatically classified as a sentinel event unless it results in serious harm or death.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A criterion is considered valid if it",
+      "options": {
+        "a": "Consistently yields the same results.",
+        "b": "Does not change with changes in technology.",
+        "c": "Is applicable to many groups and settings.",
+        "d": "Measures what it is intended to measure."
+      },
+      "correct_option": "d",
+      "explanation": "Measures what it is intended to measure. Validity, by definition in measurement science, is the degree to which an instrument or criterion measures what it claims to measure. This is the foundational definition across psychometrics, epidemiology, and healthcare quality measurement. Option A describes reliability (reproducibility), not validity. Option B describes stability. Option C describes generalizability. Students must distinguish: a measure can be highly reliable (consistent) but completely invalid (not measuring the right thing). Per AHRQ and NQF measurement standards, validity is the primary criterion for endorsing quality measures.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Practice guidelines should be based on",
+      "options": {
+        "a": "Cost-benefit analysis.",
+        "b": "Scientific evidence.",
+        "c": "Computer-generated data.",
+        "d": "Utilization review criteria."
+      },
+      "correct_option": "b",
+      "explanation": "Scientific evidence. Why D is wrong: Utilization review criteria are administrative tools used to determine medical necessity for coverage/reimbursement decisions — they are not the foundation of clinical practice guidelines. Practice guidelines are clinical documents that must be grounded in peer-reviewed scientific evidence, systematic reviews, and clinical trials. Cost-benefit analysis (A) may inform policy but not clinical guideline content. Computer-generated data (C) is a data source, not an evidence base. Per IOM (now National Academy of Medicine) and AHRQ's National Guideline Clearinghouse standards, clinical practice guidelines must be evidence-based.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following would provide the best information to a Quality Council interested in evaluating the effectiveness of quality improvement teams that were chartered during the past year?",
+      "options": {
+        "a": "Participant feedback about the dynamics of their team, ability of each team to meet pre-determined project milestones, and results of the team's work",
+        "b": "A comparative matrix of each team's goals, demonstrated proficiency with statistical process control, and participant feedback about team members",
+        "c": "Team diversity as evidenced by professional credentials of members, meeting minutes for productivity assessment, and aggregate member satisfaction data",
+        "d": "A summary of each team's charter, timeliness of tasks completed by each team, and validation of each team's commitment to conflict prevention"
+      },
+      "correct_option": "a",
+      "explanation": "Participant feedback about the dynamics of their team, ability of each team to meet pre-determined project milestones, and results of the team's work. Evaluating QI team effectiveness requires three components: process (how the team functioned), progress (did they meet milestones), and outcomes (did the work produce results). Option A is the only choice that addresses all three. Option B focuses on SPC proficiency — a technical skill measure, not an effectiveness measure — and does not include actual results. Option C measures composition and satisfaction, neither of which directly evaluates effectiveness. Option D includes charter summaries and timeliness but conflict prevention is not a meaningful effectiveness metric. Per IHI Team Performance frameworks, effective teams are measured by outcomes achieved relative to aims.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Over the past 2 months, a trend has been detected in medication errors. The preferred method of presenting data to the nursing Quality Council will identify the nurse by",
+      "options": {
+        "a": "A coding system with the key attached to the report.",
+        "b": "Initials.",
+        "c": "Name.",
+        "d": "De-identified — no individual identifier used."
+      },
+      "correct_option": "d",
+      "explanation": "De-identified — no individual identifier used. Quality improvement data presented to Quality Councils must be fully de-identified — nurses (or any individual practitioners) must not be identifiable by name, initials, or any coding system where the key is attached to the report. The purpose of Quality Council review is to identify system-level patterns and trends in aggregate data — not to assign individual accountability, which is the function of the peer review process. Coding systems with attached keys (A) allow identification and therefore violate confidentiality. Initials (B) are a partial identifier that can often be resolved. Full name (C) is explicitly inappropriate. De-identified aggregate data is required under state peer review protection statutes, CPHQ Quality Review and Accountability domain standards, and the foundational principle that quality data must be used for system improvement, not individual punishment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best example of population health management?",
+      "options": {
+        "a": "Ensuring timely access to eye examinations for people with diabetes",
+        "b": "Reducing medication errors in a pharmacy",
+        "c": "Reducing turn-around times in the emergency department",
+        "d": "Ensuring accurate medication reconciliation for people in hospice care"
+      },
+      "correct_option": "a",
+      "explanation": "Ensuring timely access to eye examinations for people with diabetes. Population health management involves proactive, coordinated care delivered to a defined population with the goal of improving health outcomes across that group — not just treating individuals as they present. Ensuring diabetic retinopathy screening for all patients with diabetes is a population-level preventive intervention targeting a defined cohort. Options B and C are operational efficiency measures within specific departments. Option D (medication reconciliation in hospice) is an individual care transitions quality measure, not a population health strategy. Per CMS population health frameworks and the Triple Aim, population health management requires a proactive, risk-stratified, whole-population approach.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A home health agency's Performance Improvement Committee has decided to base staff educational programs on aggregated occurrence reports data. Due to budgetary and time constraints, not every area identified from the data can be addressed. Which of the following would be most useful to the committee in determining their educational targets?",
+      "options": {
+        "a": "Force field analysis",
+        "b": "Control chart",
+        "c": "Pareto chart",
+        "d": "Scattergram"
+      },
+      "correct_option": "c",
+      "explanation": "Pareto chart. A control chart monitors process variation over time — it is used to distinguish common cause from special cause variation, not to prioritize among multiple categories of occurrences. When the task is to prioritize limited resources across multiple problem categories, the Pareto chart is the correct tool. The Pareto principle (80/20 rule) ranks categories by frequency, allowing the committee to focus educational resources on the issues causing the greatest volume of occurrences. Force field analysis (A) analyzes driving and restraining forces. A scattergram (D) examines correlations between two variables.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is an example of a social determinant of health used to monitor a quality improvement initiative?",
+      "options": {
+        "a": "Diabetes status",
+        "b": "Race",
+        "c": "Age",
+        "d": "Neighbourhood"
+      },
+      "correct_option": "d",
+      "explanation": "Neighbourhood. Social determinants of health (SDOH) are the conditions in which people are born, grow, live, work, and age — including economic stability, education, social context, health care access, and neighborhood/built environment. Neighbourhood is a direct SDOH indicator (e.g., access to healthy food, safe spaces for exercise, proximity to care). Diabetes status (A) is a clinical condition, not a social determinant. Race (B) is a demographic variable that can be a proxy for social factors but is not itself an SDOH. Age (C) is a biological variable. Per AHRQ and the Healthy People 2030 framework, neighborhood and built environment is an explicit SDOH domain.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An internal customer of the admission process in a skilled nursing facility is the",
+      "options": {
+        "a": "Patient's spouse and family.",
+        "b": "Nurse completing the initial assessment.",
+        "c": "Insurance company.",
+        "d": "Patient being admitted."
+      },
+      "correct_option": "b",
+      "explanation": "Nurse completing the initial assessment. In quality management, an internal customer is someone within the organization who receives the output of a process performed by another internal party. The nurse completing the initial assessment receives the output of the admission process (patient information, completed documentation, bed assignment) in order to perform her clinical role — she is therefore an internal customer of that process. The patient (D) and family (A) are external customers. The insurance company (C) is an external stakeholder/payer. This distinction between internal and external customers is foundational to Lean and quality management theory, and is tested directly on the CPHQ exam.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The consensus-building group of diverse stakeholders who reviews and endorses measures for public reporting in the U.S. is known as the",
+      "options": {
+        "a": "National Quality Forum (NQF)",
+        "b": "Center for Medicare and Medicaid Services (CMS)",
+        "c": "Institute of Medicine (IOM)",
+        "d": "Agency for Healthcare Quality and Research (AHRQ)"
+      },
+      "correct_option": "a",
+      "explanation": "National Quality Forum (NQF). The National Quality Forum is the definitive U.S. body that convenes multi-stakeholder consensus panels to review, evaluate, and endorse healthcare performance measures for public reporting. NQF endorsement signals that a measure has been rigorously vetted for importance, scientific acceptability, usability, and feasibility. CMS (B) is a federal agency that uses NQF-endorsed measures but does not conduct the consensus endorsement process. IOM/NAM (C) produces evidence reports and recommendations. AHRQ (D) funds research and develops quality tools but does not endorse measures for public reporting in this consensus-stakeholder model.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which type of data could best be used to help identify health-determinant information in a patient population?",
+      "options": {
+        "a": "Payor claims",
+        "b": "Preventive care checklist",
+        "c": "Patient satisfaction",
+        "d": "Event reporting"
+      },
+      "correct_option": "a",
+      "explanation": "Payor claims. Payor (payer) claims data contains rich, longitudinal information about diagnoses, procedures, medications, utilization patterns, and demographics across large patient populations — making it the most powerful data source for identifying social and health determinants at a population level. Claims data can reveal patterns of disease burden, access barriers, and utilization linked to socioeconomic factors. Preventive care checklists (B) are point-of-care tools. Patient satisfaction data (C) captures experience, not health determinants. Event reporting (D) captures safety incidents. For population-level SDOH analysis, claims data provides the broadest and most actionable dataset.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is working to decrease the length of stay for inpatients on a surgical unit. Which of the following should be measured to document aspects of the process that are non-value added?",
+      "options": {
+        "a": "Number of services provided",
+        "b": "Turnaround time for diagnostic test results",
+        "c": "Delays between steps in the patient care process",
+        "d": "Nursing productivity"
+      },
+      "correct_option": "c",
+      "explanation": "Delays between steps in the patient care process. In Lean methodology, non-value-added activities (waste) include waiting, unnecessary motion, delays, and redundancy — steps that consume time and resources without advancing patient care. Delays between steps in the care process are the quintessential non-value-added element that directly extends length of stay. Measuring these delays quantifies the waste embedded in the process. Number of services (A) measures volume. Turnaround time for diagnostics (B) measures a specific subprocess but is broader than just the delay between steps. Nursing productivity (D) is an input/resource measure, not a process waste measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The safety reporting system being used by an organization cannot produce reports or information in a usable format. After evaluating the existing system and other products on the market, which of the following should the quality professional do before making recommendations to leadership?",
+      "options": {
+        "a": "Prepare a comparative analysis based on the information gathered.",
+        "b": "Conduct a focus group with participants from other sites within the organization.",
+        "c": "Interview current users of the other identified products.",
+        "d": "Create a potential implementation plan for the preferred product."
+      },
+      "correct_option": "a",
+      "explanation": "Prepare a comparative analysis based on the information gathered. The quality professional has already evaluated the existing system and other products on the market — the next logical step before making recommendations to leadership is to synthesize those findings into a structured comparative analysis. This provides leadership with objective, side-by-side evidence on which to base a decision. Conducting focus groups (B) or interviewing users (C) are data-gathering steps that should have occurred during the evaluation phase, not after it. Creating an implementation plan (D) presupposes a decision has already been made. Recommendations to leadership must be evidence-based and comparative — this is a fundamental principle of quality management decision-making.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The quality manager needs to identify a set of process measures to improve wound care outcomes. The first step should be to",
+      "options": {
+        "a": "Review prior three years of wound outcome best practices.",
+        "b": "Perform a literature search for clinical trials relating to wound care.",
+        "c": "Conduct a clinical record review of wound care sentinel events.",
+        "d": "Search for evidence-based guidelines for wound care."
+      },
+      "correct_option": "d",
+      "explanation": "Search for evidence-based guidelines for wound care. When identifying process measures for a clinical area, the first and most efficient step is to search for existing, validated, evidence-based guidelines — which already contain recommended process measures derived from systematic reviews of the literature. This avoids duplicating work already done by national bodies (e.g., AHRQ, WOCN, CMS). A literature search for clinical trials (B) is the foundational work behind guidelines, not the starting point for a quality manager. Reviewing internal outcomes data (A, C) is useful but comes after the evidence base is understood. Per the CPHQ exam framework, evidence-based practice is the first reference point for measure development.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality improvement team has been trained on writing SMART aim statements. Below are the team's aim statements: Reduce adverse drug events in critical care by 10% within 12 months. Reduce the time from 911 call to intervention for cardiac complaints by 15%. Reduce 30-day readmissions from 20% to 15%. Which of the following key elements in aim development appears to have been lost after the training?",
+      "options": {
+        "a": "Time-bound",
+        "b": "Achievable",
+        "c": "Measurable",
+        "d": "Specific"
+      },
+      "correct_option": "a",
+      "explanation": "Time-bound. Analyzing the three aim statements against the SMART criteria: Aim 1: \"Reduce adverse drug events in critical care by 10% within 12 months\" — has a timeframe ✓ Aim 2: \"Reduce the time from 911 call to intervention for cardiac complaints by 15%\" — no timeframe ✗ Aim 3: \"Reduce 30-day readmissions from 20% to 15%\" — no timeframe ✗ Two of the three aims are missing the time-bound element. All three aims are measurable (percentages stated), specific (clear processes named), and reasonably achievable. The missing element is consistently the timeframe for achievement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A home healthcare organization is looking to identify third-party endorsed outcome measures for the following areas: Improvement in medication management Improvement in ambulation Improvement in pain Which organization can best provide this information?",
+      "options": {
+        "a": "Leapfrog Group",
+        "b": "The Joint Commission (TJC)",
+        "c": "URAC",
+        "d": "National Quality Forum (NQF)"
+      },
+      "correct_option": "d",
+      "explanation": "National Quality Forum (NQF). The NQF is the authoritative U.S. body for endorsing standardized, evidence-based healthcare performance measures across all care settings, including home health. NQF-endorsed measures for home health organizations include OASIS-based measures for medication management, ambulation, and pain — precisely the domains listed. The Leapfrog Group (A) focuses on hospital safety and transparency. TJC (B) accredits organizations and develops standards but does not endorse outcome measures as a third-party consensus body. URAC (C) is an accreditation organization for specialty health programs. NQF endorsement is the gold standard for third-party measure validation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is considering changing the process of admissions from the emergency department. To support patient safety when this new process is deployed, the healthcare quality professional should suggest which of the following actions during the design stage of the process?",
+      "options": {
+        "a": "Examining the new process for stability and variation using a control chart",
+        "b": "Completing a failure mode and effects analysis (FMEA) of the new process",
+        "c": "Conducting a root cause analysis to predict errors in the new process",
+        "d": "Analyzing incident reports from the last year using a Pareto chart"
+      },
+      "correct_option": "b",
+      "explanation": "Completing a failure mode and effects analysis (FMEA) of the new process. FMEA is a proactive risk assessment tool designed specifically for the design or pre-implementation stage of a new or redesigned process. It systematically identifies potential failure modes, their causes, effects, and risk priority numbers — allowing teams to build in safeguards before the process goes live. Control charts (A) are used to monitor an existing, running process — not a new design. RCA (C) is a reactive tool used after an event occurs — it cannot predict errors in a prospective process. Pareto analysis of incident reports (D) looks backward at historical data. Per IHI Patient Safety frameworks and AHRQ, FMEA is the standard tool for proactive safety design.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best example of a patient-centered approach in healthcare?",
+      "options": {
+        "a": "Providing pre-printed discharge instructions",
+        "b": "Implementing patient portals",
+        "c": "Checking two patient identifiers",
+        "d": "Using age-based medication dosing"
+      },
+      "correct_option": "b",
+      "explanation": "Implementing patient portals. Patient-centered care, as defined by IOM and IHI, involves engaging patients as active partners in their own healthcare — providing access to their information, enabling communication with providers, and supporting informed decision-making. Patient portals directly empower patients with access to their medical records, test results, appointment scheduling, and provider communication — embodying the patient-centered care principle. Pre-printed discharge instructions (A) are one-way information transfer, not patient engagement. Checking two patient identifiers (C) is a safety practice, not a patient-centered care approach. Age-based dosing (D) is evidence-based clinical practice. The portal uniquely activates patient participation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following presents a set of high-level measures grouped into learning and growth, customer, internal business, and financial?",
+      "options": {
+        "a": "Balanced scorecard",
+        "b": "Histogram",
+        "c": "Matrix diagram",
+        "d": "Gantt chart"
+      },
+      "correct_option": "a",
+      "explanation": "Balanced scorecard. The Balanced Scorecard, developed by Kaplan and Norton, organizes organizational performance measures into four perspectives: Financial, Customer, Internal Business Processes, and Learning and Growth. In healthcare, these are adapted to reflect quality, patient experience, operational efficiency, and workforce development. This is the defining characteristic of the balanced scorecard — no other tool organizes measures in this four-quadrant framework. A histogram (B) displays frequency distributions. A matrix diagram (C) shows relationships between factors. A Gantt chart (D) is a project management timeline tool.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A local health center is launching a community health assessment. What data is recommended to identify the potential needs of the population? (Duplicate of Q141 — listed once)",
+      "options": {
+        "a": "Zip codes for patients frequently using the emergency department",
+        "b": "Highest level of education of healthcare professionals",
+        "c": "Top five diagnoses for patient visits",
+        "d": "Number of fast food restaurants in the area"
+      },
+      "correct_option": "c",
+      "explanation": "Top five diagnoses for patient visits. A community health assessment aims to identify the health needs of the defined population. The top five diagnoses for patient visits directly reflects the actual disease burden and health conditions most prevalent in the community — providing actionable, clinically relevant data to guide program planning. ZIP codes for ED users (A) captures high utilizers but not population-level health needs. Healthcare professional education levels (B) reflects workforce characteristics, not population health needs. Number of fast food restaurants (D) is an environmental/SDOH proxy that is too indirect for primary needs identification. Per CDC Community Health Assessment frameworks and PHAB standards, epidemiological data (diagnoses) is the primary evidence source.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A nurse inadvertently hung an IV medication on the wrong patient's IV pump, but discovered the error prior to initiating the infusion. Patient harm was averted, and the nurse disclosed the error to a healthcare quality professional. The quality professional should",
+      "options": {
+        "a": "Encourage the nurse to report the near-miss error through the adverse event reporting system.",
+        "b": "Recommend that the nurse undergo additional medication safety training.",
+        "c": "Perform no additional action since the error did not affect the patient, and the nurse disclosed the near-miss.",
+        "d": "Report the nurse to the manager for not performing safety checks prior to medication administration."
+      },
+      "correct_option": "a",
+      "explanation": "Encourage the nurse to report the near-miss error through the adverse event reporting system. Near-miss events — safety incidents that could have caused harm but did not — are critically important learning opportunities. AHRQ, IHI, and The Joint Commission all emphasize that near-miss reporting is essential to building a culture of safety and preventing future events. The quality professional's role is to support reporting, not to suppress it because harm did not occur. Recommending additional training (B) is a punitive, individual-focused response that ignores the system factors. Taking no action (C) wastes a valuable safety signal. Reporting the nurse to management (D) is punitive and violates Just Culture principles. Near-miss events must be captured, analyzed, and used to prevent sentinel events.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization has been providing cardiac care to patients. Leaders are interested in seeing how their outcomes compare with other organizations that are providing similar care. Which of the following types of programs should this organization consider participating in? (Duplicate — listed once)",
+      "options": {
+        "a": "Registry",
+        "b": "Network",
+        "c": "Research",
+        "d": "Certification"
+      },
+      "correct_option": "a",
+      "explanation": "Registry. A clinical registry is a database that systematically collects standardized data on patients with specific diagnoses or who have undergone specific procedures — enabling organizations to compare their outcomes against peer institutions providing similar care. Cardiac registries (e.g., STS, ACC NCDR) are the gold standard for cardiac outcome benchmarking. A network (B) facilitates collaboration but not necessarily standardized outcome comparison. Research programs (C) focus on generating new knowledge, not benchmarking. Certification (D) recognizes standards attainment but does not facilitate comparative outcome data across organizations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization conducts daily briefing sessions. Which of the following questions demonstrates a culture of safety?",
+      "options": {
+        "a": "Do we have available beds in the ICU?",
+        "b": "Did anything happen last night that could lead to a central line infection?",
+        "c": "Who is the last person that committed a medication error?",
+        "d": "What was the patient's intake and output?"
+      },
+      "correct_option": "b",
+      "explanation": "Did anything happen last night that could lead to a central line infection? A culture of safety is characterized by proactive, systems-oriented, non-punitive communication about risks and near-misses. Question B reflects a proactive risk assessment mindset — anticipating potential harm events before they occur. This is the hallmark of high-reliability organizations (HROs) as defined by AHRQ and IHI. Question A is operational/capacity management. Question C identifies individuals — this is a blame-focused, Just Culture-violating question that actively undermines safety culture. Question D is a clinical monitoring question. The safety culture question is always the one that anticipates risk and focuses on systems, not individuals.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital installed a new patient safety event reporting system. During the failure modes and effects analysis (FMEA), decreased use of the system and complexity of reporting were identified as potential failures. What should the team use to determine which failure mode to address first? (Duplicate — listed once)",
+      "options": {
+        "a": "Detectability",
+        "b": "Frequency of occurrence",
+        "c": "Severity",
+        "d": "Risk priority number"
+      },
+      "correct_option": "d",
+      "explanation": "Risk priority number. In FMEA, the Risk Priority Number (RPN) is calculated as: RPN = Severity × Occurrence × Detectability. It is precisely this composite score that determines which failure mode should be addressed first — it integrates all three individual factors (A, B, C) into a single prioritization metric. Addressing failures based on any single factor alone (severity only, or frequency only) would produce incomplete prioritization. The RPN provides the most comprehensive, defensible basis for prioritizing corrective action. This is standard FMEA methodology per ASQ, IHI, and AHRQ patient safety frameworks.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A nursing home has established a quality indicator to accomplish a 5% reduction in falls. A guideline has been developed and implemented. After six months, the goal has not been reached. The next action steps should include",
+      "options": {
+        "a": "Revising annual evaluations to include compliance with fall prevention guidelines.",
+        "b": "Providing feedback on a weekly basis rather than displaying data over time.",
+        "c": "Measuring employee competency on understanding and use of the guideline.",
+        "d": "Continuing to measure outcomes monthly and re-evaluate every three months."
+      },
+      "correct_option": "c",
+      "explanation": "Measuring employee competency on understanding and use of the guideline. When a guideline has been implemented but the goal has not been achieved after six months, the most productive next step is to assess why the guideline is not working — and the most common root cause is a gap in staff knowledge, skill, or adherence to the guideline. Measuring employee competency directly evaluates whether staff understand and are correctly applying the fall prevention protocol. Revising annual evaluations (A) is a long-cycle HR intervention. Providing weekly feedback without trend data (B) actually removes valuable run-chart context. Continuing without change (D) ignores the signal that the current approach is insufficient. Per CMS and IHI fall prevention frameworks, competency assessment is the first diagnostic step when evidence-based guidelines fail to produce results.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A team has identified that labeled cutting boards are needed in a kitchen to decrease cross-contamination. After a new process has been implemented, it is discovered that the labeled cutting boards are not being used. Which of the following is the next action the team should take?",
+      "options": {
+        "a": "Initiate progressive discipline.",
+        "b": "Conduct a root cause analysis.",
+        "c": "Increase monitoring.",
+        "d": "Determine barriers to compliance."
+      },
+      "correct_option": "d",
+      "explanation": "Determine barriers to compliance. When a newly implemented process is not being followed, the first question is why — and the most direct way to answer that is to identify the barriers to compliance. This is a process improvement response, not a punitive one. Barriers may include inadequate training, inconvenient placement of cutting boards, lack of awareness, or workflow design issues. Determining barriers (D) is more targeted and efficient than a full RCA (B), which is reserved for serious adverse events. Increasing monitoring (C) detects non-compliance but does not fix it. Progressive discipline (A) is a punitive approach that assumes willful non-compliance without first understanding the reason — violating Just Culture principles.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In reviewing information offered by the Agency for Healthcare Research and Quality (AHRQ), the quality improvement (QI) specialist recognizes that the three broad aims pursued by the National Quality Strategy are",
+      "options": {
+        "a": "Reduce medical waste, use Lean, and achieve equity and better access to care.",
+        "b": "Reduce complications, reduce readmissions, and improve health outcomes.",
+        "c": "Better care, healthy people/health communities, and affordable care.",
+        "d": "Triple aim, reduce utilization, and affordable care."
+      },
+      "correct_option": "c",
+      "explanation": "Better care, healthy people/health communities, and affordable care. The National Quality Strategy (NQS), established by AHRQ under the Affordable Care Act, is organized around three broad aims: (1) Better Care — improving the overall quality of care; (2) Healthy People/Healthy Communities — improving the health of the U.S. population; and (3) Affordable Care — reducing the cost of quality healthcare. These are the exact, canonically stated NQS aims. Options A, B, and D are fabrications or partial mischaracterizations. This is a direct factual knowledge question that appears regularly on the CPHQ exam — the three aims must be memorized verbatim.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A new urgent care clinic is setting up a quality management system. Which of the following is the best choice as a process measure to evaluate effective clinical care?",
+      "options": {
+        "a": "Percent of patients that rate care as satisfactory or highly satisfactory",
+        "b": "Raw number of influenza vaccines given in the annual flu season",
+        "c": "Percent of antibiotic prescriptions that meet evidence-based guidelines",
+        "d": "Average wait time between check-in and seeing a provider"
+      },
+      "correct_option": "c",
+      "explanation": "Percent of antibiotic prescriptions that meet evidence-based guidelines. A process measure evaluates what is done during care delivery — specifically whether care processes conform to evidence-based standards. The percent of antibiotic prescriptions meeting evidence-based guidelines directly measures clinical decision-making against established standards — this is a process measure of clinical care quality. Patient satisfaction (A) is an experience/outcome measure. Raw vaccine count (B) is an output/volume measure, not a rate-based process measure. Wait time (D) is an access/efficiency process measure, not a clinical care quality measure. The key distinction is: the question asks for a process measure of clinical care — only C measures a clinical action against a standard.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An effective method to increase an organization's board of directors' engagement in patient safety is to (Duplicate — listed once)",
+      "options": {
+        "a": "Foster teamwork and good communication at all levels of the organization and conduct training for both of these skill sets.",
+        "b": "Structure the board agenda so that quality and safety are given the same amount of attention as financial issues.",
+        "c": "Focus on improvement projects that are important to the medical staff in the organization.",
+        "d": "Guide them through a recent failure mode and effects analysis (FMEA) that was conducted prior to the launch of a new technology."
+      },
+      "correct_option": "b",
+      "explanation": "Structure the board agenda so that quality and safety are given the same amount of attention as financial issues. Board engagement in patient safety requires structural integration — embedding quality and safety as a permanent, equally weighted agenda item alongside financial reporting. When quality metrics receive the same board-level attention as financial performance, it signals organizational priority and drives governance accountability. Fostering teamwork (A) is an operational strategy, not a board engagement strategy. Focusing on medical staff priorities (C) narrows the scope inappropriately. Walking the board through an FMEA (D) is a one-time educational exercise, not a sustainable engagement mechanism. Per TJC Leadership standards and IHI governance frameworks, board-level structural integration is the most effective lever for sustained safety engagement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In preparation for a provider organization accreditation survey, the most effective method for identifying training needs for staff is",
+      "options": {
+        "a": "Conducting a gap analysis with an interdisciplinary team.",
+        "b": "Benchmarking with other organizations.",
+        "c": "Engaging a consultant to identify areas needing improvement.",
+        "d": "Comparing competency requirements with other facilities."
+      },
+      "correct_option": "a",
+      "explanation": "Conducting a gap analysis with an interdisciplinary team. A gap analysis systematically compares current staff knowledge, skills, and competencies against the accreditation standards required — directly identifying where training is needed. Conducting this with an interdisciplinary team ensures that gaps across all departments and roles are captured, not just those visible from a single perspective. Benchmarking with other organizations (B) reveals comparative performance but not specific internal training gaps. An external consultant (C) may be useful but is less effective than internal interdisciplinary expertise in knowing the organization's specific context. Comparing competency requirements with other facilities (D) is benchmarking, not needs assessment. Per TJC HR standards and CPHQ domain frameworks, gap analysis is the foundational tool for training needs identification.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare quality professional is conducting a study to determine how many patients contracted influenza despite receiving flu shots. This study is evaluating",
+      "options": {
+        "a": "Appropriateness.",
+        "b": "Process.",
+        "c": "Prevalence.",
+        "d": "Efficacy."
+      },
+      "correct_option": "d",
+      "explanation": "Efficacy. Efficacy refers to the ability of an intervention to produce the desired effect under real-world conditions — in this case, whether the flu vaccine actually prevents influenza infection in the patient population that received it. Measuring how many vaccinated patients still contracted influenza directly tests the vaccine's protective efficacy. Appropriateness (A) would ask whether the vaccine was the right intervention for the population. Process (B) would examine whether the vaccine was administered correctly. Prevalence (C) would measure how widespread influenza is in the population, regardless of vaccination status. This is a vaccine effectiveness study — the correct term is efficacy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The median is defined as the",
+      "options": {
+        "a": "Difference between a data item and the mean of a data set.",
+        "b": "Most frequently occurring value in a data set.",
+        "c": "Arithmetic average of a data set.",
+        "d": "Number that divides an ordered data set into two equal parts."
+      },
+      "correct_option": "d",
+      "explanation": "Number that divides an ordered data set into two equal parts. The median is the middle value in a dataset arranged in ascending or descending order — it splits the distribution into two equal halves. Option A describes the deviation from the mean. Option B describes the mode. Option C describes the mean (average). These three measures of central tendency — mean, median, and mode — are foundational statistical concepts for the CPHQ exam. The median is preferred over the mean when data is skewed or contains outliers, because it is not distorted by extreme values.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Technology design that prevents a certain action, or requires that another action happen first, is said to have",
+      "options": {
+        "a": "Control limits.",
+        "b": "Kaizen.",
+        "c": "Process flow.",
+        "d": "Forcing function."
+      },
+      "correct_option": "d",
+      "explanation": "Forcing function. A forcing function is an error-prevention design strategy that makes it physically or systematically impossible to perform an incorrect action — or that requires a prerequisite action before proceeding. Classic healthcare examples include IV tubing that cannot be connected to the wrong port, or EHR systems that require allergy documentation before medication orders can be completed. Control limits (A) are statistical boundaries on a control chart. Kaizen (B) is the Lean principle of continuous incremental improvement. Process flow (C) describes the sequence of steps in a process. Forcing functions represent the highest level of error-proofing (poka-yoke) in patient safety design, per AHRQ and IHI safety system frameworks.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The primary purpose of practice guidelines is to",
+      "options": {
+        "a": "Decrease malpractice premiums.",
+        "b": "Minimize variations.",
+        "c": "Document outcomes.",
+        "d": "Decrease the length of stay."
+      },
+      "correct_option": "b",
+      "explanation": "Minimize variations. Practice guidelines are systematically developed statements that guide clinical decision-making for specific conditions — their primary purpose is to reduce unwarranted variation in clinical practice by standardizing care based on best available evidence. Variation reduction improves quality, safety, and consistency of outcomes across providers and settings. Decreasing malpractice premiums (A) may be an indirect benefit but is not the purpose. Documenting outcomes (C) is a measurement activity separate from guideline function. Decreasing length of stay (D) may result from standardized care, but it is a consequence, not the purpose. This aligns with IOM, AHRQ, and NQF definitions of clinical practice guidelines.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional was asked to assist with strategic planning. Which of the following should have the primary impact on the quality and performance improvement goals?",
+      "options": {
+        "a": "Results of gap analysis",
+        "b": "Findings from a staff needs assessment",
+        "c": "Financial statement of the organization",
+        "d": "Report of major competitors' performance"
+      },
+      "correct_option": "a",
+      "explanation": "Results of gap analysis. Strategic quality and performance improvement goals must be grounded in a clear understanding of where the organization currently stands versus where it needs to be — and this is precisely what a gap analysis provides. Gap analysis compares current performance against desired standards, benchmarks, or regulatory requirements, generating a prioritized list of improvement opportunities. Staff needs assessment (B) informs training strategy, not overall QI goal-setting. Financial statements (C) inform resource allocation, not quality strategy direction. Competitor performance (D) provides benchmarking context but is not the primary driver of internal quality goals. Per the CPHQ exam framework, gap analysis is the foundational input to quality strategic planning.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A performance improvement team was formed to reduce the inappropriate ordering of two expensive lab tests. The goal was to reduce the rate of inappropriate ordering of Test A by 20% and Test B by 5%. The results of the pilot group showed a 30% drop in Test A orders and a 3% drop in Test B orders. What additional information would be of most benefit to gain final administrative approval to implement the change organization-wide?",
+      "options": {
+        "a": "The cost savings resulting from the project",
+        "b": "Feedback from providers that ordered Test A",
+        "c": "The total number of Test A and Test B labs ordered",
+        "d": "The number of providers that were educated on the change"
+      },
+      "correct_option": "a",
+      "explanation": "The cost savings resulting from the project. Administrative approval for organization-wide implementation requires a business case — and the most compelling element of that business case is demonstrated cost savings. The pilot already showed clinical improvement (30% drop in Test A, which exceeded the goal). What administration needs to approve scaling is the financial return on investment. Provider feedback (B) is useful for process refinement but is not the primary driver of administrative approval. Total volume of tests ordered (C) provides denominator context but is not as compelling as cost savings to leadership. Number of providers educated (D) is a process metric, not an outcome. Executives and administrators respond to financial data — demonstrating cost savings is the decisive factor.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the quality professional's first step prior to implementing a new infection prevention protocol in the clinic?",
+      "options": {
+        "a": "Create an education program around the protocol.",
+        "b": "Implement an audit process.",
+        "c": "Solicit support from key stakeholders.",
+        "d": "Develop a communication plan."
+      },
+      "correct_option": "c",
+      "explanation": "Solicit support from key stakeholders. Before implementing any new protocol, the quality professional must secure stakeholder buy-in — without it, implementation will fail regardless of how well-designed the protocol or education program may be. Stakeholder engagement is the foundational prerequisite for any organizational change initiative, as established in change management theory (Kotter's 8-Step Model) and IHI improvement frameworks. Creating an education program (A), an audit process (B), or a communication plan (D) are all subsequent steps that depend on stakeholder alignment being established first. Resistance from key stakeholders — physicians, nursing leadership, infection control staff — can derail even the most scientifically sound protocol.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The health department cited a clinic for storing used instruments improperly. From a quality perspective, which of the following should be done first?",
+      "options": {
+        "a": "Prepare a detailed action plan.",
+        "b": "Educate staff on the requirements.",
+        "c": "Conduct an audit of the corrective action.",
+        "d": "Identify the root cause of the noncompliance."
+      },
+      "correct_option": "a",
+      "explanation": "Prepare a detailed action plan. When a regulatory citation is received from a health department or accrediting body, the mandatory first response is to develop a formal corrective action plan (CAP) — a structured document that identifies the specific deficiency, its root cause, the corrective actions to be taken, the responsible parties, and the timeline for resolution. Regulatory bodies including CMS, state health departments, and The Joint Commission universally require a CAP as the formal response before any other actions are validated or accepted. Staff education (B) and auditing of corrective actions (C) are components that occur within the CAP, not before it. Root cause identification (D) is incorporated into the CAP development process itself — it is a step within the plan, not a standalone prerequisite. The CAP is both the regulatory expectation and the quality management standard for responding to citations, per CMS Conditions of Participation and TJC Standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A performance improvement specialist at an ambulatory surgery center is facilitating a Plan-Do-Study-Act (PDSA) cycle process to improve the rate of hand hygiene amongst surgical post-recovery staff to 90% or above. Data from the past 12 months are as follows: Data table — Time Period | % Compliance; Baseline | 60%; Q1 | 87%; Q2 | 79%; Q3 | 91%; Q4 | 72% The specialist is preparing to discuss aggregate results with the Quality Committee. To most accurately convey the results, the specialist highlights the",
+      "options": {
+        "a": "Lack of overall change over the past 12 months indicates the process was unsuccessful.",
+        "b": "Contributing factors to the variation in results over the past 12 months.",
+        "c": "Sharp and consistent decline in results over the past 12 months.",
+        "d": "Overall improvement over the past 12 months."
+      },
+      "correct_option": "b",
+      "explanation": "Contributing factors to the variation in results over the past 12 months. Working: Baseline: 60% → Q1: 87% (+27 points) → Q2: 79% (-8 points) → Q3: 91% (+12 points, above goal) → Q4: 72% (-19 points, below goal). Net change from baseline to Q4: +12 percentage points. The data shows significant fluctuation — the goal of 90% was achieved in Q3 but not sustained. There is no consistent trend (rules out C). There IS overall improvement from baseline (rules out A as \"no change\"). The data did not show sustained improvement (D overstates the conclusion). The most accurate and actionable characterization for the Quality Committee is the variation in results — understanding what drove Q1's success, Q2's drop, Q3's peak, and Q4's regression is the central learning opportunity from this PDSA cycle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization had three medication incidents associated with narcotics. None of the events led to permanent loss of function or death, but could be considered near misses. Which of the following would be the best tool to use to identify influencing factors?",
+      "options": {
+        "a": "Report from electronic health record (EHR)",
+        "b": "Root cause analysis (RCA)",
+        "c": "Proactive risk assessment",
+        "d": "Nominal group technique"
+      },
+      "correct_option": "b",
+      "explanation": "Root cause analysis (RCA). Root cause analysis is the standard tool for investigating adverse events and near-miss events to identify the underlying system and process factors that contributed to the incident — the \"influencing factors\" the question is asking about. Three near-miss narcotic incidents constitute a significant pattern that warrants RCA to prevent escalation to serious harm. An EHR report (A) provides data but does not analyze contributing factors. Proactive risk assessment (C) — such as FMEA — is used before events occur, not in response to them. Nominal group technique (D) is a structured group decision-making/prioritization method, not an event investigation tool. Per TJC and AHRQ, RCA is the definitive post-event analysis methodology.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Prior to implementing a new patient service, the healthcare quality professional should recommend",
+      "options": {
+        "a": "Developing a safety monitoring checklist.",
+        "b": "Conducting a root cause analysis (RCA).",
+        "c": "Initiating a failure modes and effects analysis (FMEA).",
+        "d": "Performing just-in-time staff safety training."
+      },
+      "correct_option": "c",
+      "explanation": "Initiating a failure modes and effects analysis (FMEA). FMEA is the proactive risk assessment tool used prior to implementation of a new service, process, or technology. It systematically identifies what could go wrong, how likely it is, how severe the consequences would be, and how detectable it would be — enabling the team to engineer safeguards before patients are exposed to risk. RCA (B) is reactive — it is conducted after an adverse event occurs, not before implementation. A safety monitoring checklist (A) is a post-implementation monitoring tool. Just-in-time training (D) is a preparation step, not a risk analysis. Per IHI and TJC patient safety standards, FMEA is the required pre-implementation safety tool.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Recognition of the formal and informal structure of an organization is necessary when implementing a quality improvement program because",
+      "options": {
+        "a": "Teams need to be self-directing.",
+        "b": "Informal leaders can be influential.",
+        "c": "Quality improvement programs must consult all levels before recommending policies.",
+        "d": "Organizational structure should have low variability."
+      },
+      "correct_option": "b",
+      "explanation": "Informal leaders can be influential. In organizational change management, informal leaders — individuals who hold no formal authority but command respect, trust, and influence among their peers — are often more powerful change agents (or resistors) than formal leaders. Understanding the informal organizational structure allows the quality professional to identify and engage these influencers, dramatically increasing the likelihood of successful QI implementation. Teams being self-directing (A) is a team development principle, not a reason to understand organizational structure. Consulting all levels (C) describes stakeholder engagement, not the reason organizational structure matters. Low variability in structure (D) is not a quality management principle.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital collects patient satisfaction data by mailing surveys to patients discharged home and analyzes the responses they receive. What is the most significant limitation of this sampling methodology?",
+      "options": {
+        "a": "Patients may not respond to all questions in the survey.",
+        "b": "Responses will be time-consuming to convert from hard copy responses to soft copies for data storage.",
+        "c": "Hospital employees have no control over which patients respond to the survey.",
+        "d": "Patients who respond to the survey may not be representative of all discharged patients."
+      },
+      "correct_option": "d",
+      "explanation": "Patients who respond to the survey may not be representative of all discharged patients. The most significant limitation of voluntary mail surveys is non-response bias — those who choose to respond (typically patients with extremely positive or extremely negative experiences) are systematically different from non-responders, making the sample unrepresentative of the overall discharged population. This threatens the external validity of the findings. Option C is related but frames the issue as a control problem rather than the fundamental representativeness problem. Incomplete responses (A) affect data quality but are a lesser concern than sampling bias. Data conversion burden (B) is an operational, not a scientific, limitation. Non-response bias is the definitive, most significant limitation in voluntary survey methodology — as recognized by AHRQ in HCAHPS methodology documentation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization has decided that the healthcare quality professional will provide performance improvement training to all supervisors. The first step is to",
+      "options": {
+        "a": "Determine current knowledge of the supervisors.",
+        "b": "Develop the content outline.",
+        "c": "Assess the past performance of the group.",
+        "d": "Provide a pretraining reading list."
+      },
+      "correct_option": "a",
+      "explanation": "Determine current knowledge of the supervisors. The first step in any training program development — per ADDIE (Analyze, Design, Develop, Implement, Evaluate) and adult learning theory — is a needs assessment, which includes determining what learners already know. Understanding the current knowledge level of the supervisors allows the quality professional to calibrate content appropriately, avoid redundancy, and identify true learning gaps. Developing the content outline (B) comes after the needs assessment. Assessing past performance (C) is relevant context but is broader than a learning needs assessment. A pretraining reading list (D) is a preparation activity for participants, not the first step for the program developer.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is a purpose of a Pareto chart?",
+      "options": {
+        "a": "Examining relationships between variables during a snapshot of time",
+        "b": "Creating a graphical display of the process flow",
+        "c": "Showing central tendency and variability of a data set",
+        "d": "Sorting data categories by frequency to enable prioritization"
+      },
+      "correct_option": "d",
+      "explanation": "Sorting data categories by frequency to enable prioritization. A Pareto chart is a bar graph that ranks categories of data from highest to lowest frequency, with a cumulative percentage line overlaid — its defining purpose is to identify the \"vital few\" categories that account for the majority of occurrences (the 80/20 rule), enabling prioritized resource allocation. Option A describes a scatter diagram. Option B describes a flowchart. Option C describes a histogram or box plot. The Pareto chart is the standard prioritization tool in QI, directly derived from Juran's quality management principles — distinguishing it from other charts is a core CPHQ exam competency.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the appropriate group to review care delivered by an individual physician to a patient who suffered a serious adverse event?",
+      "options": {
+        "a": "Peer review committee",
+        "b": "Quality council",
+        "c": "Governing body",
+        "d": "Bioethics committee"
+      },
+      "correct_option": "a",
+      "explanation": "Peer review committee. Individual physician performance review — particularly in the context of a serious adverse event — falls within the exclusive jurisdiction of the peer review committee. Peer review is a clinician-led, confidential, legally protected process designed to evaluate the appropriateness and quality of care rendered by an individual practitioner. The quality council (B) oversees organizational QI programs — it does not review individual physician performance. The governing body (C) receives summary reports and has oversight responsibility but does not conduct case-level clinical review. The bioethics committee (D) addresses ethical dilemmas in care decisions, not practitioner performance. Peer review protection statutes in all U.S. states protect this process specifically.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An improvement project was implemented to expand utilization of primary care services in a rural area where only 5% of residents sought primary care. The team established a goal of 20% of residents using primary care. The table below shows the results for the four months following implementation: Data table — Time | % Residents Using Primary Care; Baseline | 5%; Month 1 | 15%; Month 2 | 20%; Month 3 | 21%; Month 4 | 22% Which of the following should the quality professional recommend to the organization?",
+      "options": {
+        "a": "Implement another improvement cycle.",
+        "b": "Monitor for sustainment.",
+        "c": "Assess patient satisfaction with providers.",
+        "d": "Expand the project scope to address additional rural health needs."
+      },
+      "correct_option": "b",
+      "explanation": "Monitor for sustainment. The improvement goal of 20% was achieved in Month 2 and has been sustained and exceeded in Months 3 and 4. Per the IHI Model for Improvement and PDSA cycle methodology, when an aim has been achieved and the improvement is holding, the appropriate next action is to shift from active improvement work to monitoring for sustainment — ensuring that gains are maintained over time through standardization and ongoing measurement. Implementing another improvement cycle (A) is premature when the goal has already been met. Assessing patient satisfaction (C) is a secondary metric that does not address the primary goal. Expanding project scope (D) is a future planning activity, appropriate only after sustainment is confirmed over a longer period.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the appropriate group to review care delivered by an individual physician to a patient who suffered a serious adverse event?",
+      "options": {
+        "a": "Peer review committee",
+        "b": "Quality council",
+        "c": "Governing body",
+        "d": "Bioethics committee"
+      },
+      "correct_option": "a",
+      "explanation": "Peer review committee. Individual physician performance review — particularly in the context of a serious adverse event — falls within the exclusive jurisdiction of the peer review committee. Peer review is a clinician-led, confidential, legally protected process designed to evaluate the appropriateness and quality of care rendered by an individual practitioner. The quality council (B) oversees organizational QI programs — it does not review individual physician performance. The governing body (C) receives summary reports and has oversight responsibility but does not conduct case-level clinical review. The bioethics committee (D) addresses ethical dilemmas in care decisions, not practitioner performance. Peer review protection statutes in all U.S. states protect this process specifically, and The Joint Commission Medical Staff Standards (MS.08.01.01) require that peer review be conducted by qualified peers — other physicians in the same or similar specialty.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which initiative should a quality professional promote in an organization seeking to optimize value-based reimbursement?",
+      "options": {
+        "a": "Standardize joint replacement care pathways.",
+        "b": "Implement computerized provider order entry (CPOE).",
+        "c": "Reduce use of inpatient restraints.",
+        "d": "Improve hand hygiene compliance."
+      },
+      "correct_option": "a",
+      "explanation": "Standardize joint replacement care pathways. Value-based reimbursement (VBR) models — including CMS Bundled Payments for Care Improvement (BPCI) and the Comprehensive Care for Joint Replacement (CJR) model — directly tie reimbursement to quality outcomes and cost efficiency for specific episodes of care, including joint replacements. Standardizing joint replacement care pathways directly addresses both the quality and cost dimensions of value — reducing variation, preventing complications, and controlling episode costs. CPOE (B) improves medication safety but is not specifically tied to VBR optimization. Restraint reduction (C) and hand hygiene (D) are patient safety initiatives but are not the primary drivers of value-based reimbursement performance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient safety program can best be enhanced by which of the following technologies?",
+      "options": {
+        "a": "Barcode system for medication administration",
+        "b": "Digital medication reference materials",
+        "c": "Computers on wheels at the patient's bedside",
+        "d": "Online evidence-based medicine guidelines"
+      },
+      "correct_option": "a",
+      "explanation": "Barcode system for medication administration. Barcode Medication Administration (BCMA) technology directly prevents medication errors at the point of care by requiring electronic verification of the five rights (right patient, right drug, right dose, right route, right time) before a medication can be administered. BCMA has been shown by AHRQ and IHI to significantly reduce medication administration errors — one of the leading causes of patient harm. Digital reference materials (B) and evidence-based guidelines (D) are informational tools that support clinical decision-making but do not actively intercept errors. Computers on wheels (C) facilitate access to information but are not themselves a patient safety intervention. BCMA represents a forcing function — the highest tier of error prevention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An extended care facility measures the percent of time a comprehensive exam is completed within 96 hours of admission. This is an example of which of the following types of measure?",
+      "options": {
+        "a": "Structure",
+        "b": "Process",
+        "c": "System",
+        "d": "Outcome"
+      },
+      "correct_option": "b",
+      "explanation": "Process. This measure evaluates whether a specific clinical action (comprehensive exam) is being performed within a specified timeframe — this is the defining characteristic of a process measure: it measures whether the right care is being delivered in the right way. A structure measure (A) evaluates resources, policies, and organizational capacity (e.g., staffing ratios, EHR availability). An outcome measure (D) evaluates the result of care on the patient (e.g., complication rate, mortality). \"System\" (C) is not a standard Donabedian measure category. The Donabedian framework (Structure-Process-Outcome) is foundational to CPHQ exam measurement questions — the key is to identify what is being measured: if it's a step in the care process, it's a process measure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes how a quality professional should conduct an organizational assessment to ensure safe transitions of care?",
+      "options": {
+        "a": "Review patient feedback about transfers to skilled nursing facilities.",
+        "b": "Assess case management discharge and transfer records.",
+        "c": "Evaluate processes for discharges and transfers.",
+        "d": "Audit documentation of patient discharge summaries."
+      },
+      "correct_option": "c",
+      "explanation": "Evaluate processes for discharges and transfers. An organizational assessment of transitions of care must be comprehensive — examining the processes governing how discharges and transfers are conducted across the organization, not just one data source or one document type. Process evaluation allows the quality professional to identify systemic gaps in handoff communication, care coordination, and documentation. Patient feedback (A) captures one stakeholder's perspective — valuable but not comprehensive. Reviewing case management records (B) is one data source. Auditing discharge summaries (D) is one documentation check. A full organizational assessment requires examining the end-to-end process — per AHRQ's Care Transitions frameworks and TJC National Patient Safety Goals on handoff communication.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Choosing a small number of items to represent characteristics of the whole is an example of",
+      "options": {
+        "a": "Outlier identification.",
+        "b": "Statistical significance.",
+        "c": "Sampling methodology.",
+        "d": "Benchmarking."
+      },
+      "correct_option": "c",
+      "explanation": "Sampling methodology. Sampling methodology is defined as the process of selecting a subset (sample) of items from a larger population in order to draw inferences about the characteristics of that whole population. This is the precise definition embedded in the question stem. Outlier identification (A) refers to detecting data points that fall outside expected ranges. Statistical significance (B) is a probability-based judgment about whether observed differences are likely due to chance. Benchmarking (D) involves comparing performance against an external standard or peer organizations. Sampling is foundational to healthcare quality data collection — and the CPHQ exam tests both the definition and the application of sampling techniques including random, systematic, stratified, and convenience sampling. Data table — # | Stem | Confirmed answer; Q4 | QI council deploying a patient safety initiative — which group must be in the communication plan | B — Adopter audiences; Q6 | Team members not completing assignments — which tool gets the team back on track | A — Gantt chart; Q11 | Which characteristics best describe a learning organization | B — Adaptability, systems thinking, willingness to challenge assumptions; Q14 | Team at six months without desired result — assessment of team effectiveness should include | A — Evaluating barriers impacting team productivity; Q15 | PI coordinator can't keep new team focused on reducing wait times — first examine | A — Composition of the team; Q17 | Role of the healthcare quality professional in strategic planning | A — Provide data on performance indicators; Q18 | The most important determinant of quality improvement success | A — Organizational culture; Q22 | An important responsibility of each team member on a project | A — Complete assignments between meetings; Q23 | Who aligns resources and ensures accountability in an improvement project | B — Sponsor; Q25 | An effective meeting requires which of the following | B — Planned agenda; Q43 | New pediatric psych unit UM program — success depends on | C — Involving team members in program development; Q51 | Council developing objectives must remember that objectives | D — State the end result or desired outcome; Q55 | Team members complain of insufficient decision-making authority — which document addresses this | D — Team charter; Q60 | Team facilitation training based on adult learning principles | A — Have participants practice facilitation during class; Q64 | Training clinical leaders about quality improvement — incorporate | B — Opportunity to practice what was taught; Q76 | Action illustrating work begun toward the Malcolm Baldrige Award | C — Reviewing Baldrige criteria to determine organizational readiness; Q78 | An organization's culture is best assessed by examining | A — Behavioural alignment with the core values; Q82 | Governing body chair requests annual report on patient care improvements | C — Overview of the quality program specifying effects on patient care; Q86 | Best information for a Quality Council evaluating QI team effectiveness | A — Team dynamics feedback, milestone attainment, and results of the work; Q111 | Effective method to increase board engagement in patient safety | B — Structure the board agenda so quality and safety receive priority; Q117 | What should have primary impact on quality/performance in strategic planning | A — Results of gap analysis; Q119 | First step before implementing a new infection prevention protocol | C — Solicit support from key stakeholders; Q124 | Why recognizing formal and informal organizational structure matters | B — Informal leaders can be influential; Q126 | PI training to all supervisors — first step | A — Determine current knowledge of the supervisors Domain read: Over-built by 5.5 items. Strong on team dynamics and training, thin on strategic planning proper (Tasks 1.A.1–1.A.5) — only Q17 and Q117 sit there. Governance appears in Q82 and Q111 only. Data table — # | Stem | Confirmed answer; Q5 | Which is true of a clinical pathway | D — Used to reduce variations in care; Q19 | Initial step in clinical pathway development is review of | C — Data for targeted population; Q20 | Strategy promoting timely completion of a QI project | B — Assign the team leader to document overall project progress; Q26 | Tool to determine the root cause of variations in a process | B — Ishikawa diagram; Q40 | Aging population — challenge with practice guidelines | D — Most guidelines address a single issue, not multiple conditions; Q42 | Best example of a non-value-added step | D — Medication administration workaround; Q58 | Outpatient surgery patients presenting to ED with pain — best strategy | A — Standardize post-operative pain management protocols; Q62 | Lab turnaround delays — team's first step | A — Create a flow chart to study the process; Q63 | Complaints that registration is inefficient — next step | B — Focus group with patients; Q66 | Primary focus of Six Sigma methodology | A — Reducing variation; Q79 | Prioritizing QI initiatives — highest priority | B — Process to comply with a new regulatory requirement next quarter; Q80 | One purpose of clinical pathways | C — Reduce variability by establishing a standardized process; Q85 | Practice guidelines should be based on | B — Scientific evidence; Q91 | Internal customer of the SNF admission process | B — Nurse completing the initial assessment; Q97 | SMART aim statement evaluation — which element is missing | A — Time-bound; Q107 | Nursing home fall goal not met after six months — next action | C — Measure employee competency on understanding and use of the guideline; Q108 | Labeled cutting boards implemented — next step | D — Determine barriers to compliance; Q116 | Primary purpose of practice guidelines | B — Minimize variations; Q118 | Mixed pilot results — what supports administrative approval for spread | A — Cost savings resulting from the project; Q121 | PDSA at ambulatory surgery center — what to examine | B — Contributing factors to variation in results over 12 months; Q129 | Rural primary care utilization exceeded goal over four months — next step | B — Monitor for sustainment Domain read: Under-built by 5.4 items in the highest-weighted domain on the exam. Clinical pathways and guidelines are over-represented (Q5, Q19, Q80, Q85, Q116 — five items on two closely related constructs). Lean is nearly absent, PDSA appears only in Q121 and Q129, and there is no DMAIC item at all. Data table — # | Stem | Confirmed answer; Q1 | A strategy to address social determinants of health | C — Culturally competent patient education materials; Q8 | Identifying patients with multiple ED visits in six months | B — Hot-spotting; Q9 | Pulmonologist gathering SDOH data — purpose | C — Evaluates connections between disease and living conditions; Q10 | Organizational assessment for safe transitions of care | A — Evaluate processes for discharges and transfers; Q29 | Medication adherence barrier in an underserved area | C — Written instructions in patients' preferred language; Q33 | Building a new population health program — first step | D — Analyze data infrastructure capabilities and information sources; Q45 | Population health focus — organizations may use data to | A — Identify high-risk patients; Q48 | Increased type 2 diabetes near the organization — SDOH response | D — Collaborate with local farmers markets on fresh produce access; Q49 | Evaluating high ED utilizers and their characteristics supports | C — Population health management; Q65 | Diabetes center of excellence — level of prevention | D — Tertiary; Q81 | Best approach to motivate stakeholders across the care continuum | C — Publish unblinded outcome reports; Q88 | Best example of population health management | A — Timely access to eye examinations for people with diabetes; Q90 | Example of an SDOH used to monitor a QI initiative | D — Neighbourhood; Q93 | Data type best for identifying health-determinant information | A — Payor claims; Q100 | Best example of a patient-centered approach | B — Implementing patient portals; Q102 | Community health assessment — recommended data | C — Top five diagnoses for patient visits Domain read: Over-built by 5.3 items — the second-largest positive residual. SDOH is heavily covered (Q1, Q9, Q48, Q90, plus Q29 and Q93). Care transitions is covered by exactly one item (Q10). For a domain whose title names care transitions explicitly, that is a genuine gap inside an otherwise over-built domain. Q100 is dual-coded — person-centered care sits at the M1/M3 boundary in the task statements. Data table — # | Stem | Confirmed answer; Q2 | Percent of exams completed within 96 hours — type of measure | C — Process; Q13 | Choosing a small number of items to represent the whole | A — Sampling methodology; Q21 | A positive correlation is seen in a scatter diagram when | C — Increases on x relate to increases on y; Q24 | To assess compliance with quality standards, an organization needs | A — Standardized data collection methods; Q28 | Health plan collecting member satisfaction data | A — Data collected through questionnaires or surveys; Q30 | Hand hygiene 58–72% except Respiratory Therapy — next action | C — Validate that the Respiratory Therapy results are accurate; Q31 | Reporting infection control indicators to a governing body | A — Run chart; Q34 | A goal of measurement is valid, reliable data reflecting | A — Actual performance; Q44 | Could be used as an outcome measure during indicator development | D — Complication rate for a specific surgical procedure; Q50 | Before outcome data can be used for benchmarking, data should be | C — Adjusted for severity of illness; Q52 | Difference between highest and lowest observed values | C — Range; Q53 | To effectively communicate indicator results, disseminate to | B — Entire staff; Q61 | SNF diagnostic result delays — best measure of improvement | B — Turnaround time; Q77 | Fall rate requiring the most immediate investigation | A — 2 standard deviations above the average; Q84 | A criterion is valid if it | D — Measures what it is intended to measure; Q89 | Prioritizing education targets from aggregated occurrence data | C — Pareto chart; Q92 | Consensus group endorsing measures for public reporting | A — National Quality Forum; Q94 | Decreasing surgical LOS — what to measure | C — Delays between steps in the patient care process; Q95 | Safety reporting system evaluation — step before recommending | A — Prepare a comparative analysis of information gathered; Q96 | Process measures for wound care — first step | D — Search for evidence-based guidelines for wound care; Q98 | Third-party endorsed outcome measures for home health | D — National Quality Forum; Q101 | High-level measures grouped into learning/growth, customer, internal, financial | A — Balanced scorecard; Q104 | Comparing cardiac outcomes with other organizations | A — Registry; Q110 | Urgent care QMS — best process measure of effective clinical care | C — Percent of antibiotic prescriptions meeting evidence-based guidelines; Q113 | Study of patients contracting influenza despite vaccination | D — Efficacy; Q114 | The median is defined as | D — Number dividing an ordered data set into two equal parts; Q125 | Mailed satisfaction surveys — most significant limitation | D — Respondents may not be representative of all patients; Q127 | Purpose of a Pareto chart | D — Sorting data categories by frequency to enable prioritization; Q130 | Orthopedic time-out data table — conclusion about safety outcomes | ⚠️ NO CONFIRMED ANSWER — see defect note Domain read: Over-built by 3.6 items but the best-calibrated domain proportionally (χ² = 0.52). Measure selection and definitions are well covered. Statistical process control is thin — Q31 and Q77 only, with no control chart interpretation item. Note that NQF appears twice (Q92, Q98), which is redundancy rather than coverage. Data table — # | Stem | Confirmed answer; Q3 | Which most accurately describes medication reconciliation | A — Identifying and resolving medication discrepancies; Q7 | Example of human factors engineering to improve safety | D — Using checklists to complete complicated tasks; Q12 | An organization demonstrating a culture of safety | C — Learns from errors; Q27 | Technology that best enhances a patient safety program | A — Barcode system for medication administration; Q36 | Where the time-out takes place in ensuring correct surgery | B — Immediately before surgery; Q37 | Key concept in patient safety planning — design procedures that | B — Standardize patient care practices; Q38 | Which is true regarding critical values | B — Determined by the organization; Q39 | Infection prevention technique representing a human factors solution | B — Motion-sensor faucets; Q41 | Best action to reduce medication errors | D — Drill down on the data to identify trends before recommending; Q46 | Purpose of sentinel event review of never events | D — Specify sustainable systems-based improvements; Q47 | Patient safety program development in primary care — first step | D — Define the scope; Q54 | Why convene a multidisciplinary team for FMEA | A — So all steps in the process are captured and evaluated; Q56 | Initial step in creating a patient safety program | B — Assess the organization's current culture of safety; Q59 | Best strategy for executive leaders to improve patient safety | A — Model Just Culture practices; Q83 | Which incident requires root cause analysis | D — Procedure performed on the wrong knee; Q99 | Supporting safety when deploying a new ED admission process | B — Completing an FMEA of the new process; Q103 | IV medication hung on wrong patient, caught before infusion | A — Encourage the nurse to report the near-miss through the reporting system; Q105 | Daily briefing question demonstrating a culture of safety | B — Did anything happen last night that could lead to a CLABSI; Q106 | FMEA on a new reporting system — decreased use and staff avoidance | D — Risk priority number; Q115 | Design preventing an action or requiring another first | D — Forcing function; Q122 | Three narcotic incidents, no permanent harm but potential | B — Root cause analysis; Q123 | Prior to implementing a new patient service, recommend | C — Initiating an FMEA Domain read: Over-built by 4.4 items. FMEA is covered four times (Q54, Q99, Q106, Q123) and program-initiation first-steps three times (Q47, Q56, plus Q37). High reliability principles, disclosure, and second-victim support are entirely absent. Data table — # | Stem | Confirmed answer; Q75 | A managed care peer review committee should obtain first | B — Confidentiality statement; Q87 | Presenting a medication error trend to the nursing Quality Council — identify the nurse by | D — De-identified, no individual identifier; Q109 | The three broad aims of the National Quality Strategy | C — Better care, healthy people/communities, affordable care; Q128 | Appropriate group to review care by an individual physician after a serious adverse event | A — Peer review committee Domain read — this is the finding that matters. Four items against an expected 15.6. Two of the four (Q75, Q87) test the same construct: confidentiality of peer review and QI records. Effectively you have three distinct constructs covering a domain worth 16 scored questions — 12.8% of the exam. Entirely uncovered M6 task areas: Practitioner performance evaluation — no OPPE item, no FPPE item, no credentialing or privileging item Quality-based payment program compliance — nothing Documentation compliance evaluation — nothing Patient experience compliance — nothing Reportable event identification for accreditation and regulatory bodies — nothing Compliance evaluation for clinical practice guidelines, pathways, and outcomes — nothing (the pathway items in M2 test purpose and development, not compliance evaluation) Initiatives impacting reimbursement — nothing (Q16 is a VBR item but sits in M7) A student who mastered this entire bank would arrive at the exam with no preparation for roughly one item in every eight. Data table — # | Stem | Confirmed answer; Q16 | Initiative to promote when optimizing value-based reimbursement | A — Standardize joint replacement care pathways; Q32 | 300-bed organization applying to a new accreditation body — coordinator should first | A — Review the standards required for accreditation; Q35 | Continuous survey readiness must be supported and driven by | A — Executive team; Q57 | Delivering education for continuous survey readiness across many clinics | A — Train-the-trainer sessions with clinic managers; Q112 | Identifying training needs before an accreditation survey | A — Conducting a gap analysis with an interdisciplinary team; Q120 | Health department cited a clinic for improper instrument storage — do first | A — Prepare a detailed action plan Domain read: Under-built by 1.8 items — the smallest gap proportionally, but note that four of six items (Q32, Q35, Q57, Q112) all address survey readiness. Statutory and regulatory awareness (Task 7.B) is represented only by Q120. There is no item on CMS Conditions of Participation, deeming authority, or accreditor selection criteria. Also worth flagging: all six M7 answers are option A. That is a pattern artifact of the source document, not a content problem, but it will train students toward a position bias if they drill this domain in sequence. Fourteen of the 136 numbered items are duplicates. They are excluded above and must not be counted or sold as distinct content. Data table — Duplicate | Original | Domain of original; Q67 | Q59 | M5; Q68 | Q60 | M1; Q69 | Q61 | M4; Q70 | Q62 | M2; Q71 | Q63 | M2; Q72 | Q64 | M1; Q73 | Q65 | M3; Q74 | Q66 | M2; Q131 | Q16 | M7; Q132 | Q102 | M3; Q133 | Q27 | M5; Q134 | Q2 | M4; Q135 | Q10 | M3; Q136 | Q13 | M4",
+      "difficulty": "medium"
+    }
+  ]
+}

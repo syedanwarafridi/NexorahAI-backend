@@ -1,0 +1,65 @@
+{
+  "topic": "Health Data Analytics",
+  "questions": [
+    {
+      "text": "A hospital's quality team is reviewing CLABSI data. They discover that two different units are reporting infections using different definitions. One includes catheter-associated events within 48 hours of removal and the other does not. Which dimension of data quality has been violated?",
+      "options": {
+        "a": "Timeliness",
+        "b": "Validity",
+        "c": "Reliability",
+        "d": "Relevance"
+      },
+      "correct_option": "c",
+      "explanation": "Reliability. Reliability means the same collection process gives consistent results. When different units apply different definitions the collection process is inconsistent, violating reliability. This is distinct from validity which concerns whether the measure captures the right concept.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which step in the 12-Step Data Cycle would a quality team perform FIRST before beginning any data collection activity?",
+      "options": {
+        "a": "Aggregate and display data",
+        "b": "Define data elements",
+        "c": "Acquire and collect data",
+        "d": "Interpret data and information"
+      },
+      "correct_option": "b",
+      "explanation": "Define data elements. This is Step 3 of Phase I Design and Foundation. The data cycle requires identifying data sources, identifying information needs, and defining data elements before any collection occurs. Skipping foundational steps weakens accuracy and decisions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality analyst receives HEDIS performance data from the NCQA. She notices the data reflects performance from 18 months prior. Which characteristic of this data source BEST explains this lag?",
+      "options": {
+        "a": "It is internal data with a zero-lag decision point",
+        "b": "It is internal-via-external data with moderate lag",
+        "c": "It is external data published by outside organizations with the slowest lag",
+        "d": "It is concurrent data captured in real time"
+      },
+      "correct_option": "c",
+      "explanation": "External data published by outside organizations has the longest lag time. NCQA and HEDIS data typically reflects a prior measurement period and is publicly released months after the reporting period ends.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "After implementing a new hand hygiene protocol, a quality manager reviews monthly data and notices that compliance dropped suddenly in Month 8. According to the analysis framework, what should the manager do FIRST?",
+      "options": {
+        "a": "Report the data to leadership immediately and recommend a system-wide redesign",
+        "b": "Recalculate the mean and discard Month 8 as an outlier",
+        "c": "Investigate for a specific event or change that may have caused a non-random signal",
+        "d": "Expand the sample size to improve data reliability"
+      },
+      "correct_option": "c",
+      "explanation": "A sudden drop is characteristic of special cause variation which represents an unusual pattern caused by a specific event or change. The appropriate response is targeted root cause investigation before any system-wide intervention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following BEST describes the Summarise step of data analysis in a quality reporting context?",
+      "options": {
+        "a": "Present the raw data in the format most familiar to the audience",
+        "b": "Explain the values computed, document outliers removed, and tell the story behind the numbers in time order",
+        "c": "Use only quantitative tools to avoid subjective interpretation",
+        "d": "Communicate results only to senior leadership to maintain data security"
+      },
+      "correct_option": "b",
+      "explanation": "Summarization involves explaining how values were computed, clearly documenting any outliers removed and why, including time-ordered trending, and presenting the actionable story behind the numbers. It is the bridge between analysis and interpretation.",
+      "difficulty": "medium"
+    }
+  ]
+}

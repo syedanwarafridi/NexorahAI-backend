@@ -1,64 +1,64 @@
 {
-  "topic": "Patient Safety",
+  "topic": "Regulatory and Accreditation",
   "questions": [
     {
-      "text": "Which of the following is the primary goal of a Root Cause Analysis (RCA) following a sentinel event?",
+      "text": "A hospital's Emergency Department turns away a patient who presents with chest pain because the patient has no insurance. Under which federal law is this a violation?",
       "options": {
-        "a": "To assign blame to the responsible staff member",
-        "b": "To identify underlying system failures that contributed to the event",
-        "c": "To document the event for legal purposes",
-        "d": "To determine the financial cost of the adverse event"
-      },
-      "correct_option": "b",
-      "explanation": "RCA focuses on identifying systemic causes rather than individual blame, allowing organizations to make lasting improvements to prevent recurrence.",
-      "difficulty": "medium"
-    },
-    {
-      "text": "A 'near miss' in patient safety terminology refers to:",
-      "options": {
-        "a": "An event that resulted in minor patient harm",
-        "b": "An unsafe condition that has not yet caused harm",
-        "c": "An event that was caught before reaching the patient",
-        "d": "An event reported anonymously by staff"
+        "a": "HIPAA",
+        "b": "HITECH",
+        "c": "EMTALA",
+        "d": "PSQIA"
       },
       "correct_option": "c",
-      "explanation": "A near miss (also called a close call) is an event that could have caused harm but was intercepted before reaching the patient. It is a valuable learning opportunity.",
-      "difficulty": "easy"
+      "explanation": "EMTALA requires all hospitals with emergency departments to provide a Medical Screening Examination and stabilize any patient presenting with an emergency medical condition, regardless of ability to pay. Turning away the patient constitutes a direct EMTALA violation and risks loss of all Medicare and Medicaid funding.",
+      "difficulty": "medium"
     },
     {
-      "text": "The 'Swiss Cheese Model' of accident causation suggests that:",
+      "text": "A ransomware attack exposes 600 patient records at a regional hospital. Which combination of federal laws is triggered?",
       "options": {
-        "a": "A single failure is always sufficient to cause a patient safety event",
-        "b": "Safety errors only occur in ICU settings",
-        "c": "Multiple layers of defenses each have gaps, and when gaps align an accident occurs",
-        "d": "Human error is the primary cause of all medical accidents"
+        "a": "EMTALA, PSQIA, and ACA",
+        "b": "HIPAA, HITECH, and the 21st Century Cures Act",
+        "c": "CLIA, HIPAA, and PSQIA",
+        "d": "ACA, HITECH, and EMTALA"
+      },
+      "correct_option": "b",
+      "explanation": "A breach of PHI triggers HIPAA (Privacy Rule violation), HITECH (mandatory 60-day breach notification and business associate liability), and if the attack disables the EHR, the 21st Century Cures Act provisions on information blocking may apply. This mirrors the cross-law scenario presented in the Statutory Matrix.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director submits adverse event data to a federally listed Patient Safety Organization. Which federal law protects this data from being used in litigation?",
+      "options": {
+        "a": "HIPAA Privacy Rule",
+        "b": "Patient Safety and Quality Improvement Act (PSQIA)",
+        "c": "HITECH Breach Notification Rule",
+        "d": "21st Century Cures Act"
+      },
+      "correct_option": "b",
+      "explanation": "PSQIA established Patient Safety Work Product (PSWP) protection for data submitted to a PSO. This protection exists specifically to encourage honest error reporting without fear of legal discovery, supporting a Just Culture environment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital is penalized by CMS for having an above-average 30-day readmission rate for heart failure patients. Which ACA provision triggers this financial penalty?",
+      "options": {
+        "a": "Accountable Care Organization (ACO) program",
+        "b": "Patient-Centered Medical Home (PCMH) model",
+        "c": "Hospital Readmissions Reduction Program (HRRP)",
+        "d": "Value-Based Insurance Design"
       },
       "correct_option": "c",
-      "explanation": "James Reason's Swiss Cheese Model illustrates how multiple defensive layers (policies, procedures, technology, humans) each have gaps. Accidents occur when the gaps in all layers align simultaneously.",
+      "explanation": "The ACA established the HRRP, which imposes financial penalties on hospitals with excess readmissions for specified conditions including heart failure, pneumonia, and hip/knee replacement. This represents the ACA's shift from volume-based to value-based care accountability.",
       "difficulty": "medium"
     },
     {
-      "text": "Which culture best supports patient safety reporting?",
+      "text": "An EHR vendor deliberately prevents a patient from accessing their own electronic health information through a proprietary system lock. Under which federal law is this a violation?",
       "options": {
-        "a": "A blame culture where individuals are held accountable for every error",
-        "b": "A just culture that distinguishes between human error, at-risk behavior, and reckless behavior",
-        "c": "A no-fault culture where no individual is ever held accountable",
-        "d": "A hierarchical culture where only managers report safety events"
+        "a": "HIPAA Security Rule",
+        "b": "PSQIA",
+        "c": "21st Century Cures Act",
+        "d": "CLIA"
       },
-      "correct_option": "b",
-      "explanation": "A just culture balances accountability with learning. It encourages reporting by differentiating between inadvertent human error, at-risk choices, and reckless behavior, holding each appropriately accountable.",
-      "difficulty": "medium"
-    },
-    {
-      "text": "A Failure Mode and Effects Analysis (FMEA) is best described as:",
-      "options": {
-        "a": "A reactive tool used after a patient safety event has occurred",
-        "b": "A proactive risk assessment tool that identifies potential failure points before harm occurs",
-        "c": "A staff satisfaction survey focused on safety perceptions",
-        "d": "A method for calculating the financial impact of medical errors"
-      },
-      "correct_option": "b",
-      "explanation": "FMEA is a proactive, systematic technique used to anticipate what could go wrong in a process, assess the likelihood and severity of failure, and implement preventive controls.",
+      "correct_option": "c",
+      "explanation": "The 21st Century Cures Act explicitly prohibits \"information blocking\" — the practice of deliberately impeding patient or provider access to health data. Violations carry civil monetary penalties enforced by the OIG. This is distinct from HIPAA, which governs privacy and security of PHI rather than access obstruction.",
       "difficulty": "medium"
     }
   ]

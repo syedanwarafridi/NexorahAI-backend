@@ -1,0 +1,65 @@
+{
+  "topic": "Regulatory and Accreditation",
+  "questions": [
+    {
+      "text": "A hospital loses its TJC accreditation. Which federal agency's funding is now directly at risk, and through which mechanism?",
+      "options": {
+        "a": "FDA, through product recall authority",
+        "b": "OSHA, through safety citation enforcement",
+        "c": "CMS, through Conditions of Participation",
+        "d": "OIG, through the Exclusions Database"
+      },
+      "correct_option": "c",
+      "explanation": "CMS grants deeming authority to accrediting bodies like TJC. Loss of TJC accreditation means the hospital no longer satisfies CMS Conditions of Participation, placing Medicare and Medicaid funding at immediate risk. This is the core financial lever CMS uses to enforce quality standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A defective cardiac stent causes patient harm at multiple facilities. Which federal agency has primary authority to issue a product recall?",
+      "options": {
+        "a": "CMS",
+        "b": "CDC",
+        "c": "OSHA",
+        "d": "FDA"
+      },
+      "correct_option": "d",
+      "explanation": "The FDA regulates medical devices and has authority to issue recalls for unsafe products. The FDA's MedWatch system allows voluntary reporting by clinicians and mandatory reporting by manufacturers of adverse events related to drugs, devices, and biologics.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director is reviewing potential new hires. Which federal database must be checked to ensure no candidate is prohibited from billing Medicare or Medicaid?",
+      "options": {
+        "a": "CDC National Healthcare Safety Network (NHSN)",
+        "b": "CMS Hospital Compare",
+        "c": "OIG Exclusions Database",
+        "d": "AHRQ National Quality Measures Clearinghouse"
+      },
+      "correct_option": "c",
+      "explanation": "The OIG Exclusions Database lists individuals and organizations excluded from participation in federal healthcare programs. Hiring an excluded individual exposes the organization to significant liability, including repayment of all federal program billings associated with that individual.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A state passes a law requiring hospitals to maintain a 1:4 nurse-to-patient ratio in medical-surgical units, while the federal standard does not specify a ratio. Which principle governs this situation?",
+      "options": {
+        "a": "Federal law supersedes state law; the state law is invalid",
+        "b": "State law can set higher standards than federal law; both apply",
+        "c": "The hospital can choose which standard to follow",
+        "d": "OSHA must approve all state staffing regulations before they take effect"
+      },
+      "correct_option": "b",
+      "explanation": "States can enact standards more stringent than federal minimums but cannot set standards weaker than federal requirements. California's nurse-to-patient ratio laws are the most prominent example. Federal law sets the floor; states set the ceiling.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director wants to implement TeamSTEPPS to improve communication and reduce adverse events. Which federal agency developed this program?",
+      "options": {
+        "a": "CMS",
+        "b": "CDC",
+        "c": "OIG",
+        "d": "AHRQ"
+      },
+      "correct_option": "d",
+      "explanation": "The Agency for Healthcare Research and Quality (AHRQ) developed TeamSTEPPS — Team Strategies and Tools to Enhance Performance and Patient Safety. AHRQ is the federal agency dedicated to healthcare quality research and does NOT regulate; it produces evidence-based tools and guidelines that healthcare organizations can implement voluntarily",
+      "difficulty": "medium"
+    }
+  ]
+}

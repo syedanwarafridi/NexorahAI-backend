@@ -1,0 +1,65 @@
+{
+  "topic": "Health Data Analytics",
+  "questions": [
+    {
+      "text": "A hospital tracks its nurse-to-patient staffing ratio on the medical-surgical unit. According to the Donabedian framework, what type of measure is this?",
+      "options": {
+        "a": "Process measure — it reflects adherence to staffing protocols",
+        "b": "Outcome measure — it directly captures the result of care delivery",
+        "c": "Structure measure — it represents the capacity and resources available",
+        "d": "Balanced scorecard measure — it reflects organizational efficiency"
+      },
+      "correct_option": "c",
+      "explanation": "Structure measure. Structure measures assess capacity and readiness including human resources. The nurse-to-patient ratio represents what the system is capable of delivering, not what it actually delivers which is process, or what results patients experience which is outcome.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director wants to compare her hospital's 30-day readmission rate against peer hospitals. She accesses data from Vizient. What type of benchmarking data source is this and what key caution applies?",
+      "options": {
+        "a": "Public regulatory data from CMS; subject to CMS methodology and lag time",
+        "b": "Private proprietary analytics; different methodology, lag time, and scope than internal data",
+        "c": "Collaborative peer network data from QIOs; represents regional comparison only",
+        "d": "Internal data with zero lag; directly comparable without adjustment"
+      },
+      "correct_option": "b",
+      "explanation": "Vizient and Premier are private proprietary analytics companies. Their data may use different risk-adjustment methodology, different reporting periods, and different population scopes than internal data. These differences must be understood before drawing comparative conclusions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital infection control team creates a standardized document listing the definition of CLABSI, the numerator, denominator, formula, collection method, responsible owner, and validation rules for all 12 nursing units to follow. What is this document called and what is its PRIMARY purpose?",
+      "options": {
+        "a": "A data governance charter; to assign accountability for data oversight",
+        "b": "A data dictionary; to create shared definitions ensuring consistent collection and interpretation across units",
+        "c": "A measurement framework; to align performance measurement with strategic goals",
+        "d": "A benchmarking report; to compare unit performance against external standards"
+      },
+      "correct_option": "b",
+      "explanation": "A data dictionary. It is a collection of names, definitions, and attributes for all data elements. Its primary purpose is to prevent inconsistencies between data collectors and ensure every unit collects and interprets data the same way.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When communicating SSI rate data, a quality professional tailors her report differently for the infection control nurse using real-time alerts, the chief nursing officer using a monthly dashboard, and the board of directors using a quarterly summary. Which principle of information dissemination is being applied?",
+      "options": {
+        "a": "Data reliability",
+        "b": "Balanced scorecard reporting",
+        "c": "The Three Rights of Right People, Right Information, and Right Time and Way",
+        "d": "Prospective data collection"
+      },
+      "correct_option": "c",
+      "explanation": "The Three Rights. Right People means audience identification, Right Information means content tailoring to strategic, clinical, operational, or regulatory needs, and Right Time and Way means appropriate timing and format for each audience.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An outcome measure shows that a hospital's 30-day heart failure readmission rate has dropped from 18% to 12%. Before attributing this improvement to the hospital's new care transition program, what critical consideration must be applied?",
+      "options": {
+        "a": "The reduction is too small to be clinically meaningful without a p-value",
+        "b": "Outcome measures are influenced by many external factors beyond healthcare delivery and must be interpreted with structural and process context",
+        "c": "The result is only meaningful if confirmed by a control chart showing special cause variation",
+        "d": "Outcome data requires a minimum 24-month trend before interpretation is valid"
+      },
+      "correct_option": "b",
+      "explanation": "Outcomes are influenced by many external factors including patient demographics, socioeconomic factors, comorbidities, and seasonal variation. A reduction in readmissions cannot be attributed to a hospital program without also examining what changed in structure and process during the same period.",
+      "difficulty": "medium"
+    }
+  ]
+}

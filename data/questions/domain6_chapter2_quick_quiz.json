@@ -1,0 +1,65 @@
+{
+  "topic": "Quality Review & Accountability",
+  "questions": [
+    {
+      "text": "A hospital receives an \"F\" grade on the Leapfrog Hospital Safety Grade. Which of the following best describes the primary mechanism through which this grade motivates the hospital to improve?",
+      "options": {
+        "a": "Leapfrog imposes direct financial penalties on low-performing hospitals",
+        "b": "The grade triggers a mandatory CMS compliance review",
+        "c": "Public reporting creates reputational risk that affects patient volume and payer relationships",
+        "d": "The Joint Commission requires hospitals with F grades to undergo immediate accreditation review"
+      },
+      "correct_option": "c",
+      "explanation": "Public reporting creates reputational risk that affects patient volume and payer relationships Public reporting creates reputational risk, which often motivates hospitals to improve more than regulation alone. Leapfrog is an employer-funded nonprofit with no direct enforcement authority — its power is transparency-based accountability.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following best describes the primary function of the National Quality Forum (NQF)?",
+      "options": {
+        "a": "NQF creates and publishes quality measures for CMS use",
+        "b": "NQF accredits health plans and certifies PCMH practices",
+        "c": "NQF endorses quality measures developed by others after rigorous peer review",
+        "d": "NQF administers the CPHQ certification exam for healthcare quality professionals"
+      },
+      "correct_option": "c",
+      "explanation": "NQF endorses quality measures developed by others after rigorous peer review NQF endorses — does NOT create — quality measures from CMS, AHRQ, NCQA, and specialty societies. NQF endorsement signals scientific validity, feasibility, usability, and clinical importance.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An acute care hospital is applying for Magnet Recognition. Which of the following is the primary nursing-related outcome domain the designation is most closely associated with?",
+      "options": {
+        "a": "Reduced physician-to-nurse ratio requirements",
+        "b": "Improved nurse-sensitive indicators including falls, pressure injuries, CAUTI, and CLABSI",
+        "c": "Enhanced hospital financial performance through reduced labor costs",
+        "d": "Mandatory participation in HEDIS measurement for nursing care quality"
+      },
+      "correct_option": "b",
+      "explanation": "Improved nurse-sensitive indicators including falls, pressure injuries, CAUTI, and CLABSI Magnet hospitals consistently outperform peers on nurse-sensitive indicators — falls, pressure injuries, CAUTI, CLABSI. This is the evidence base for Magnet's claim that nursing investment is a quality strategy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A skilled nursing facility fails to submit required quality data to CMS for one quarter. Under the SNF Quality Reporting Program (QRP), what is the financial consequence?",
+      "options": {
+        "a": "The facility is automatically enrolled in the SNF Value-Based Purchasing Program",
+        "b": "The facility faces a 2% reduction in Medicare payment rates",
+        "c": "The facility is placed on a corrective action plan with no immediate financial penalty",
+        "d": "CMS suspends the facility's Medicare billing until data submission is completed"
+      },
+      "correct_option": "b",
+      "explanation": "The facility faces a 2% reduction in Medicare payment rates Facilities failing to submit required quality data face a 2% payment reduction penalty. This is an administrative penalty for data non-submission — distinct from the SNF VBP which penalizes poor clinical outcomes such as readmissions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A healthcare organization wants to evaluate its overall performance excellence across leadership, strategy, workforce, and customer focus. Which external framework is most appropriate?",
+      "options": {
+        "a": "Magnet Recognition Program",
+        "b": "Malcolm Baldrige Performance Excellence Program",
+        "c": "NCQA Health Plan Accreditation",
+        "d": "NQAP Bronze-Silver-Gold Designation"
+      },
+      "correct_option": "b",
+      "explanation": "Malcolm Baldrige Performance Excellence Program Baldrige is the U.S. national program for performance excellence across all sectors using its 7-category framework. Magnet is nursing-specific, NCQA focuses on health plans, and NQAP is for long-term care organizations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "topic": "Patient Safety",
+  "questions": [
+    {
+      "text": "A hospital discovers that a patient received a blood transfusion intended for a different patient and survived without permanent harm only because a nurse noticed the discrepancy mid-transfusion and stopped it. How should this event be classified?",
+      "options": {
+        "a": "Medical Error — because a planned action failed",
+        "b": "Near Miss — because the system failed but no harm reached the patient",
+        "c": "Adverse Event — because the patient received wrong blood products",
+        "d": "Sentinel Event — because wrong blood transfusion always triggers mandatory RCA"
+      },
+      "correct_option": "b",
+      "explanation": "A near miss is an event that could have caused harm but did not — either by chance or timely intervention. The system failed (wrong blood was prepared and nearly administered), but the timely intervention prevented harm from reaching the patient. Root causes still exist and must be investigated with full rigor.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital quality team wants to supplement its voluntary incident reporting system to detect harm that staff may not be reporting. Which tool is specifically designed to identify unreported adverse events through retrospective chart review?",
+      "options": {
+        "a": "AHRQ HSOPS Survey",
+        "b": "FMEA",
+        "c": "IHI Global Trigger Tool",
+        "d": "AHRQ Patient Safety Indicators (PSIs)"
+      },
+      "correct_option": "c",
+      "explanation": "The GTT is a retrospective chart review methodology developed by IHI that uses predefined clinical triggers (e.g., naloxone use, return to operating room) to identify adverse events that may not be captured through voluntary reporting. It detects significantly more harm than traditional reporting alone.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's safety committee reviews a case in which a surgeon left a sponge inside a patient after abdominal surgery. The committee determines this qualifies as a Serious Reportable Event. Which of the following consequences is most directly associated with this classification?",
+      "options": {
+        "a": "Mandatory peer review and possible medical staff suspension",
+        "b": "CMS may deny reimbursement for costs related to the event",
+        "c": "The hospital must self-report to TJC within 24 hours",
+        "d": "The event is classified as ameliorable rather than preventable"
+      },
+      "correct_option": "b",
+      "explanation": "NQF Serious Reportable Events (Never Events) represent major system failures that should never occur in a properly functioning healthcare system. CMS enforces a non-payment policy for costs associated with Never Events, and the NQF defines the categories including this classic surgical example.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality professional is selecting the best tool to measure whether staff feel psychologically safe reporting errors and whether leadership actively supports safety. Which tool is most appropriate?",
+      "options": {
+        "a": "IHI Global Trigger Tool",
+        "b": "AHRQ Hospital Survey on Patient Safety Culture (HSOPS)",
+        "c": "AHRQ Patient Safety Indicators (PSIs)",
+        "d": "Leapfrog Hospital Safety Grade"
+      },
+      "correct_option": "b",
+      "explanation": "AHRQ HSOPS is a validated, standardized survey tool that measures staff perceptions of safety culture across domains including teamwork, communication, reporting, staffing, and leadership support. It measures the CONDITIONS that cause harm — not harm itself — making it the appropriate tool for assessing psychological safety and leadership engagement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A nurse reports a medication error through the hospital's internal reporting system. The hospital is a member of a Patient Safety Organization (PSO). Under PSQIA, which protection applies to the nurse's report?",
+      "options": {
+        "a": "The report is protected from regulatory inspection by TJC",
+        "b": "The report constitutes Patient Safety Work Product and is legally protected from use in litigation",
+        "c": "The nurse cannot be disciplined for the error because the report was filed with the PSO",
+        "d": "The report is automatically shared with CMS for public reporting purposes"
+      },
+      "correct_option": "b",
+      "explanation": "Under the Patient Safety and Quality Improvement Act (PSQIA), information submitted to a PSO becomes Patient Safety Work Product (PSWP) and is legally protected from discovery in litigation. This protection exists specifically to encourage honest, candid reporting without fear of legal exposure.",
+      "difficulty": "medium"
+    }
+  ]
+}

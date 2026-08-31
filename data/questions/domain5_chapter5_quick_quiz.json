@@ -1,0 +1,65 @@
+{
+  "topic": "Patient Safety",
+  "questions": [
+    {
+      "text": "A hospital receives a deficiency finding during accreditation review related to its failure to conduct Root Cause Analysis following a sentinel event. Which organization has the authority to issue this finding?",
+      "options": {
+        "a": "AHRQ",
+        "b": "IHI",
+        "c": "The Joint Commission (TJC)",
+        "d": "ISMP"
+      },
+      "correct_option": "c",
+      "explanation": "TJC is the accreditation body that issues National Patient Safety Goals and reviews sentinel events. Failure to conduct mandatory RCA following a sentinel event is a direct accreditation compliance deficiency under TJC standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital's pharmacy department receives a safety alert recommending immediate revision of its insulin administration protocol to include independent double-checks and smart pump library updates. Which organization is the most likely source of this safety guidance?",
+      "options": {
+        "a": "The Joint Commission",
+        "b": "AHRQ",
+        "c": "ISMP",
+        "d": "IHI"
+      },
+      "correct_option": "c",
+      "explanation": "ISMP is the national authority on medication safety, maintaining high-alert medication lists and issuing error prevention reports. Insulin is a major high-alert medication category, and ISMP is the authoritative source for specific medication safety guidance including double-check requirements and smart pump drug library management.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality director wants to implement evidence-based teamwork training to reduce communication failures across all clinical units. Which organization developed the flagship teamwork program most appropriate for this purpose?",
+      "options": {
+        "a": "IHI",
+        "b": "AHRQ and the Department of Defense",
+        "c": "TJC",
+        "d": "ISMP"
+      },
+      "correct_option": "b",
+      "explanation": "TeamSTEPPS was developed jointly by AHRQ and the Department of Defense. It is AHRQ's flagship evidence-based teamwork training program specifically designed to address communication failures — the leading cause of adverse events.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A hospital CEO asks the quality director: \"Which organization should we contact to understand how our hospital's safety performance compares to peer hospitals from a consumer and employer perspective?\" The correct answer is:",
+      "options": {
+        "a": "AHRQ — because it funds comparative safety research",
+        "b": "TJC — because it publishes accreditation outcomes",
+        "c": "Leapfrog — because it drives safety grades and public reporting for employer and consumer use",
+        "d": "ISMP — because it tracks medication error rates nationally"
+      },
+      "correct_option": "c",
+      "explanation": "Leapfrog publishes hospital safety grades and drives public reporting for consumer transparency and employer leverage of safe practices. It is specifically positioned as the consumer- and employer-facing comparative safety reporting platform, distinct from TJC's accreditation function or AHRQ's research function.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient safety researcher wants to conduct a study funded by federal resources comparing the effectiveness of two different fall prevention protocols in reducing patient harm. Which organization is the most appropriate source of funding for this comparative effectiveness research?",
+      "options": {
+        "a": "ISMP",
+        "b": "TJC",
+        "c": "PCORI",
+        "d": "NAHQ"
+      },
+      "correct_option": "c",
+      "explanation": "PCORI funds patient-centered comparative effectiveness research — directly aligned with this study's design of comparing two interventions on patient harm outcomes. PCORI is federally chartered specifically for this research function.",
+      "difficulty": "medium"
+    }
+  ]
+}

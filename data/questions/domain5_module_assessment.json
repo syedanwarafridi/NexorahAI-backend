@@ -1,0 +1,1145 @@
+{
+  "domain_order": 5,
+  "questions": [
+    {
+      "text": "Which of the following is the most effective means of communicating commitment to patient safety?",
+      "options": {
+        "a": "Articles by a CEO in the employee newsletter",
+        "b": "Senior leaders having discussions on units with frontline staff",
+        "c": "Posters and bulletin boards on units displaying up to date patient falls data",
+        "d": "CEO presenting most recent medication error rates to the governing body"
+      },
+      "correct_option": "b",
+      "explanation": "Senior leaders having discussions on units with frontline staff. The most effective communication of commitment to patient safety is direct, visible, interactive leadership presence at the point of care. When senior leaders personally engage with frontline staff — listening, asking safety questions, and reinforcing safe behaviors — it sends an unambiguous signal that safety is a genuine organizational priority, not a promotional message. This is the foundational concept behind Patient Safety Leadership WalkRounds, developed by IHI, which is evidence-based and designed specifically to close the gap between executive commitment and frontline culture. Articles in newsletters (A) and posters (C) are passive, one-way communications — they demonstrate awareness, not commitment. Presenting error rates to the governing body (D) is an accountability reporting function, not a communication of commitment to staff. Per IHI WalkRounds research and AHRQ safety culture literature, direct leader-staff engagement is the highest-impact modality for communicating safety commitment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In order to establish a safety culture within a healthcare organization, one of the effective actions is to:",
+      "options": {
+        "a": "Punish individual employees who commit medication errors",
+        "b": "Adopt anonymous free reporting of errors and adverse events",
+        "c": "Segregate staff who commit errors to work in the same shifts",
+        "d": "Abstain from intervention until a completion of one year to have an accurate information about types and patterns of errors"
+      },
+      "correct_option": "b",
+      "explanation": "Adopt anonymous free reporting of errors and adverse events. The cornerstone of an effective patient safety culture is psychological safety — the assurance that reporting errors will not result in punishment or retaliation. Anonymous reporting systems remove the fear barrier that causes underreporting, allowing the organization to capture the full picture of error patterns and system vulnerabilities. This is the foundational principle of Just Culture as articulated by AHRQ, IHI, and TJC. Punishing individuals (A) is the antithesis of safety culture — it drives errors underground and guarantees underreporting. Segregating staff who commit errors (C) is punitive, stigmatizing, and has no evidence base. Abstaining from intervention for a year (D) is clinically and ethically indefensible — errors cause ongoing harm and require immediate systemic response. Per AHRQ safety culture framework and IHI psychological safety research, anonymous voluntary reporting is the essential first step in building a functional safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best example of applying cultural diversity principle to patient safety?",
+      "options": {
+        "a": "Allowing parents to perform rituals for their ill child",
+        "b": "Providing interpretive service to explain medical procedures",
+        "c": "Having the nutritionist discussion dietary preferences with the patients",
+        "d": "Performing mandatory training on culture diversity for staff"
+      },
+      "correct_option": "b",
+      "explanation": "Providing interpretive service to explain medical procedures. The intersection of cultural diversity and patient safety is most directly realized when language and communication barriers are eliminated at the clinical decision-making level. Providing professional interpretation services ensures that patients fully understand their diagnoses, treatment options, consent documents, and discharge instructions — which is essential for informed consent, medication safety, and care plan adherence. Miscommunication due to language barriers is a documented patient safety risk recognized by TJC, CMS, and AHRQ. Allowing rituals (A) reflects cultural respect but is not directly a patient safety measure. Dietary discussions (C) address cultural food preferences — valuable but not a safety-level intervention. Mandatory diversity training (D) builds staff awareness but does not directly address the safety risk at the patient encounter level. Per TJC language access standards and CMS cultural competency guidelines, professional interpretation is the gold-standard application of cultural diversity principles to patient safety.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Safe environment can be best achieved by involving:",
+      "options": {
+        "a": "Leaders and top management",
+        "b": "Delegating the responsibility to a cross functional team",
+        "c": "Involving staff members organization wide in the safety initiatives",
+        "d": "Establishing a specified committee to review safety issues organization wide"
+      },
+      "correct_option": "c",
+      "explanation": "Involving staff members organization wide in the safety initiatives. A safe environment is a shared responsibility that cannot be achieved by leadership alone, a designated committee, or a cross-functional team operating in isolation. The research evidence from IHI, AHRQ, and High Reliability Organization (HRO) theory is unequivocal: safety is best achieved when every staff member — at every level, across every department — is actively engaged in safety initiatives. This organization-wide engagement creates redundant safety layers, maximizes error detection, and builds a sustainable safety culture. Leaders and top management (A) are essential but insufficient without frontline engagement. A cross-functional team (B) represents a subset of the organization. A safety committee (D) is a governance structure — important for oversight but not the mechanism that achieves environmental safety at the point of care. Per IHI HRO framework and AHRQ TeamSTEPPS principles, broad staff engagement is the determinant of a genuinely safe environment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Ask staff to recall of the appropriate use of safety behavior in which level:",
+      "options": {
+        "a": "Learning",
+        "b": "Behavior",
+        "c": "Reaction",
+        "d": "Result"
+      },
+      "correct_option": "a",
+      "explanation": "Learning. This question tests Kirkpatrick's Four-Level Training Evaluation Model as applied to patient safety education. The four levels are: Level 1 — Reaction (how participants felt about the training); Level 2 — Learning (what knowledge, skills, or attitudes were acquired); Level 3 — Behavior (whether the learning is being applied on the job); Level 4 — Results (what organizational outcomes followed). Asking staff to recall the appropriate use of safety behavior tests knowledge acquisition — this is Level 2: Learning. It does not assess whether they are applying it in practice (Behavior) or what the outcome was (Result). Per Kirkpatrick's model as applied in CPHQ training evaluation standards and IHI educational frameworks, recall of appropriate behavior belongs squarely at the Learning level.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In order for a safety program to be successful, it is important to have:",
+      "options": {
+        "a": "Leadership involvement",
+        "b": "Resources available",
+        "c": "Allocated money",
+        "d": "All of the above"
+      },
+      "correct_option": "d",
+      "explanation": "All of the above. The success of a patient safety program requires the convergence of all three elements — leadership involvement provides direction, accountability, and cultural authority; available resources provide the tools, personnel, and infrastructure to execute safety initiatives; and allocated money translates both into funded, sustainable programs. No single element is sufficient alone. A safety program without leadership is rudderless; without resources, it is unfunded ambition; without money, it cannot be implemented or sustained. Per IHI safety program design principles, TJC patient safety standards, and CPHQ Quality Leadership domain requirements, effective safety programs require leadership commitment, operational resources, and financial investment simultaneously.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Patient safety culture:",
+      "options": {
+        "a": "Promotes learning from mistakes and staff collaboration",
+        "b": "Fosters collaboration and anonymous reporting",
+        "c": "Staff collaboration and audit systems",
+        "d": "Staff collaboration and reporting"
+      },
+      "correct_option": "a",
+      "explanation": "Promotes learning from mistakes and staff collaboration. Patient safety culture, as defined by AHRQ, IHI, and TJC, is characterized by two essential, intertwined elements: (1) a learning orientation — the systematic use of errors, near misses, and adverse events as learning opportunities rather than occasions for blame; and (2) collaboration — the interdisciplinary teamwork and communication that prevents errors from occurring or propagating. Option A captures both defining elements with precision. Option B introduces \"anonymous reporting\" — while valuable, anonymity is a feature of reporting systems, not a defining characteristic of safety culture itself; a mature safety culture has moved beyond anonymity to transparent reporting. Options C and D are partial descriptions that omit the learning orientation, which is the philosophical cornerstone of safety culture. Per AHRQ Hospital Survey on Patient Safety Culture (HSOPS) and IHI safety culture framework, learning from mistakes combined with staff collaboration is the defining characteristic.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Patient safety culture characteristic within hospital:",
+      "options": {
+        "a": "Effect staff",
+        "b": "Anonymous reporting",
+        "c": "Mutual trust",
+        "d": "Self-direct team"
+      },
+      "correct_option": "c",
+      "explanation": "Mutual trust. Among the listed options, mutual trust is the foundational cultural characteristic that enables all other patient safety behaviors. Mutual trust between staff and leadership — and among team members — creates the psychological safety that allows individuals to report errors without fear, raise safety concerns without retaliation, and collaborate transparently. AHRQ's HSOPS domains and IHI's Framework for Safe, Reliable, and Effective Care both identify trust as the bedrock cultural element. \"Effect staff\" (A) is not a recognized safety culture characteristic. Anonymous reporting (B) is a reporting system feature — it compensates for the absence of trust; a mature safety culture with high trust does not require anonymity. Self-directed teams (D) are an operational structure, not a cultural characteristic. Per TJC safety culture standards and AHRQ safety culture research, mutual trust is the defining characteristic of a patient safety culture within a hospital.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a culture of patient safety, error is considered:",
+      "options": {
+        "a": "Normal",
+        "b": "Misconduct",
+        "c": "Purposely",
+        "d": "Preventable"
+      },
+      "correct_option": "d",
+      "explanation": "Preventable. In a patient safety culture, errors are viewed through a systems lens — they are understood as predictable outcomes of flawed processes, environments, or conditions that humans operate within. This positions errors as preventable through system redesign, rather than inevitable (normal), deliberate (purposely), or moral failures (misconduct). This distinction is the philosophical foundation of the move from a punitive culture to a Just Culture and safety culture. Viewing error as \"normal\" (A) creates complacency. Viewing it as misconduct (B) or purposeful (C) drives blame, punishment, and underreporting. Per Reason's Swiss Cheese Model, AHRQ safety culture framework, and IHI principles of safety design, errors in a safety culture are treated as system signals — preventable outcomes that the organization has an obligation to address through system improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Red rules are used for:",
+      "options": {
+        "a": "Tool for monitoring safety",
+        "b": "Root cause analysis",
+        "c": "A patient safety goal",
+        "d": "Improving culture"
+      },
+      "correct_option": "c",
+      "explanation": "A patient safety goal. Red rules are absolute, non-negotiable safety rules that must always be followed without exception — they represent the highest-priority safety behaviors in a healthcare organization and are directly aligned with patient safety goals. Red rules typically cover behaviors such as medication verification, surgical time-outs, hand hygiene, and fall prevention — all of which are directly tied to reducing patient harm. They are not primarily monitoring tools (A) — they are behavioral mandates. They are not a component of RCA methodology (B). While they contribute to culture (D), their primary definition and purpose is as formalized patient safety goals with zero-tolerance status. Per IHI patient safety program design and TJC National Patient Safety Goals (NPSGs) framework, red rules operationalize critical safety goals into mandatory behavioral standards.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The concept of patient safety applies most appropriately to:",
+      "options": {
+        "a": "Environmental safety measures",
+        "b": "Serious physical injuries",
+        "c": "Patient complaint management",
+        "d": "Risk prevention"
+      },
+      "correct_option": "d",
+      "explanation": "Risk prevention. Patient safety, as a discipline and concept, is most comprehensively defined as the prevention of errors and adverse effects to patients associated with health care. The concept is fundamentally proactive — it is about anticipating, identifying, and mitigating risks before they cause harm. This places \"risk prevention\" as the most accurate and complete characterization of what patient safety applies to. Environmental safety (A) is a subset — important but too narrow. Serious physical injuries (B) describes an outcome category, not the concept itself. Patient complaint management (C) is a reactive service quality function. Per the WHO World Alliance for Patient Safety, IHI, and AHRQ definitional frameworks, patient safety is most accurately characterized as the systematic prevention of patient risk and harm across the entire care continuum.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Newly joined physician to rural area hospital, asked to develop patient safety program, what should he do:",
+      "options": {
+        "a": "Check the other hospital plans",
+        "b": "Make patient survey",
+        "c": "Search for scientific data on internet",
+        "d": "Reviewing the scope of the hospital"
+      },
+      "correct_option": "d",
+      "explanation": "Reviewing the scope of the hospital. Before designing any patient safety program, the new physician must understand the specific context of the hospital in which the program will operate — its patient population, service lines, existing risks, resource constraints, and organizational priorities. Reviewing the scope of the hospital provides this essential situational awareness. A program built without understanding the local scope will be misaligned and ineffective. Checking other hospitals' plans (A) is a benchmarking step — useful later but not the starting point. Patient surveys (B) and internet searches (C) are data-gathering activities appropriate after the internal scope is understood. Per CPHQ program planning principles and IHI quality program design methodology, every quality or safety program must begin with a thorough assessment of the organization's current state, scope, and context. This aligns with the \"Diagnose\" phase of any structured improvement framework.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The best evidence for a safety culture in a hospital when mistakes happen:",
+      "options": {
+        "a": "The supervisor and the nurse study the process to learn from the mistake",
+        "b": "The supervisor and the nurse meet together to agree about what should be reported",
+        "c": "Leadership involved in RCA",
+        "d": "Incident reporting process is known to staff"
+      },
+      "correct_option": "a",
+      "explanation": "The supervisor and the nurse study the process to learn from the mistake. The definitive behavioral indicator of a mature safety culture is what happens after a mistake occurs. When the supervisor and the nurse jointly study the process to understand how and why the error occurred — rather than assigning blame, suppressing the event, or selectively deciding what to report — this demonstrates safety culture in its most tangible form: learning orientation, psychological safety, collaborative inquiry, and system focus. Option B (deciding what should be reported) introduces a filtering dynamic that undermines the transparency required by safety culture. Option C (leadership in RCA) is important but describes a structured formal process, not the interpersonal cultural response at the unit level. Option D (incident reporting process known to staff) is a structural requirement, not evidence of culture in action. Per AHRQ safety culture domains — specifically \"Organizational learning and continuous improvement\" and \"Teamwork within units\" — joint process learning between supervisor and frontline staff is the gold-standard behavioral evidence of a functioning safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Establishing a culture of safety begins with having the right:",
+      "options": {
+        "a": "Plan",
+        "b": "Leadership",
+        "c": "Educational programs",
+        "d": "Recruitment studies"
+      },
+      "correct_option": "b",
+      "explanation": "Leadership. Culture is set from the top. Without committed, visible, and consistent leadership that models safe behaviors, prioritizes safety over productivity, and holds the organization accountable, no safety culture can take root. Leadership defines the values, allocates the resources, sets the tone, and determines what behaviors are rewarded or tolerated. Every major framework for patient safety culture — AHRQ, IHI, TJC, WHO — identifies leadership commitment as the foundational prerequisite. Plans (A) are tools that leadership develops. Educational programs (C) and recruitment studies (D) are tactical activities that support the culture but cannot substitute for its foundational driver. Per IHI's Framework for Safe, Reliable, and Effective Care and AHRQ Safety Culture Improvement Resource, culture begins and is sustained by leadership.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Patient safety officer developing a safety plan and the following information was provided: incident report data, performance indicator, customer complaint data. Which of the following additional data is needed to write the safety plan:",
+      "options": {
+        "a": "Physician satisfaction and financial goals",
+        "b": "Staff satisfaction and root cause analysis",
+        "c": "Infection control data and accreditation result",
+        "d": "The facility risk assessment and strategic goal"
+      },
+      "correct_option": "d",
+      "explanation": "The facility risk assessment and strategic goal. A comprehensive patient safety plan must align with the organization's risk profile and strategic direction. The data already provided (incident reports, performance indicators, complaint data) covers reactive safety signals. The critical missing elements are the facility's risk assessment — which provides a forward-looking, proactive picture of where vulnerabilities exist — and the strategic goals, which ensure the safety plan is integrated with the organization's overall direction and priorities rather than operating as a disconnected parallel program. Physician satisfaction and financial goals (A) are management metrics, not safety planning inputs. Staff satisfaction and RCA data (B) are valuable but not the primary missing component when risk assessment and strategic alignment are absent. Infection control and accreditation data (C) are relevant subsets of safety data already captured within performance indicators. Per CPHQ safety planning standards and IHI organizational safety program design, a risk assessment and strategic alignment are the essential inputs that transform incident data into a coherent safety plan.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A nurse who realized that his colleagues were not constantly following up on patient results reported the problem to the clinic leadership right away. Which response would be most consistent with a culture of safety?",
+      "options": {
+        "a": "Transferring the nurse to another clinic",
+        "b": "Writing a letter of recommendation for his file",
+        "c": "Thanking the nurse and asking him to keep quiet about it",
+        "d": "Placing the item on the agenda for the leadership meeting next year"
+      },
+      "correct_option": "b",
+      "explanation": "Writing a letter of recommendation for his file. In a culture of safety, speaking up about safety concerns is not just tolerated — it is actively recognized and rewarded. The nurse demonstrated exactly the behavior a safety culture seeks to encourage: identifying a systemic problem and escalating it to leadership promptly. The organizationally appropriate and culturally reinforcing response is formal recognition — a letter of recommendation acknowledges the behavior, signals to all staff that safety reporting is valued, and reinforces the psychological safety required for future reporting. Transferring the nurse (A) is retaliatory and directly contrary to safety culture. Asking him to keep quiet (C) is suppression of safety information — a serious safety culture failure. Placing it on next year's agenda (D) signals that patient safety concerns are not urgent priorities. Per AHRQ Just Culture principles, IHI psychological safety research, and TJC safety culture standards, rewarding safety reporters is the definitive leadership response in a safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is most important for patient safety?",
+      "options": {
+        "a": "Leadership commitment",
+        "b": "Entire staff",
+        "c": "Patient safety officer",
+        "d": "Medical executive committee"
+      },
+      "correct_option": "a",
+      "explanation": "Leadership commitment. While patient safety requires the engagement of all staff, a patient safety officer, and medical executive oversight, the single most important determinant of patient safety program success is leadership commitment. Leaders set the culture, authorize the resources, model the behaviors, and determine organizational priorities. Without genuine leadership commitment, no patient safety program — regardless of the quality of its staff, officers, or committees — can achieve sustained results. This is consistently affirmed across the entirety of patient safety literature: IHI, AHRQ, TJC, NQF, and WHO all identify leadership commitment as the foundational prerequisite for safe healthcare organizations. The patient safety officer (C) and medical executive committee (D) are important infrastructure but derive their authority and effectiveness from organizational leadership commitment. Per IHI's safety culture research and CPHQ Quality Leadership domain standards, leadership commitment is the apex priority.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization has achieved a culture of patient safety when:",
+      "options": {
+        "a": "Fear of reprisals for reporting incidents has been eliminated",
+        "b": "Its patient safety goals have been implemented",
+        "c": "Patient safety training of employees has completed",
+        "d": "Reports of incidents and near misses have decreased"
+      },
+      "correct_option": "a",
+      "explanation": "Fear of reprisals for reporting incidents has been eliminated. The elimination of fear of reprisals is the definitive indicator that a safety culture has been achieved — it is both a prerequisite for, and a consequence of, genuine cultural transformation. When staff report errors and near misses without fear of punishment, the organization gains access to the full spectrum of safety data needed to prevent harm. Implementing safety goals (B) is a process activity, not a cultural achievement. Completing training (C) is an education activity — it builds knowledge but does not guarantee cultural change. Decreased incident and near-miss reports (D) is a dangerous trap answer: a genuine safety culture typically produces increased reporting initially, as staff feel safe to report. Declining reports may signal improved safety, but more often signal culture deterioration and underreporting. Per AHRQ Hospital Survey on Patient Safety Culture and IHI safety culture framework, elimination of fear of reprisal is the validated cultural achievement indicator.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Culture exists when:",
+      "options": {
+        "a": "Learning from mistakes, accountability displaced",
+        "b": "Staff not blamed when error",
+        "c": "Leadership is involved",
+        "d": "Survey happens on yearly basis"
+      },
+      "correct_option": "b",
+      "explanation": "Staff not blamed when error. The existence of a genuine organizational safety culture is most directly evidenced when the organizational response to error is non-punitive — when the default reaction is system inquiry rather than individual blame. This is the defining operational principle of Just Culture and the shift from a blame culture to a learning culture. Option A contains a contradiction: learning from mistakes is correct, but \"accountability displaced\" is not — a true safety culture maintains individual accountability (through Just Culture principles) while eliminating blame for system-caused errors. Option C (leadership is involved) is a precondition, not proof of cultural existence. Option D (annual survey) is a measurement activity, not evidence of culture. Per James Reason's Just Culture model, AHRQ safety culture principles, and TJC standards, the operational definition of a safety culture is the absence of blame toward individuals for system-caused errors.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Crossing the Quality Chasm provided a blueprint for the future that classified and unified the components of quality through six aims for improvement, chain of effects, and simple rules for redesign of healthcare. The six aims for improvement, viewed also as six dimensions of quality. Which of the following is NOT one of those dimensions?",
+      "options": {
+        "a": "Safe",
+        "b": "Efficient",
+        "c": "Effective",
+        "d": "Care centered"
+      },
+      "correct_option": "d",
+      "explanation": "Care centered. The Institute of Medicine's (IOM) landmark report \"Crossing the Quality Chasm\" (2001) established six dimensions of healthcare quality, remembered by the acronym STEEEP: Safe, Timely, Effective, Efficient, Equitable, and Patient-centered. \"Care centered\" is not one of the six — the correct term is \"Patient-centered.\" The question tests precise knowledge of the IOM framework. Safe (A), Efficient (B), and Effective (C) are all confirmed STEEEP dimensions. \"Care centered\" is a plausible-sounding distractor that conflates \"Patient-centered\" with a non-existent variant. Per IOM Crossing the Quality Chasm (2001), NQF quality framework, and CPHQ performance improvement domain standards, the six dimensions are STEEEP and \"Care centered\" is not among them.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Joint Commission empowers customers by providing education materials as navigational aids for complex healthcare systems, like:",
+      "options": {
+        "a": "Dimensions of quality",
+        "b": "Deming's points of quality revolution",
+        "c": "Patient safety goals",
+        "d": "The Speak Up campaign"
+      },
+      "correct_option": "d",
+      "explanation": "The Speak Up campaign. The Joint Commission's \"Speak Up\" campaign is TJC's signature patient empowerment initiative — a series of educational materials, brochures, videos, and resources designed specifically to help patients and families navigate the healthcare system, understand their rights, ask questions, and actively participate in their own care and safety. It is the direct answer to the question of how TJC empowers customers with education as navigational aids. Dimensions of quality (A) and Deming's 14 points (B) are quality management frameworks, not patient education tools. Patient safety goals (C) are TJC regulatory standards directed at healthcare organizations, not consumer navigation aids. Per TJC Speak Up program documentation and CPHQ patient safety and regulatory domain standards, the Speak Up campaign is TJC's defined mechanism for consumer empowerment through education.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following situations best describes the term \"Misuse\" of resources at healthcare facilities?",
+      "options": {
+        "a": "Patients receive appropriate medical services that are provided poorly, exposing them to added risks of preventable complications",
+        "b": "Patients undergo treatment or procedures from which they do not benefit",
+        "c": "Patients do not receive beneficial health services",
+        "d": "None of the above"
+      },
+      "correct_option": "a",
+      "explanation": "Patients receive appropriate medical services that are provided poorly, exposing them to added risks of preventable complications. The IOM's Crossing the Quality Chasm framework distinguishes three categories of quality problems: overuse (patients receive services from which they do not benefit — Option B), underuse (patients do not receive beneficial services — Option C), and misuse (appropriate services are provided but executed poorly, creating preventable complications). Misuse is specifically defined as the failure to correctly deliver a service that was correctly indicated — the right service, done wrong. This is the definition captured by Option A. Per IOM quality framework, AHRQ quality measurement standards, and CPHQ performance improvement domain definitions, misuse is the category of quality failure where appropriate care is provided poorly.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Mortality reviews are a critical element of Risk Management and Quality Improvement, conducted to determine:",
+      "options": {
+        "a": "If the practitioner involved was/were appropriately licensed and credentialed",
+        "b": "If treatments and patient care were adequate and appropriate",
+        "c": "Who was responsible for the mortality and what disciplinary actions need to be taken",
+        "d": "What the unit staff was doing at the time"
+      },
+      "correct_option": "b",
+      "explanation": "If treatments and patient care were adequate and appropriate. Mortality review is a clinical quality process designed to determine whether the care provided was appropriate and whether the death was potentially preventable. The central question is: was the care adequate? This determination allows the organization to identify care process gaps that can be improved to prevent future deaths. Credentialing verification (A) may be a downstream concern if a pattern is identified through the review, but is not the primary purpose of mortality review itself. Assigning responsibility for disciplinary action (C) is a punitive framing that is antithetical to the purpose of quality review — mortality reviews are conducted as non-punitive learning exercises. Documenting staff activity at the time (D) is a forensic question, not a quality review question. Per AHRQ mortality review standards, TJC medical staff governance, and CPHQ quality review domain requirements, the purpose of mortality review is to assess care adequacy and identify opportunities for improvement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A quality council has created a patient safety council. The council is concerned that staff may see this as another program that has been added to their busy schedules that will eventually go away. The best way for the organization to establish patient safety as an ongoing part of the organization's culture is to:",
+      "options": {
+        "a": "Display the number of incident reports monthly with lessons learned",
+        "b": "Identify the patient safety goals and how they will be monitored",
+        "c": "Integrate patient safety into all employees' job expectations",
+        "d": "Include a presentation on patient safety in employee orientation"
+      },
+      "correct_option": "c",
+      "explanation": "Integrate patient safety into all employees' job expectations. The most powerful way to embed patient safety as a permanent organizational value — rather than a temporary program — is to make it inseparable from the core job expectations of every employee. When patient safety behaviors are written into job descriptions, performance evaluations, and daily expectations, they cease to be an \"add-on\" and become part of how the organization defines competent performance. This is the operationalization of safety culture: not a council or a campaign, but an expectation. Displaying incident report numbers (A) and monitoring goals (B) are important accountability mechanisms but do not embed safety into individual role expectations. Orientation presentations (D) are one-time educational events — they build awareness but do not sustain cultural integration. Per TJC patient safety culture standards, IHI safety sustainability research, and CPHQ Quality Leadership domain principles, integration into job expectations is the mechanism that makes safety structural rather than programmatic.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is NOT an example of a sentinel event:",
+      "options": {
+        "a": "Patient attempt suicide",
+        "b": "Hemolytic transfusion reaction of blood",
+        "c": "Death of patient due to medication error",
+        "d": "Surgery on wrong part of the body"
+      },
+      "correct_option": "a",
+      "explanation": "Patient attempt suicide. Per TJC Sentinel Event Policy, a completed patient suicide in a 24-hour care setting is a sentinel event. However, a patient suicide attempt — where the patient survives — does not meet the sentinel event threshold, as the definition requires an unexpected occurrence involving death, serious permanent harm, or the risk thereof that reaches the patient. A suicide attempt may result in injury that qualifies, but the attempt itself (without resulting in death or serious permanent harm) is not categorically a sentinel event. Hemolytic transfusion reaction (B) due to ABO incompatibility is a TJC-defined sentinel event. Death due to medication error (C) is a sentinel event. Surgery on the wrong body part (D) is a TJC-defined sentinel event (wrong-site surgery). Per TJC 2024 Sentinel Event Policy and CPHQ patient safety domain standards, attempted suicide without resulting serious harm does not automatically meet the sentinel event definition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following should be reported in an occurrence report and should NOT be included in the medical record of the patient:",
+      "options": {
+        "a": "Patient found on the floor with his left leg appearing to be rotated",
+        "b": "Right knee surgery though intended is the left one",
+        "c": "Wrong dose of the intended drug",
+        "d": "Wrong drug but recognized before the patient administration (near miss)"
+      },
+      "correct_option": "d",
+      "explanation": "Wrong drug but recognized before the patient administration (near miss). Occurrence/incident reports are designed to capture safety events for quality improvement and risk management purposes — and critically, they must remain separate from the medical record. A near miss (a potential error caught before reaching the patient) is the clearest example of what should be reported in an occurrence report but excluded from the medical record. The medical record documents what actually happened to the patient clinically. Including near-miss documentation in the medical record creates discoverable legal information without clinical benefit and may deter reporting. Finding a patient on the floor with an apparent injury (A), wrong-site surgery (B), and wrong dose administered (C) are actual events with clinical impact that are documented in the medical record as part of the clinical record. Per AHRQ incident reporting standards, TJC event reporting policy, and CPHQ risk management domain principles, near misses are occurrence-report-only events that must not appear in the patient's medical record.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Performance of RCA for a sentinel event provides all of the following EXCEPT:",
+      "options": {
+        "a": "Identification of why the variance occurred",
+        "b": "Recommendations for actions to prevent recurrence",
+        "c": "Measurement strategies for each factor affecting the outcome",
+        "d": "Continuous measurement to identify opportunities for improvement"
+      },
+      "correct_option": "c",
+      "explanation": "Measurement strategies for each factor affecting the outcome. A root cause analysis following a sentinel event produces: (1) identification of the root causes — why the event occurred (A ✅ — included); (2) corrective action recommendations to prevent recurrence (B ✅ — included); and (3) an action plan with assigned responsibility and timelines for implementation. However, RCA does not generate individual measurement strategies for each contributing factor — that level of measurement design belongs to the performance improvement project that follows RCA implementation. Continuous measurement to identify improvement opportunities (D) is also a post-RCA monitoring function, not part of the RCA itself. However, between C and D, option C is the better \"except\" answer because measurement strategy design for each contributing factor is not a standard RCA output — it goes beyond what RCA is designed to produce. Per TJC RCA2 framework, AHRQ RCA guidance, and CPHQ patient safety standards, RCA outputs are root cause identification, contributing factor analysis, and action recommendations — not measurement strategies per factor.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the primary goal of risk management? (Version 1)",
+      "options": {
+        "a": "Identify high risk areas of the organization",
+        "b": "Maintain an effective reporting system",
+        "c": "Perform failure mode and effect analysis",
+        "d": "Reduce financial loss within the organization"
+      },
+      "correct_option": "d",
+      "explanation": "Reduce financial loss within the organization. Risk management in healthcare, as a formal organizational function, has a primary goal of protecting the organization from financial, legal, and reputational liability. While risk management activities include identifying high-risk areas (A), maintaining reporting systems (B), and conducting FMEA (C), these are all methods employed in service of the primary goal: minimizing the financial and legal consequences of adverse events. This distinguishes risk management from quality improvement, which primarily aims to improve patient outcomes. Option A identifies risks — this is a step, not the goal. Option B is an operational mechanism. Option C (FMEA) is a specific tool used in risk management, not its overarching goal. Per ASHRM (American Society for Healthcare Risk Management) risk management standards and CPHQ risk management domain definitions, financial loss reduction is the primary organizational goal of risk management.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the primary goal of risk management? (Version 2)",
+      "options": {
+        "a": "Identify and manage risks to promote patient safety",
+        "b": "Maintain an effective incident reporting system",
+        "c": "Perform failure mode and effects analysis",
+        "d": "Eliminate financial loss associated with legal actions"
+      },
+      "correct_option": "a",
+      "explanation": "Identify and manage risks to promote patient safety. While traditional risk management focused on financial loss reduction, contemporary healthcare risk management — as defined by ASHRM, TJC, and CPHQ standards — has evolved to an integrated model where identifying and managing risks to promote patient safety is the primary goal. The two objectives (patient safety and financial protection) are aligned: preventing harm also prevents liability. In this version of the question, Option A reflects the most current and comprehensive definition of the risk management function. Eliminating financial loss (D) is a consequence and goal, but \"eliminate\" is an absolute term that overstates the achievable outcome — \"reduce\" is more accurate. Maintaining reporting systems (B) and performing FMEA (C) are methods, not goals. Per ASHRM Enterprise Risk Management framework and CPHQ Quality Leadership and Risk Management standards, the integrated primary goal is risk identification and management in service of patient safety.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In postoperative assessment the nurse discovered that the surgeon has replaced the wrong hip for a patient. This is considered:",
+      "options": {
+        "a": "Sentinel event",
+        "b": "Malpractice",
+        "c": "Adverse event",
+        "d": "Near miss"
+      },
+      "correct_option": "a",
+      "explanation": "Sentinel event. Wrong-site surgery — including replacement of the wrong hip — is explicitly listed in TJC's Sentinel Event Policy as a reviewable sentinel event. A sentinel event is an unexpected occurrence involving death or serious physical or psychological injury, or the risk thereof, and wrong-site surgery meets every criterion: it is unexpected, it causes serious harm (the patient has undergone an unnecessary surgical procedure on the wrong site), and it represents a complete breakdown of the Universal Protocol safety system. Malpractice (B) is a legal designation, not a quality classification — the same event may be both a sentinel event and subject to malpractice litigation, but these are different frameworks. An adverse event (C) is broader — wrong-site surgery is a specific, defined type of adverse event that rises to sentinel event level. A near miss (D) would apply only if the error was caught before the surgery occurred. Per TJC Sentinel Event Policy and CPHQ patient safety domain standards, wrong-site/wrong-patient surgery is a sentinel event by definition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Sentinel event is a variation in:",
+      "options": {
+        "a": "Staffing",
+        "b": "Process",
+        "c": "Structure",
+        "d": "Competency"
+      },
+      "correct_option": "b",
+      "explanation": "Process. Within the Donabedian structure-process-outcome framework — the foundational model for healthcare quality analysis — a sentinel event represents a catastrophic process variation. Process refers to what is done to and for the patient during the delivery of care — the sequence of actions, decisions, procedures, and handoffs. Sentinel events occur when critical process steps fail (e.g., the surgical time-out is skipped, a medication check is bypassed, a handoff communication fails). Structure (C) refers to organizational resources and design. Competency (D) may contribute to a sentinel event but is not the Donabedian category in which the event itself is classified. Staffing (A) is a structural element. Per Donabedian's SPO model, TJC sentinel event analysis methodology, and CPHQ performance improvement domain standards, sentinel events are classified as process variations — unexpected deviations from the expected care process.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A sentinel event is regarded as:",
+      "options": {
+        "a": "Common cause variation",
+        "b": "Assignable variation",
+        "c": "Noise",
+        "d": "Random variation"
+      },
+      "correct_option": "b",
+      "explanation": "Assignable variation. In statistical process control terminology, variation is classified as either common cause (random, inherent to the process — also called noise) or special cause (assignable — a signal that something unusual and identifiable has happened). A sentinel event is the clinical equivalent of a special cause signal: it is an unexpected, specific, identifiable occurrence that lies outside the expected range of process performance and demands investigation of its specific cause. Common cause variation (A) and noise (C) and random variation (D) are all synonymous — they describe the background variation inherent to any stable process. A sentinel event is, by definition, not random background noise — it is a specific, assignable event with identifiable causes. Per statistical process control theory (Deming, Shewhart), TJC sentinel event framework, and CPHQ data analytics and patient safety standards, sentinel events are special cause (assignable) variations.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which one of the following is NOT considered a sentinel event:",
+      "options": {
+        "a": "Hemolytic transfusion reaction",
+        "b": "Patient death after",
+        "c": "Suicide threat in psychiatric unit",
+        "d": "Wrong site surgery"
+      },
+      "correct_option": "c",
+      "explanation": "Suicide threat in psychiatric unit. Per TJC Sentinel Event Policy: hemolytic transfusion reaction due to blood type incompatibility (A) ✅ — confirmed sentinel event; patient death (B) — context-dependent but generally meeting threshold ✅; wrong site surgery (D) ✅ — confirmed sentinel event. A suicide threat in a psychiatric unit is a clinical risk requiring immediate assessment and intervention protocols, but the threat itself does not constitute a sentinel event. TJC defines patient suicide in a 24-hour care setting as a sentinel event — the threat, by contrast, is a warning signal managed through clinical risk assessment protocols (e.g., safety planning, level of observation changes). Per TJC 2024 Sentinel Event Policy and CPHQ patient safety domain standards, a suicide threat does not meet the sentinel event definition — only completed suicide with resulting death or serious harm qualifies.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An effective risk management program for a healthcare organization emphasizes:",
+      "options": {
+        "a": "Harm prevention for patients, visitors, and staff",
+        "b": "Reduction of financial losses",
+        "c": "Staff training and education",
+        "d": "Compliance with accrediting agency standards"
+      },
+      "correct_option": "a",
+      "explanation": "Harm prevention for patients, visitors, and staff. A comprehensive, effective risk management program in healthcare has its broadest and most appropriate emphasis on preventing harm — not just to patients, but to visitors and staff as well. This reflects the total organizational risk landscape: workplace injuries, visitor accidents, and patient harm events all create liability, financial loss, and reputational risk. Harm prevention is the proactive, upstream function that encompasses all other risk management activities. Reducing financial losses (B) is an outcome of harm prevention, not the primary emphasis. Staff training (C) is a method. Accreditation compliance (D) is a regulatory requirement — necessary but not the primary emphasis of risk management. Per ASHRM Enterprise Risk Management framework, CPHQ risk management domain standards, and TJC safety program requirements, comprehensive harm prevention is the defining emphasis of an effective healthcare risk management program.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When a Sentinel Event occurs, the Risk Manager initiates a Root Cause Analysis. To appropriately evaluate the cause of a sentinel event:",
+      "options": {
+        "a": "Terminate all processes that lead to the event until the RCA is completed",
+        "b": "Start with the assumption that human error was the most likely cause of the sentinel event",
+        "c": "Leadership must participate in the RCA",
+        "d": "Start the RCA immediately to appropriately deal with causality"
+      },
+      "correct_option": "d",
+      "explanation": "Start the RCA immediately to appropriately deal with causality. TJC requires that organizations conducting a sentinel event review complete an RCA within 45 days. Starting the RCA promptly is essential because memories fade, evidence degrades, and system conditions change over time — delay compromises the quality of the analysis. Beginning immediately maximizes the accuracy and completeness of the causal investigation. Terminating all related processes (A) is not required or appropriate — the RCA runs concurrently with continued care operations; if an immediate danger exists, specific process interventions are made, but wholesale process suspension is not TJC policy. Beginning with the assumption of human error (B) is explicitly contrary to RCA methodology — RCA is designed to look beyond human error to system and process causes. Leadership participation (C) is important but is not the primary action step — it is a requirement of the process, not the first initiating action. Per TJC Sentinel Event Policy, AHRQ RCA guidance, and CPHQ patient safety standards, immediate initiation of the RCA is the correct first action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Root cause analysis should be performed:",
+      "options": {
+        "a": "Using a multidisciplinary team",
+        "b": "Using practitioners who are not involved in the event",
+        "c": "Starting no earlier than 45 days after the event",
+        "d": "Only when requested"
+      },
+      "correct_option": "a",
+      "explanation": "Using a multidisciplinary team. RCA is most effective and credible when conducted by a multidisciplinary team that brings diverse perspectives, expertise, and process knowledge to the analysis. TJC and AHRQ both specify that a credible RCA requires participation by individuals representing all relevant disciplines and processes involved in the event. Option B contains a partial truth — RCA ideally includes both those involved and independent reviewers — but excluding all involved practitioners removes the essential first-hand knowledge of what occurred. Option C is factually incorrect: TJC requires RCA completion within 45 days, not that it begins no earlier than 45 days — this is a dangerous inversion. Option D is incorrect: RCA is required for TJC-defined sentinel events, not conducted only when requested. Per TJC RCA2 credibility criteria, AHRQ RCA toolkit, and CPHQ patient safety domain standards, a multidisciplinary team is the required RCA structure.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Sharing which data best supports risk prevention:",
+      "options": {
+        "a": "Monthly event",
+        "b": "Occurrence reporting",
+        "c": "Root cause analysis",
+        "d": "Failure mode and effect analysis"
+      },
+      "correct_option": "b",
+      "explanation": "Occurrence reporting. Occurrence (incident) reporting data is the broadest and most continuous data stream available for risk prevention. It captures actual events, near misses, and unsafe conditions across the entire organization on an ongoing basis — providing the surveillance data that allows risk managers and quality professionals to identify patterns, emerging risks, and system vulnerabilities before they cause serious harm. Monthly event summaries (A) are aggregate reports derived from occurrence data — they are a product of reporting, not the primary data source. RCA (C) is triggered by individual significant events and generates root cause findings — it is an analytical process, not a data sharing mechanism for prevention. FMEA (D) is a proactive risk assessment tool, not a data-sharing mechanism. Per AHRQ incident reporting system guidelines, ASHRM risk prevention frameworks, and CPHQ risk management domain standards, occurrence reporting data is the foundational information system for ongoing organizational risk prevention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An effective risk management plan includes all of the following EXCEPT:",
+      "options": {
+        "a": "Description of educational programs",
+        "b": "Statement of purpose",
+        "c": "Description of reporting mechanisms",
+        "d": "Scope of the program"
+      },
+      "correct_option": "a",
+      "explanation": "Description of educational programs. A standard risk management plan contains: a statement of purpose (B) — why the program exists and what it aims to achieve; a description of reporting mechanisms (C) — how events, near misses, and risks are reported and tracked; and the scope of the program (D) — what types of events and risks fall within the program's purview. Educational programs are a component of a broader patient safety or quality improvement program, not a standard required element of a risk management plan itself. Risk management plans focus on identification, reporting, investigation, and mitigation of risk — not on the description of educational curricula. Per ASHRM risk management plan standards, CPHQ risk management domain requirements, and TJC risk management documentation standards, educational program descriptions are not a standard required element of a risk management plan.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Root cause analysis is done:",
+      "options": {
+        "a": "When adverse events occur",
+        "b": "When there is a possible sentinel event",
+        "c": "When patient lodges a complaint",
+        "d": "On monthly basis"
+      },
+      "correct_option": "b",
+      "explanation": "When there is a possible sentinel event. RCA is the mandated investigative response to sentinel events — unexpected occurrences involving death or serious physical or psychological injury. TJC requires RCA for all sentinel events within 45 days of identification. Adverse events (A) may or may not trigger an RCA — only those that meet the sentinel event threshold require one; others may be reviewed through peer review, occurrence reporting, or FMEA. Patient complaints (C) are managed through the complaint management process, not RCA. Monthly RCA (D) is not an RCA trigger — RCA is event-driven, not calendar-driven. Per TJC Sentinel Event Policy, AHRQ RCA toolkit, and CPHQ patient safety standards, a possible sentinel event is the primary trigger for RCA initiation.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Minimize chance of adverse event reoccurrence including determining the factor:",
+      "options": {
+        "a": "RCA",
+        "b": "FMEA",
+        "c": "Clinical pathway",
+        "d": "Force field analysis"
+      },
+      "correct_option": "a",
+      "explanation": "RCA. Root cause analysis is specifically designed to investigate why an adverse event occurred — to determine the root causes and contributing factors — and to generate corrective actions that prevent recurrence. The key phrase in the question is \"determining the factor\" — RCA is the tool that systematically identifies causal factors after an event has occurred. FMEA (B) prevents failures proactively before they occur — it does not investigate after the fact. Clinical pathways (C) standardize care processes but do not investigate adverse event causation. Force field analysis (D) is a change management tool that identifies driving and restraining forces for a proposed change. Per AHRQ RCA methodology, TJC sentinel event standards, and CPHQ patient safety domain requirements, RCA is the tool for post-event causal determination and recurrence prevention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Newly observed increased in delivery injuries and RCA was done and found that all cases related to one practitioner. What is the next action:",
+      "options": {
+        "a": "Keep monitor cases done by the practitioner",
+        "b": "Investigate additional data about practitioner deliveries",
+        "c": "Call for meeting",
+        "d": "Cancel the privileges"
+      },
+      "correct_option": "b",
+      "explanation": "Investigate additional data about practitioner deliveries. When an RCA reveals that cases cluster around a single practitioner, the appropriate next step is to gather additional data specific to that practitioner's practice — a deeper analysis of their case outcomes, techniques, and performance patterns. This mirrors the OPPE/FPPE principle that individual performance data must be thoroughly analyzed before any action is taken. Simply monitoring (A) is passive and insufficient given the identified pattern. Calling a meeting (C) is premature without the data to discuss. Canceling privileges (D) is a drastic, due-process-requiring action that cannot be taken based solely on an RCA finding — it requires thorough investigation, peer review, and medical staff governance process. Per TJC Medical Staff Standards, CPHQ credentialing domain requirements, and due process principles, additional data investigation is the mandatory next step when performance data suggests a practitioner-specific pattern.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A patient complaint that there is an error in writing the bill, because two out of three days of her stay in hospital due to her drug reaction. The HQP should consider that:",
+      "options": {
+        "a": "Billing error",
+        "b": "Medication error",
+        "c": "Unexpected adverse occurrence",
+        "d": "Admission error"
+      },
+      "correct_option": "c",
+      "explanation": "Unexpected adverse occurrence. The patient's complaint is not primarily a billing error — the billing discrepancy is a downstream consequence of the clinical event. The core finding is that the patient had a drug reaction requiring two additional hospital days beyond what was planned. A drug reaction that extends a hospitalization and causes patient harm is classified as an unexpected adverse occurrence — an unintended, harmful result of medical treatment. From the HQP's perspective, the complaint signal is a trigger to investigate the drug reaction as an adverse event, not to treat this as a simple billing dispute. Billing errors (A) are administrative. Medication errors (B) refers to errors in prescribing, dispensing, or administering — a drug reaction may or may not result from a medication error. Admission error (D) is not supported by the scenario. Per AHRQ adverse event definition, NQF serious reportable events framework, and CPHQ patient safety and risk management standards, a drug reaction causing extended hospitalization is an unexpected adverse occurrence.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A 75-year-old patient who had side hip replacement climbed upstairs and had been fallen. Risk manager goes to patient family and discusses that issue. The risk manager's action is considered an example of:",
+      "options": {
+        "a": "Risk assessment",
+        "b": "Compensable event",
+        "c": "Loss transfer",
+        "d": "Loss reduction"
+      },
+      "correct_option": "d",
+      "explanation": "Loss reduction. When the risk manager proactively contacts the patient's family to discuss a harmful event, this action is a loss reduction strategy — it aims to mitigate the financial, legal, and reputational consequences of the adverse event by managing the relationship with the affected party, demonstrating organizational accountability, and reducing the likelihood of litigation. This is a core risk management function. Risk assessment (A) occurs before an event — it is a proactive evaluation of potential risks. A compensable event (B) is a classification applied to an event that may give rise to legal liability — it is a designation, not an action. Loss transfer (C) is the risk management strategy of shifting financial risk to another party (e.g., through insurance) — it does not describe communication with the family. Per ASHRM risk management frameworks, CPHQ risk management domain standards, and healthcare claims management principles, proactive family communication following a harmful event is a loss reduction strategy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "After a significant unexpected event, an intensive analysis is performed to:",
+      "options": {
+        "a": "Understand the cause",
+        "b": "Correct risk management data",
+        "c": "Prevent the facility from lawsuit",
+        "d": "Identify who made the error"
+      },
+      "correct_option": "a",
+      "explanation": "Understand the cause. The intensive analysis performed after a significant unexpected event — i.e., root cause analysis — exists for one primary purpose: to understand why the event occurred by identifying the root causes and contributing system factors. This understanding then drives corrective action to prevent recurrence. Correcting risk management data (B) is a secondary administrative function, not the purpose of the analysis. Preventing lawsuits (C) may be a downstream benefit of learning and improvement, but it is not the stated purpose of the analysis — placing legal protection as the goal would compromise the integrity and openness of the investigation. Identifying who made the error (D) is specifically what RCA is designed not to do — RCA focuses on systems and processes, not individual blame. Per TJC RCA2 framework, AHRQ intensive analysis guidance, and CPHQ patient safety standards, the purpose of post-event analysis is to understand the causal system factors.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "If a severe event occurred and then the team wants to prevent this type of event from reoccurring again:",
+      "options": {
+        "a": "FMEA",
+        "b": "RCA",
+        "c": "Initiate action plan",
+        "d": "Monitor the action plan"
+      },
+      "correct_option": "b",
+      "explanation": "RCA. The sequence for responding to a severe adverse event follows a clear pathway: RCA first (to understand what happened and why), then development of an action plan, then implementation, then monitoring. The question asks what the team does when it wants to prevent recurrence after a severe event — this is the role of RCA: it is the investigative tool that generates the causal understanding required to build an effective prevention strategy. FMEA (A) is proactive — used before events, not after. Initiating an action plan (C) comes after the RCA has identified what needs to be fixed. Monitoring (D) comes after the action plan is implemented. Per TJC Sentinel Event Policy, AHRQ post-event response framework, and CPHQ patient safety standards, RCA is the first and defining step in preventing recurrence of a severe adverse event.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Aim of near miss reporting:",
+      "options": {
+        "a": "Learning lessons",
+        "b": "Improvement",
+        "c": "Reporting to leadership",
+        "d": "Adhering to institutional policy"
+      },
+      "correct_option": "a",
+      "explanation": "Learning lessons. The primary purpose of near-miss reporting is organizational learning — capturing events in which harm did not occur but could have, so that the system failures that allowed the near miss can be understood and corrected before a real harm event occurs. Near misses are invaluable learning opportunities: they reveal vulnerabilities in the safety system while there is still time to act without the consequences of actual patient harm. Improvement (B) is the downstream result of learning — but the immediate aim of the reporting itself is learning. Reporting to leadership (C) and adhering to policy (D) are process requirements, not the purpose of near-miss reporting. Per IHI near-miss reporting framework, AHRQ voluntary reporting system design, and CPHQ patient safety domain standards, the primary aim of near-miss reporting is organizational learning to prevent future harm.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Hospital using computer software, patient weight recorded by mistake higher than the actual weight, that reflected on medication dose becoming 10 times the original dose. Nurse noticed this error before administering the medication to the patient. Quality professional should consider this type of mistake as:",
+      "options": {
+        "a": "Sentinel event",
+        "b": "Near miss",
+        "c": "Claim",
+        "d": "No harm event"
+      },
+      "correct_option": "b",
+      "explanation": "Near miss. A near miss is an event that could have resulted in patient harm but was intercepted before reaching the patient. In this scenario, the medication dose error was significant (10 times the correct dose due to an incorrect weight entry) but was caught by the nurse before administration — the patient received no medication and suffered no harm. This is the textbook definition of a near miss: a potential harm event prevented by timely detection. A sentinel event (A) requires that an unexpected occurrence involving death or serious harm actually occur or reach the patient — this did not. A claim (C) is a legal designation that cannot apply without patient harm. No harm event (D) is sometimes used synonymously with near miss, but the more precise classification — and the term used in AHRQ and TJC frameworks — is near miss, because harm was not simply absent but was actively prevented. Per AHRQ near-miss definition, IHI patient safety taxonomy, and CPHQ patient safety domain standards, this is a near miss.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An important reason for monitoring near misses is to:",
+      "options": {
+        "a": "Prevent negative publicity",
+        "b": "Identify incompetent staff",
+        "c": "Provide lessons to the staff",
+        "d": "Support disciplinary action"
+      },
+      "correct_option": "c",
+      "explanation": "Provide lessons to the staff. The value of near-miss monitoring is its educational and learning function — near misses reveal how close the system came to failure and what conditions enabled the near-miss. Sharing these lessons with staff is the mechanism through which near-miss data transforms into safety improvement. It informs staff about real vulnerabilities in their work environment, motivates safety-conscious behavior, and generates the shared learning that prevents future events. Preventing negative publicity (A) is a public relations concern — not a quality rationale for near-miss monitoring. Identifying incompetent staff (B) is punitive and contrary to the systems-focused purpose of near-miss analysis. Supporting disciplinary action (D) is similarly contrary to the non-punitive principles of safety reporting systems. Per IHI near-miss learning systems framework, AHRQ voluntary reporting guidelines, and CPHQ patient safety domain standards, providing learning lessons to staff is the primary rationale for near-miss monitoring.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A new medication administration safety process was implemented in a hospital. A team convened to perform a failure mode effect analysis and calculate risk priority numbers (RPN) for the failure modes identified. After a targeted training program and implementation of the new process, the FMEA team was reconvened to assess remaining risks of the new process. In reevaluating the FMEA matrix and risks, the team would acknowledge success if:",
+      "options": {
+        "a": "The detectability numbers decreased and RPNs were lower",
+        "b": "The detectability numbers increased and RPNs were lower",
+        "c": "The frequency numbers decreased and RPNs were higher",
+        "d": "The frequency numbers increased and RPNs were lower"
+      },
+      "correct_option": "a",
+      "explanation": "The detectability numbers decreased and RPNs were lower. In FMEA, RPN = Severity × Occurrence × Detectability, with each factor scored on a scale of 1–10. Detectability follows an inverse scale: a score of 1 indicates the failure is very easy to detect; a score of 10 indicates it is nearly impossible to detect. After a successful training program and process implementation, two things occur simultaneously: (1) the frequency of failures decreases as staff apply the new process correctly, reducing the Occurrence score; and (2) the organization's ability to catch remaining failures before they reach the patient improves, reducing the Detectability score. Both reductions drive the RPN lower, confirming that the overall risk profile of the new process has improved. Option B is internally inconsistent under standard FMEA convention — if detectability numbers increase, detection has worsened, which would drive the RPN higher, not lower. This contradicts the success scenario being described. Option C pairs decreased frequency with higher RPNs — a mathematical impossibility when severity is held constant. Option D pairs increased frequency with lower RPNs — equally contradictory. Per IHI FMEA for Healthcare toolkit, ASQ FMEA methodology standards, and CPHQ performance improvement domain requirements, a successful FMEA re-evaluation is confirmed by decreased detectability scores, decreased occurrence scores, and lower overall RPNs.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Your organization is preparing to change to a new electronic health record. Many departments have been involved with the planning of this huge effort. What would you suggest as part of the preparation strategy?",
+      "options": {
+        "a": "Conduct a root cause analysis",
+        "b": "Conduct a failure modes and effects analysis",
+        "c": "Offer a plan, do, study and act session",
+        "d": "Offer to do a claims analysis for any related errors"
+      },
+      "correct_option": "b",
+      "explanation": "Conduct a failure modes and effects analysis. When implementing a new, complex system — such as a new EHR — the appropriate proactive risk management strategy is FMEA. FMEA allows the organization to systematically identify potential failure modes before the system goes live, assess the risk of each failure, and implement preventive measures to reduce the probability or impact of those failures. This is the quintessential use case for FMEA: high-stakes new system implementation. RCA (A) is retrospective — used after failures occur, not before implementation. PDSA (C) is an improvement methodology for testing changes — appropriate for iterative refinement but not the primary pre-implementation risk assessment tool. Claims analysis (D) cannot be done before implementation as there are no claims yet. Per IHI FMEA guidance, TJC proactive risk assessment standards, and CPHQ patient safety and performance improvement standards, FMEA is the mandated pre-implementation risk assessment for new high-risk systems.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An incident involving a retained sponge following surgery has been determined to be reviewable under the Joint Commission sentinel event policy. A root cause analysis will be performed. The Joint Commission considers the root cause analysis to be credible if:",
+      "options": {
+        "a": "It is reviewed and signed by a patient safety professional",
+        "b": "There is participation by leadership and individuals closely involved in the process",
+        "c": "Corrective actions have been developed and completed",
+        "d": "A single, clearly defined root cause has been identified"
+      },
+      "correct_option": "b",
+      "explanation": "There is participation by leadership and individuals closely involved in the process. TJC's RCA credibility criteria require that the analysis be conducted by a team that includes leadership and those individuals directly involved in or closely familiar with the processes that led to the event. This ensures the RCA has both authority (leadership engagement) and accuracy (first-hand process knowledge). Option A (reviewed and signed by a patient safety professional) is not a TJC credibility criterion. Option C (corrective actions developed and completed) is a post-RCA implementation requirement — it is part of the action plan, not the credibility of the RCA itself. Option D is actually contrary to TJC guidance — TJC acknowledges that most sentinel events have multiple contributing root causes, not a single one; insisting on a single root cause oversimplifies complex system failures. Per TJC RCA2 credibility criteria and CPHQ patient safety standards, leadership and process-involved participant engagement is the defining credibility requirement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "What is the best strategy/technique to identify and eliminate known and/or potential problems and errors from a system, design, process, and/or service before they occur?",
+      "options": {
+        "a": "Failure modes and effects analysis (FMEA)",
+        "b": "Plan-Do-Study-Act (PDSA)",
+        "c": "Root Cause Analysis (RCA)",
+        "d": "Define, Measure, Analyze, Improve and Control (DMAIC)"
+      },
+      "correct_option": "a",
+      "explanation": "Failure modes and effects analysis (FMEA). FMEA is explicitly defined as a proactive, systematic methodology for identifying potential failure modes in a process, system, or design before they occur, assessing their potential impact, and implementing preventive measures. The question stem perfectly describes FMEA's purpose: proactive identification and elimination of known and potential problems before they result in harm. PDSA (B) is an iterative improvement cycle for testing changes — it is not primarily a risk identification tool. RCA (C) is retrospective — used after failures occur. DMAIC (D) is the Six Sigma improvement methodology — it identifies and eliminates defects in existing processes but is a broader performance improvement framework, not specifically a proactive risk identification tool. Per IHI FMEA guidance, TJC proactive risk assessment standards, and CPHQ patient safety domain standards, FMEA is the gold standard for pre-event risk identification and elimination.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A serious adverse event resulting in a patient death has occurred at your facility. According to The Joint Commission's policy on sentinel events, what is the first step in the root cause analysis process?",
+      "options": {
+        "a": "Gather appropriate information",
+        "b": "Identify factors that contributed to the event",
+        "c": "Identify RCA team members",
+        "d": "Perform individual interviews with involved staff members"
+      },
+      "correct_option": "c",
+      "explanation": "Identify RCA team members. The first step in TJC's RCA process is to assemble the RCA team — identifying and convening the individuals who will conduct the analysis. Without the team, no other step can proceed: information cannot be gathered systematically, contributing factors cannot be identified, and interviews cannot be conducted. The team must be identified and convened before any investigative activity begins. Gathering information (A) and identifying contributing factors (B) are subsequent steps. Conducting individual interviews (D) is a data-gathering technique used during the RCA but follows team assembly and preliminary information review. Per TJC RCA2 framework and AHRQ RCA process guide, team identification and assembly is the first step in the RCA process.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the context of an FMEA, how is the risk priority number (RPN) used?",
+      "options": {
+        "a": "Identifies highest priority failure modes to address",
+        "b": "Prioritizes the failure modes that do not require action",
+        "c": "Calculates the failure modes that will create the most errors",
+        "d": "Specifies the failure modes that have been shown to cause harm"
+      },
+      "correct_option": "a",
+      "explanation": "Identifies highest priority failure modes to address. The RPN (Risk Priority Number) = Severity × Occurrence × Detectability. Its purpose is to rank failure modes by their composite risk score so that the team can prioritize which failure modes require the most urgent attention and resource allocation. A high RPN indicates a failure mode that is frequent, severe, and difficult to detect — these are addressed first. Option B inverts the purpose — RPN identifies what requires action, not what can be ignored. Option C is partially correct in describing what a high RPN represents, but \"will create the most errors\" is imprecise — RPN captures severity, frequency, and detectability, not just error frequency. Option D (shown to cause harm) describes known adverse events, not FMEA's prospective failure mode assessment. Per IHI FMEA Healthcare toolkit, CPHQ performance improvement domain standards, and standard FMEA methodology, RPN identifies the highest-priority failure modes requiring action.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A medication error is self-reported by a nurse to the risk manager. The manager tells the nurse to complete an incident report. Upon review of the patient safety event, the manager notices that the nurse overrode a safety check on the bar code scan system. Further review of the override report reveals that several other nurses have also overridden the system. The risk manager further investigates and finds out that there was an issue with the printer in registration on that day, therefore the barcode scanner could not read the patient ID bracelets. This is an example of what type of analysis?",
+      "options": {
+        "a": "Failure Mode and Effects Analysis",
+        "b": "Event Report Analysis",
+        "c": "Root Cause Analysis",
+        "d": "Process Analysis"
+      },
+      "correct_option": "c",
+      "explanation": "Root Cause Analysis. The scenario describes a post-event investigation that begins with a reported medication error and systematically traces backward through the chain of contributing factors — nurse override behavior → system-wide override pattern → printer malfunction in registration → barcode scanner failure. This investigative process of identifying the root cause and contributing factors after an event has occurred is the definition of Root Cause Analysis. FMEA (A) would have been conducted before the system was implemented to identify potential failure modes proactively — this analysis is happening after the event. Event Report Analysis (B) is not a recognized formal analysis methodology. Process Analysis (D) is a generic term — the specific structured methodology described is RCA. Per TJC RCA framework, AHRQ RCA methodology, and CPHQ patient safety standards, this backward-tracing post-event causal investigation is definitively an RCA.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Your hospital is considering implementing a robotic surgery program. As a patient safety professional you are concerned about the potential for patient injury associated with this new technology. The most appropriate tool or technique for assessing potential risks associated with implementation of a new technology is:",
+      "options": {
+        "a": "Patient Safety Leadership Walk Rounds",
+        "b": "Root Cause Analysis (RCA)",
+        "c": "Failure Modes and Effects Analysis (FMEA)",
+        "d": "Meaningful Use Evaluation"
+      },
+      "correct_option": "c",
+      "explanation": "Failure Modes and Effects Analysis (FMEA). Assessing potential risks before implementing a new technology is a prospective risk assessment task — this is the defining use case for FMEA. Before a robotic surgery program goes live, FMEA enables the organization to systematically identify every potential failure mode associated with the new technology (equipment failure, user error, training gaps, integration issues), assess the potential consequences, and implement safeguards. RCA (B) is retrospective — it is used after an adverse event occurs, not before implementation. Patient Safety Leadership Walk Rounds (A) are observational safety checks for existing operations — not a risk assessment tool for new technology evaluation. Meaningful Use Evaluation (D) is a health IT regulatory compliance framework, not a patient safety risk assessment methodology. Per IHI FMEA guidance, TJC proactive risk assessment standards, and CPHQ patient safety domain standards, FMEA is the appropriate pre-implementation risk assessment tool for new clinical technology.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization is getting ready to replace their IV pumps with brand new, more complex IV pumps. Which of the following actions should be performed first prior to implementing the new IV pumps?",
+      "options": {
+        "a": "Perform a root cause analysis with the medication safety officer",
+        "b": "Gather a multi-disciplinary team and do a failure modes and effects analysis",
+        "c": "Hold a meeting with clinical engineering, patient safety officer, and medication safety officer",
+        "d": "Immediately start training the clinical staff"
+      },
+      "correct_option": "b",
+      "explanation": "Gather a multi-disciplinary team and do a failure modes and effects analysis. Before implementing new, complex IV pumps — high-risk technology directly involved in medication delivery — the first action must be a proactive FMEA conducted by a multidisciplinary team. This ensures that all potential failure modes associated with the new pumps (programming errors, interface confusion, alarm fatigue, connectivity failures) are identified and mitigated before the devices are used on patients. RCA (A) is retrospective — it cannot be performed before implementation because no events have occurred yet. Holding a meeting (C) is appropriate as part of the FMEA process, but calling a meeting is not the defined action — conducting an FMEA with a multidisciplinary team is the complete answer. Immediately starting training (D) without first understanding the risk profile of the new technology is premature and dangerous. Per IHI FMEA for healthcare, AHRQ patient safety toolkits, and CPHQ performance improvement domain standards, a multidisciplinary FMEA is the mandated first action before implementing high-risk clinical technology.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Sharing of lessons learned from RCAs does what?",
+      "options": {
+        "a": "Exposes the fallibility of the involved clinicians",
+        "b": "Allows others to introduce work-arounds to avoid the same situation",
+        "c": "Allows co-workers to learn the rationale for why an event occurred and incorporate new lessons learned into practice",
+        "d": "Sharing these events allows for exposure from a litigation perspective and should not be encouraged"
+      },
+      "correct_option": "c",
+      "explanation": "Allows co-workers to learn the rationale for why an event occurred and incorporate new lessons learned into practice. Sharing RCA lessons learned is one of the highest-value activities in a patient safety program because it transforms an individual adverse event into organizational learning. When co-workers understand why an event occurred — the system conditions, the process gaps, the contributing factors — they can recognize similar conditions in their own practice, apply the corrective strategies, and prevent recurrence. Option A (exposes clinician fallibility) is contrary to the non-punitive purpose of RCA — individual clinicians are not the focus of RCA lessons. Option B (introduces work-arounds) is precisely what should not happen — work-arounds are temporary fixes that bypass safety systems and often create new risks; lessons from RCA should drive permanent system fixes. Option D is the antithesis of safety culture — withholding lessons to avoid litigation exposure defeats the entire purpose of the safety learning system and is inconsistent with TJC transparency expectations. Per IHI learning systems research, AHRQ RCA dissemination guidance, and CPHQ patient safety domain standards, lesson-sharing from RCA is a learning and practice-improvement function.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Patient safety culture:",
+      "options": {
+        "a": "Promotes learning from mistakes and staff collaboration",
+        "b": "Foster collaboration and anonymous reporting",
+        "c": "Staff collaboration and audit systems",
+        "d": "Staff collaboration and reporting"
+      },
+      "correct_option": "a",
+      "explanation": "A culture of patient safety is defined by its non-punitive, systems-based orientation toward error — one in which mistakes are treated as learning opportunities and staff work collaboratively to identify and correct system failures. Options B, C, and D each isolate a partial element (reporting, audits) without capturing the defining dual characteristic of learning-from-error plus collaboration. Per AHRQ Patient Safety Culture surveys and IHI Framework for Safe, Reliable, and Effective Care, learning from mistakes combined with staff collaboration is the foundational definition of a safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Patient safety culture characteristic within hospital:",
+      "options": {
+        "a": "Effect staff",
+        "b": "Anonymous reporting",
+        "c": "Mutual trust",
+        "d": "Self-direct team"
+      },
+      "correct_option": "c",
+      "explanation": "Mutual trust between staff and leadership is a core, well-documented characteristic of a mature safety culture — it is the precondition that enables honest incident reporting and open communication. Anonymous reporting (B) is a mechanism that supports trust but is not itself the underlying cultural characteristic. \"Effect staff\" (A) is not a coherent safety culture construct. Self-directed teams (D) relate to team structure, not safety culture specifically. Per AHRQ Hospital Survey on Patient Safety Culture (HSOPS) domains, mutual trust is one of the named foundational culture dimensions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a culture of patient safety, error is considered:",
+      "options": {
+        "a": "Normal",
+        "b": "Misconduct",
+        "c": "Purposely",
+        "d": "Preventable"
+      },
+      "correct_option": "d",
+      "explanation": "A patient safety culture treats error as a preventable systems failure — not as an expected/normal occurrence (A), not as intentional misconduct (B), and certainly not as purposeful (C). This framing is central to Just Culture theory, which distinguishes human error (system-correctable) from reckless behavior. Per AHRQ Just Culture framework and IOM's \"To Err is Human,\" classifying error as preventable — rather than inevitable or punishable — is what drives systemic correction rather than blame.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Red rules are used for",
+      "options": {
+        "a": "Tool for monitoring safety",
+        "b": "Root cause analysis",
+        "c": "A patient safety goal",
+        "d": "Improving culture"
+      },
+      "correct_option": "a",
+      "explanation": "Red rules are non-negotiable safety rules that must be followed without exception (e.g., never leave a chemotherapy pump unattended) — they function as real-time monitoring and enforcement tools embedded into daily practice to prevent catastrophic error. They are not an RCA method (B), not themselves a formal accreditation-defined patient safety goal (C), and not a culture-improvement technique in isolation (D) — though they support culture indirectly. Per high-reliability organization (HRO) principles and patient safety implementation science, red rules are classified as real-time safety monitoring/enforcement tools.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The concept of patient safety applies most appropriately to",
+      "options": {
+        "a": "Environmental safety measures",
+        "b": "Serious physical injuries",
+        "c": "Patient compliant management",
+        "d": "Risk prevention"
+      },
+      "correct_option": "d",
+      "explanation": "Patient safety as a discipline is fundamentally proactive and preventive in orientation — its scope extends to identifying and mitigating risk before harm occurs, not merely reacting to injuries that have already happened. Environmental safety measures (A) are one narrow subset of risk prevention. Serious physical injuries (B) describes an outcome, not the concept's scope. Patient complaint management (C) is a service recovery function, not a safety concept. Per AHRQ and WHO Patient Safety frameworks, risk prevention (proactive hazard identification and mitigation) is the concept's core defining application.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "1st task of a newly established quality council for implementation of safety",
+      "options": {
+        "a": "Provide protocols for rapid response teams",
+        "b": "Assess preparedness and disaster plan",
+        "c": "Prepare job description for quality council",
+        "d": "Scan the environment for risks"
+      },
+      "correct_option": "d",
+      "explanation": "Before any council can build protocols, response teams, or job descriptions, it must first understand its operating environment — conducting an environmental scan to identify existing risks, gaps, and priorities. This is the foundational first step of any strategic planning or safety program design process. Providing RRT protocols (A) and disaster preparedness assessment (B) are downstream, targeted interventions that presuppose risks have already been identified. Preparing job descriptions (C) is an internal administrative task, not a safety implementation priority. Per strategic planning methodology and CPHQ Quality Leadership standards, environmental risk scanning is always the first step before a new council designs specific interventions.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is the best example of applying cultural diversity principle to patient safety?",
+      "options": {
+        "a": "Allowing parents to perform rituals for their ill child",
+        "b": "Providing interpretive service to explain medical procedures",
+        "c": "Having the nutritionist discussion dietary preferences with the patients",
+        "d": "Performing mandatory training on culture diversity for staff"
+      },
+      "correct_option": "b",
+      "explanation": "Providing interpretive services to explain medical procedures directly addresses a patient safety risk — informed consent and procedural understanding are compromised by language barriers, and this is a well-documented sentinel-event contributing factor. This option combines cultural competency with a direct patient safety mechanism (ensuring understanding before a clinical intervention). Allowing rituals (A) and dietary preference discussions (C) are patient-centered accommodations but do not directly address a safety risk. Staff training (D) is a foundational but indirect, upstream intervention. Per TJC cultural competency and communication standards and CPHQ patient safety domain requirements, interpretive services tied to procedural understanding is the clearest direct link between cultural diversity practice and patient safety.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Newly joined physician to rural area hospital, asked to develop patient safety program, what should he do",
+      "options": {
+        "a": "Check the other hospital plans",
+        "b": "Make patient survey",
+        "c": "Search for scientific data on internet",
+        "d": "Reviewing the scope of the hospital"
+      },
+      "correct_option": "d",
+      "explanation": "Before designing any patient safety program, the physician must first understand the scope, services, patient population, and existing risk profile of the specific hospital — this is the needs-assessment foundation for any organization-specific program design. Checking other hospitals' plans (A) risks importing a program that doesn't fit local context. Patient surveys (B) and internet research (C) may supplement understanding but are not the correct first step. Per CPHQ Quality Leadership standards and program development methodology, reviewing organizational scope is the mandatory first step before designing any tailored safety program.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The best evidence for safety culture in a hospital that when mistake happen?",
+      "options": {
+        "a": "The supervisor and the nurse study the process to learn from the mistake",
+        "b": "The supervisor and the nurse meet together to agree about what should be reported",
+        "c": "Leadership involved in RCA",
+        "d": "Incident reporting process is known to staff"
+      },
+      "correct_option": "a",
+      "explanation": "The clearest behavioral evidence of a functioning safety culture is that, in the moment a mistake happens, the frontline supervisor and staff member together examine the process itself to extract learning — reflecting the systems-based, non-punitive orientation that defines safety culture. Option B describes negotiating what gets reported — a red flag for underreporting culture, not evidence of a healthy one. Leadership RCA involvement (C) and staff awareness of reporting processes (D) are supportive structural elements but are less direct behavioral evidence than the act of studying the process together at the point of occurrence. Per AHRQ Just Culture and HSOPS survey framework, joint process-focused learning at the point of error is the strongest behavioral indicator of safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Establishing a culture of safety begins with having the right:",
+      "options": {
+        "a": "Plan",
+        "b": "Leadership",
+        "c": "Educational programs",
+        "d": "Recruitment studies"
+      },
+      "correct_option": "b",
+      "explanation": "Leadership commitment is universally identified as the essential starting point for establishing a culture of safety — culture change cascades from leadership behavior, modeling, and resource allocation, not from plans or programs alone. A written plan (A) without leadership commitment behind it will not produce cultural change. Educational programs (C) and recruitment studies (D) are downstream tactical elements. Per IHI Framework for Safe, Reliable, and Effective Care and AHRQ leadership-for-safety-culture research, leadership is consistently identified as the necessary starting point for culture establishment.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Patient safety officer developing safety plan and the following information was provided: incident report data, performance indicator, customer complaint data. Which of the following additional data need to write the safety plan:",
+      "options": {
+        "a": "Physician satisfaction and financial goals",
+        "b": "Staff satisfaction and root cause analysis",
+        "c": "Infection control data and accreditation result",
+        "d": "The facility risk assessment and strategic goal"
+      },
+      "correct_option": "d",
+      "explanation": "A comprehensive patient safety plan must integrate proactive risk identification (facility risk assessment) with organizational direction (strategic goals) — connecting the safety plan to both hazard data and organizational priorities, complementing the incident/performance/complaint data already provided. Physician satisfaction and financial goals (A) are not core safety plan inputs. Staff satisfaction and RCA (B) are relevant but RCA is typically event-specific rather than a standing input category. Infection control data and accreditation results (C) are narrower, single-domain inputs rather than the broader risk and strategic framework needed. Per TJC patient safety plan requirements and CPHQ Quality Leadership standards, a complete safety plan requires both proactive risk assessment and alignment with organizational strategic goals.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A nurse who realized that his colleagues weren't constantly following up on patient results reported the problem to the clinic leadership right away. Which response would be most consistent with a culture of safety?",
+      "options": {
+        "a": "Transferring the nurse to another clinic",
+        "b": "Writing a letter of recommendation for his file",
+        "c": "Thanking the nurse and asking him to keep quiet about it",
+        "d": "Placing the item on the agenda for the leadership meeting next year"
+      },
+      "correct_option": "b",
+      "explanation": "A culture of safety rewards and reinforces reporting behavior — acknowledging the nurse's action formally (such as through a letter of recommendation) sends a clear organizational signal that speaking up is valued, encouraging future reporting from all staff. Transferring the nurse (A) punishes reporting behavior. Asking him to keep quiet (C) directly undermines transparency and is the opposite of a safety culture response. Delaying the issue to next year's agenda (D) treats an active safety concern as low-priority, discouraging future reports. Per AHRQ Just Culture principles and IHI safety culture frameworks, positively reinforcing reporting behavior is the response most consistent with a healthy safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Which of the following is most important for patient safety?",
+      "options": {
+        "a": "Leadership commitment",
+        "b": "Entire staff",
+        "c": "Patient safety officer",
+        "d": "Medical executive committee"
+      },
+      "correct_option": "a",
+      "explanation": "Leadership commitment is consistently identified across patient safety literature as the single most important determinant of a successful safety program — leadership sets tone, allocates resources, and models the behaviors that cascade throughout the organization. The entire staff (B), the patient safety officer (C), and the medical executive committee (D) are all essential participants, but none functions effectively without leadership commitment driving and sustaining the program. Per IHI, AHRQ, and TJC leadership standards, leadership commitment is the foundational and most important single factor for patient safety.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization has achieved a culture of patient safety when",
+      "options": {
+        "a": "Fear of reprisals for reporting incidents has been eliminated",
+        "b": "Its patient safety goals have been implemented",
+        "c": "Patient safety training of employees has completed",
+        "d": "Reports of incidents and near misses have decreased"
+      },
+      "correct_option": "a",
+      "explanation": "The elimination of fear of reprisal is the defining marker of an achieved (mature) safety culture — it is the condition that enables honest, complete incident and near-miss reporting, which is the raw material for continuous improvement. Implementing NPSGs (B) and completing training (C) are program milestones, not culture achievement markers. A decrease in reported incidents and near misses (D) is actually a red flag for underreporting in an immature culture, not evidence of a mature one — true safety cultures typically see reporting rates increase as trust builds. Per AHRQ Just Culture and HSOPS survey framework, the absence of fear of reprisal is the defining achievement marker of a safety culture.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Culture exist when",
+      "options": {
+        "a": "Learning from mistakes, accountability displaced",
+        "b": "Staff not blamed when error",
+        "c": "Leadership is involved",
+        "d": "Survey happens on yearly basis"
+      },
+      "correct_option": "b",
+      "explanation": "A safety culture exists when staff are not blamed for honest errors — reflecting the Just Culture principle that separates human error (system-correctable, non-punitive) from reckless behavior (accountable). Option A is internally contradictory and not a valid safety culture principle — displacing accountability entirely is not consistent with Just Culture, which balances system accountability with individual accountability rather than eliminating it. Leadership involvement (C) and annual surveys (D) are supportive structural elements, not the defining existence condition. Per AHRQ Just Culture framework, non-punitive treatment of honest error is the defining condition under which a safety culture exists.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An effective risk management program for a health care organization emphasizes",
+      "options": {
+        "a": "Harm prevention for patients, visitors, and staff",
+        "b": "Reduction of financial losses",
+        "c": "Staff training and education",
+        "d": "Compliance with accrediting agency standards"
+      },
+      "correct_option": "a",
+      "explanation": "The primary emphasis of an effective risk management program is harm prevention across all persons in the care environment — patients, visitors, and staff. Financial loss reduction (B) is an outcome of effective risk management but not its primary emphasis. Staff training (C) and accreditation compliance (D) are supporting mechanisms. Per ASHRM Risk Management Standards, AHRQ patient safety frameworks, and CPHQ Patient Safety domain standards, harm prevention is the foundational purpose of healthcare risk management programs.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When a Sentinel Event (SE) occurs, the Risk Manager initiates a Root Cause Analysis (RCA). To appropriately evaluate the cause of an SE,",
+      "options": {
+        "a": "Terminate all processes that lead to the event until the RCA is completed",
+        "b": "Start with the assumption that human error was the most likely cause of the SE",
+        "c": "Leadership must participate in the RCA",
+        "d": "Start the RCA immediately to appropriately deal with causality"
+      },
+      "correct_option": "d",
+      "explanation": "Per TJC Sentinel Event Policy, the RCA must be initiated promptly following a sentinel event — TJC requires submission of an RCA and action plan within 45 days. Starting immediately is the operative principle. Terminating all processes (A) is operationally disruptive and not required by TJC policy — care must continue safely. Assuming human error (B) violates the non-punitive, systems-focused RCA methodology. Leadership participation (C) is desirable but is a component of RCA design, not the answer to how an RCA should be initiated. Per TJC Sentinel Event Policy, AHRQ RCA guidance, and CPHQ Patient Safety domain standards, prompt initiation is the governing requirement.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Root cause analysis (RCA) should be performed:",
+      "options": {
+        "a": "Using a multidisciplinary team",
+        "b": "Using practitioners who were not involved in the event",
+        "c": "Starting no earlier than 45 days after the event",
+        "d": "Only when requested"
+      },
+      "correct_option": "a",
+      "explanation": "TJC and AHRQ are explicit: RCA must be conducted using a multidisciplinary team that includes individuals with direct knowledge of the processes involved — not exclusively those uninvolved (B), which would eliminate critical process knowledge. The 45-day timeframe (C) is TJC's deadline for submitting the completed RCA — not a start restriction; RCA should begin as soon as possible. Performing RCA only when requested (D) is contrary to TJC mandatory sentinel event policy. Per TJC Sentinel Event Policy, AHRQ RCA standards, and CPHQ Patient Safety domain requirements, a multidisciplinary team is the required RCA composition.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Sharing which data best supports risk prevention:",
+      "options": {
+        "a": "Monthly event data",
+        "b": "Occurrence reporting",
+        "c": "Root cause analysis",
+        "d": "Failure mode and effect analysis"
+      },
+      "correct_option": "d",
+      "explanation": "FMEA is the only proactive tool among the options — it identifies and addresses potential failure modes before harm occurs, making it the most powerful data source for risk prevention. Monthly event data (A) and occurrence reporting (B) are reactive — they capture harm that has already occurred. RCA (C) is also retrospective — it analyzes causes after an event. Sharing FMEA findings — potential failure modes, risk priority numbers, and preventive actions — directly drives prospective risk prevention. Per IHI FMEA toolkit, TJC proactive risk assessment standards, and CPHQ Patient Safety domain requirements, FMEA data is the gold standard for risk prevention.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An effective risk management plan includes all of the following EXCEPT:",
+      "options": {
+        "a": "Description of educational programs",
+        "b": "Statement of purpose",
+        "c": "Description of reporting mechanisms",
+        "d": "Scope of the program"
+      },
+      "correct_option": "a",
+      "explanation": "A comprehensive risk management plan must include: a statement of purpose (B), a description of reporting mechanisms (C), and the scope of the program (D) — these are structural components of any formal risk management plan per ASHRM standards. Description of educational programs (A) belongs in a staff education or training plan, not in the risk management plan itself. While education supports risk management, it is not a required structural element of the plan document. Per ASHRM Risk Management Standards, CMS risk management requirements, and CPHQ Quality Review and Accountability domain standards, educational program descriptions are not core risk management plan components.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Under conducting a sentinel event review, a RCA is:",
+      "options": {
+        "a": "Provides judgment of staff behaviors",
+        "b": "Requires team consensus",
+        "c": "Identifies gaps in patient care processes",
+        "d": "Proactively identifies causes and effects"
+      },
+      "correct_option": "c",
+      "explanation": "The purpose of an RCA under TJC sentinel event review is to identify system and process gaps — the failures that allowed the event to occur. RCA is explicitly non-punitive and does not judge staff behaviors (A). It does not require universal team consensus (B) — it requires multidisciplinary participation. Option D describes FMEA, not RCA — FMEA is proactive; RCA is retrospective. Per TJC Sentinel Event Policy, AHRQ RCA guidance, and CPHQ Patient Safety standards, RCA identifies process and system gaps following an adverse event.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In a cost-benefit analysis of a bar-code medication administration system implemented as part of a patient safety program, which of the following would be the best indicator of success:",
+      "options": {
+        "a": "A decrease in adverse drug events from dispensing errors",
+        "b": "A decrease in adverse drug events from administering errors",
+        "c": "A decrease in total medication errors",
+        "d": "A decrease in total adverse drug events"
+      },
+      "correct_option": "b",
+      "explanation": "BCMA operates at the point of administration — it verifies the five rights (right patient, drug, dose, route, time) at the bedside moment of administration. Therefore, the specific metric that directly reflects BCMA's impact is a decrease in adverse drug events from administering errors. Dispensing errors (A) occur in pharmacy before the drug reaches the nurse — BCMA does not intercept these. Total medication errors (C) and total adverse drug events (D) are too broad and non-specific to attribute to BCMA alone. Per AHRQ medication safety research, IHI BCMA implementation frameworks, and CPHQ Patient Safety domain standards, administering error reduction is the precise success metric for BCMA.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Occurrence or event reporting is an example of",
+      "options": {
+        "a": "Peer review",
+        "b": "Root cause analysis",
+        "c": "Generic screening",
+        "d": "Special study"
+      },
+      "correct_option": "c",
+      "explanation": "Occurrence or event reporting is a form of generic screening — a systematic, pre-established method of capturing events across a broad patient population without targeting a specific clinical question. Peer review (A) is a structured clinical judgment process. Root cause analysis (B) is a retrospective investigation of a specific event. A special study (D) is a focused, time-limited investigation of a specific clinical issue. Per AHRQ patient safety reporting frameworks and CPHQ Quality Review and Accountability domain standards, occurrence reporting is classified as generic screening because it applies universally to all patients and settings.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "The action of the risk manager is an example of risk:",
+      "options": {
+        "a": "Identification",
+        "b": "Prevention",
+        "c": "Analysis",
+        "d": "Intervention"
+      },
+      "correct_option": "c",
+      "explanation": "Note: The question stem references \"the action of the risk manager\" in the context of initiating an RCA following a sentinel event (consistent with the surrounding question set). Initiating and conducting an RCA is a risk analysis activity. When a risk manager initiates an RCA following a sentinel event, the activity being performed is risk analysis — systematically examining the event to understand what went wrong and why. Risk identification (A) is the process of discovering that a risk exists. Risk prevention (B) is putting measures in place before an event occurs. Risk intervention (D) is taking action to mitigate an identified risk. Per ASHRM Risk Management Standards, AHRQ patient safety frameworks, and CPHQ risk management domain standards, conducting an RCA is a risk analysis function. Here are both — a fully rewritten Q10 with a proper fourth answer choice, and the complete justification for Q20.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A new medication administration safety process was implemented in a hospital. A team convened to perform a Failure Mode and Effects Analysis (FMEA) and calculate Risk Priority Numbers (RPN) for the failure modes identified. After a targeted training program and implementation of the new process, the FMEA team was reconvened to assess remaining risks. In reevaluating the FMEA matrix, the team would acknowledge success if:",
+      "options": {
+        "a": "The detectability numbers decreased and RPNs were lower",
+        "b": "The detectability numbers increased and RPNs were lower",
+        "c": "The frequency numbers decreased and RPNs were higher",
+        "d": "The severity numbers decreased and RPNs were higher"
+      },
+      "correct_option": "b",
+      "explanation": "In FMEA methodology, the Risk Priority Number is calculated by multiplying three factors: Frequency × Severity × Detectability. The detectability scale operates inversely — a score of 10 indicates the failure is nearly impossible to detect, while a score of 1 indicates near-certain detection. After a targeted training intervention designed to improve staff awareness and system-level detection capability, success is reflected by a higher detectability score — meaning the team can now more reliably catch failure modes before they reach the patient — combined with lower RPNs overall, confirming that the total risk burden has decreased. Option A is incorrect because decreasing detectability numbers would indicate the failure is now easier to miss, not easier to catch — the opposite of success. Option C is contradictory — if frequency decreases, the RPN must decrease proportionally, not increase. Option D is similarly contradictory — a decrease in severity, holding other factors constant, would lower the RPN, not raise it. Per IHI FMEA for Healthcare toolkit, TJC proactive risk assessment standards, and CPHQ Patient Safety domain requirements, improved detectability combined with lower overall RPN is the correct indicator of FMEA intervention success.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A new Cath Lab is under construction in your hospital, and the medical director contacts you to express concerns related to the transport of patients from the Cath Lab to the ICU. You agree to assist in the design of an FMEA. Components of the FMEA will include:",
+      "options": {
+        "a": "Assembling a multidisciplinary team whose members will brainstorm potential failures",
+        "b": "Conducting the 5 whys to figure out what could go wrong",
+        "c": "Listing potential root causes of adverse events in the current Cath lab",
+        "d": "Asking the medical director to participate in leadership rounds in the current Cath lab to identify potential safety risks"
+      },
+      "correct_option": "a",
+      "explanation": "FMEA methodology begins with assembling a multidisciplinary team to brainstorm potential failure modes for a process that has not yet occurred — this is the defining first step. The Five Whys (b) is an RCA technique used retrospectively after an event has occurred — not an FMEA component. Listing root causes of current adverse events (c) is retrospective RCA thinking. Leadership rounds (d) may generate safety observations but are not a formal FMEA component. Per IHI FMEA toolkit, TJC proactive risk assessment standards, and CPHQ Patient Safety domain requirements, assembling a multidisciplinary brainstorming team is the first and defining FMEA component.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Your organization is preparing to change to a new electronic health record. Many departments have been involved with the planning of this huge effort. What would you suggest as part of the preparation strategy?",
+      "options": {
+        "a": "Conduct a root cause analysis",
+        "b": "Conduct a failure modes and effects analysis",
+        "c": "Offer a plan, do, study and act session",
+        "d": "Offer to do a claims analysis for any related errors"
+      },
+      "correct_option": "b",
+      "explanation": "When preparing to implement a major new system — such as an EHR — before it goes live, the appropriate proactive tool is FMEA. FMEA identifies potential failure modes in the new system before implementation, allowing preventive measures to be built in. RCA (a) is retrospective — used after errors occur. A PDSA session (c) is an improvement cycle for testing changes, not a pre-implementation risk tool. Claims analysis (d) is retrospective financial/legal review. Per IHI FMEA methodology, TJC proactive risk assessment requirements, and CPHQ Patient Safety domain standards, FMEA is the correct pre-implementation strategy.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An incident involving a retained sponge following surgery has been determined to be reviewable under the Joint Commission sentinel event policy. A root cause analysis will be performed. The Joint Commission considers the root cause analysis to be credible if:",
+      "options": {
+        "a": "It is reviewed and signed by a patient safety professional",
+        "b": "There is participation by leadership and individuals closely involved in the process",
+        "c": "Corrective actions have been developed and completed",
+        "d": "A single, clearly defined root cause has been identified"
+      },
+      "correct_option": "b",
+      "explanation": "TJC's credibility criteria for an RCA center on the integrity of the process — and the most important element is that the RCA includes participation by leadership and those directly involved in the process where the event occurred. This ensures the RCA reflects real process knowledge and has organizational accountability. Review and signature by a patient safety professional (a) is not a TJC RCA credibility criterion. Corrective actions being completed (c) is a post-RCA step — not part of RCA credibility itself. A single root cause (d) contradicts TJC's understanding that sentinel events typically have multiple contributing factors. Per TJC Sentinel Event Policy RCA credibility standards and CPHQ Patient Safety domain requirements, leadership and process-involved participation is the defining credibility criterion.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "What is the best strategy/technique to identify and eliminate known and/or potential problems and errors from a system, design, process, and/or service before they occur?",
+      "options": {
+        "a": "Failure modes and effects analysis (FMEA)",
+        "b": "Plan-Do-Study-Act (PDSA)",
+        "c": "Root Cause Analysis (RCA)",
+        "d": "Define, Measure, Analyze, Improve and Control (DMAIC)"
+      },
+      "correct_option": "a",
+      "explanation": "The question asks specifically about identifying and eliminating problems before they occur — this is the definition of a proactive risk assessment tool. FMEA is the only proactive methodology among the options. PDSA (b) is an improvement testing cycle — it tests changes but does not proactively identify failure modes before process implementation. RCA (c) is retrospective — used after an adverse event. DMAIC (d) is a Six Sigma improvement methodology for existing processes with known defects — not a pre-implementation risk identification tool. Per IHI FMEA methodology, TJC proactive risk assessment standards, and CPHQ Patient Safety domain requirements, FMEA is the gold-standard technique for proactive problem identification and elimination.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A serious adverse event resulting in a patient death has occurred at your facility. According to The Joint Commission's policy on sentinel events, what is the first step in the root cause analysis process?",
+      "options": {
+        "a": "Gather appropriate information",
+        "b": "Identify factors that contributed to the event",
+        "c": "Identify RCA team members",
+        "d": "Perform individual interviews with involved staff members"
+      },
+      "correct_option": "a",
+      "explanation": "Per TJC's structured RCA process, the first step is to gather appropriate information — collecting all available facts, data, records, and documentation related to the event before any analysis begins. You cannot identify contributing factors (b) without first gathering the information needed to analyze them. Identifying RCA team members (c) is an administrative setup step that precedes the analytical process but is not the first step in the RCA process itself as defined by TJC. Individual interviews (d) are a data collection method that occurs after the initial information gathering framework is established. Per TJC Sentinel Event Policy RCA process framework and CPHQ Patient Safety domain standards, gathering appropriate information is the first analytical step.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "In the context of an FMEA, how is the risk priority number (RPN) used?",
+      "options": {
+        "a": "Identifies highest priority failure modes to address",
+        "b": "Prioritizes the failure modes that do not require action",
+        "c": "Calculates the failure modes that will create the most errors",
+        "d": "Specifies the failure modes that have been shown to cause harm"
+      },
+      "correct_option": "a",
+      "explanation": "The RPN (Risk Priority Number) = Frequency × Severity × Detectability. Its purpose is to rank failure modes by their combined risk score so that the team can prioritize which failure modes require the most urgent attention and intervention. It does not identify failure modes that do not require action (b) — it identifies those that do. It does not calculate which will create the most errors in isolation (c) — frequency is only one of three factors. It does not specify failures that have caused harm (d) — FMEA is proactive and prospective. Per IHI FMEA for Healthcare toolkit, TJC proactive risk assessment standards, and CPHQ Patient Safety domain requirements, the RPN is the prioritization tool for directing preventive action toward highest-risk failure modes.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "An organization is getting ready to replace their IV pumps with brand new, more complex IV pumps. Which of the following actions below should be performed first prior to implementing the new IV pumps?",
+      "options": {
+        "a": "Perform a root cause analysis with the medication safety officer",
+        "b": "Gather a multi-disciplinary team and do a failure modes and effects analysis",
+        "c": "Hold a meeting with clinical engineering, patient safety officer, and medication safety officer",
+        "d": "Immediately start training the clinical staff"
+      },
+      "correct_option": "b",
+      "explanation": "Before implementing any new high-risk clinical technology — particularly IV pumps, which are among the most error-prone devices in healthcare — the required first action is a proactive FMEA conducted by a multidisciplinary team. This identifies potential failure modes in the new pump system before any patient is exposed to risk. RCA (a) is retrospective — it cannot be performed before implementation. A stakeholder meeting (c) may be part of assembling the FMEA team but is not the answer — the FMEA itself is what must be performed. Immediately training staff (d) before understanding the system's risk profile is premature. Per IHI FMEA for Healthcare toolkit, ISMP IV pump safety guidance, TJC proactive risk assessment standards, and CPHQ Patient Safety domain requirements, FMEA is the mandatory first step before implementing high-risk new technology.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A strategy used to overcome failure in a process is the use of a checklist. To match the limit of working memory, a rule of thumb when creating a checklist is to keep the number of tasks between how many items?",
+      "options": {
+        "a": "One and five",
+        "b": "Three and ten",
+        "c": "Five and nine",
+        "d": "Ten and fifteen"
+      },
+      "correct_option": "c",
+      "explanation": "Cognitive science and human factors engineering research — including Atul Gawande's foundational work in The Checklist Manifesto and WHO surgical safety checklist development — establish that working memory capacity aligns with Miller's Law (7 ± 2 items). For clinical checklists designed to prevent failure, the practical rule of thumb is to keep items between five and nine — enough to capture critical steps without exceeding working memory limits and creating cognitive overload. Fewer than five (a) may miss critical steps. Three to ten (b) is a reasonable range but not the established cognitive science standard. Ten to fifteen (d) exceeds working memory capacity. Per human factors engineering standards, WHO checklist design principles, and CPHQ Patient Safety domain requirements, five to nine items is the established working memory-matched range.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Your organization utilizes a home grown electronic safety event reporting system that is no longer meeting the needs of the organization. Hospital administration is asking for your opinion for next steps. What next steps would you take to identify a replacement system?",
+      "options": {
+        "a": "Ask information systems to either fix the old one or build a new one",
+        "b": "Identify key stakeholders and perform a gap analysis of current state to ideal state",
+        "c": "Poll colleagues and purchase what they use",
+        "d": "Purchase the least expensive software and grow with it"
+      },
+      "correct_option": "b",
+      "explanation": "When a current system is failing to meet organizational needs, the structured quality improvement response is to first identify key stakeholders and conduct a gap analysis — comparing the current state of the system to the ideal state required by the organization. This systematic needs assessment drives an informed selection process. Asking IS to fix or rebuild (a) assumes the current system is salvageable and bypasses a proper needs assessment. Polling colleagues (c) substitutes anecdote for analysis. Purchasing the least expensive option (d) prioritizes cost over fit. Per CPHQ data analytics standards, IHI improvement science principles, and AHRQ health IT selection guidance, stakeholder engagement and gap analysis are the required first steps when replacing a critical quality system.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "Your organization is preparing to change to a new electronic health record. Many departments have been involved with the planning of this huge effort. What would you suggest as part of the preparation strategy?",
+      "options": {
+        "a": "Conduct a root cause analysis",
+        "b": "Conduct a failure modes and effects analysis",
+        "c": "Offer a plan, do, study, act session",
+        "d": "Offer to do a claims analysis for any related errors"
+      },
+      "correct_option": "b",
+      "explanation": "When preparing to implement a major new system — such as an EHR — before it goes live, the appropriate proactive tool is FMEA. FMEA identifies potential failure modes in the new system before implementation, allowing preventive measures to be designed into the process before any patient is exposed to risk. RCA (A) is retrospective — it is used after errors have already occurred and cannot serve a pre-implementation protective function. A PDSA session (C) is an improvement testing cycle for changes already underway — it does not prospectively identify system-level failure modes before go-live. Claims analysis (D) is a retrospective financial and legal review of past harm events — it has no pre-implementation utility. Per IHI FMEA methodology, TJC proactive risk assessment requirements, and CPHQ Patient Safety domain standards, FMEA is the definitive pre-implementation strategy when introducing high-risk new technology or systems into clinical environments.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "A new Cath Lab is under construction in your hospital, and the medical director contacts you to express concerns related to the transport of patients from the Cath Lab to the ICU. You agree to assist in the design of an FMEA. Components of the FMEA will include:",
+      "options": {
+        "a": "Assembling a multidisciplinary team whose members will brainstorm potential failures",
+        "b": "Conducting the Five Whys to figure out what could go wrong",
+        "c": "Listing potential root causes of adverse events in the current Cath lab",
+        "d": "Asking the medical director to participate in leadership rounds in the current Cath lab to identify potential safety risks"
+      },
+      "correct_option": "a",
+      "explanation": "FMEA methodology begins with assembling a multidisciplinary team to brainstorm potential failure modes for a process that has not yet occurred — this is the defining first step. The Five Whys (B) is an RCA technique used retrospectively after an event has occurred — not an FMEA component. Listing root causes of current adverse events (C) is retrospective RCA thinking. Leadership rounds (D) may generate safety observations but are not a formal FMEA component. Per IHI FMEA toolkit, TJC proactive risk assessment standards, and CPHQ Patient Safety domain requirements, assembling a multidisciplinary brainstorming team is the first and defining FMEA component.",
+      "difficulty": "medium"
+    },
+    {
+      "text": "When reviewing a serious harm event through the root cause analysis process, what elements should be considered for the individuals involved?",
+      "options": {
+        "a": "Whether a claim was filed with risk management",
+        "b": "There was harm, therefore, the person(s) involved must be at fault",
+        "c": "The contribution of systems factors on the individuals' behavior",
+        "d": "How many years the individual has been practicing"
+      },
+      "correct_option": "c",
+      "explanation": "RCA is a systems-focused, non-punitive process. When considering individuals involved in a serious harm event, the RCA must examine how system factors — including workload, workflow design, environmental conditions, equipment, and organizational culture — shaped or constrained that individual's behavior. Assessing whether a claim was filed (a) is a legal/risk management function, not an RCA element. Assuming fault because harm occurred (b) is the punitive, pre-Just Culture model explicitly rejected by TJC, AHRQ, and IHI. Years of practice (d) is irrelevant to systems analysis. Per AHRQ RCA process guidelines, Just Culture framework, TJC Sentinel Event Policy, and CPHQ Patient Safety domain standards, systems factors influencing individual behavior are the appropriate human element analyzed in RCA.",
+      "difficulty": "medium"
+    }
+  ]
+}
